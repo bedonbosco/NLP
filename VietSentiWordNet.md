@@ -1,0 +1,5 @@
+You can be here to read my description, I think at least you already had a general idea about SentiWordNet or Opinion Mining or the like. Indeed you also know that one of the biggest problem with any text mining processing in Vietnamese is about lexicon resources. We didn't have Vietnamese WordNet, Vietnamese SentiWordNet, etc. These problems have limited all our great ideas about text mining for Vietnamese. Realized this kind of problem since I were a student in University Of Engineering and Technology, Vietnam National University Hanoi, I and my lab-mates, we have built the first 1000 synsets for Vietnamese SentiWordNet. Today I want to publish it to here to make it more useful with other research as well as further expanding our dictionary. 
+
+This is a very clean VietSentiWordNet dictionary selected carefully by hand. Any contribution to this project, please feel free to contact with me.
+
+Last Update 2014
