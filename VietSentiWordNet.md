@@ -3,3 +3,5 @@ You can be here to read my description, I think at least you already had a gener
 This is a very clean VietSentiWordNet dictionary selected carefully by hand. Any contribution to this project, please feel free to contact with me.
 
 Last Update 2014
+
+Project URL: [https://sourceforge.net/projects/vietsentiwordne/](https://sourceforge.net/projects/vietsentiwordne/)
