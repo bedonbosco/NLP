@@ -3,6 +3,11 @@
 ## Table of Content
 
 * [**Diacritics restoration**](#diacritics-restoration)
+* [**Word segmentation**](#word-segmentation)
+* [**Part-of-Speech tagging**](#part-of-speech-tagging)
+* [**Sentiment Analysis**](#sentiment-analysis)
+* [**Resources**](#resources)
+* [**Technique**](#technique)
 
 ### Diacritics restoration
 
