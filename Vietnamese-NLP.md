@@ -15,16 +15,10 @@ Welcome to the underthesea wiki!
 This tool is based on a point-wise diacritics restoration.
 
 ### Word segmentation
-#### DongDu
-[Github](https://github.com/rockkhuya/DongDu), [website](http://viet.jnlp.org/dongdu)
 
-DongDu is a fastest and high accuracy word segmentation tool based on SVMs.
+* [DongDu](https://github.com/rockkhuya/DongDu) by DongDu. DongDu is a fastest and high accuracy word segmentation tool based on SVMs.
 
-#### vnTokenizer
-[website](http://vlsp.hpda.vn:8080/demo/?page=resources)
-
-vnTokenizer provides Java interface.
-I found some unofficial github repositories.
+* [vnTokenizer](http://vlsp.hpda.vn:8080/demo/?page=resources) vnTokenizer provides Java interface.
 
 ### Part-of-Speech tagging
 #### vnTagger
