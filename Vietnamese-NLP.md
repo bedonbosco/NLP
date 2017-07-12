@@ -4,17 +4,11 @@ Welcome to the underthesea wiki!
 
 [VietSentiWordNet](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet)
 
-# Vietnamese Natural Language Processing(Xử lý ngôn ngữ tiếng Việt)
-
-## Outline
-This page describes Vietnamese NLP tools, resources and some computation techniques related on Vietnamese.
-If there is something missing or wrong information, please create an issue or pull request.
-
-(Sorry, I don't speak Vietnamese.)
-
 
 ## Tools
+
 ### Diacritics restoration
+
 #### Vietnamese diacritics restoration tool
 [Github](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone)
 
