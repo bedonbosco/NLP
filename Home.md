@@ -2,6 +2,8 @@
 
 ## Table of Content
 
+* [**Diacritics restoration**](#diacritics-restoration)
+
 ### Diacritics restoration
 
 **Tools**
