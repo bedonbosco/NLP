@@ -1,4 +1,6 @@
-Welcome to the underthesea wiki!
+Awesome Vietnamese NLP Resources
+
+## Table of Content
 
 ### Diacritics restoration
 
