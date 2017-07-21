@@ -45,7 +45,7 @@
 
 ## Named Entity Recognition
 
-* [Vitk.NER](https://github.com/phuonglh/ai.vitk.ner) by Le Hong Phuong (Jul 2017)
+* [Vitk.NER](https://github.com/phuonglh/ai.vitk.ner) - Vietnamese Named Entity Recognition by Le Hong Phuong (Jul 2017)
 
 ## Resources
 
