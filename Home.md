@@ -95,6 +95,8 @@
 
 ### Representation
 
+* [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) - pre-trained word vectors of 30+ languages *by Kyubyong Park (2016)* `resource`
+* [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - library for fast text representation and classification *by Facebook (2017)* `resource`
 * [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) - Word2Vec model for Vietnamese *by Vu Xuan Son (2016)* `resource`
 
 ### Term Definition Vectors
