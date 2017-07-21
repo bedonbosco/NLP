@@ -68,6 +68,7 @@
 ### Text Classification
 
 * [duyvuleo/VNTC](https://github.com/duyvuleo/VNTC) - a large-scale Vietnamese news text classification corpus *by Vu Hoang Cong Duy (2017)* `resource`
+* [pth1993/vn_spam_sms_filtering](https://github.com/pth1993/vn_spam_sms_filtering) - Vietnamese spam SMS filtering system *by Pham Hoang Thai (2017)* `python` 
 
 ### Automatic Summarization
 
