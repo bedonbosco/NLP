@@ -82,6 +82,7 @@
 
 **Treebank**
 
+* [UniversalDependencies/UD_Vietnamese](https://github.com/UniversalDependencies/UD_Vietnamese) - Vietnamese Universal Dependency Treebank *by Nguyen Thi Luong, Ha My Linh, Le Hong Phuong, Nguyen Thi Minh Huyen (2017)* `python`
 * [Vietnamese Treebank](http://vlsp.hpda.vn:8080/demo/?page=resources) *by VLSP (2010)* `corpus`
 
 **Corpus**
