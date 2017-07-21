@@ -35,7 +35,6 @@
 * [viet-morphological-analysis-crf](https://github.com/kanjirz50/viet-morphological-analysis-crf), [demonstration](http://160.16.58.116/vietnamese/morph_crf). Vietnamese joint word segmentation and Part-of-Speech tagging based on CRF This tool provides Python interface.
 * [Vitk](https://github.com/phuonglh/vn.vitk). This toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing.
 
-
 ## Sentiment Analysis
 
 * [VietSentiWordNet](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet) - SentiwordNet dictionary for Vietnamese
@@ -43,6 +42,10 @@
 ## Term Definition Vectors
 
 * [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation
+
+## Named Entity Recognition
+
+* [Vitk.NER](https://github.com/phuonglh/ai.vitk.ner) by Le Hong Phuong (Jul 2017)
 
 ## Resources
 
