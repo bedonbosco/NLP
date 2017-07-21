@@ -43,7 +43,9 @@
 * [viet-morphological-analysis-svm](https://github.com/kanjirz50/viet-morphological-analysis-svm), [demonstration](http://160.16.58.116/vietnamese/morph) - Vietnamese joint word segmentation and Part-of-Speech tagging based on SVM *by Kanji Takahashi (2016)* `python` 
 * [viet-morphological-analysis-crf](https://github.com/kanjirz50/viet-morphological-analysis-crf), [demonstration](http://160.16.58.116/vietnamese/morph_crf) - Vietnamese joint word segmentation and Part-of-Speech tagging based on CRF *by Kanji Takahashi (2016)* `python`
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by Tran Mai Vu, Le Duc Trong (2015)* `python`
+* [RDRPOSTagger](http://rdrpostagger.sourceforge.net/) - a rule-based part-of-speech and morphological tagging toolkit *by  Dat Quoc Nguyen, Dai Quoc Nguyen, Dang Duc Pham, Son Bao Pham (2013-2017)* `python`
 * [vnTagger](http://vlsp.hpda.vn:8080/demo/?page=resources) - an automatic part-of-speech tagger for tagging Vietnamese texts *by Le Hong Phuong (2010)* `java`
+
 
 ### Chunking
 
