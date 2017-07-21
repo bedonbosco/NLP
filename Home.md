@@ -30,7 +30,7 @@
 
 **Tools**
 
-* [vnTagger](http://vlsp.hpda.vn:8080/demo/?page=resources) - an automatic part-of-speech tagger for tagging Vietnamese texts
+* [vnTagger](http://vlsp.hpda.vn:8080/demo/?page=resources) - an automatic part-of-speech tagger for tagging Vietnamese texts *by Le Hong Phuong (2010)*
 * [viet-morphological-analysis-svm](https://github.com/kanjirz50/viet-morphological-analysis-svm), [demonstration](http://160.16.58.116/vietnamese/morph). Vietnamese joint word segmentation and Part-of-Speech tagging based on SVM. This tool provides Python interface.
 * [viet-morphological-analysis-crf](https://github.com/kanjirz50/viet-morphological-analysis-crf), [demonstration](http://160.16.58.116/vietnamese/morph_crf). Vietnamese joint word segmentation and Part-of-Speech tagging based on CRF This tool provides Python interface.
 * [Vitk](https://github.com/phuonglh/vn.vitk). This toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing.
