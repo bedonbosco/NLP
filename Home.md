@@ -24,7 +24,7 @@
 ### Word segmentation
 
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
-* [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing / pos-tagging Vietnamese with Python *by Tran Viet Trung (2016)* `python`
+* [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by Tran Viet Trung (2016)* `python`
 * [DongDu](https://github.com/rockkhuya/DongDu) by DongDu. DongDu is a fastest and high accuracy word segmentation tool based on *by Le Hong Phuong (Nov 2014)* `C++`
 * [vnTokenizer](http://vlsp.hpda.vn:8080/demo/?page=resources) -  an automatic tokenizer for segmenting Vietnamese texts into lexical units *by Le Hong Phuong (2008)* `java`
 
@@ -32,6 +32,7 @@
 
 **Tools**
 
+* [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by Tran Viet Trung (2016)* `python`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
 * [viet-morphological-analysis-svm](https://github.com/kanjirz50/viet-morphological-analysis-svm), [demonstration](http://160.16.58.116/vietnamese/morph)  Vietnamese joint word segmentation and Part-of-Speech tagging based on SVM *by Kanji Takahashi (2016)* `python` 
 * [viet-morphological-analysis-crf](https://github.com/kanjirz50/viet-morphological-analysis-crf), [demonstration](http://160.16.58.116/vietnamese/morph_crf) - Vietnamese joint word segmentation and Part-of-Speech tagging based on CRF *by Kanji Takahashi (2016)* `python`
