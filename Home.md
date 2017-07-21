@@ -8,8 +8,9 @@
 * [**Chunking**](#chunking)
 * [**Dependency Parsing**](#dependency-parsing)
 * [**Sentiment Analysis**](#sentiment-analysis)
-* [**Term Definition Vectors**](#term-definition-vectors)
 * [**Named Entity Recognition**](#named-entity-recognition)
+* [**Machine Translation**](#machine-translation)
+* [**Term Definition Vectors**](#term-definition-vectors)
 * [**Resources**](#resources)
 * [**Website**](#website)
 * [**Technique**](#technique)
@@ -60,16 +61,22 @@
 
 ### Sentiment Analysis
 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/Sentiment.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
 * [pyurgent](https://github.com/tiendung/pyurgent) - life-long learning for sentiment analysis, supporting Vietnamese and English *by Alex Nguyen (2016)* `python,corpus`
 * [VietSentiWordNet](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet) - SentiwordNet dictionary for Vietnamese *by sonvxcoltech (2014)* `corpus`
+
+## Named Entity Recognition
+
+* [polyglot](http://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
+* [Vitk.NER](https://github.com/phuonglh/ai.vitk.ner) - Vietnamese Named Entity Recognition *by Le Hong Phuong (Jul 2017)* `scala,java`
+
+## Machine Translation
+
+* [polyglot](http://polyglot.readthedocs.io/en/latest/Transliteration.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
 
 ## Term Definition Vectors
 
 * [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation *by Danilo S. Carvalho, Minh Le Nguyen (Jul 2017)* `python`
-
-## Named Entity Recognition
-
-* [Vitk.NER](https://github.com/phuonglh/ai.vitk.ner) - Vietnamese Named Entity Recognition *by Le Hong Phuong (Jul 2017)* `scala,java`
 
 ## Resources
 
