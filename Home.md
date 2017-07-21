@@ -37,7 +37,7 @@
 
 ## Sentiment Analysis
 
-* [VietSentiWordNet](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet)
+* [VietSentiWordNet](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet) - SentiwordNet dictionary for Vietnamese
 
 ## Term Definition Vectors
 
