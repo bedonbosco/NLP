@@ -50,6 +50,7 @@
 ### Chunking
 
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by Tran Mai Vu, Le Duc Trong (2015)* `python`
+* [VietChunker](https://vlsp.hpda.vn/demo/?page=resources) - chunking tool based on CRF *by VLSP (2010)* `java`
 
 ### Dependency Parsing
 
