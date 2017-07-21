@@ -7,10 +7,12 @@
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
 * [**Dependency Parsing**](#dependency-parsing)
+* [**Text Classification**](#text-classification)
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Machine Translation**](#machine-translation)
+* [**Representation**](#representation)
 * [**Term Definition Vectors**](#term-definition-vectors)
 * [**Resources**](#resources)
 * [**Website**](#website)
@@ -50,7 +52,6 @@
 * [RDRPOSTagger](http://rdrpostagger.sourceforge.net/) - a rule-based part-of-speech and morphological tagging toolkit *by  Dat Quoc Nguyen, Dai Quoc Nguyen, Dang Duc Pham, Son Bao Pham (2013-2017)* `python`
 * [vnTagger](http://vlsp.hpda.vn:8080/demo/?page=resources) - an automatic part-of-speech tagger for tagging Vietnamese texts *by Le Hong Phuong (2010)* `java`
 
-
 ### Chunking
 
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by Tran Mai Vu, Le Duc Trong (2015)* `python`
@@ -61,6 +62,10 @@
 * [jPTDP](https://github.com/datquocnguyen/jPTDP) - a novel neural network model for joint POS tagging and graph-based dependency parsing *by Dat Quoc Nguyen, Dai Quoc Nguyen (2017)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
 * [VnDP](http://vndp.sourceforge.net/) - a Vietnamese dependency parsing toolkit *by Dat Quoc Nguyen, Dai Quoc Nguyen (2014)* `java`
+
+### Text Classification
+
+* [duyvuleo/VNTC](https://github.com/duyvuleo/VNTC) - a large-scale Vietnamese news text classification corpus *by Vu Hoang Cong Duy (2017)* `resource`
 
 ### Automatic Summarization
 
@@ -82,11 +87,19 @@
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/Transliteration.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
 
+### Representation
+
+* [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) - Word2Vec model for Vietnamese *by Vu Xuan Son (2016)* `resource`
+
 ### Term Definition Vectors
 
 * [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation *by Danilo S. Carvalho, Minh Le Nguyen (Jul 2017)* `python`
 
 ### Resources
+
+**Dictionary**
+
+* [pclouds/words-vi](https://github.com/pclouds/words-vi) - Vietnamese vocabulary list *by Duy Nguyen (2017)* `resource`
 
 **Treebank**
 
