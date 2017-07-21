@@ -7,6 +7,7 @@
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Term Definition Vectors**](#term-definition-vectors)
+* [**Name Entity Recognition**](#name-entity-recognition)
 * [**Resources**](#resources)
 * [**Technique**](#technique)
 
@@ -18,12 +19,12 @@
 
 **Publications**
 
-* Tuan Anh Luu and Kazuhide Yamamoto. A Point-wise Approach for Vietnamese Diacritics Restoration. Proceedings of the International Conference on Asian Language Processing (IALP 2012), pp.189-192 (2012.11)
+1. Tuan Anh Luu and Kazuhide Yamamoto. A Point-wise Approach for Vietnamese Diacritics Restoration. Proceedings of the International Conference on Asian Language Processing (IALP 2012), pp.189-192 (2012.11)
 
 ### Word segmentation
 
-* [DongDu](https://github.com/rockkhuya/DongDu) by DongDu. DongDu is a fastest and high accuracy word segmentation tool based on SVMs.
-* [vnTokenizer](http://vlsp.hpda.vn:8080/demo/?page=resources) vnTokenizer provides Java interface.
+1. [DongDu](https://github.com/rockkhuya/DongDu) by DongDu. DongDu is a fastest and high accuracy word segmentation tool based on SVM (Nov 2014)
+2. [vnTokenizer](http://vlsp.hpda.vn:8080/demo/?page=resources) vnTokenizer provides Java interface.
 
 ### Part-of-Speech tagging
 
