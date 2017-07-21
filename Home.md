@@ -41,7 +41,7 @@
 
 ## Term Definition Vectors
 
-* [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation
+* [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation by Danilo S. Carvalho, Minh Le Nguyen (Jul 2017)
 
 ## Named Entity Recognition
 
