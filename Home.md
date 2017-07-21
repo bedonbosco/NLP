@@ -5,6 +5,7 @@
 * [**Diacritics restoration**](#diacritics-restoration)
 * [**Word segmentation**](#word-segmentation)
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
+* [**Dependency Parsing**](#dependency-parsing)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Term Definition Vectors**](#term-definition-vectors)
 * [**Named Entity Recognition**](#named-entity-recognition)
@@ -15,7 +16,7 @@
 
 **Tools**
 
-* [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone). This tool is based on a point-wise diacritics restoration.
+* [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone) based on a point-wise diacritics restoration *by Kanji Takahashi (2016)* `python` 
 
 **Publications**
 
@@ -37,6 +38,10 @@
 * [viet-morphological-analysis-svm](https://github.com/kanjirz50/viet-morphological-analysis-svm), [demonstration](http://160.16.58.116/vietnamese/morph)  Vietnamese joint word segmentation and Part-of-Speech tagging based on SVM *by Kanji Takahashi (2016)* `python` 
 * [viet-morphological-analysis-crf](https://github.com/kanjirz50/viet-morphological-analysis-crf), [demonstration](http://160.16.58.116/vietnamese/morph_crf) - Vietnamese joint word segmentation and Part-of-Speech tagging based on CRF *by Kanji Takahashi (2016)* `python`
 * [vnTagger](http://vlsp.hpda.vn:8080/demo/?page=resources) - an automatic part-of-speech tagger for tagging Vietnamese texts *by Le Hong Phuong (2010)* `java`
+
+## Dependency Parsing
+
+* [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
 
 ## Sentiment Analysis
 
