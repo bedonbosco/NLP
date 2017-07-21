@@ -2,7 +2,7 @@
 
 ### Table of Content
 
-* [**Diacritics restoration**](#diacritics-restoration)
+* [**Spelling Correction**](#spelling-correction)
 * [**Word segmentation**](#word-segmentation)
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
@@ -18,12 +18,13 @@
 * [**Website**](#website)
 * [**Technique**](#technique)
 
-### Diacritics restoration
+### Spelling Correction
 
 **Tools**
 
 * [lebinh/vietnamese-accent-model](https://github.com/lebinh/vietnamese-accent-model) - a simple deep learning model to add accent to Vietnamese text *by Le Binh (2016)* `python` 
-* [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone) - based on a point-wise diacritics restoration *by Kanji Takahashi (2016)* `python` 
+* [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone) - based on a point-wise diacritics restoration *by Kanji Takahashi (2016)* `python`
+* [ngthanhtrung/visc](https://github.com/ngthanhtrung/visc) - Vietnamese spelling correction (ViSC) tool *by Trung Nguyen (2016)* `java`
 
 **Publications**
 
