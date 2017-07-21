@@ -6,6 +6,7 @@
 * [**Word segmentation**](#word-segmentation)
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Sentiment Analysis**](#sentiment-analysis)
+* [**Term Definition Vectors**](#term-definition-vectors)
 * [**Resources**](#resources)
 * [**Technique**](#technique)
 
@@ -37,6 +38,10 @@
 ## Sentiment Analysis
 
 * [VietSentiWordNet](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet)
+
+## Term Definition Vectors
+
+* [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation
 
 ## Resources
 
