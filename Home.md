@@ -20,6 +20,7 @@
 
 **Tools**
 
+* [lebinh/vietnamese-accent-model](https://github.com/lebinh/vietnamese-accent-model) - a simple deep learning model to add accent to Vietnamese text *by Le Binh (2016)* `python` 
 * [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone) - based on a point-wise diacritics restoration *by Kanji Takahashi (2016)* `python` 
 
 **Publications**
@@ -31,7 +32,8 @@
 * [UETsegmenter](https://github.com/phongnt570/UETsegmenter) - a toolkit for Vietnamese word segmentation *by Nguyen Tuan Phong (2016)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-speech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by Tran Viet Trung (2016)* `python`
-* [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by Tran Mai Vu, Le Duc Trong (2015)* `python`
+* [vTools](https://github.com/lupanh/vTools) - a simple Vietnamese word segmentation program *by Tran Mai Vu, Le Duc Trong (2015)* `python`
+* [manhtai/vietseg](https://github.com/manhtai/vietseg) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by Manh Tai (2015)* `python`
 * [DongDu](https://github.com/rockkhuya/DongDu) - a fastest and high accuracy word segmentation tool *by Luu Tuan Anh (2014)* `C++`
 * [Roy_VnTokenizer](https://github.com/roy-a/Roy_VnTokenizer) - Vietnamese tokenizer (Maximum Matching and CRF) *by Anindya Roy (2014)* `python`
 * [vnTokenizer](http://vlsp.hpda.vn:8080/demo/?page=resources) -  an automatic tokenizer for segmenting Vietnamese texts into lexical units *by Le Hong Phuong (2008)* `java`
@@ -72,6 +74,7 @@
 
 ## Named Entity Recognition
 
+* [ntson2002/lstm-crf-tagging](https://github.com/ntson2002/lstm-crf-tagging) - nested named entity recognition using multilayer recurrent neural networks *by Son Nguyen (2017)* `python`
 * [polyglot](http://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
 * [Vitk.NER](https://github.com/phuonglh/ai.vitk.ner) - Vietnamese Named Entity Recognition *by Le Hong Phuong (Jul 2017)* `scala,java`
 
@@ -105,6 +108,7 @@
 * [VLSP](http://vlsp.org.vn/)
 * [Facebook: Cộng đồng xử lý ngôn ngữ tự nhiên](https://www.facebook.com/groups/vietnlp/)
 * [Xử lý tiếng Việt Wiki](http://xltiengviet.wikia.com/wiki/X%E1%BB%AD_l%C3%BD_ti%E1%BA%BFng_Vi%E1%BB%87t_Wiki)
+* [Vietnamese NLP tools, resources and techniques related on Vietnamese](https://github.com/kanjirz50/vnlp-outline)
 
 ## Technique
 
