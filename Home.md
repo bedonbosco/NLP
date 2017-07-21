@@ -7,6 +7,7 @@
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
 * [**Dependency Parsing**](#dependency-parsing)
+* [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Machine Translation**](#machine-translation)
@@ -59,7 +60,11 @@
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
 * [VnDP](http://vndp.sourceforge.net/) - a Vietnamese dependency parsing toolkit *by Dat Quoc Nguyen, Dai Quoc Nguyen (2014)* `java`
 
-### Sentiment Analysis
+## Automatic Summarization
+
+* [lupanh/VietnameseMDS](https://github.com/lupanh/VietnameseMDS) - 200 Cụm văn bản tiếng Việt dùng cho tóm tắt đa văn bản *by Tran Mai Vu (2013)* `resource` 
+
+## Sentiment Analysis
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/Sentiment.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
 * [pyurgent](https://github.com/tiendung/pyurgent) - life-long learning for sentiment analysis, supporting Vietnamese and English *by Alex Nguyen (2016)* `python,corpus`
