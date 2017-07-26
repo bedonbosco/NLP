@@ -32,7 +32,7 @@
 
 ### Word segmentation
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#word-segmentation)
 
 * [UETsegmenter](https://github.com/phongnt570/UETsegmenter) - a toolkit for Vietnamese word segmentation *by Nguyen Tuan Phong (2016)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-speech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
@@ -45,7 +45,7 @@
 
 ### Part-of-Speech tagging
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications(#part-of-speech-tagging)
 
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by Tran Viet Trung (2016)* `python`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
@@ -57,14 +57,14 @@
 
 ### Chunking
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#chunking)
 
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by Tran Mai Vu, Le Duc Trong (2015)* `python`
 * [VietChunker](https://vlsp.hpda.vn/demo/?page=resources) - chunking tool based on CRF *by VLSP (2010)* `java`
 
 ### Dependency Parsing
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#dependency-parsing)
 
 * [jPTDP](https://github.com/datquocnguyen/jPTDP) - a novel neural network model for joint POS tagging and graph-based dependency parsing *by Dat Quoc Nguyen, Dai Quoc Nguyen (2017)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
@@ -72,20 +72,20 @@
 
 ### Text Classification
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#text-classification)
 
 * [duyvuleo/VNTC](https://github.com/duyvuleo/VNTC) - a large-scale Vietnamese news text classification corpus *by Vu Hoang Cong Duy (2017)* `resource`
 * [pth1993/vn_spam_sms_filtering](https://github.com/pth1993/vn_spam_sms_filtering) - Vietnamese spam SMS filtering system *by Pham Thai Hoang (2017)* `python` 
 
 ### Automatic Summarization
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#automatic-summarization)
 
 * [lupanh/VietnameseMDS](https://github.com/lupanh/VietnameseMDS) - 200 Cụm văn bản tiếng Việt dùng cho tóm tắt đa văn bản *by Tran Mai Vu (2013)* `resource` 
 
 ### Sentiment Analysis
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#sentiment-analysis)
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/Sentiment.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
 * [pyurgent](https://github.com/tiendung/pyurgent) - life-long learning for sentiment analysis, supporting Vietnamese and English *by Alex Nguyen (2016)* `python,corpus`
@@ -93,7 +93,7 @@
 
 ### Named Entity Recognition
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#named-entity-recognition)
 
 * [pth1993/vie-ner-lstm](https://github.com/pth1993/vie-ner-lstm) - Vietnamese Named Entity Recognition (vie-ner-lstm) *by Pham Thai Hoang (2017)* `python,keras` 
 * [ntson2002/lstm-crf-tagging](https://github.com/ntson2002/lstm-crf-tagging) - nested named entity recognition using multilayer recurrent neural networks *by Son Nguyen (2017)* `python,theano`
@@ -102,19 +102,19 @@
 
 ### Semantic Role Labelling
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#semantic-role-labelling)
 
 * [pth1993/vnSRL](https://github.com/pth1993/vnSRL) - tool for Vietnamese Semantic Role Labelling Task *by Pham Thai Hoang (2016)* `python`
 
 ### Machine Translation
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#machine-translation)
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/Transliteration.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
 
 ### Representation
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#representation)
 
 * [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) - pre-trained word vectors of 30+ languages *by Kyubyong Park (2016)* `resource`
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - library for fast text representation and classification *by Facebook (2017)* `resource`
@@ -122,13 +122,13 @@
 
 ### Term Definition Vectors
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#term-definition-vectors)
 
 * [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation *by Danilo S. Carvalho, Minh Le Nguyen (Jul 2017)* `python`
 
 ### Resources
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#resources)
 
 **Dictionary**
 
