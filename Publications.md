@@ -77,8 +77,21 @@
 * **An empirical study of Vietnamese noun phrase chunking with discriminative sequence models** (2009), L. Nguyen et al.
 * **Constructing a Vietnamese Chunking System** (2008), L. Nguyen et al.
 
-
 ### Dependency Parsing
+
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#dependency-parsing) | **`⟰ Publication`**
+
+* **Vietnamese Transition-based Dependency Parsing with Supertag Features** (2016), V. Nguyen et al.
+* **Fast Dependency Parsing Using Distributed Word Representations** (2015), H. Le et al.
+* **Error Analysis for Vietnamese Dependency Parsing** (2015), V. Nguyen et al.
+* **Using Dependency Analysis to Improve Question Classification** (2015), H. Le et al.
+* **Improving Vietnamese Dependency Parsing Using Distributed Word Representations** (2015), M. Vu et al.
+* **A syntactic component for Vietnamese language processing** (2015), H. Le et al.
+* **From Treebank Conversion to Automatic Dependency Parsing for Vietnamese** (2014), Q. Nguyen et al.
+* **Building a treebank for Vietnamese dependency parsing** (2013), T. Nguyen et al.
+* **Vietnamese parsing with an automatically extracted tree-adjoining grammar** (2012), H. Le et al.
+* **Automated Extraction of Tree Adjoining Grammars from a Treebank for Vietnamese** (2010), H. Le et al.
+* **Nghiên cứu luật hiệu chỉnh kết quả dùng phương pháp MST phân tích cú pháp phụ thuộc tiếng việt** (2008), L. Nguyen et al.
 
 
 ### Text Classification
