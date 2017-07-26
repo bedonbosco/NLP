@@ -150,11 +150,9 @@
 * **Named Entity Recognition in Vietnamese documents** (2007), T. Tran et al.
 * **Named entity recognition in Vietnamese using classifier voting** (2007), T. Pham et al.
 
-
-
 ### Semantic Role Labelling
 
-
+* **Building a semantic role labelling system for Vietnamese** (2017), T. Pham et al.
 
 ### Machine Translation
 
