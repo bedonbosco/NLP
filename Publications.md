@@ -70,6 +70,13 @@
 
 ### Chunking
 
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#chunking) | **`⟰ Publication`**
+
+* **A Novel Hybrid Approach Incorporating Entity Characteristics for Vietnamese Chunking**, (2016) Y. Liu et al.
+* **Vietnamese Noun Phrase Chunking Based on Conditional Random Fields** (2009), T. Nguyen et al.
+* **An empirical study of Vietnamese noun phrase chunking with discriminative sequence models** (2009), L. Nguyen et al.
+* **Constructing a Vietnamese Chunking System** (2008), L. Nguyen et al.
+
 
 ### Dependency Parsing
 
