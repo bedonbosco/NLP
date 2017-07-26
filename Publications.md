@@ -118,6 +118,12 @@
 * **Multi-Class Opinion Classification for Vietnamese Hotel Reviews** (2016), T. Tran et al.
 * **Dependency Syntactic Analysis for Opinion Mining** (2016), T. Tran et al.
 * **Computing Sentiment Scores of Verb Phrases for Vietnamese** (2016), T. Tran et al.
+* **VLSP 2016 Shared Task: Sentiment Analysis** (2016), A. Le et al.
+* **Sentiment Analysis for Vietnamese using Support Vector Machines with application to Facebook** (2016), V. Ngo et al.
+* **A Simple Supervised Learning Approach to Sentiment Classification at VLSP 2016** (2016), H. Nguyen et al.
+* **A Lightweight Ensemble Method for Sentiment Classification Task** (2016), Q. Pham et al.
+* **DSKTLAB: Vietnamese Sentiment Analysis for Product Reviews** (2016), T. Pham et al.
+* **A Multi-layer Neural Network-based System for Vietnamese Sentiment Analysis at the VLSP 2016 Evaluation Campaign** (2016), T. Tran 2016 et al.
 * **Leveraging user ratings for resource-poor sentiment classification** (2015), X. Ngo et al.
 * **Mining Vietnamese Comparative Sentences for Sentiment Analysis** (2015), X. Ngo et al.
 * **Constructing sentiment ontology for vietnamese reviews** (2015), T. Tran et al.
