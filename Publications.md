@@ -26,7 +26,7 @@
 
 ⚙ [⟰](http://google.com)
 
-* Tuan Anh Luu and Kazuhide Yamamoto. A Point-wise Approach for Vietnamese Diacritics Restoration. Proceedings of the International Conference on Asian Language Processing (IALP 2012), pp.189-192 (2012.11)
+* **A Point-wise Approach for Vietnamese Diacritics Restoration** (2012), Tuan Anh et al.
 
 ### Word segmentation
 
