@@ -151,9 +151,13 @@
 
 ### Semantic Role Labelling
 
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#semantic-role-labelling) | **`⟰ Publication`**
+
 * **Building a semantic role labelling system for Vietnamese** (2017), T. Pham et al.
 
 ### Machine Translation
+
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#machine-translation) | **`⟰ Publication`**
 
 * **A reordering model for Vietnamese-English statistical machine translation using dependency information** (2016), V. Tran et al.
 * **Building a Bidirectional English-Vietnamese Statistical Machine Translation System by Using MOSES** (2016), Q. Nguyen et al.
@@ -164,6 +168,7 @@
 * **Generation of Vietnamese for French-Vietnamese and English- Vietnamese Machine Translation** (2001), D. Nguyen
 
 ### Representation
+
 
 ### Term Definition Vectors
 
