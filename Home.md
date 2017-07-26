@@ -16,7 +16,6 @@
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
 * [**Representation**](#representation)
-* [**Term Definition Vectors**](#term-definition-vectors)
 * [**Resources**](#resources)
 * [**Website**](#website)
 * [**Technique**](#technique)
@@ -116,13 +115,13 @@
 
 **`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#representation)
 
+** Word Vectors**
+
 * [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) - pre-trained word vectors of 30+ languages *by Kyubyong Park (2016)* `resource`
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - library for fast text representation and classification *by Facebook (2017)* `resource`
 * [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) - Word2Vec model for Vietnamese *by Vu Xuan Son (2016)* `resource`
 
-### Term Definition Vectors
-
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#term-definition-vectors)
+**Term Definition Vectors**
 
 * [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation *by Danilo S. Carvalho, Minh Le Nguyen (Jul 2017)* `python`
 
