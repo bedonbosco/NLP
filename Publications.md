@@ -16,7 +16,6 @@
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
 * [**Representation**](#representation)
-* [**Term Definition Vectors**](#term-definition-vectors)
 * [**Resources**](#resources)
 * [**Website**](#website)
 * [**Technique**](#technique)
