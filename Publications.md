@@ -169,6 +169,12 @@
 
 ### Representation
 
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#representation) | **`⟰ Publication`**
 
+* **A Vietnamese language model based on Recurrent Neural Network** (2016), V. Tran et al.
 
 ### Resources
+
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#resources) | **`⟰ Publication`**
+
+* **Building a Large Syntactically-Annotated Corpus of Vietnamese** (2009), H. Le et al.
