@@ -48,9 +48,25 @@
 * **Word segmentation of Vietnamese texts : a comparison of approaches** (2008), Q. Dinh et al.
 * **Vietnamese word segmentation with CRFs and SVMs: An investigation** (PACLIC 2006), C. Nguyen et al.
 
+
 ### Part-of-Speech tagging
 
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#part-of-speech-tagging) | **`⟰ Publication`**
 
+* **Vietnamese POS Tagging for Social Media Text** (2016), X. Ngo et al.
+* **A robust transformation-based learning approach using ripple down rules for part-of-speech tagging** (2016), Q. Nguyen et al.
+* **RDRPOSTagger: A Ripple Down Rules-based Part-Of-Speech Tagger** (2014), Q. Nguyen et al.
+* **Ripple Down Rules for Part-of-Speech Tagging** (2011), Q. Nguyen et al.
+* **Two Entropy-Based Methods for Detecting Errors in POS-Tagged Treebank** (2011), P. Nguyen et al.
+* **Improving Vietnamese Word Segmentation and POS Tagging using MEM with Various Kinds of Resources** (2010), T. Tran et al.
+* **A Semi-supervised Learning Method for Vietnamese Part-of-Speech Tagging** (2010), L. Nguyen et al.
+* **An empirical study of maximum entropy approach for part-of-speech tagging of Vietnamese texts** (2010), H. Le et al.
+* **An Experimental Study on Vietnamese POS Tagging** (2009), T. Tran et al.
+* **Improving Vietnamese POS tagging by integrating a rich feature set and Support Vector Machines** (2008), M. Nghiem et al.
+* **Gán nhãn từ loại tiếng Việt dựa trên các phương pháp học máy thống kê** (2008), X. Phan et al.
+* **Gán nhãn từ loại cho tiếng Việt dựa trên văn phong và tính toán xác suất** (2006), Q. Nguyen et al.
+* **A case study of the probabilistic tagger QTAG for Tagging Vietnamese Texts** (2003), T. Nguyen et al.
+* **POS-tagger for English-Vietnamese bilingual corpus** (2003), D. Dinh et al.
 
 ### Chunking
 
