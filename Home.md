@@ -146,5 +146,5 @@ It is suitable for Vietnamese text preprocessing.
 
 * [KSE - The 9th International Conference on Knowledge and Systems Engineering](http://kse2017.dhsphue.edu.vn/Default.aspx), 12-14 October, 2017, Hue City
 * [ATC - The 9th International Conference on Advanced Technologies for Communications](http://atc-conf.org/), 18-20 October, 2017, Quy Nhon City
-* [PACLING: Conference of the Pacific Association for Computational Linguistics](http://pacling.ucsy.edu.mm/pacling/), August 16-18, 2017 (Apr 19, 2017), Yangon , Myanmar.
-* [SoICT: The 8th International Symposium on Information and Communication Technology](http://www.soict.org/), 7-8 December 2017 (August 14, 2017), Nha Trang City.
+* [PACLING - Conference of the Pacific Association for Computational Linguistics](http://pacling.ucsy.edu.mm/pacling/), August 16-18, 2017 (Apr 19, 2017), Yangon , Myanmar.
+* [SoICT - The 8th International Symposium on Information and Communication Technology](http://www.soict.org/), 7-8 December 2017 (August 14, 2017), Nha Trang City.
