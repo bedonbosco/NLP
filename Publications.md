@@ -110,7 +110,24 @@
 
 ### Sentiment Analysis
 
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#sentiment-analysis) | **`⟰ Publication`**
 
+* **A Neural Network based Model for Determining Overall Aspect Weights in Opinion Mining and Sentiment Analysis** (2016), D. Pham et al.
+* **Cross-domain sentiment classification with word embeddings and canonical correlation analysis** (2016), X. Ngo et al.
+* **Learning Semantic Representations for Rating Vietnamese Comments** (2016), D. Pham et al.
+* **Multi-Class Opinion Classification for Vietnamese Hotel Reviews** (2016), T. Tran et al.
+* **Dependency Syntactic Analysis for Opinion Mining** (2016), T. Tran et al.
+* **Computing Sentiment Scores of Verb Phrases for Vietnamese** (2016), T. Tran et al.
+* **Leveraging user ratings for resource-poor sentiment classification** (2015), X. Ngo et al.
+* **Mining Vietnamese Comparative Sentences for Sentiment Analysis** (2015), X. Ngo et al.
+* **Constructing sentiment ontology for vietnamese reviews** (2015), T. Tran et al.
+* **A least square based model for rating aspects and identifying important aspects on review text data** (2015), D. Pham et al.
+* **An upgrading SentiVoice - A system for querying hotel service reviews via phone** (2015), T. Tran et al.
+* **Domain Specific Sentiment Dictionary for Opinion Mining of Vietnamese Text** (2014), H. Nguyen et al.
+* **Construction of Vietnamese SentiWordNet by using Vietnamese Dictionary** (2014), X. Vu et al.
+* **An empirical study on sentiment analysis for Vietnamese** (2014), T. Nguyen et al.
+* **A Feature-Based Opinion Mining Model on Product Reviews in Vietnamese** (2011), T. Vu et al.
+* **Sentiment Analysis for Vietnamese** (2010), B. Kiet et al.
 
 ### Named Entity Recognition
 
