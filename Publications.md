@@ -93,10 +93,11 @@
 * **Automated Extraction of Tree Adjoining Grammars from a Treebank for Vietnamese** (2010), H. Le et al.
 * **Nghiên cứu luật hiệu chỉnh kết quả dùng phương pháp MST phân tích cú pháp phụ thuộc tiếng việt** (2008), L. Nguyen et al.
 
-
 ### Text Classification
 
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#text-classification) | **`⟰ Publication`**
 
+* **A Comparative Study on Vietnamese Text Classification Methods** (2007), C. Vu et al.
 
 ### Automatic Summarization
 
