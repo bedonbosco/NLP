@@ -139,6 +139,7 @@
 
 [`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#named-entity-recognition) | **`⟰ Publication`**
 
+* **The Importance of Automatic Syntactic Features in Vietnamese Named Entity Recognition** (2017), T. Pham et al.
 * **Vietnamese Named Entity Recognition using Token Regular Expressions and Bidirectional Inference** (2016), H. Le.
 * **VLSP 2016 Shared Task: Named Entity Recognition** (2016), T. Nguyen et al.
 * **Named Entity Recognition in Vietnamese Text** (2016), T. Le et al.
