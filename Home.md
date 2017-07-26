@@ -24,7 +24,7 @@
 
 ### Spelling Correction
 
-`⚙ Tool` | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#spelling-correction)
 
 * [lebinh/vietnamese-accent-model](https://github.com/lebinh/vietnamese-accent-model) - a simple deep learning model to add accent to Vietnamese text *by Le Binh (2016)* `python` 
 * [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone) - based on a point-wise diacritics restoration *by Kanji Takahashi (2016)* `python`
