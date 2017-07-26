@@ -20,6 +20,7 @@
 * [**Resources**](#resources)
 * [**Website**](#website)
 * [**Technique**](#technique)
+* [**Conferences**](#conferences)
 
 ### Spelling Correction
 
@@ -140,3 +141,8 @@
 
 NFC is a one of the unicode normalization form.
 It is suitable for Vietnamese text preprocessing.
+
+### Conferences
+
+* [PACLING: Conference of the Pacific Association for Computational Linguistics](http://pacling.ucsy.edu.mm/pacling/), August 16-18, 2017 (Apr 19, 2017), Yangon , Myanmar.
+* [SoICT: The 8th International Symposium on Information and Communication Technology](http://www.soict.org/), 7-8 December 2017 (August 14, 2017), Nha Trang City.
