@@ -26,11 +26,12 @@
 
 [`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#spelling-correction) | **`⟰ Publication`**
 
-* **A Point-wise Approach for Vietnamese Diacritics Restoration** (2012), Tuan Anh et al.
+* **A Point-wise Approach for Vietnamese Diacritics Restoration** (IALP 2012), Tuan Anh et al.
+* **Vietnamese spelling detection and correction using Bi-gram, Minimum Edit Distance, SoundEx algorithms with some additional heuristics** (RIVF 2008), P. Nguyen et al.
 
 ### Word segmentation
 
-[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#spelling-correction) | **`⟰ Publication`**
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#word-segmentation) | **`⟰ Publication`**
 
 * **Supervised Ensemble Learning for Vietnamese Tokenization** (2017), W Liu
 * **How does Dictionary Size Influence Performance of Vietnamese Word Segmentation?** (LREC 2016), W Liu et al.
