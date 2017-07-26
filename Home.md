@@ -45,7 +45,7 @@
 
 ### Part-of-Speech tagging
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications(#part-of-speech-tagging)
+**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Publications#part-of-speech-tagging)
 
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by Tran Viet Trung (2016)* `python`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by Le Hong Phuong (2016)* `java`
