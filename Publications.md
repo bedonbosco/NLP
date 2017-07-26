@@ -24,7 +24,7 @@
 
 ### Spelling Correction
 
-⚙ [⟰](http://google.com)
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#spelling-correction) | **`⟰ Publication`**
 
 * **A Point-wise Approach for Vietnamese Diacritics Restoration** (2012), Tuan Anh et al.
 
