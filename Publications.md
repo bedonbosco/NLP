@@ -137,6 +137,18 @@
 
 ### Named Entity Recognition
 
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#named-entity-recognition) | **`⟰ Publication`**
+
+* **Vietnamese Named Entity Recognition using Token Regular Expressions and Bidirectional Inference** (2016), H. Le.
+* **VLSP 2016 Shared Task: Named Entity Recognition** (2016), T. Nguyen et al.
+* **Named Entity Recognition in Vietnamese Text** (2016), T. Le et al.
+* **Vietnamese Named Entity Recognition at VLSP 2016 Evaluation campaign** (2016), T. Nguyen et al.
+* **DSKTLAB-NER: Nested Named Entity Recognition in Vietnamese Text** (2016), T. Nguyen et al.
+* **Named entity recognition in vietnamese text using label propagation** (2013), H. Le et al.
+* **Named Entity Recognition for Vietnamese** (2010), D. Nguyen et al.
+* **Named Entity Recognition in Vietnamese documents** (2007), T. Tran et al.
+* **Named entity recognition in Vietnamese using classifier voting** (2007), T. Pham et al.
+
 
 
 ### Semantic Role Labelling
