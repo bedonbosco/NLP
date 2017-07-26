@@ -170,7 +170,5 @@
 ### Representation
 
 
-### Term Definition Vectors
-
 
 ### Resources
