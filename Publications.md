@@ -101,6 +101,12 @@
 
 ### Automatic Summarization
 
+[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#automatic-summarization) | **`⟰ Publication`**
+
+* **Improving Quality of Vietnamese Text Summarization Based on Sentence Compression** (2016), H. Nguyen et al.
+* **VSoLSCSum: Building a Vietnamese Sentence-Comment Dataset for Social Context Summarization** (2016), M. Nguyen et al.
+* **TSGVi: a graph-based summarization system for Vietnamese documents** (2012), H. Nguyen et al.
+* **An Efficient Vietnamese Text Summarization Approach Based on Graph Model** (2010), H. Nguyen et al.
 
 ### Sentiment Analysis
 
