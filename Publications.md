@@ -155,7 +155,13 @@
 
 ### Machine Translation
 
-
+* **A reordering model for Vietnamese-English statistical machine translation using dependency information** (2016), V. Tran et al.
+* **Building a Bidirectional English-Vietnamese Statistical Machine Translation System by Using MOSES** (2016), Q. Nguyen et al.
+* **The English-Vietnamese Machine Translation System for IWSLT 2015** (2015), H. Tran et al.
+* **French-Vietnamese statistical machine translation combining with chunk alignments** (2013), N. Le et al.
+* **Phrasal Transfer Model for Vietnamese-English Machine Translation** (2006), M. Le et al.
+* **Dictionaries for English-Vietnamese Machine Translation** (2006), M. Le et al.
+* **Generation of Vietnamese for French-Vietnamese and English- Vietnamese Machine Translation** (2001), D. Nguyen
 
 ### Representation
 
