@@ -23,6 +23,4 @@
 
 ### Sentiment Analysis
 
-[`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#sentiment-analysis) | **`⟰ Publication`**
-
 * **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), M. Pontiki et al.
