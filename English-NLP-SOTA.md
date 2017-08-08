@@ -21,4 +21,7 @@
 
 # Sentiment Analysis
 
-**[SemEval-2015 Task 12]()** <sub><sup>Small text</sup></sub>
+**[SemEval-2015 Task 12]()** <sub><sup>16 results collected</sup></sub>
+
+SemEval-2015 Task 12, a continuation of SemEval-2014 Task 4, aimed to foster research beyond sentence- or text-level sentiment classification towards Aspect Based Sentiment Analysis. The goal is to identify opinions expressed about specific entities (e.g., laptops) and their aspects (e.g., price). The task provided manually annotated reviews
+in three domains (restaurants, laptops and hotels), and a common evaluation procedure. It attracted 93 submissions from 16 teams.
