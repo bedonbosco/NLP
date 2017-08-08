@@ -32,5 +32,7 @@ Theo facebook trên trang [facebook business](https://www.facebook.com/business/
 
 **Telecommunication**: Viễn thông
 
+Các khía cạnh: thương hiệu, dịch vụ lắp đặt, đối thủ cạnh tranh, tốc độ đường truyền, giá cước, bản quyền, thiết bị, dịch vụ chăm sóc khách hàng.
+
 **Travel**: Du lịch
 
