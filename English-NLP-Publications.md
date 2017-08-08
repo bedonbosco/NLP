@@ -24,4 +24,5 @@
 ### Sentiment Analysis
 
 * **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), M. Pontiki et al.
+* **Opinion mining and sentiment analysis** (2008), B. Pang et al. [[book](http://dl.acm.org/citation.cfm?id=1454712)]
 * **Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews** (2002), PD. Turney. [[pdf](https://arxiv.org/pdf/cs/0212032)]
