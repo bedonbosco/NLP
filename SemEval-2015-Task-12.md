@@ -6,7 +6,7 @@ SemEval-2015 Task 12, a continuation of SemEval-2014 Task 4, aimed to foster res
 
 | Method   	| Result 	| Year 	|
 |----------	|--------	|------	|
-| NLANGP   	| 50.86* 	| 2014 	|
+| [NLANGP](http://www.aclweb.org/anthology/S15-2083)   	| 50.86* 	| 2014 	|
 | Sentiue  	| 50.00* 	| 2014 	|
 | IHS-RD   	| 49.59  	| 2014 	|
 | NLANGP   	| 49.06  	| 2014 	|
