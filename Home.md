@@ -115,7 +115,7 @@
 
 **`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#representation)
 
-** Word Vectors**
+**Word Vectors**
 
 * [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) - pre-trained word vectors of 30+ languages *by Kyubyong Park (2016)* `resource`
 * [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - library for fast text representation and classification *by Facebook (2017)* `resource`
