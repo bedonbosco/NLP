@@ -14,3 +14,14 @@ SemEval-2015 Task 12, a continuation of SemEval-2014 Task 4, aimed to foster res
 | UFRGS    	| 44.95  	| 2014 	|
 | UFRGS    	| 44.73  	| 2014 	|
 | V3       	| 24.94  	| 2014 	|
+
+| Method   	| Result 	| Year 	|
+|----------	|--------	|------	|
+| [NLANGP](http://www.aclweb.org/anthology/S15-2083)   	| 50.86* 	| 2014 	|
+| [Sentiue](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval130.pdf)  	| 50.00* 	| 2014 	|
+| IHS-RD   	| 49.59  	| 2014 	|
+| NLANGP   	| 49.06  	| 2014 	|
+| TJUdeM   	| 46.49  	| 2014 	|
+| UFRGS    	| 44.95  	| 2014 	|
+| UFRGS    	| 44.73  	| 2014 	|
+| V3       	| 24.94  	| 2014 	|
