@@ -20,7 +20,7 @@ Theo facebook trên trang [facebook business](https://www.facebook.com/business/
 
 **Non-profits and organisations**: Tổ chức phi chính phủ
 
-**Professional services**
+**Professional services**: Dịch vụ chuyên nghiệp
 
 **Restaurants**: Nhà hàng
 
