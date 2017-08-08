@@ -6,6 +6,8 @@
 
 Dataset: Laptops
 
+Domain: `Technology > Laptop`
+
 | Method   	| Result 	| Year 	|
 |----------	|--------	|------	|
 | [NLANGP](http://www.aclweb.org/anthology/S15-2083)   	| 50.86* 	| 2014 	|
