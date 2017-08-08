@@ -16,9 +16,6 @@
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
 * [**Language Modelling**](#language-modelling)
-* [**Resources**](#resources)
-* [**Website**](#website)
-* [**Technique**](#technique)
 * [**Conferences**](#conferences)
 
 ### Sentiment Analysis
