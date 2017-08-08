@@ -19,7 +19,7 @@
 * [**Resources**](#resources)
 * [**Website**](#website)
 * [**Technique**](#technique)
-* [**Coreference**](#coreference)
+* [**Conferences**](#conferences)
 
 ### Spelling Correction
 
