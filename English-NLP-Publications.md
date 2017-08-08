@@ -15,7 +15,7 @@
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
-* [**Representation**](#representation)
+* [**Language Modelling**](#language-modelling)
 * [**Resources**](#resources)
 * [**Website**](#website)
 * [**Technique**](#technique)
