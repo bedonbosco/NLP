@@ -21,6 +21,8 @@ Domain: `Technology > Laptop`
 
 Dataset: Restaurants
 
+Domain: `Restaurants`
+
 | Method    | Result | Year |
 |-----------|--------|------|
 | [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 62.68* | 2014 |
