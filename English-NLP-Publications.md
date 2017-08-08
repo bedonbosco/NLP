@@ -16,7 +16,7 @@
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
 * [**Language Modelling**](#language-modelling)
-* [**Conferences**](#conferences)
+* [**Coreference**](#coreference)
 
 ### Sentiment Analysis
 * **SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News** (2017), M. Pontiki et al. [[pdf](http://andrefreitas.org/papers/preprint_semeval_task05_2017.pdf)]
