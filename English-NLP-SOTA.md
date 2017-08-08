@@ -21,4 +21,4 @@
 
 # Sentiment Analysis
 
-**[SemEval-2015 Task 12]()** <small>hihi</small>
+**[SemEval-2015 Task 12]()** <span style="font-size: 8px">hihi</span>
