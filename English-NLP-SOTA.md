@@ -21,7 +21,7 @@
 
 # Sentiment Analysis
 
-[**`⟰ Publication`**](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`**
+[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`**
 
 **[SemEval-2015 Task 12](https://github.com/magizbox/underthesea/wiki/SemEval-2015-Task-12)** <sub><sup>16 results collected</sup></sub>
 
