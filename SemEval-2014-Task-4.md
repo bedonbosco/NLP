@@ -47,7 +47,7 @@ Dataset: `Restaurants`
 
 **Subtask: Aspect category detection**
 
-Dataset: `Restaurants`
+Dataset: `Hotels`
 
 | Method   	| F1     	| Year 	|
 |----------	|--------	|------	|
