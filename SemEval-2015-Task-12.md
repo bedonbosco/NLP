@@ -10,7 +10,7 @@ Aspect Categories: 23 entity labels (LAPTOP, DISPLAY, KEYBOARD, MOUSE, MOTHERBOA
 
 Aspect Categories: 6 entity labels (RESTAURANT, FOOD, DRINKS, AMBIENCE, SERVICE, LOCATION), 5 attribute labels (GENERAL, PRICES, QUALITY, STYLE & OPTIONS, MISCELLANEOUS)
 
-**Aspect category identification slot**
+**Task: Aspect category identification slot**
 
 Dataset: `Laptops`
 
