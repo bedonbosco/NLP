@@ -10,11 +10,11 @@ Aspect Categories: 23 entity labels (LAPTOP, DISPLAY, KEYBOARD, MOUSE, MOTHERBOA
 
 Aspect Categories: 6 entity labels (RESTAURANT, FOOD, DRINKS, AMBIENCE, SERVICE, LOCATION), 5 attribute labels (GENERAL, PRICES, QUALITY, STYLE & OPTIONS, MISCELLANEOUS)
 
-**Task: Aspect category identification slot**
+**Subtask: Aspect category identification slot**
 
 Dataset: `Laptops`
 
-| Method   	| Result 	| Year 	|
+| Method   	| F1            | Year 	|
 |----------	|--------	|------	|
 | [NLANGP](http://www.aclweb.org/anthology/S15-2083)   	| 50.86* 	| 2015 	|
 | [Sentiue](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval130.pdf)  	| 50.00* 	| 2015 	|
@@ -27,7 +27,7 @@ Dataset: `Laptops`
 
 Dataset: `Restaurants`
 
-| Method    | Result | Year |
+| Method    | F1     | Year |
 |-----------|--------|------|
 | [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 62.68* | 2015 |
 | [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 61.94* | 2015 |
@@ -37,3 +37,14 @@ Dataset: `Restaurants`
 | Sentiue   | 54.10  | 2015 |
 | LT3       | 53.67  | 2015 |
 | TJUdeM    | 52.44  | 2015 |
+
+**Subtask: OTE slot**
+
+Dataset: `Restaurants`
+
+| Method    | F1     | Year |
+|-----------|--------|------|
+| [EliXa](https://aclweb.org/anthology/S/S15/S15-2127.pdf)    | 70.05* | 2015 |
+| [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 67.11* | 2015 |
+| IHS-RD. | 63.12  | 2015 |
+| Lsislif | 62.22  | 2015 |
