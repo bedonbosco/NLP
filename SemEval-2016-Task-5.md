@@ -75,5 +75,49 @@ The [SemEval ABSA task for 2016](http://alt.qcri.org/semeval2016/task5/) (SE-ABS
   </tr>
 </table>
 
+**Subtask 2: Text-level ABSA**
+
+<table class="tg">
+  <tr>
+    <th class="tg-031e">Lang.<br>    Dom.<br>    Sub.</th>
+    <th class="tg-031e">Slot1<br>    F-1</th>
+    <th class="tg-031e">Slot3<br>    Acc.</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">EN<br>    REST<br>    SB2</td>
+    <td class="tg-031e"> GTI/U/83.995 <br>     UWB/C/80.965 <br>     UWB/U/80.163 <br>     bunji/U/79.777 <br>     basel./C/78.711 <br>     SYSU/U/68.841 <br>     SYSU/U/68.841 <br>    </td>
+    <td class="tg-031e"> UWB/U/81.931 <br>     ECNU/U/81.436 <br>     UWB/C/80.941 <br>     ECNU/C/78.713 <br>     basel./C/74.257 <br>     bunji/U/70.545 <br>     bunji/C/66.584 <br>     GTI/U/64.109 <br>    </td>
+  </tr>
+  <tr>
+    <td class="tg-031e">SP<br>    REST<br>    SB2</td>
+    <td class="tg-031e"> GTI/C/84.192 <br>     GTI/U/84.044 <br>     basel./C/74.548 <br>     UWB/C/73.657 <br>    </td>
+    <td class="tg-031e"> UWB/C/77.185 <br>     basel./C/73.78 <br>    </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RU<br>    REST<br>    SB2</td>
+    <td class="tg-yw4l"> basel./C/84.792 <br>    </td>
+    <td class="tg-yw4l"> basel./C/70.6 <br>    </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">DU<br>    REST<br>    SB2</td>
+    <td class="tg-yw4l"> basel./C/70.323 <br>    </td>
+    <td class="tg-yw4l"> basel./C/73.228 <br>    </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">TU<br>    REST<br>    SB2</td>
+    <td class="tg-yw4l"> basel./C/72.642 <br>    </td>
+    <td class="tg-yw4l"> basel./C/57.407 <br>    </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">AR<br>    HOTE<br>    SB2</td>
+    <td class="tg-yw4l"> basel./C/42.757 <br>    </td>
+    <td class="tg-yw4l"> basel./C/73.216 <br>    </td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">EN<br>    LAPT<br>    SB2</td>
+    <td class="tg-yw4l"> UWB/C/60.45 <br>     UWB/U/59.721 <br>     bunji/U/54.723 <br>     basel./C/52.685 <br>     SYSU/U/48.889 <br>     SYSU/U/48.889 <br>    </td>
+    <td class="tg-yw4l"> ECNU/U/75.046 <br>     UWB/U/75.046 <br>     UWB/C/74.495 <br>     basel./C/73.028 <br>     ECNU/C/67.523 <br>     bunji/C/62.202 <br>     bunji/U/60 <br>     GTI/U/58.349 <br>    </td>
+  </tr>
+</table>
 
 
