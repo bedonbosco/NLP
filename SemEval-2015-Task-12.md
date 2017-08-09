@@ -77,3 +77,7 @@ Dataset: `Hotels`
 | LT3 | 80.53* | 2015 |
 | EliXa  | 79.64  | 2015 |
 | sentiue | 78.76  | 2015 |
+
+**References**
+
+* **NLANGP: Supervised Machine Learning System for Aspect Category Classification and Opinion Target Extraction** (2015), Z Toh et al. [[pdf](http://www.aclweb.org/anthology/S15-2083)]
