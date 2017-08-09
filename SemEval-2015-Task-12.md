@@ -48,3 +48,32 @@ Dataset: `Restaurants`
 | [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 67.11* | 2015 |
 | IHS-RD. | 63.12  | 2015 |
 | Lsislif | 62.22  | 2015 |
+
+**Subtask: Sentiment polarity**
+
+Dataset: `Laptops`
+
+| Method    | Accuracy | Year |
+|-----------|--------|------|
+| Sentiue   | 79.34* | 2015 |
+| ECNU   | 78.29* | 2015 |
+| Lsislif | 77.87  | 2015 |
+| ECNU| 74.49  | 2015 |
+
+Dataset: `Restaurants`
+
+| Method    | Accuracy | Year |
+|-----------|--------|------|
+| Sentiue   | 78.69* | 2015 |
+| ECNU   | 78.10* | 2015 |
+| Lsislif | 75.50  | 2015 |
+| LT3| 75.02  | 2015 |
+
+Dataset: `Hotels`
+
+| Method    | Accuracy | Year |
+|-----------|--------|------|
+| lsislif | 85.84* | 2015 |
+| LT3 | 80.53* | 2015 |
+| EliXa  | 79.64  | 2015 |
+| sentiue | 78.76  | 2015 |
