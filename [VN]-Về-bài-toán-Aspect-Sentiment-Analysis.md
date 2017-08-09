@@ -42,5 +42,5 @@ Các khía cạnh: thương hiệu, dịch vụ lắp đặt, đối thủ cạn
 
 **Travel**: Du lịch
 
-*dữ liệu*: [`agoda.com`](https://www.agoda.com)
+*dữ liệu*: [`agoda.com`](https://www.agoda.com/vi-vn/hanoi-graceful-hotel/hotel/hanoi-vn.html?checkin=2017-08-09&los=2&adults=2&rooms=1&searchrequestid=2d31604a-bb9d-4f0a-9bb6-62653aa3c28d)
 
