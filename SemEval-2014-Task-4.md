@@ -11,7 +11,18 @@ Dataset: Laptops
 
 | Method   	| Result (F1) 	| Year 	|
 |----------	|--------	|------	|
-| [IHS_RD](http://www.aclweb.org/anthology/S15-2083)   	| 74.55* 	| 2014 	|
-| [DLIREC](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval130.pdf)  	| 73.78* 	| 2014 	|
+| IHS_RD  	| 74.55* 	| 2014 	|
+| DLIREC 	| 73.78* 	| 2014 	|
 | DLIREC   	| 70.4  	| 2014 	|
 | NRC-Can   	| 68.56  	| 2014 	|
+
+Dataset: Restaurants
+
+| Method   	| Result (F1) 	| Year 	|
+|----------	|--------	|------	|
+| IHS_RD  	| 74.55* 	| 2014 	|
+| DLIREC 	| 73.78* 	| 2014 	|
+| DLIREC   	| 70.4  	| 2014 	|
+| NRC-Can   	| 68.56  	| 2014 	|
+
+
