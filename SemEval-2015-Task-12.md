@@ -10,14 +10,14 @@ Aspect Categories: 23 entity labels (LAPTOP, DISPLAY, KEYBOARD, MOUSE, MOTHERBOA
 
 | Method   	| Result 	| Year 	|
 |----------	|--------	|------	|
-| [NLANGP](http://www.aclweb.org/anthology/S15-2083)   	| 50.86* 	| 2014 	|
-| [Sentiue](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval130.pdf)  	| 50.00* 	| 2014 	|
-| IHS-RD   	| 49.59  	| 2014 	|
-| NLANGP   	| 49.06  	| 2014 	|
-| TJUdeM   	| 46.49  	| 2014 	|
-| UFRGS    	| 44.95  	| 2014 	|
-| UFRGS    	| 44.73  	| 2014 	|
-| V3       	| 24.94  	| 2014 	|
+| [NLANGP](http://www.aclweb.org/anthology/S15-2083)   	| 50.86* 	| 2015 	|
+| [Sentiue](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval130.pdf)  	| 50.00* 	| 2015 	|
+| IHS-RD   	| 49.59  	| 2015 	|
+| NLANGP   	| 49.06  	| 2015 	|
+| TJUdeM   	| 46.49  	| 2015 	|
+| UFRGS    	| 44.95  	| 2015 	|
+| UFRGS    	| 44.73  	| 2015 	|
+| V3       	| 24.94  	| 2015 	|
 
 Dataset: `Restaurants` (train: 254 review texts, test: 96 review texts)
 
@@ -27,11 +27,11 @@ Aspect Categories: 6 entity labels (RESTAURANT, FOOD, DRINKS, AMBIENCE, SERVICE,
 
 | Method    | Result | Year |
 |-----------|--------|------|
-| [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 62.68* | 2014 |
-| [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 61.94* | 2014 |
-| [UMDuluthC](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval126.pdf) | 57.19  | 2014 |
-| [UMDuluthT](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval126.pdf) | 57.19  | 2014 |
-| SIEL      | 57.14  | 2014 |
-| Sentiue   | 54.10  | 2014 |
-| LT3       | 53.67  | 2014 |
-| TJUdeM    | 52.44  | 2014 |
+| [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 62.68* | 2015 |
+| [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 61.94* | 2015 |
+| [UMDuluthC](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval126.pdf) | 57.19  | 2015 |
+| [UMDuluthT](http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval126.pdf) | 57.19  | 2015 |
+| SIEL      | 57.14  | 2015 |
+| Sentiue   | 54.10  | 2015 |
+| LT3       | 53.67  | 2015 |
+| TJUdeM    | 52.44  | 2015 |
