@@ -26,3 +26,5 @@
 **References**
 
 * **ECNU at SemEval-2017 Task 5: An Ensemble of Regression Algorithms with Effective Features for Fine-Grained Sentiment Analysis in Financial Domain** (2017), M. Jiang et al. [[pdf](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval152.pdf)]
+* **IITP at SemEval-2017 Task 5: An Ensemble of Deep Learning and Feature Based Models for Financial Sentiment Analysis** (2017), D. Ghosal et al. [[pdf](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval152.pdf)]
+* **SSN MLRG1 at SemEval-2017 Task 5: Fine-Grained Sentiment Analysis Using Multiple Kernel Gaussian Process Regression Model** (2017), SA. Deborah et al. [[pdf](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval139.pdf)]
