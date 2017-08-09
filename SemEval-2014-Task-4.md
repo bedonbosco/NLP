@@ -9,7 +9,7 @@
 
 Dataset: Laptops
 
-| Method   	| Result (F1) 	| Year 	|
+| Method   	| F1     	| Year 	|
 |----------	|--------	|------	|
 | IHS_RD  	| 74.55* 	| 2014 	|
 | DLIREC 	| 73.78* 	| 2014 	|
@@ -18,7 +18,7 @@ Dataset: Laptops
 
 Dataset: Restaurants
 
-| Method   	| Result (F1) 	| Year 	|
+| Method   	| F1    	| Year 	|
 |----------	|--------	|------	|
 | DLIREC  	| 84.01* 	| 2014 	|
 | XRCE 	        | 83.98* 	| 2014 	|
