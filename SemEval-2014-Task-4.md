@@ -25,4 +25,44 @@ Dataset: Restaurants
 | NRC-Can.   	| 80.18  	| 2014 	|
 | UNITOR   	| 80.09  	| 2014 	|
 
+**Subtask: Aspect term polarity**
 
+Dataset: Laptops
+
+| Method   	| Accuracy     	| Year 	|
+|----------	|--------	|------	|
+| DCU  	        | 70.48* 	| 2014 	|
+| NRC-Can.  	| 70.48* 	| 2014 	|
+| SZTE-NLP   	| 66.97 	| 2014 	|
+| UBham   	| 66.66  	| 2014 	|
+
+Dataset: Restaurants
+
+| Method   	| Accuracy    	| Year 	|
+|----------	|--------	|------	|
+| DCU    	| 80.95* 	| 2014 	|
+| NRC-Can. 	| 80.15* 	| 2014 	|
+| UWB   	| 77.68  	| 2014 	|
+| XRCE   	| 77.68  	| 2014 	|
+
+**Subtask: Aspect category detection**
+
+Dataset: Restaurants
+
+| Method   	| F1     	| Year 	|
+|----------	|--------	|------	|
+| NRC-Can  	| 88.57* 	| 2014 	|
+| UNITOR  	| 85.26* 	| 2014 	|
+| XRCE   	| 82.28 	| 2014 	|
+| UWB   	| 81.55  	| 2014 	|
+
+**Subtask: Aspect category polarity**
+
+Dataset: Restaurants
+
+| Method   	| F1     	| Year 	|
+|----------	|--------	|------	|
+| NRC-Can.  	| 82.92* 	| 2014 	|
+| XRCE   	| 78.14* 	| 2014 	|
+| UNITOR   	| 76.29 	| 2014 	|
+| SAP_RI   	| 75.6  	| 2014 	|
