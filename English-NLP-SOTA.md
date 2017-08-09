@@ -23,6 +23,10 @@
 
 [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`**
 
+**[SemEval-2017 Task 5](https://github.com/magizbox/underthesea/wiki/SemEval-2017-Task-5)** <sub><sup>10 results collected</sup></sub>
+
+The proposed task aims at catalysing discussions around approaches of semantic interpretation of financial texts by targeting a concrete sentiment analysis task, which identifies bullish (optimistic; believing that the stock price will increase) and bearish (pessimistic; believing that the stock price will decline) sentiment associated with companies and stocks.
+
 **[SemEval-2016 Task 5](https://github.com/magizbox/underthesea/wiki/SemEval-2016-Task-5)** <sub><sup>245 results collected</sup></sub>
 
 The SemEval ABSA task for 2016 (SE-ABSA16) gives the opportunity to participants to further experiment with English data (reviews) from the domains of SE-ABSA15 (laptops, restaurants, hotels) by providing new test datasets. In addition, SE-ABSA16 will also provide datasets in other than English languages. For each domain (e.g. restaurants) a common set of annotation guidelines will be used across all languages. Furthermore, SE-ABSA16 includes text-level annotations along with a suitable evaluation methodology.
