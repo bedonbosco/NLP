@@ -122,4 +122,4 @@ The [SemEval ABSA task for 2016](http://alt.qcri.org/semeval2016/task5/) (SE-ABS
 
 **References**
 
-* * **NLANGP at SemEval-2016 Task 5: Improving Aspect Based Sentiment Analysis using Neural Network Features** (2016), Z Toh et al. [[pdf](http://www.aclweb.org/anthology/S16-1045)]
+* **NLANGP at SemEval-2016 Task 5: Improving Aspect Based Sentiment Analysis using Neural Network Features** (2016), Z Toh et al. [[pdf](http://www.aclweb.org/anthology/S16-1045)]
