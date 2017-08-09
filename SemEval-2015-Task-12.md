@@ -25,6 +25,8 @@ Dataset: Restaurants (train: 254 review texts, test: 96 review texts)
 
 Domain: `Restaurants`
 
+Aspect Categories: 6 entity labels (RESTAURANT, FOOD, DRINKS, AMBIENCE, SERVICE, LOCATION), 5 attribute labels (GENERAL, PRICES, QUALITY, STYLE & OPTIONS, MISCELLANEOUS)
+
 | Method    | Result | Year |
 |-----------|--------|------|
 | [NLANGP](http://www.aclweb.org/anthology/S15-2083)    | 62.68* | 2014 |
