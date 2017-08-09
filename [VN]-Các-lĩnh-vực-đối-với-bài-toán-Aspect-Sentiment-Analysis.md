@@ -24,11 +24,13 @@ Theo facebook trên trang [facebook business](https://www.facebook.com/business/
 
 **Restaurants**: Nhà hàng
 
-dữ liệu: [`foody.vn`](https://www.foody.vn/)
+*dữ liệu*: [`foody.vn`](https://www.foody.vn/)
 
 **Retail**: Bất động sản
 
 **Sports**: Thể thao
+
+*dữ liệu*: [`24h.com.vn`](http://www.24h.com.vn)
 
 **Technology**: Công nghệ
 
