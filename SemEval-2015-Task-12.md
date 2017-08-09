@@ -4,9 +4,11 @@
 
 **Aspect category identification slot**
 
-Dataset: Laptops
+Dataset: Laptops (train: 277 review texts, test: 173 review texts)
 
 Domain: `Technology > Laptop`
+
+Aspect Categories: 23 entity labels (LAPTOP, DISPLAY, KEYBOARD, MOUSE, MOTHERBOARD, CPU, FANS& COOLING, PORTS, MEMORY, POWER SUPPLY, OPTICAL DRIVES, BATTERY, GRAPHICS, HARD DISK, MULTIMEDIA DEVICES, HARDWARE, SOFTWARE, OS, WARRANTY, SHIPPING, SUPPORT, COMPANY), 9 attribute labels (GENERAL, PRICE, QUALITY, OPERATION&PERFORMANCE, USABILITY, DESIGN& FEATURES, PORTABILITY, CONNECTIVITY, MISCELLANEOUS)
 
 | Method   	| Result 	| Year 	|
 |----------	|--------	|------	|
@@ -19,7 +21,7 @@ Domain: `Technology > Laptop`
 | UFRGS    	| 44.73  	| 2014 	|
 | V3       	| 24.94  	| 2014 	|
 
-Dataset: Restaurants
+Dataset: Restaurants (train: 254 review texts, test: 96 review texts)
 
 Domain: `Restaurants`
 
