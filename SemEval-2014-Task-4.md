@@ -7,7 +7,7 @@
 
 **Subtask: Aspect term extraction**
 
-Dataset: Laptops
+Dataset: `Laptops`
 
 | Method   	| F1     	| Year 	|
 |----------	|--------	|------	|
@@ -27,7 +27,7 @@ Dataset: Restaurants
 
 **Subtask: Aspect term polarity**
 
-Dataset: Laptops
+Dataset: `Laptops`
 
 | Method   	| Accuracy     	| Year 	|
 |----------	|--------	|------	|
@@ -36,7 +36,7 @@ Dataset: Laptops
 | SZTE-NLP   	| 66.97 	| 2014 	|
 | UBham   	| 66.66  	| 2014 	|
 
-Dataset: Restaurants
+Dataset: `Restaurants`
 
 | Method   	| Accuracy    	| Year 	|
 |----------	|--------	|------	|
@@ -47,7 +47,7 @@ Dataset: Restaurants
 
 **Subtask: Aspect category detection**
 
-Dataset: Restaurants
+Dataset: `Restaurants`
 
 | Method   	| F1     	| Year 	|
 |----------	|--------	|------	|
@@ -58,7 +58,7 @@ Dataset: Restaurants
 
 **Subtask: Aspect category polarity**
 
-Dataset: Restaurants
+Dataset: `Restaurants`
 
 | Method   	| F1     	| Year 	|
 |----------	|--------	|------	|
