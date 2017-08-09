@@ -2,7 +2,7 @@
 
 **Aspect category identification slot**
 
-Dataset: Laptops (train: 277 review texts, test: 173 review texts)
+Dataset: `Laptops` (train: 277 review texts, test: 173 review texts)
 
 Domain: `Technology > Laptop`
 
@@ -19,7 +19,7 @@ Aspect Categories: 23 entity labels (LAPTOP, DISPLAY, KEYBOARD, MOUSE, MOTHERBOA
 | UFRGS    	| 44.73  	| 2014 	|
 | V3       	| 24.94  	| 2014 	|
 
-Dataset: Restaurants (train: 254 review texts, test: 96 review texts)
+Dataset: `Restaurants` (train: 254 review texts, test: 96 review texts)
 
 Domain: `Restaurants`
 
