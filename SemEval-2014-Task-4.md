@@ -20,9 +20,9 @@ Dataset: Restaurants
 
 | Method   	| Result (F1) 	| Year 	|
 |----------	|--------	|------	|
-| IHS_RD  	| 74.55* 	| 2014 	|
-| DLIREC 	| 73.78* 	| 2014 	|
-| DLIREC   	| 70.4  	| 2014 	|
-| NRC-Can   	| 68.56  	| 2014 	|
+| DLIREC  	| 84.01* 	| 2014 	|
+| XRCE 	        | 83.98* 	| 2014 	|
+| NRC-Can.   	| 80.18  	| 2014 	|
+| UNITOR   	| 80.09  	| 2014 	|
 
 
