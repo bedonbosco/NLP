@@ -7,12 +7,6 @@ The [SemEval ABSA task for 2016](http://alt.qcri.org/semeval2016/task5/) (SE-ABS
 * 7 domains: restaurants (RES), laptops (LAPT), mobile phones (PHNS), digital cameras (CAME), hotels (HOTE) and museums (MUSE), telecommunication (TELC)
 * 8 languages: English (EN), Arabic (AR), Chinese (CH), Dutch (DU), French (FR), Russian (RU), Spanish (ES) and Turkish (TU)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-yw4l{vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Lang.<br>    Dom.<br>    Sub.</th>
