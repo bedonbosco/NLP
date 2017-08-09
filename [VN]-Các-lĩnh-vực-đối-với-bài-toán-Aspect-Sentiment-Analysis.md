@@ -24,6 +24,8 @@ Theo facebook trên trang [facebook business](https://www.facebook.com/business/
 
 **Restaurants**: Nhà hàng
 
+dữ liệu: [`foody.vn`](https://www.foody.vn/)
+
 **Retail**: Bất động sản
 
 **Sports**: Thể thao
