@@ -19,6 +19,9 @@
 * [**Coreference**](#coreference)
 
 ### Sentiment Analysis
+
+[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`**
+
 * **SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News** (2017), M. Pontiki et al. [[pdf](http://andrefreitas.org/papers/preprint_semeval_task05_2017.pdf)]
 * **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S16-1002)]
 * **SemEval-2015 Task 12: Aspect Based Sentiment Analysis** (2015), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S15-2082)]
