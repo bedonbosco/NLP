@@ -12,7 +12,7 @@ Aspect Categories: 6 entity labels (RESTAURANT, FOOD, DRINKS, AMBIENCE, SERVICE,
 
 **Subtask: Aspect category identification slot**
 
-Dataset: `Laptops`
+Dataset: *Laptops*
 
 | Method   	| F1            | Year 	|
 |----------	|--------	|------	|
@@ -25,7 +25,7 @@ Dataset: `Laptops`
 | UFRGS    	| 44.73  	| 2015 	|
 | V3       	| 24.94  	| 2015 	|
 
-Dataset: `Restaurants`
+Dataset: *Restaurants*
 
 | Method    | F1     | Year |
 |-----------|--------|------|
@@ -40,7 +40,7 @@ Dataset: `Restaurants`
 
 **Subtask: OTE slot**
 
-Dataset: `Restaurants`
+Dataset: *Restaurants*
 
 | Method    | F1     | Year |
 |-----------|--------|------|
@@ -51,7 +51,7 @@ Dataset: `Restaurants`
 
 **Subtask: Sentiment polarity**
 
-Dataset: `Laptops`
+Dataset: *Laptops*
 
 | Method    | Accuracy | Year |
 |-----------|--------|------|
@@ -60,7 +60,7 @@ Dataset: `Laptops`
 | Lsislif | 77.87  | 2015 |
 | ECNU| 74.49  | 2015 |
 
-Dataset: `Restaurants`
+Dataset: *Restaurants*
 
 | Method    | Accuracy | Year |
 |-----------|--------|------|
@@ -69,7 +69,7 @@ Dataset: `Restaurants`
 | Lsislif | 75.50  | 2015 |
 | LT3| 75.02  | 2015 |
 
-Dataset: `Hotels`
+Dataset: *Hotels*
 
 | Method    | Accuracy | Year |
 |-----------|--------|------|
