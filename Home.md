@@ -143,6 +143,7 @@
 * [VNESEcopus.txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus). 650 thousand sentences.
 * [VNTQcorpus(small).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus). 300 thousand sentences.
 * [VNTQcorpus(big).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus). 1.75 million sentences.
+* [Wikipedia Dump](https://dumps.wikimedia.org/viwiki/20170801/). 524 MB
 
 **Bilingual Corpus**
 
