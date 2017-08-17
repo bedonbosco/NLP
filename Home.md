@@ -73,7 +73,7 @@
 
 **`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#text-classification)
 
-* [duyvuleo/VNTC](https://github.com/duyvuleo/VNTC) - a large-scale Vietnamese news text classification corpus *by Vu Hoang Cong Duy (2017)* `resource`
+* [duyvuleo/VNTC](https://github.com/duyvuleo/VNTC) - a large-scale Vietnamese news text classification corpus *by Vu Hoang Cong Duy (2007)* `resource`
 * [pth1993/vn_spam_sms_filtering](https://github.com/pth1993/vn_spam_sms_filtering) - Vietnamese spam SMS filtering system *by Pham Thai Hoang (2017)* `python` 
 
 ### Automatic Summarization
