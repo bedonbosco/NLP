@@ -22,6 +22,10 @@
 * [**Language Generation**](#language-generation)
 * [**Miscellaneous**](#miscellaneous)
 
+### Automatic Summarization
+
+* **Summarization beyond sentence extraction** (2002), K. Pontiki et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.5237&rep=rep1&type=pdf)]
+
 ### Sentiment Analysis
 
 **`⟰ Publication`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
