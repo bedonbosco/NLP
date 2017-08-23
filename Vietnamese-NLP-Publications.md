@@ -2,8 +2,6 @@
 
 [`⚙ Resources`](https://github.com/magizbox/underthesea/wiki) | **`⟰ Publication`**
 
-**`⚙ Resources` | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications)
-
 ## Table of Contents
 
 * [**Spelling Correction**](#spelling-correction)
