@@ -15,4 +15,4 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 | (Huang et al., 2015)          | Bidirectional LSTM-CRF             | 97.55                          |
 | (Kumar et al., 2015)          | DMN                                | 97.56                          |
 
-** * ** : per-token accuracy %
+*: per-token accuracy %
