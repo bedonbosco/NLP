@@ -19,7 +19,7 @@
 
 # Part-of-Speech tagging
 
-[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/POS-Tagging-Task:-Wall-Street-Journal-Section-of-Penn-Treebank) | **`☶ SOTA`**
+[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`**
 
 **[Wall Street Journal Section of Penn Treebank](https://github.com/magizbox/underthesea/wiki/POS-Tagging-Task:-Wall-Street-Journal-Section-of-Penn-Treebank)**
 
