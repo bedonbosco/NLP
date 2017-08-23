@@ -40,11 +40,11 @@
 
 ### Language Modelling
 
-* **Skip-Gram – Zipf + Uniform = Vector Additivity** (2017), I. Mordatch et al. [[pdf](https://arxiv.org/pdf/1703.04908.pdf)]
+* **Skip-Gram – Zipf + Uniform = Vector Additivity** (2017), I. Mordatch et al. [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1007.pdf)]
 
 ### Language Generation
 
-* **Emergence of Grounded Compositional Language in Multi-Agent Populations** (2017), A. Gittens, et al. [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1007.pdf)]
+* **Emergence of Grounded Compositional Language in Multi-Agent Populations** (2017), A. Gittens, et al. [[pdf](https://arxiv.org/pdf/1703.04908.pdf)]
 
 ### Miscellaneous
 
