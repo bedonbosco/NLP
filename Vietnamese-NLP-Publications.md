@@ -153,7 +153,7 @@
 
 [`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#semantic-role-labelling) | **`⟰ Publication`**
 
-* **Building a semantic role labelling system for Vietnamese** (2017), T. Pham et al.
+* **Building a semantic role labelling system for Vietnamese** (2015), T. Pham et al.
 
 ### Machine Translation
 
