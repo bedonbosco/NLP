@@ -17,6 +17,7 @@
 * [**Machine Translation**](#machine-translation)
 * [**Language Modelling**](#language-modelling)
 * [**Coreference**](#coreference)
+* [**Miscellaneous**](#miscellaneous)
 
 ### Sentiment Analysis
 
@@ -33,3 +34,8 @@
 ### Machine Translation
 
 * **Attention Is All You Need** (2017), A. Vaswani et al. [[pdf](https://arxiv.org/abs/1706.03762)]
+
+### Miscellaneous
+
+* **Recent Trends in Deep Learning Based
+Natural Language Processing** (2017), T. Young et al. [[pdf](https://arxiv.org/pdf/1708.02709v4.pdf)]
