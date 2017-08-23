@@ -24,6 +24,9 @@
 
 ### Automatic Summarization
 
+* **Multi-Document Summarization by Maximizing Informative Content-Words** (2007), W. Yih. [[pdf](http://dl.acm.org/citation.cfm?id=1625563)]
+* **A Study of Global Inference Algorithms in Multi-Document Summarization** (2007), R. McDonald. [[pdf](https://people.dsv.su.se/~hercules/articles/Headline%20generation/globsumm.pdf)]
+* **Modeling Compression with Discourse Constraints** (2007), J. Clarke et al. [[pdf](http://jamesclarke.net/media/papers/clarke-lapata-emnlp07.pdf)]
 * **Summarization beyond sentence extraction** (2002), K. Pontiki et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.5237&rep=rep1&type=pdf)]
 
 ### Sentiment Analysis
