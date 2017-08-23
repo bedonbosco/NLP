@@ -46,6 +46,10 @@
 
 * **Emergence of Grounded Compositional Language in Multi-Agent Populations** (2017), A. Gittens, et al. [[pdf](https://arxiv.org/pdf/1703.04908.pdf)]
 
+### Question Answering
+
+* **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.** (2017), M. Joshi, et al. [[pdf](https://arxiv.org/pdf/1705.03551.pdf)]
+
 ### Miscellaneous
 
 * **Recent Trends in Deep Learning Based
