@@ -14,10 +14,6 @@
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
 * [**Representation**](#representation)
-* [**Resources**](#resources)
-* [**Website**](#website)
-* [**Technique**](#technique)
-* [**Coreference**](#coreference)
 
 # Part-of-Speech tagging
 
