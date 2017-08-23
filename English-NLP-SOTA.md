@@ -21,7 +21,7 @@
 
 [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`**
 
-**[Wall Street Journal Section of Penn Treebank]()**
+**[Wall Street Journal Section of Penn Treebank](WSJ-PTB POS Task)**
 
 The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.
 
