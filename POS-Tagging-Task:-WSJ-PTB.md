@@ -4,7 +4,7 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 
 **SOTA**
 
-| Paper                         | Model                              | WSJ-PTB (accuracy %) |
+| Paper                         | Model                              | WSJ-PTB * |
 |-------------------------------|------------------------------------|--------------------------------|
 | (Gimenez and Marquez, 2004)   | SVM with manual feature pattern    | 97.16                          |
 | (Collobert et al., 2011)      | MLP with word embeddings + CRF     | 97.29                          |
@@ -15,3 +15,4 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 | (Huang et al., 2015)          | Bidirectional LSTM-CRF             | 97.55                          |
 | (Kumar et al., 2015)          | DMN                                | 97.56                          |
 
+*: per-token accuracy %
