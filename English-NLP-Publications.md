@@ -17,8 +17,9 @@
 * [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
 * [**Dialog Systems**](#dialog-systems)
-* [**Language Modelling**](#language-modelling)
 * [**Coreference**](#coreference)
+* [**Language Modelling**](#language-modelling)
+* [**Language Generation**](#language-generation)
 * [**Miscellaneous**](#miscellaneous)
 
 ### Sentiment Analysis
@@ -36,6 +37,10 @@
 ### Machine Translation
 
 * **Attention Is All You Need** (2017), A. Vaswani et al. [[pdf](https://arxiv.org/abs/1706.03762)]
+
+### Language Generation
+
+* **Emergence of Grounded Compositional Language in Multi-Agent Populations** (2017), I. Mordatch et al. [[pdf](https://arxiv.org/pdf/1703.04908.pdf)]
 
 ### Miscellaneous
 
