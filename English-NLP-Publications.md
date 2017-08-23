@@ -15,6 +15,8 @@
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
+* [**Question Answering**](#question-answering)
+* [**Dialog Systems**](#dialog-systems)
 * [**Language Modelling**](#language-modelling)
 * [**Coreference**](#coreference)
 * [**Miscellaneous**](#miscellaneous)
