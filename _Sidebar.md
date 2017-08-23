@@ -1,4 +1,4 @@
 [**Vietnamese NLP**](https://github.com/magizbox/underthesea/wiki)
 
-[**English NLP**]()
+[**English NLP**](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications)
 
