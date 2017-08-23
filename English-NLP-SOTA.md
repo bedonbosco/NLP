@@ -19,6 +19,11 @@
 * [**Technique**](#technique)
 * [**Coreference**](#coreference)
 
+# Part-of-Speech tagging
+
+[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`**
+
+
 # Sentiment Analysis
 
 [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`**
