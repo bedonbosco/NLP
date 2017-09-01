@@ -1,6 +1,6 @@
 # Vietnamese NLP Publications
 
-[`⚙ Resources`](https://github.com/magizbox/underthesea/wiki) | **`⟰ Publication`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki) | **`⟰ Publication`**
 
 ## Table of Contents
 
