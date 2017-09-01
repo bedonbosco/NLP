@@ -22,6 +22,11 @@
 * [**Language Generation**](#language-generation)
 * [**Miscellaneous**](#miscellaneous)
 
+### Text Classification
+
+* **Character-level Convolutional Networks for Text
+Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
+
 ### Automatic Summarization
 
 * **Multi-Document Summarization by Maximizing Informative Content-Words** (2007), W. Yih. [[pdf](http://dl.acm.org/citation.cfm?id=1625563)]
