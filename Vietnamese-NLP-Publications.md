@@ -32,7 +32,7 @@
 
 [`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#word-segmentation) | **`⟰ Publication`**
 
-* **Supervised Ensemble Learning for Vietnamese Tokenization** (2017), W Liu
+* **Supervised Ensemble Learning for Vietnamese Tokenization** (2017), W Liu [[link](https://www.researchgate.net/publication/315949021_Supervised_Ensemble_Learning_for_Vietnamese_Tokenization)]
 * **How does Dictionary Size Influence Performance of Vietnamese Word Segmentation?** (2016), W Liu et al.
 * **Unsupervised ensemble learning for Vietnamese multisyllabic word extraction** (2016), W Liu et al.
 * **State-of-the-art Vietnamese word segmentation** (2016), D. Nguyen et al.
