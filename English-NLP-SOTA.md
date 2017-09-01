@@ -1,5 +1,3 @@
-# English NLP SOTA
-
 [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications) | **`☶ SOTA`**
 
 ## Table of Contents
