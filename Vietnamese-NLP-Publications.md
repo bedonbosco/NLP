@@ -26,7 +26,7 @@
 [`⚙ Tool`](https://github.com/magizbox/underthesea/wiki#spelling-correction) | **`⟰ Publication`**
 
 * **A Point-wise Approach for Vietnamese Diacritics Restoration** (2012), Tuan Anh et al. [[link](http://ieeexplore.ieee.org/document/6473728/)]
-* **Vietnamese spelling detection and correction using Bi-gram, Minimum Edit Distance, SoundEx algorithms with some additional heuristics** (RIVF 2008), P. Nguyen et al.
+* **Vietnamese spelling detection and correction using Bi-gram, Minimum Edit Distance, SoundEx algorithms with some additional heuristics** (2008), P. Nguyen et al. [[link](http://ieeexplore.ieee.org/document/4586339/)]
 
 ### Word segmentation
 
