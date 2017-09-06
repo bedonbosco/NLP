@@ -23,16 +23,16 @@
 
 **`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#spelling-correction)
 
-* [suicao/vn-accent-restoration](https://gitlab.com/suicao/vn-accent-restoration) - Vietnamese Text Accent Restoration using Transformer Model *by K. Nguyen (2017)* `python,tensorflow` 
-* [lebinh/vietnamese-accent-model](https://github.com/lebinh/vietnamese-accent-model) - a simple deep learning model to add accent to Vietnamese text *by L. Binh (2016)* `python` 
-* [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone) - based on a point-wise diacritics restoration *by K. Takahashi (2016)* `python`
+* [suicao/vn-accent-restoration](https://gitlab.com/suicao/vn-accent-restoration) - Vietnamese Text Accent Restoration using Transformer Model *by K Nguyen (2017)* `python,tensorflow` 
+* [lebinh/vietnamese-accent-model](https://github.com/lebinh/vietnamese-accent-model) - a simple deep learning model to add accent to Vietnamese text *by L Binh (2016)* `python` 
+* [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone) - based on a point-wise diacritics restoration *by K Takahashi (2016)* `python`
 * [ngthanhtrung/visc](https://github.com/ngthanhtrung/visc) - Vietnamese spelling correction (ViSC) tool *by T. Nguyen (2016)* `java`
 
 ### Word segmentation
 
 **`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#word-segmentation)
 
-* [UETsegmenter](https://github.com/phongnt570/UETsegmenter) - a toolkit for Vietnamese word segmentation *by N. Phong (2016)* `java`
+* [UETsegmenter](https://github.com/phongnt570/UETsegmenter) - a toolkit for Vietnamese word segmentation *by NT Phong (2016)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-speech tagging, dependency parsing *by LH Phuong (2016)* `java`
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by TV Trung (2016)* `python`
 * [vTools](https://github.com/lupanh/vTools) - a simple Vietnamese word segmentation program *by TM Vu et al. (2015)* `python`
