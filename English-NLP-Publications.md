@@ -22,6 +22,8 @@
 
 ### Text Classification
 
+[[pdf]](http://arxiv.org/pdf/1503.02531)
+
 * **Bag of Tricks for Efficient Text Classification** (2016), A. Joulin. [[pdf]](https://arxiv.org/pdf/1607.01759.pdf)
 * **Character-level Convolutional Networks for Text
 Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
