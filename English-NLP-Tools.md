@@ -31,6 +31,12 @@
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford (2010)* `java` 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python` 
 
+### Chunking
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#chunking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#chunking)
+
+* [nltk](https://github.com/nltk/nltk) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
+
 ### Named Entity Recognition
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#named-entity-recognition)
