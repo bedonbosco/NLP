@@ -63,5 +63,5 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 ### Miscellaneous
 
-* **Recent Trends in Deep Learning Based
-Natural Language Processing** (2017), T. Young et al. [[pdf](https://arxiv.org/pdf/1708.02709v4.pdf)]
+* **Recent Trends in Deep Learning Based Natural Language Processing** (2017), T. Young et al. [[pdf](https://arxiv.org/pdf/1708.02709v4.pdf)]
+* **Advances in natural language processing** (2015), J Hirschberg et al. [[pdf](https://cs224d.stanford.edu/papers/advances.pdf)]
