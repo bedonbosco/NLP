@@ -18,6 +18,7 @@
 * [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
+* [**Resources**](#resources)
 * [**Miscellaneous**](#miscellaneous)
 
 ### Text Classification
