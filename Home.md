@@ -43,7 +43,7 @@
 
 ### Part-of-Speech tagging
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#part-of-speech-tagging)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#part-of-speech-tagging)
 
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by TV Trung (2016)* `python`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by LH Phuong (2016)* `java`
@@ -55,7 +55,7 @@
 
 ### Chunking
 
-**`⚙ Tool`** | [`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#chunking)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#chunking)
 
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by TM Vu et al. (2015)* `python`
 * [VietChunker](https://vlsp.hpda.vn/demo/?page=resources) - chunking tool based on CRF *by VLSP (2010)* `java`
