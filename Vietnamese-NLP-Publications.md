@@ -17,9 +17,6 @@
 * [**Machine Translation**](#machine-translation)
 * [**Representation**](#representation)
 * [**Resources**](#resources)
-* [**Website**](#website)
-* [**Technique**](#technique)
-* [**Coreference**](#coreference)
 
 ### Spelling Correction
 
