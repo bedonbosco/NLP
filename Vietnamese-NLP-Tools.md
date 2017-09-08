@@ -151,6 +151,8 @@
 
 ### Miscellaneous
 
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#miscellaneous)
+
 **Websites**
 
 * [VLSP](http://vlsp.org.vn/)
