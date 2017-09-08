@@ -35,7 +35,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#chunking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#chunking)
 
-* [nltk](https://github.com/nltk/nltk) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
+* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 
 ### Named Entity Recognition
 
