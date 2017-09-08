@@ -1,5 +1,3 @@
-# Vietnamese NLP Tools
-
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications)
 
 ## Table of Contents
