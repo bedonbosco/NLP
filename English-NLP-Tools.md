@@ -1,6 +1,6 @@
 # English NLP Tools
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications)
 
 ## Table of Contents
 
