@@ -23,6 +23,8 @@
 
 ### Text Classification
 
+[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification)
+
 * **Bag of Tricks for Efficient Text Classification** (2016), A. Joulin. [[pdf](https://arxiv.org/pdf/1607.01759.pdf)]
 * **Character-level Convolutional Networks for Text
 Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
