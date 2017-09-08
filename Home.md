@@ -6,5 +6,5 @@ Facebook Page: [undertheseanlp](https://www.facebook.com/undertheseanlp/)
 
 Useful resources:
 
-* [**Vietnamese NLP**](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools)
-* [**English NLP**](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools)
+* [Vietnamese NLP](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools)
+* [English NLP](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools)
