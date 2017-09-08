@@ -6,7 +6,7 @@
 * [**Word Segmentation**](#word-segmentation)
 * [**Part-of-Speech Tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
-* [**Dependency Parsing**](#dependency-parsing)
+* [**Parsing**](#parsing)
 * [**Text Classification**](#text-classification)
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
