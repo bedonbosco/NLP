@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [**Spelling Correction**](#spelling-correction)
-* [**Word segmentation**](#word-segmentation)
+* [**Word Segmentation**](#word-segmentation)
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
 * [**Parsing**](#parsing)
