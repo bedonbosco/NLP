@@ -4,7 +4,7 @@
 
 * [**Spelling Correction**](#spelling-correction)
 * [**Word Segmentation**](#word-segmentation)
-* [**Part-Of-Speech tagging**](#part-of-speech-tagging)
+* [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
 * [**Parsing**](#parsing)
 * [**Representation**](#representation)
