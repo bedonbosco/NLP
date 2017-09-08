@@ -11,6 +11,8 @@
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
+* [**Coreference Resolution**](#coreference-resolution)
+* [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
 * [**Representation**](#representation)
