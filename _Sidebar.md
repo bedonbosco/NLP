@@ -1,4 +1,4 @@
-[Home](https://github.com/magizbox/underthesea/wiki)
+[**Home**](https://github.com/magizbox/underthesea/wiki)
 
 [**Vietnamese NLP**](https://github.com/magizbox/underthesea/Vietnamese-NLP-Tools)
 
