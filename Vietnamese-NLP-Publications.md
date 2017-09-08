@@ -11,7 +11,9 @@
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
-* [**Semantic Role Labelling**](#semantic-role-labelling)
+* [**Coreference Resolution**](#coreference-resolution)
+* [**Relationship Extraction**](#relationship-extraction)
+* [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
 * [**Representation**](#representation)
 * [**Resources**](#resources)
@@ -147,9 +149,9 @@
 * **Named Entity Recognition in Vietnamese documents** (2007), T. Tran et al.
 * **Named entity recognition in Vietnamese using classifier voting** (2007), T. Pham et al.
 
-### Semantic Role Labelling
+### Semantic Role Labeling
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#semantic-role-labelling) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#semantic-role-labeling) | **`⟰ Publications`**
 
 * **Building a semantic role labelling system for Vietnamese** (2015), T. Pham et al.
 
