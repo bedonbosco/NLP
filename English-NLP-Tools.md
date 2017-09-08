@@ -21,4 +21,4 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#part-of-speech-tagging)
 
-* [Stanford CoreNLP](hhttps://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford (2010-)* `java` 
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford (2010-)* `java` 
