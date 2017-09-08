@@ -80,6 +80,12 @@
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [gensim](https://radimrehurek.com/gensim/) - Topic modelling for humans *by gensim (2009)* `python` 
 
+### Text Classification
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification)
+
+* [fastText](https://github.com/facebookresearch/fastText) - Library for efficient learning of word representations and sentence classification *by Facebook Research(2017)* `c++,python`
+
 ### Named Entity Recognition
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#named-entity-recognition)
