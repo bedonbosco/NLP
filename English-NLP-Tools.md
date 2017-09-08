@@ -17,9 +17,15 @@
 * [**Resources**](#resources)
 * [**Websites**](#websites)
 
+### Spelling Correction
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#spelling-correction) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#spelling-correction)
+
+* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
+
 ### Word Segmentation
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications##word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#word-segmentation)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#word-segmentation)
 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python` 
 
