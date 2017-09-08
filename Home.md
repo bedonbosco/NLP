@@ -4,6 +4,8 @@ Documentation: [underthesea.readthedocs](https://magizbox-underthesea.readthedoc
 
 Facebook Page: [undertheseanlp](https://www.facebook.com/undertheseanlp/)
 
+Email: <brother.rain.1024@gmail.com> Vu Anh
+
 Useful resources:
 
 * [Vietnamese NLP](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools)
