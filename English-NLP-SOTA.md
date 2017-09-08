@@ -14,8 +14,10 @@
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Coreference Resolution**](#coreference-resolution)
 * [**Relationship Extraction**](#relationship-extraction)
-* [**Semantic Role Labelling**](#semantic-role-labelling)
+* [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
+* [**Question Answering**](#question-answering)
+* [**Language Generation**](#language-generation)
 
 # Part-of-Speech tagging
 
