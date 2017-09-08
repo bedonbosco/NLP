@@ -17,7 +17,7 @@
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
 * [**Resources**](#resources)
-* [**Websites**](#websites)
+* [**Miscellaneous**](#miscellaneous)
 
 ### Spelling Correction
 
