@@ -11,7 +11,9 @@
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
-* [**Semantic Role Labelling**](#semantic-role-labelling)
+* [**Coreference Resolution**](#coreference-resolution)
+* [**Relationship Extraction**](#relationship-extraction)
+* [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
 * [**Representation**](#representation)
 * [**Resources**](#resources)
@@ -97,9 +99,9 @@
 * [polyglot](http://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
 * [ai.vitk.ner](https://github.com/phuonglh/ai.vitk.ner) - Vietnamese Named Entity Recognition *by LH Phuong (Jul 2017)* `scala,java`
 
-### Semantic Role Labelling
+### Semantic Role Labeling
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#semantic-role-labelling)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#semantic-role-labeling)
 
 * [pth1993/vnSRL](https://github.com/pth1993/vnSRL) - tool for Vietnamese Semantic Role Labelling Task *by PT Hoang (2016)* `python`
 
