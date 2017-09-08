@@ -30,3 +30,15 @@
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford (2010)* `java` 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python` 
+
+### Named Entity Recognition
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#named-entity-recognition)
+
+* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
+
+### Representation
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#representation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#representation)
+
+* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
