@@ -7,6 +7,7 @@
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
 * [**Dependency Parsing**](#dependency-parsing)
+* [**Representation**](#representation)
 * [**Text Classification**](#text-classification)
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
@@ -17,7 +18,6 @@
 * [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
 * [**Dialog Systems**](#dialog-systems)
-* [**Representation**](#representation)
 * [**Language Generation**](#language-generation)
 * [**Miscellaneous**](#miscellaneous)
 
