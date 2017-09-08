@@ -42,8 +42,6 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 [`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#sentiment-analysis) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
 
-**`⟰ Publication`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
-
 * **SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News** (2017), M. Pontiki et al. [[pdf](http://andrefreitas.org/papers/preprint_semeval_task05_2017.pdf)]
 * **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S16-1002)]
 * **SemEval-2015 Task 12: Aspect Based Sentiment Analysis** (2015), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S15-2082)]
@@ -54,17 +52,25 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 ### Machine Translation
 
+[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#machine-translation) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation)
+
 * **Attention Is All You Need** (2017), A. Vaswani et al. [[pdf](https://arxiv.org/abs/1706.03762)]
 
 ### Representation
+
+[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#representation) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#representation)
 
 * **Skip-Gram – Zipf + Uniform = Vector Additivity** (2017), I. Mordatch et al. [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1007.pdf)]
 
 ### Language Generation
 
+[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#language-generation) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-generation)
+
 * **Emergence of Grounded Compositional Language in Multi-Agent Populations** (2017), A. Gittens, et al. [[pdf](https://arxiv.org/pdf/1703.04908.pdf)]
 
 ### Question Answering
+
+[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering)
 
 * **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.** (2017), M. Joshi, et al. [[pdf](https://arxiv.org/pdf/1705.03551.pdf)]
 
