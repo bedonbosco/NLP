@@ -50,7 +50,7 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 * **Attention Is All You Need** (2017), A. Vaswani et al. [[pdf](https://arxiv.org/abs/1706.03762)]
 
-### Language Modelling
+### Representation
 
 * **Skip-Gram – Zipf + Uniform = Vector Additivity** (2017), I. Mordatch et al. [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1007.pdf)]
 
