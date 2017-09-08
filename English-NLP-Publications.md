@@ -13,7 +13,6 @@
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Coreference Resolution**](#coreference-resolution)
 * [**Relationship Extraction**](#relationship-extraction)
-* [**Named Entity Recognition**](#named-entity-recognition)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
