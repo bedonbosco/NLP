@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [**Spelling Correction**](#spelling-correction)
-* [**Word segmentation**](#word-segmentation)
-* [**Part-of-Speech tagging**](#part-of-speech-tagging)
+* [**Word Segmentation**](#word-segmentation)
+* [**Part-Of-Speech tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
 * [**Parsing**](#parsing)
 * [**Representation**](#representation)
