@@ -33,20 +33,19 @@
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#word-segmentation) | **`⟰ Publications`**
 
 * **Supervised Ensemble Learning for Vietnamese Tokenization** (2017), W Liu [[link](https://www.researchgate.net/publication/315949021_Supervised_Ensemble_Learning_for_Vietnamese_Tokenization)]
-* **How does Dictionary Size Influence Performance of Vietnamese Word Segmentation?** (2016), W Liu et al.
-* **Unsupervised ensemble learning for Vietnamese multisyllabic word extraction** (2016), W Liu et al.
-* **State-of-the-art Vietnamese word segmentation** (2016), D. Nguyen et al.
-* **A hybrid approach to Vietnamese word segmentation** (2016), T. Nguyen et al.
-* **Identifying reduplicative words for Vietnamese word segmentation** (2015), N.Tran et al.
-* **Probabilistic ensemble learning for vietnamese word segmentation** (2014), W Liu et al.
-* **An effective context-based method for Vietnamese word segmentation** (2012), N. Tran et al.
-* **An Unsupervised Learning and Statistical Approach for Vietnamese Word Recognition and Segmentation** (2010), T. Let et al.
-* **Improving Vietnamese Word Segmentation and POS Tagging using MEM with Various Kinds of Resources** (2010), T. Tran et al.
+* **How does Dictionary Size Influence Performance of Vietnamese Word Segmentation?** (2016), W Liu et al. [[link](http://www.lrec-conf.org/proceedings/lrec2016/pdf/266_Paper.pdf)]
+* **Unsupervised ensemble learning for Vietnamese multisyllabic word extraction** (2016), W Liu et al. [[link](http://ieeexplore.ieee.org/document/7876004/)]
+* **State-of-the-art Vietnamese word segmentation** (2016), D. Nguyen et al. [[link](http://ieeexplore.ieee.org/document/7852619/)]
+* **A hybrid approach to Vietnamese word segmentation** (2016), T. Nguyen et al. [[link](http://ieeexplore.ieee.org/document/7800279/)]
+* **Identifying reduplicative words for Vietnamese word segmentation** (2015), N.Tran et al. [[link](http://ieeexplore.ieee.org/document/7049878/)]
+* **Probabilistic ensemble learning for vietnamese word segmentation** (2014), W Liu et al. [[link](http://dl.acm.org/citation.cfm?doid=2600428.2609477)]
+* **An effective context-based method for Vietnamese word segmentation** (2012), N. Tran et al. [[link](https://goo.gl/gkwj6d)]
+* **An Unsupervised Learning and Statistical Approach for Vietnamese Word Recognition and Segmentation** (2010), T. Let et al. [[link](http://link.springer.com/10.1007/978-3-642-12101-2_21)]
+* **Improving Vietnamese Word Segmentation and POS Tagging using MEM with Various Kinds of Resources** (2010), T. Tran et al. [[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=katDGDYAAAAJ&citation_for_view=katDGDYAAAAJ:u-x6o8ySG0sC)] 
 * **A Hybrid Approach to Vietnamese Word Segmentation Using Part of Speech Tags** (2009), D. Pham et al.
-* **A hybrid approach to word segmentation of Vietnamese texts** (2008), H. Le et al.
-* **Word segmentation of Vietnamese texts : a comparison of approaches** (2008), Q. Dinh et al.
-* **Vietnamese word segmentation with CRFs and SVMs: An investigation** (2006), C. Nguyen et al.
-
+* **A hybrid approach to word segmentation of Vietnamese texts** (2008), H. Le et al. [[link](http://ieeexplore.ieee.org/document/5361713/)] 
+* **Word segmentation of Vietnamese texts : a comparison of approaches** (2008), Q. Dinh et al. [[link](https://hal.inria.fr/inria-00334760/en/)]
+* **Vietnamese word segmentation with CRFs and SVMs: An investigation** (2006), C. Nguyen et al. [[link](https://dspace.wul.waseda.ac.jp/dspace/handle/2065/29084)]
 
 ### Part-of-Speech Tagging
 
