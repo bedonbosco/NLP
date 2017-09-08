@@ -6,7 +6,8 @@
 * [**Word segmentation**](#word-segmentation)
 * [**Part-of-Speech tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
-* [**Dependency Parsing**](#dependency-parsing)
+* [**Parsing**](#parsing)
+* [**Representation**](#representation)
 * [**Text Classification**](#text-classification)
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
@@ -15,8 +16,8 @@
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
-* [**Representation**](#representation)
 * [**Resources**](#resources)
+* [**Miscellaneous**](#miscellaneous)
 
 ### Spelling Correction
 
@@ -25,7 +26,7 @@
 * **A Point-wise Approach for Vietnamese Diacritics Restoration** (2012), Tuan Anh et al. [[link](http://ieeexplore.ieee.org/document/6473728/)]
 * **Vietnamese spelling detection and correction using Bi-gram, Minimum Edit Distance, SoundEx algorithms with some additional heuristics** (2008), P. Nguyen et al. [[link](http://ieeexplore.ieee.org/document/4586339/)]
 
-### Word segmentation
+### Word Segmentation
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#word-segmentation) | **`⟰ Publications`**
 
@@ -45,7 +46,7 @@
 * **Vietnamese word segmentation with CRFs and SVMs: An investigation** (2006), C. Nguyen et al.
 
 
-### Part-of-Speech tagging
+### Part-of-Speech Tagging
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#part-of-speech-tagging) | **`⟰ Publications`**
 
@@ -73,9 +74,9 @@
 * **An empirical study of Vietnamese noun phrase chunking with discriminative sequence models** (2009), L. Nguyen et al.
 * **Constructing a Vietnamese Chunking System** (2008), L. Nguyen et al.
 
-### Dependency Parsing
+### Parsing
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#dependency-parsing) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#parsing) | **`⟰ Publications`**
 
 * **Vietnamese Transition-based Dependency Parsing with Supertag Features** (2016), V. Nguyen et al.
 * **Fast Dependency Parsing Using Distributed Word Representations** (2015), H. Le et al.
