@@ -16,6 +16,7 @@
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
+* [**Language Generation**](#language-generation)
 * [**Resources**](#resources)
 * [**Miscellaneous**](#miscellaneous)
 
