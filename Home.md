@@ -4,7 +4,7 @@ Documentation: [underthesea.readthedocs](https://magizbox-underthesea.readthedoc
 
 Facebook Page: [undertheseanlp](https://www.facebook.com/undertheseanlp/)
 
-Email: <brother.rain.1024@gmail.com> Vu Anh
+Email: Vu Anh <brother.rain.1024@gmail.com>
 
 Useful resources:
 
