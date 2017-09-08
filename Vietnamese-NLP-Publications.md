@@ -1,4 +1,4 @@
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki) | **`⟰ Publication`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki) | **`⟰ Publications`**
 
 ## Table of Contents
 
