@@ -17,6 +17,12 @@
 * [**Resources**](#resources)
 * [**Websites**](#websites)
 
+### Word Segmentation
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications##word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#word-segmentation)
+
+* [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001-)* `python` 
+
 ### Part-of-Speech tagging
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#part-of-speech-tagging)
