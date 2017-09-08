@@ -1,6 +1,4 @@
-# English NLP Tools
-
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA)
 
 ## Table of Contents
 
