@@ -176,3 +176,9 @@
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#resources) | **`⟰ Publications`**
 
 * **Building a Large Syntactically-Annotated Corpus of Vietnamese** (2009), H. Le et al.
+
+### Miscellaneous
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#miscellaneous) | **`⟰ Publications`**
+
+* **Về xử lý tiếng Việt trong công nghệ thông tin** (2005), T. Ho et al.
