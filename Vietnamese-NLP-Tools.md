@@ -149,7 +149,9 @@
 
 * [English-Vietnamese bilingual corpus](http://vlsp.hpda.vn:8080/demo/?page=resources) *by VLSP (2010)* `corpus`
 
-### Websites
+### Miscellaneous
+
+**Websites**
 
 * [VLSP](http://vlsp.org.vn/)
 * [Facebook: Cộng đồng xử lý ngôn ngữ tự nhiên](https://www.facebook.com/groups/vietnlp/)
