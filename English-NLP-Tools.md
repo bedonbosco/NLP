@@ -7,6 +7,7 @@
 * [**Part-of-Speech Tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
 * [**Parsing**](#parsing)
+* [**Representation**](#representation)
 * [**Text Classification**](#text-classification)
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
@@ -15,7 +16,6 @@
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labelling**](#semantic-role-labelling)
 * [**Machine Translation**](#machine-translation)
-* [**Representation**](#representation)
 * [**Resources**](#resources)
 * [**Websites**](#websites)
 
