@@ -72,6 +72,14 @@
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python`
 
+### Representation
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#representation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#representation)
+
+* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [gensim](https://radimrehurek.com/gensim/) - Topic modelling for humans *by gensim (2009)* `python` 
+
 ### Named Entity Recognition
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#named-entity-recognition)
@@ -93,10 +101,3 @@
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
-
-### Representation
-
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#representation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#representation)
-
-* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
