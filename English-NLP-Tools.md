@@ -82,9 +82,9 @@
 
 ### Text Classification
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification)
 
-* [fastText](https://github.com/facebookresearch/fastText) - Library for efficient learning of word representations and sentence classification *by Facebook Research(2017)* `c++,python`
+* [fastText](https://github.com/facebookresearch/fastText) - Library for efficient learning of word representations and sentence classification *by Facebook Research (2016)* `c++,python`
 
 ### Named Entity Recognition
 
