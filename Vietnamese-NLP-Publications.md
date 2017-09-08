@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [**Spelling Correction**](#spelling-correction)
-* [**Word segmentation**](#word-segmentation)
-* [**Part-of-Speech tagging**](#part-of-speech-tagging)
+* [**Word Segmentation**](#word-segmentation)
+* [**Part-of-Speech Tagging**](#part-of-speech-tagging)
 * [**Chunking**](#chunking)
 * [**Parsing**](#parsing)
 * [**Representation**](#representation)
@@ -16,6 +16,8 @@
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
+* [**Question Answering**](#question-answering)
+* [**Language Generation**](#language-generation)
 * [**Resources**](#resources)
 * [**Miscellaneous**](#miscellaneous)
 
