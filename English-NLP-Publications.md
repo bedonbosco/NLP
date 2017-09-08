@@ -17,7 +17,6 @@
 * [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
-* [**Dialog Systems**](#dialog-systems)
 * [**Language Generation**](#language-generation)
 * [**Miscellaneous**](#miscellaneous)
 
