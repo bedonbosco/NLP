@@ -90,6 +90,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#named-entity-recognition)
 
+* [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER/) - Named-entity recognition using neural networks *by Dernoncourt (2017)* `python,tensorflow` 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 
