@@ -37,6 +37,7 @@
 * [UETsegmenter](https://github.com/phongnt570/UETsegmenter) - a toolkit for Vietnamese word segmentation *by NT Phong (2016)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-speech tagging, dependency parsing *by LH Phuong (2016)* `java`
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by TV Trung (2016)* `python`
+* [truongdo/vita](https://github.com/truongdo/vita) - A Toolkit for Vietnamese segmentation, chunking, part of speech tagging and morphological analyzer *by truongdo (2015)* `c++`
 * [vTools](https://github.com/lupanh/vTools) - a simple Vietnamese word segmentation program *by TM Vu et al. (2015)* `python`
 * [manhtai/vietseg](https://github.com/manhtai/vietseg) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by M Tai (2015)* `python`
 * [DongDu](https://github.com/rockkhuya/DongDu) - a fastest and high accuracy word segmentation tool *by LT Anh (2014)* `C++`
@@ -52,6 +53,7 @@
 * [viet-morphological-analysis-svm](https://github.com/kanjirz50/viet-morphological-analysis-svm), [demonstration](http://160.16.58.116/vietnamese/morph) - Vietnamese joint word segmentation and Part-of-Speech tagging based on SVM *by K Takahashi (2016)* `python` 
 * [viet-morphological-analysis-crf](https://github.com/kanjirz50/viet-morphological-analysis-crf), [demonstration](http://160.16.58.116/vietnamese/morph_crf) - Vietnamese joint word segmentation and Part-of-Speech tagging based on CRF *by K Takahashi (2016)* `python`
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by TM Vu et al. (2015)* `python`
+* [truongdo/vita](https://github.com/truongdo/vita) - A Toolkit for Vietnamese segmentation, chunking, part of speech tagging and morphological analyzer *by truongdo (2015)* `c++`
 * [RDRPOSTagger](http://rdrpostagger.sourceforge.net/) - a rule-based part-of-speech and morphological tagging toolkit *by  NQ Dat et al. (2013-2017)* `python`
 * [vnTagger](http://vlsp.hpda.vn:8080/demo/?page=resources) - an automatic part-of-speech tagger for tagging Vietnamese texts *by LH Phuong (2010)* `java`
 
@@ -59,6 +61,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#chunking)
 
+* [truongdo/vita](https://github.com/truongdo/vita) - A Toolkit for Vietnamese segmentation, chunking, part of speech tagging and morphological analyzer *by truongdo (2015)* `c++`
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by TM Vu et al. (2015)* `python`
 * [VietChunker](https://vlsp.hpda.vn/demo/?page=resources) - chunking tool based on CRF *by VLSP (2010)* `java`
 
