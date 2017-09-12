@@ -132,6 +132,10 @@
 
 * [WikTDV: Wiktionary-based Term Definition Vectors](https://github.com/dscarvalho/tdv) - an implementation of the Term Definition Vectors (TDV) method for language representation *by DS Carvalho et al. (2017)* `python`
 
+### Text To Speech
+
+* [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `python`
+
 ### Resources
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#resources)
@@ -166,3 +170,4 @@
 * [Facebook: Cộng đồng xử lý ngôn ngữ tự nhiên](https://www.facebook.com/groups/vietnlp/)
 * [Xử lý tiếng Việt Wiki](http://xltiengviet.wikia.com/wiki/X%E1%BB%AD_l%C3%BD_ti%E1%BA%BFng_Vi%E1%BB%87t_Wiki)
 * [Vietnamese NLP tools, resources and techniques related on Vietnamese](https://github.com/kanjirz50/vnlp-outline)
+
