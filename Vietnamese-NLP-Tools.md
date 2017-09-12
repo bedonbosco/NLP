@@ -19,6 +19,7 @@
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
 * [**Resources**](#resources)
+* [**Automatic Speech Recognition **](#automatic-speech-recognition)
 * [**Miscellaneous**](#miscellaneous)
 
 ### Spelling Correction
