@@ -19,7 +19,8 @@
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
 * [**Resources**](#resources)
-* [**Automatic Speech Recognition**](#automatic-speech-recognition)
+* [**Automatic Speech Recognition (ASR)**](#automatic-speech-recognition)
+* [**Text To Speech (TTS)**](#text-to-speech)
 * [**Miscellaneous**](#miscellaneous)
 
 ### Spelling Correction
