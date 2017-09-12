@@ -134,7 +134,7 @@
 
 ### Text To Speech
 
-* [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `python`
+* [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `perl,bash`
 
 ### Resources
 
