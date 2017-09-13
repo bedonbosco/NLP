@@ -51,11 +51,11 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#part-of-speech-tagging) | **`⟰ Publications`**
 
-* **Vietnamese POS Tagging for Social Media Text** (2016), X. Ngo et al.
-* **A robust transformation-based learning approach using ripple down rules for part-of-speech tagging** (2016), Q. Nguyen et al.
-* **RDRPOSTagger: A Ripple Down Rules-based Part-Of-Speech Tagger** (2014), Q. Nguyen et al.
-* **Ripple Down Rules for Part-of-Speech Tagging** (2011), Q. Nguyen et al.
-* **Two Entropy-Based Methods for Detecting Errors in POS-Tagged Treebank** (2011), P. Nguyen et al.
+* **Vietnamese POS Tagging for Social Media Text** (2016), X. Ngo et al. [[link](https://www.researchgate.net/publication/309176280_Vietnamese_POS_Tagging_for_Social_Media_Text)]
+* **A robust transformation-based learning approach using ripple down rules for part-of-speech tagging** (2016), Q. Nguyen et al. [[link](https://arxiv.org/pdf/1412.4021.pdf)]
+* **RDRPOSTagger: A Ripple Down Rules-based Part-Of-Speech Tagger** (2014), Q. Nguyen et al. [[link](http://www.aclweb.org/anthology/E14-2005)]
+* **Ripple Down Rules for Part-of-Speech Tagging** (2011), Q. Nguyen et al.[[link](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_15)]
+* **Two Entropy-Based Methods for Detecting Errors in POS-Tagged Treebank** (2011), P. Nguyen et al. [[link](http://ieeexplore.ieee.org/document/6063458/?reload=true)]
 * **Improving Vietnamese Word Segmentation and POS Tagging using MEM with Various Kinds of Resources** (2010), T. Tran et al.
 * **A Semi-supervised Learning Method for Vietnamese Part-of-Speech Tagging** (2010), L. Nguyen et al.
 * **An empirical study of maximum entropy approach for part-of-speech tagging of Vietnamese texts** (2010), H. Le et al.
