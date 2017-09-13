@@ -1,4 +1,4 @@
-# Create environment
+# Getting Started
 
 Install gcc g++
 
