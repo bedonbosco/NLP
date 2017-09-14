@@ -137,7 +137,9 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#named-entity-recognition) | **`⟰ Publications`**
 
-* **The Importance of Automatic Syntactic Features in Vietnamese Named Entity Recognition** (2017), T. Pham et al.
+* **An Empirical Study of Discriminative Sequence Labeling Models for Vietnamese Text Processing** (2017), H. Le et al. [[link](https://arxiv.org/abs/1708.09163)]
+* **End-to-end Recurrent Neural Network Models for Vietnamese Named Entity Recognition: Word-level vs. Character-level** (2017), T. Pham et al. [[link](https://arxiv.org/abs/1705.04044)]
+* **The Importance of Automatic Syntactic Features in Vietnamese Named Entity Recognition** (2017), T. Pham et al. [[link](https://arxiv.org/abs/1705.10610)]
 * **Vietnamese Named Entity Recognition using Token Regular Expressions and Bidirectional Inference** (2016), H. Le.
 * **VLSP 2016 Shared Task: Named Entity Recognition** (2016), T. Nguyen et al.
 * **Named Entity Recognition in Vietnamese Text** (2016), T. Le et al.
@@ -153,6 +155,7 @@
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#semantic-role-labeling) | **`⟰ Publications`**
 
 * **Building a semantic role labelling system for Vietnamese** (2015), T. Pham et al. [[link](http://ieeexplore.ieee.org/document/7381877/)]
+* **Building a Semantic Role Annotated Corpus for Vietnamese** (2014), M. Ha et al. [[link](http://mim.hus.vnu.edu.vn/phuonglh/node/67)]
 
 ### Machine Translation
 
