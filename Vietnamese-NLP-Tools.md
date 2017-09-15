@@ -117,6 +117,7 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#machine-translation)
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/Transliteration.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
+* [EVBCorpus](https://sourceforge.net/projects/evbc/) - English-Vietnamese Bilingual Corpus (EVBCorpus) is a collection of English and Vietnamese parallel translations and bitexts *by NG Hung (2016)* `data`
 
 ### Representation
 
