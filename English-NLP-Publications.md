@@ -87,4 +87,4 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 **Website**
 
-* [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp)
+* [Deep Learning for NLP resources. github](https://github.com/andrewt3000/dl4nlp)
