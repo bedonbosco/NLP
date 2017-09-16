@@ -81,4 +81,4 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 * **Recent Trends in Deep Learning Based Natural Language Processing** (2017), T. Young et al. [[pdf](https://arxiv.org/pdf/1708.02709v4.pdf)]
 * **Advances in natural language processing** (2016), J Hirschberg et al. [[pdf](https://cs224d.stanford.edu/papers/advances.pdf)]
-* **Last Words Computational Linguistics and Deep Learning** (2016), C. Manning [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/J/J15/J15-4006.pdf)]
+* **Last Words Computational Linguistics and Deep Learning** (2015), C. Manning [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/J/J15/J15-4006.pdf)]
