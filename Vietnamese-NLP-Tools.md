@@ -135,6 +135,8 @@
 
 ### Text To Speech
 
+* [Smart Meeting Diarization](http://quochoi.vietcap.org/) - Smart Meeting Diarization *by AILab (2017)* `demo`
+* [VOS](https://bitbucket.org/vaisvn/hts_for_vietnamese) - Voice of Southern Vietnam *by AILab (2017)* `demo`
 * [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `perl,bash`
 
 ### Resources
