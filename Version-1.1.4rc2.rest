@@ -1,10 +1,5 @@
 **underthesea** is a suite of open source Python modules, data sets and tutorials supporting research and development in Vietnamese Natural Language Processing.
 
-* Free software: GNU General Public License v3
-* Documentation: `https://underthesea.readthedocs.io <http://underthesea.readthedocs.io/en/latest/>`_
-* Live demo: `underthesea app <http://magizbox.com:9386/#/>`_
-* Facebook Page: `https://www.facebook.com/undertheseanlp/ <https://www.facebook.com/undertheseanlp/>`_
-
 Installation
 ----------------------------------------
 
