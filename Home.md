@@ -6,6 +6,8 @@ Facebook Page: [undertheseanlp](https://www.facebook.com/undertheseanlp/)
 
 Email: Vu Anh <[brother.rain.1024@gmail.com](mailto:brother.rain.1024@gmail.com)>
 
+Usage: [1.1.4rc2](https://github.com/magizbox/underthesea/wiki/Version-1.1.4rc2)
+
 Useful resources:
 
 * [Vietnamese NLP](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools)
