@@ -1,36 +1,3 @@
-========================================
-Under The Sea - Vietnamese NLP Toolkit
-========================================
-
-
-.. image:: https://img.shields.io/pypi/v/underthesea.svg
-        :target: https://pypi.python.org/pypi/underthesea
-
-.. image:: https://img.shields.io/pypi/pyversions/underthesea.svg
-        :target: https://pypi.python.org/pypi/underthesea
-
-.. image:: https://img.shields.io/pypi/l/underthesea.svg
-        :target: https://pypi.python.org/pypi/underthesea
-
-.. image:: https://img.shields.io/travis/magizbox/underthesea.svg
-        :target: https://travis-ci.org/magizbox/underthesea
-
-.. image:: https://readthedocs.com/projects/magizbox-underthesea/badge/?version=latest
-        :target: http://underthesea.readthedocs.io/en/latest/
-        :alt: Documentation Status
-
-.. image:: https://pyup.io/repos/github/magizbox/underthesea/shield.svg
-        :target: https://pyup.io/repos/github/magizbox/underthesea/
-        :alt: Updates
-
-.. image:: https://img.shields.io/badge/chat-on%20facebook-green.svg
-    :target: https://www.facebook.com/undertheseanlp/
-
-|
-
-.. image:: https://raw.githubusercontent.com/magizbox/underthesea/master/logo.jpg
-        :target: https://raw.githubusercontent.com/magizbox/underthesea/master/logo.jpg
-
 **underthesea** is a suite of open source Python modules, data sets and tutorials supporting research and development in Vietnamese Natural Language Processing.
 
 * Free software: GNU General Public License v3
