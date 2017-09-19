@@ -23,14 +23,14 @@
 
 ### Spelling Correction
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#spelling-correction) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#spelling-correction) | **`⟰ Publications`**
 
 * **A Point-wise Approach for Vietnamese Diacritics Restoration** (2012), T. Luu et al. [[link](http://ieeexplore.ieee.org/document/6473728/)]
 * **Vietnamese spelling detection and correction using Bi-gram, Minimum Edit Distance, SoundEx algorithms with some additional heuristics** (2008), P. Nguyen et al. [[link](http://ieeexplore.ieee.org/document/4586339/)]
 
 ### Word Segmentation
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#word-segmentation) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#word-segmentation) | **`⟰ Publications`**
 
 * **Supervised Ensemble Learning for Vietnamese Tokenization** (2017), W Liu [[link](https://www.researchgate.net/publication/315949021_Supervised_Ensemble_Learning_for_Vietnamese_Tokenization)]
 * **How does Dictionary Size Influence Performance of Vietnamese Word Segmentation?** (2016), W Liu et al. [[link](http://www.lrec-conf.org/proceedings/lrec2016/pdf/266_Paper.pdf)]
@@ -49,7 +49,7 @@
 
 ### Part-of-Speech Tagging
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#part-of-speech-tagging) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#part-of-speech-tagging) | **`⟰ Publications`**
 
 * **Vietnamese POS Tagging for Social Media Text** (2016), X. Ngo et al. [[link](https://www.researchgate.net/publication/309176280_Vietnamese_POS_Tagging_for_Social_Media_Text)]
 * **A robust transformation-based learning approach using ripple down rules for part-of-speech tagging** (2016), Q. Nguyen et al. [[link](https://arxiv.org/pdf/1412.4021.pdf)]
@@ -68,7 +68,7 @@
 
 ### Chunking
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#chunking) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#chunking) | **`⟰ Publications`**
 
 * **A Novel Hybrid Approach Incorporating Entity Characteristics for Vietnamese Chunking**, (2016) Y. Liu et al.
 * **Vietnamese Noun Phrase Chunking Based on Conditional Random Fields** (2009), T. Nguyen et al.
@@ -77,7 +77,7 @@
 
 ### Parsing
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#parsing) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#parsing) | **`⟰ Publications`**
 
 * **Vietnamese Transition-based Dependency Parsing with Supertag Features** (2016), V. Nguyen et al.
 * **Fast Dependency Parsing Using Distributed Word Representations** (2015), H. Le et al.
@@ -93,13 +93,13 @@
 
 ### Text Classification
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#text-classification) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#text-classification) | **`⟰ Publications`**
 
 * **A Comparative Study on Vietnamese Text Classification Methods** (2007), C. Vu et al.
 
 ### Automatic Summarization
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#automatic-summarization) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#automatic-summarization) | **`⟰ Publications`**
 
 * **Improving Quality of Vietnamese Text Summarization Based on Sentence Compression** (2016), H. Nguyen et al.
 * **VSoLSCSum: Building a Vietnamese Sentence-Comment Dataset for Social Context Summarization** (2016), M. Nguyen et al.
@@ -108,7 +108,7 @@
 
 ### Sentiment Analysis
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#sentiment-analysis) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#sentiment-analysis) | **`⟰ Publications`**
 
 * **A Neural Network based Model for Determining Overall Aspect Weights in Opinion Mining and Sentiment Analysis** (2016), D. Pham et al.
 * **Cross-domain sentiment classification with word embeddings and canonical correlation analysis** (2016), X. Ngo et al.
@@ -135,7 +135,7 @@
 
 ### Named Entity Recognition
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#named-entity-recognition) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#named-entity-recognition) | **`⟰ Publications`**
 
 * **An Empirical Study of Discriminative Sequence Labeling Models for Vietnamese Text Processing** (2017), H. Le et al. [[link](https://arxiv.org/abs/1708.09163)]
 * **End-to-end Recurrent Neural Network Models for Vietnamese Named Entity Recognition: Word-level vs. Character-level** (2017), T. Pham et al. [[link](https://arxiv.org/abs/1705.04044)]
@@ -152,14 +152,14 @@
 
 ### Semantic Role Labeling
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#semantic-role-labeling) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#semantic-role-labeling) | **`⟰ Publications`**
 
 * **Building a semantic role labelling system for Vietnamese** (2015), T. Pham et al. [[link](http://ieeexplore.ieee.org/document/7381877/)]
 * **Building a Semantic Role Annotated Corpus for Vietnamese** (2014), M. Ha et al. [[link](http://mim.hus.vnu.edu.vn/phuonglh/node/67)]
 
 ### Machine Translation
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#machine-translation) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#machine-translation) | **`⟰ Publications`**
 
 * **A reordering model for Vietnamese-English statistical machine translation using dependency information** (2016), V. Tran et al.
 * **Building a Bidirectional English-Vietnamese Statistical Machine Translation System by Using MOSES** (2016), Q. Nguyen et al.
@@ -171,13 +171,13 @@
 
 ### Representation
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#representation) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#representation) | **`⟰ Publications`**
 
 * **A Vietnamese language model based on Recurrent Neural Network** (2016), V. Tran et al.
 
 ### Resources
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#resources) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#resources) | **`⟰ Publications`**
 
 * **Building a Large Syntactically-Annotated Corpus of Vietnamese** (2009), H. Le et al.
 
