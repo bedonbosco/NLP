@@ -105,7 +105,7 @@
 * [pth1993/vie-ner-lstm](https://github.com/pth1993/vie-ner-lstm) - Vietnamese Named Entity Recognition (vie-ner-lstm) *by PT Hoang (2017)* `python,keras` 
 * [ntson2002/lstm-crf-tagging](https://github.com/ntson2002/lstm-crf-tagging) - nested named entity recognition using multilayer recurrent neural networks *by S Nguyen (2017)* `python,theano`
 * [polyglot](http://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
-* [ai.vitk.ner](https://github.com/phuonglh/ai.vitk.ner) - Vietnamese Named Entity Recognition *by LH Phuong (Jul 2017)* `scala,java`
+* [ai.vitk.ner](https://github.com/phuonglh/ai.vitk.ner) - Vietnamese Named Entity Recognition *by LH Phuong (2017)* `scala,java`
 
 ### Semantic Role Labeling
 
