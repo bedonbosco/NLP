@@ -120,6 +120,7 @@
 
 **Courses**
 
+* [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) *by Oxford (2017)*
 * [CS224S/LINGUIST285](http://web.stanford.edu/class/cs224s/index.html) - Spoken Language Processing *by Stanford (2017)*
 * [cs224u](https://web.stanford.edu/class/cs224u/index.html) - Natural Language Understanding *by Stanford (2016)*
 * [CS224N/Ling 284](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml) - Natural Language Processing *by Stanford (2015)*
