@@ -112,6 +112,8 @@
 
 ### Miscellaneous
 
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#miscellaneous)
+
 **Websites**
 
 * [ACL Home Association for Computational Linguistics](https://www.aclweb.org/portal/)
