@@ -109,3 +109,11 @@
 * [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit *by Facebook AI Research (2017)* `lua,pytorch`
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
+
+### Miscellaneous
+
+**Courses**
+
+* [CS224S/LINGUIST285](http://web.stanford.edu/class/cs224s/index.html) - Spoken Language Processing *by Stanford (2017)*
+* [cs224u](https://web.stanford.edu/class/cs224u/index.html) - Natural Language Understanding *by Stanford (2016)*
+* [CS224N/Ling 284](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml) - Natural Language Processing *by Stanford (2015)*
