@@ -56,6 +56,12 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 [`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#machine-translation) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation)
 
 * **Attention Is All You Need** (2017), A. Vaswani et al. [[pdf](https://arxiv.org/abs/1706.03762)]
+* **On a Strictly Convex IBM Model 1** (2015), A. Simion et al. [[pdf](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP023.pdf)]
+* **Simple extensions for a reparameterised IBM Model 2** (2014), D. Gelling et al. [[pdf](http://people.eng.unimelb.edu.au/tcohn/papers/gelling14acl.pdf)]
+* **A Simple, Fast, and Effective Reparameterization of IBM Model 2** (2013), C. Dyer et al. [[pdf](http://aclweb.org/anthology//N/N13/N13-1073.pdf)]
+* **Association-Based Bilingual Word Alignment** (2005), R. Moore [[pdf](http://www.mt-archive.info/ACL-2005-Moore.pdf)]
+* **Improving IBM Word-Alignment Model 1** (2004), R. Moore [[pdf](http://www.aclweb.org/anthology/P04-1066)]
+* **Why Initialization Matters for IBM Model 1: Multiple Optima and Non-Strict Convexity** (2001), K. Toutanova et al. [[pdf](http://www.aclweb.org/anthology/P11-2081)]
 
 ### Representation
 
