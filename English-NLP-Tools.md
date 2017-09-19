@@ -112,6 +112,10 @@
 
 ### Miscellaneous
 
+**Websites**
+
+* [ACL Home Association for Computational Linguistics](https://www.aclweb.org/portal/)
+
 **Courses**
 
 * [CS224S/LINGUIST285](http://web.stanford.edu/class/cs224s/index.html) - Spoken Language Processing *by Stanford (2017)*
