@@ -11,6 +11,8 @@
 * [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
+* [**Automatic Speech Recognition**](#automatic-speech-recognition)
+* [**Text To Speech**](#text-to-speech)
 
 ### Parsing
 
@@ -64,8 +66,20 @@
 * [Google Cloud Translation API](https://cloud.google.com/translate/) - *by Google (2017)* [`demo`](https://cloud.google.com/translate/) [`api`](https://cloud.google.com/translate/docs/)
 * [IBM Watson: Language Translator](https://www.ibm.com/watson/services/language-translator/) - *by IBM (2017)* [`demo`](https://language-translator-demo.mybluemix.net/) [`api`](https://www.ibm.com/watson/developercloud/language-translator/api/v2/#translate)
 
-### Question Answering**](#question-answering)
+### Question Answering
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#question-answering)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering) | **`⚛ Services`**
 
 * [IBM Watson: Conversation](https://www.ibm.com/watson/services/conversation/) - *by IBM (2017)* [`demo`](https://conversation-demo.mybluemix.net/) [`doc`](https://console.bluemix.net/docs/services/conversation/index.html#about)
+
+### Automatic Speech Recognition
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#automatic-speech-recognition) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#automatic-speech-recognition)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#automatic-speech-recognition) | **`⚛ Services`**
+
+* [IBM Watson: Speech to Text](https://www.ibm.com/watson/services/speech-to-text/) - *by IBM (2017)* [`demo`](https://conversation-demo.mybluemix.net/) [`doc`](https://console.bluemix.net/docs/services/speech-to-text/index.html#about)
+
+### Text To Speech
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-to-speech) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-to-speech)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-to-speech) | **`⚛ Services`**
+
+* [IBM Watson: Text to Speech](https://www.ibm.com/watson/services/text-to-speech/) - *by IBM (2017)* [`demo`](https://text-to-speech-demo.mybluemix.net/) [`doc`](https://console.bluemix.net/docs/services/text-to-speech/index.html)
