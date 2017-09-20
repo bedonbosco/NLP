@@ -9,6 +9,8 @@
 * [**Entity Linking**](#entity-linking)
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
+* [**Machine Translation**](#machine-translation)
+* [**Question Answering**](#question-answering)
 
 ### Parsing
 
@@ -51,6 +53,19 @@
 
 ### Semantic Role Labeling
 
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Toolssemantic-role-labeling) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publicationssemantic-role-labeling)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTAsemantic-role-labeling) | **`⚛ Services`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#semantic-role-labeling) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#semantic-role-labeling)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#semantic-role-labeling) | **`⚛ Services`**
 
 * [IBM Watson: Natural Language Understanding Service](https://www.ibm.com/watson/services/natural-language-understanding/) - *by IBM (2017)* [`demo`](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#semantic-roles)
+
+### Machine Translation
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#machine-translation) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#machine-translation)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation) | **`⚛ Services`**
+
+* [Google Cloud Translation API](https://cloud.google.com/translate/) - *by Google (2017)* [`demo`](https://cloud.google.com/translate/) [`api`](https://cloud.google.com/translate/docs/)
+* [IBM Watson: Language Translator](https://www.ibm.com/watson/services/language-translator/) - *by IBM (2017)* [`demo`](https://language-translator-demo.mybluemix.net/) [`api`](https://www.ibm.com/watson/developercloud/language-translator/api/v2/#translate)
+
+### Question Answering**](#question-answering)
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#question-answering)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering) | **`⚛ Services`**
+
+* [IBM Watson: Conversation](https://www.ibm.com/watson/services/conversation/) - *by IBM (2017)* [`demo`](https://conversation-demo.mybluemix.net/) [`doc`](https://console.bluemix.net/docs/services/conversation/index.html#about)
