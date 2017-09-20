@@ -21,7 +21,7 @@
 
 # Part-of-Speech tagging
 
-[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`** | [`⚛ Services](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#part-of-speech-tagging)
+[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#part-of-speech-tagging)
 
 **[Wall Street Journal Section of Penn Treebank](https://github.com/magizbox/underthesea/wiki/POS-Tagging-Task:-WSJ-PTB)** <sub><sup>8 results collected</sup></sub>
 
