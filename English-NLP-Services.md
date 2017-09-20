@@ -2,16 +2,25 @@
 
 ## Table of Contents
 
+* [**Parsing**](#parsing)
 * [**Text Classification**](#text-classification)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
+* [**Entity Linking**](#entity-linking)
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
+
+### Parsing
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#parsing) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#parsing)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#parsing) | **`⚛ Services`**
+
+* [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - *by Google (2017)* [`demo`](https://cloud.google.com/natural-language/) [`api`](https://cloud.google.com/natural-language/docs/analyzing-syntax)
 
 ### Text Classification
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification) | **`⚛ Services`**
 
+* [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - *by Google (2017)* [`demo`](https://cloud.google.com/natural-language/) [`api`](https://cloud.google.com/natural-language/docs/classifying-text)
 * [IBM Watson: Natural Language Understanding Service](https://www.ibm.com/watson/services/natural-language-understanding/) - *by IBM (2017)* [`demo`](https://natural-language-understanding-demo.mybluemix.net/) [`api`](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#categories)
 
 ### Sentiment Analysis
@@ -25,7 +34,14 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#named-entity-recognition) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#named-entity-recognition) | **`⚛ Services`**
 
+* [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - *by Google (2017)* [`demo`](https://cloud.google.com/natural-language/docs/analyzing-entities)
 * [IBM Watson: Natural Language Understanding Service](https://www.ibm.com/watson/services/natural-language-understanding/) - *by IBM (2017)* [`demo`](https://natural-language-understanding-demo.mybluemix.net/) [`api`](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities)
+
+### Entity Linking
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#entity-linking) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#entity-linking)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#entity-linking) | **`⚛ Services`**
+
+* [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - *by Google (2017)* [`demo`](https://cloud.google.com/natural-language/docs/analyzing-entities)
 
 ### Relationship Extraction
 
