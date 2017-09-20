@@ -1,4 +1,4 @@
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications) | **`☶ SOTA`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services)
 
 ## Table of Contents
 
