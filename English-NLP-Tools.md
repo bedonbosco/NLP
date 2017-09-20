@@ -54,6 +54,7 @@
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford (2010)* `java` 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
+* [EmilStenstrom/rippletagger](https://github.com/EmilStenstrom/rippletagger) - RippleTagger identifies part-of-speech tags *by EmilStenstrom (2016)* `python` 
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python` 
 
 ### Chunking
