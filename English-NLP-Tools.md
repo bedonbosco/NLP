@@ -24,7 +24,7 @@
 
 ### Language Detection
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#language-detection) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-detection) | [`⚛ Services](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#language-detection)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#language-detection) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-detection) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#language-detection)
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 
