@@ -24,19 +24,19 @@
 
 ### Language Detection
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#language-detection) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-detection)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#language-detection) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-detection) | [`⚛ Services](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#language-detection)
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 
 ### Spelling Correction
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#spelling-correction) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#spelling-correction)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#spelling-correction) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#spelling-correction) | [`⚛ Services](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#spelling-correction)
 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 
 ### Word Segmentation
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#word-segmentation)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#word-segmentation) | [`⚛ Services](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#word-segmentation)
 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
@@ -46,7 +46,7 @@
 
 ### Part-of-Speech Tagging
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#part-of-speech-tagging)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#part-of-speech-tagging) | [`⚛ Services](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#part-of-speech-tagging)
 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
