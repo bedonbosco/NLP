@@ -2,7 +2,12 @@
 
 ## Table of Contents
 
-* [**Spelling Correction**](#spelling-correction)
-* [**Word Segmentation**](#word-segmentation)
-* [**Part-of-Speech Tagging**](#part-of-speech-tagging)
-* [**Chunking**](#chunking)
+* [**Sentiment Analysis**](#sentiment-analysis)
+
+### Sentiment Analysis
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#sentiment-analysis) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis) | **`⚛ Services`**
+
+* [Google Cloud Natural Language API](https://cloud.google.com/natural-language/) - *by Google (2017)*
+* [IBM Watson: Natural Language Understanding Service](https://www.ibm.com/watson/services/natural-language-understanding/) - *by IBM (2017)*
+
