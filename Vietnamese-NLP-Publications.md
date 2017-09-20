@@ -32,6 +32,7 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#word-segmentation) | **`⟰ Publications`**
 
+* **A Fast and Accurate Vietnamese Word Segmenter** (2017), Q Nguyen [[pdf](https://arxiv.org/pdf/1709.06307.pdf)]
 * **Supervised Ensemble Learning for Vietnamese Tokenization** (2017), W Liu [[link](https://www.researchgate.net/publication/315949021_Supervised_Ensemble_Learning_for_Vietnamese_Tokenization)]
 * **How does Dictionary Size Influence Performance of Vietnamese Word Segmentation?** (2016), W Liu et al. [[link](http://www.lrec-conf.org/proceedings/lrec2016/pdf/266_Paper.pdf)]
 * **Unsupervised ensemble learning for Vietnamese multisyllabic word extraction** (2016), W Liu et al. [[link](http://ieeexplore.ieee.org/document/7876004/)]
