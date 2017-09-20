@@ -71,12 +71,14 @@
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#question-answering)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering) | **`⚛ Services`**
 
 * [IBM Watson: Conversation](https://www.ibm.com/watson/services/conversation/) - *by IBM (2017)* [`demo`](https://conversation-demo.mybluemix.net/) [`doc`](https://console.bluemix.net/docs/services/conversation/index.html#about)
+* [api.ai](https://api.ai/) - *by API.AI (2010)* [`demo`](https://www.youtube.com/watch?v=nms6o249M8w&index=2&list=PListM28kf0CNUGbLymXwECe8w-lDX4XrW) [`doc`](https://api.ai/docs/getting-started/basics)
 
 ### Automatic Speech Recognition
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#automatic-speech-recognition) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#automatic-speech-recognition)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#automatic-speech-recognition) | **`⚛ Services`**
 
 * [IBM Watson: Speech to Text](https://www.ibm.com/watson/services/speech-to-text/) - *by IBM (2017)* [`demo`](https://speech-to-text-demo.mybluemix.net) [`doc`](https://console.bluemix.net/docs/services/speech-to-text/index.html#about)
+* [Google Cloud Speech API](https://cloud.google.com/speech/) - *by Google (2017)* [`demo`](https://cloud.google.com/speech/) [`doc`](https://cloud.google.com/speech/docs/)
 
 ### Text To Speech
 
