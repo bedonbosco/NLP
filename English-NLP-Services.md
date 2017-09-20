@@ -76,7 +76,7 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#automatic-speech-recognition) | [`⚙ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#automatic-speech-recognition)  | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#automatic-speech-recognition) | **`⚛ Services`**
 
-* [IBM Watson: Speech to Text](https://www.ibm.com/watson/services/speech-to-text/) - *by IBM (2017)* [`demo`](https://conversation-demo.mybluemix.net/) [`doc`](https://console.bluemix.net/docs/services/speech-to-text/index.html#about)
+* [IBM Watson: Speech to Text](https://www.ibm.com/watson/services/speech-to-text/) - *by IBM (2017)* [`demo`](https://speech-to-text-demo.mybluemix.net) [`doc`](https://console.bluemix.net/docs/services/speech-to-text/index.html#about)
 
 ### Text To Speech
 
