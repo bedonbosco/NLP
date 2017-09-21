@@ -166,7 +166,7 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#machine-translation) | **`⟰ Publications`**
 
-* **A reordering model for Vietnamese-English statistical machine translation using dependency information** (2016), V. Tran et al. [[link](http://aunilo.uum.edu.my/Find/Record/vnu.repo.VNU_123-32277]
+* **A reordering model for Vietnamese-English statistical machine translation using dependency information** (2016), V. Tran et al. [[link](http://aunilo.uum.edu.my/Find/Record/vnu.repo.VNU_123-32277)]
 * **Building a Bidirectional English-Vietnamese Statistical Machine Translation System by Using MOSES** (2016), Q. Nguyen et al. [[link](http://www.ijcee.org/vol8/922-D1002.pdf)]
 * **The English-Vietnamese Machine Translation System for IWSLT 2015** (2015), H. Tran et al. [[link](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf)]
 * **French-Vietnamese statistical machine translation combining with chunk alignments** (2013), N. Le et al. 
