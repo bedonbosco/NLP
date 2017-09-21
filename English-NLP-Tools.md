@@ -62,7 +62,7 @@
 
 ### Chunking
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#chunking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#chunking)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#chunking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#chunking) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#chunking)
 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
