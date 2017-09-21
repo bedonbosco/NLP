@@ -61,23 +61,23 @@
 * **RDRPOSTagger: A Ripple Down Rules-based Part-Of-Speech Tagger** (2014), Q. Nguyen et al. [[link](http://www.aclweb.org/anthology/E14-2005)]
 * **Ripple Down Rules for Part-of-Speech Tagging** (2011), Q. Nguyen et al.[[link](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_15)]
 * **Two Entropy-Based Methods for Detecting Errors in POS-Tagged Treebank** (2011), P. Nguyen et al. [[link](http://ieeexplore.ieee.org/document/6063458/?reload=true)]
-* **Improving Vietnamese Word Segmentation and POS Tagging using MEM with Various Kinds of Resources** (2010), T. Tran et al.
-* **A Semi-supervised Learning Method for Vietnamese Part-of-Speech Tagging** (2010), L. Nguyen et al.
-* **An empirical study of maximum entropy approach for part-of-speech tagging of Vietnamese texts** (2010), H. Le et al.
-* **An Experimental Study on Vietnamese POS Tagging** (2009), T. Tran et al.
-* **Improving Vietnamese POS tagging by integrating a rich feature set and Support Vector Machines** (2008), M. Nghiem et al.
-* **Gán nhãn từ loại tiếng Việt dựa trên các phương pháp học máy thống kê** (2008), X. Phan et al.
-* **Gán nhãn từ loại cho tiếng Việt dựa trên văn phong và tính toán xác suất** (2006), Q. Nguyen et al.
-* **A case study of the probabilistic tagger QTAG for Tagging Vietnamese Texts** (2003), T. Nguyen et al.
-* **POS-tagger for English-Vietnamese bilingual corpus** (2003), D. Dinh et al.
+* **Improving Vietnamese Word Segmentation and POS Tagging using MEM with Various Kinds of Resources** (2010), T. Tran et al. [[link](http://www.aclweb.org/anthology/I11-1035)]
+* **A Semi-supervised Learning Method for Vietnamese Part-of-Speech Tagging** (2010), L. Nguyen et al. [[link](https://www.computer.org/csdl/proceedings/kse/2010/4213/00/4213a141-abs.html)]
+* **An empirical study of maximum entropy approach for part-of-speech tagging of Vietnamese texts** (2010), H. Le et al. [[link](https://hal.inria.fr/inria-00526139/document)]
+* **An Experimental Study on Vietnamese POS Tagging** (2009), T. Tran et al.[[link](https://www.researchgate.net/publication/309176280_Vietnamese_POS_Tagging_for_Social_Media_Text)]
+* **Improving Vietnamese POS tagging by integrating a rich feature set and Support Vector Machines** (2008), M. Nghiem et al. [[link](https://www.researchgate.net/publication/4362104_Improving_Vietnamese_POS_tagging_by_integrating_a_rich_feature_set_and_Support_Vector_Machines)]
+* **Gán nhãn từ loại tiếng Việt dựa trên các phương pháp học máy thống kê** (2008), X. Phan et al. [[link](http://www.jaist.ac.jp/~bao/VLSP-text/ICTrda08/ICT08-VLSP-SP83.pdf)]
+* **Gán nhãn từ loại cho tiếng Việt dựa trên văn phong và tính toán xác suất** (2006), Q. Nguyen et al. [[link](http://www.vnulib.edu.vn:8000/dspace/bitstream/123456789/1801/1/sedev0206-02.pdf)]
+* **A case study of the probabilistic tagger QTAG for Tagging Vietnamese Texts** (2003), T. Nguyen et al. [[link](http://www.vietlex.com/xu-li-ngon-ngu/50-A_Case_Study_in_POS_Tagging_of_Vietnamese_Texts)]
+* **POS-tagger for English-Vietnamese bilingual corpus** (2003), D. Dinh et al. [[link](https://www.researchgate.net/publication/228885418_POS-tagger_for_English-Vietnamese_bilingual_corpus)]
 
 ### Chunking
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#chunking) | **`⟰ Publications`**
 
 * **A Novel Hybrid Approach Incorporating Entity Characteristics for Vietnamese Chunking**, (2016) Y. Liu et al.
-* **Vietnamese Noun Phrase Chunking Based on Conditional Random Fields** (2009), T. Nguyen et al.
-* **An empirical study of Vietnamese noun phrase chunking with discriminative sequence models** (2009), L. Nguyen et al.
+* **Vietnamese Noun Phrase Chunking Based on Conditional Random Fields** (2009), T. Nguyen et al. 
+* **An empirical study of Vietnamese noun phrase chunking with discriminative sequence models** (2009), L. Nguyen et al. [[link](http://www.aclweb.org/anthology/W09-3402)]
 * **Constructing a Vietnamese Chunking System** (2008), L. Nguyen et al.
 
 ### Parsing
