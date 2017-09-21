@@ -117,6 +117,7 @@ Tensorflow  *by Google (2017)* `tensorflow`
 * [clab/fast_align](https://github.com/clab/fast_align) - Simple, fast unsupervised word aligner  *by C. Dyer (2013)* `c++` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
+* [stanfordnlp/phrasal](https://github.com/stanfordnlp/phrasal/) - A large-scale statistical machine translation system written in Java *by Stanford (2008)* `java` 
 * [moses](http://www.statmt.org/moses/) - a statistical machine translation system *by Moses (2005)* `c++` 
 
 ### Miscellaneous
