@@ -47,7 +47,7 @@
 * **An effective context-based method for Vietnamese word segmentation** (2012), N. Tran et al. [[link](https://goo.gl/gkwj6d)]
 * **An Unsupervised Learning and Statistical Approach for Vietnamese Word Recognition and Segmentation** (2010), T. Let et al. [[link](http://link.springer.com/10.1007/978-3-642-12101-2_21)]
 * **Improving Vietnamese Word Segmentation and POS Tagging using MEM with Various Kinds of Resources** (2010), T. Tran et al. [[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=katDGDYAAAAJ&citation_for_view=katDGDYAAAAJ:u-x6o8ySG0sC)] 
-* **A Hybrid Approach to Vietnamese Word Segmentation Using Part of Speech Tags** (2009), D. Pham et al.
+* **A Hybrid Approach to Vietnamese Word Segmentation Using Part of Speech Tags** (2009), D. Pham et al. [[link](http://vnu.edu.vn/upload/scopus/232.pdf)] 
 * **A hybrid approach to word segmentation of Vietnamese texts** (2008), H. Le et al. [[link](http://ieeexplore.ieee.org/document/5361713/)] 
 * **Word segmentation of Vietnamese texts : a comparison of approaches** (2008), Q. Dinh et al. [[link](https://hal.inria.fr/inria-00334760/en/)]
 * **Vietnamese word segmentation with CRFs and SVMs: An investigation** (2006), C. Nguyen et al. [[link](https://dspace.wul.waseda.ac.jp/dspace/handle/2065/29084)]
@@ -152,8 +152,8 @@
 * **DSKTLAB-NER: Nested Named Entity Recognition in Vietnamese Text** (2016), T. Nguyen et al.
 * **Named entity recognition in vietnamese text using label propagation** (2013), H. Le et al.
 * **Named Entity Recognition for Vietnamese** (2010), D. Nguyen et al.
-* **Named Entity Recognition in Vietnamese documents** (2007), T. Tran et al.
-* **Named entity recognition in Vietnamese using classifier voting** (2007), T. Pham et al.
+* **Named Entity Recognition in Vietnamese documents** (2007), T. Tran et al. 
+* **Named entity recognition in Vietnamese using classifier voting** (2007), T. Pham et al. 
 
 ### Semantic Role Labeling
 
@@ -166,28 +166,28 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#machine-translation) | **`⟰ Publications`**
 
-* **A reordering model for Vietnamese-English statistical machine translation using dependency information** (2016), V. Tran et al.
-* **Building a Bidirectional English-Vietnamese Statistical Machine Translation System by Using MOSES** (2016), Q. Nguyen et al.
-* **The English-Vietnamese Machine Translation System for IWSLT 2015** (2015), H. Tran et al.
-* **French-Vietnamese statistical machine translation combining with chunk alignments** (2013), N. Le et al.
-* **Phrasal Transfer Model for Vietnamese-English Machine Translation** (2006), M. Le et al.
-* **Dictionaries for English-Vietnamese Machine Translation** (2006), M. Le et al.
-* **Generation of Vietnamese for French-Vietnamese and English- Vietnamese Machine Translation** (2001), D. Nguyen
+* **A reordering model for Vietnamese-English statistical machine translation using dependency information** (2016), V. Tran et al. [[link](http://aunilo.uum.edu.my/Find/Record/vnu.repo.VNU_123-32277]
+* **Building a Bidirectional English-Vietnamese Statistical Machine Translation System by Using MOSES** (2016), Q. Nguyen et al. [[link](http://www.ijcee.org/vol8/922-D1002.pdf)]
+* **The English-Vietnamese Machine Translation System for IWSLT 2015** (2015), H. Tran et al. [[link](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf)]
+* **French-Vietnamese statistical machine translation combining with chunk alignments** (2013), N. Le et al. 
+* **Phrasal Transfer Model for Vietnamese-English Machine Translation** (2006), M. Le et al. [[link](http://www.cs.jhu.edu/~nguyen/share/phrasal-transfer-model-for.pdf)]
+* **Dictionaries for English-Vietnamese Machine Translation** (2006), M. Le et al. 
+* **Generation of Vietnamese for French-Vietnamese and English- Vietnamese Machine Translation** (2001), D. Nguyen [[link](http://dl.acm.org/citation.cfm?id=1117849)]
 
 ### Representation
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#representation) | **`⟰ Publications`**
 
-* **A Vietnamese language model based on Recurrent Neural Network** (2016), V. Tran et al.
+* **A Vietnamese language model based on Recurrent Neural Network** (2016), V. Tran et al. [[link](https://www.slideshare.net/microlife/a-vietnamese-language-model-based-on-recurrent-neural-network-66865054)]
 
 ### Resources
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#resources) | **`⟰ Publications`**
 
-* **Building a Large Syntactically-Annotated Corpus of Vietnamese** (2009), H. Le et al.
+* **Building a Large Syntactically-Annotated Corpus of Vietnamese** (2009), H. Le et al. [[link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.6770&rep=rep1&type=pdf)]
 
 ### Miscellaneous
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki#miscellaneous) | **`⟰ Publications`**
 
-* **Về xử lý tiếng Việt trong công nghệ thông tin** (2005), T. Ho et al.
+* **Về xử lý tiếng Việt trong công nghệ thông tin** (2005), T. Ho et al. [[link](http://www.jaist.ac.jp/~bao/Writings/VLSPwhitepaper%20-%20Final.pdf)]
