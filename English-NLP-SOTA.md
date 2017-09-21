@@ -28,7 +28,7 @@
 
 # Part-of-Speech tagging
 
-[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#part-of-speech-tagging)
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#part-of-speech-tagging) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#part-of-speech-tagging)
 
 **[Wall Street Journal Section of Penn Treebank](https://github.com/magizbox/underthesea/wiki/POS-Tagging-Task:-WSJ-PTB)** <sub><sup>8 results collected</sup></sub>
 
@@ -36,7 +36,7 @@ The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall St
 
 # Sentiment Analysis
 
-[`⟰ Publication`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#sentiment-analysis) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#sentiment-analysis)
 
 **[SemEval-2017 Task 5](https://github.com/magizbox/underthesea/wiki/SemEval-2017-Task-5)** <sub><sup>31 results collected</sup></sub>
 
