@@ -25,9 +25,15 @@
 * [**Text Recognition**](#text-recognition)
 * [**Miscellaneous**](#miscellaneous)
 
+### Representation
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#representation) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#representation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#representation)
+
+* **Skip-Gram – Zipf + Uniform = Vector Additivity** (2017), I. Mordatch et al. [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1007.pdf)]
+
 ### Text Classification
 
-[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification)
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
 
 * **Bag of Tricks for Efficient Text Classification** (2016), A. Joulin. [[pdf](https://arxiv.org/pdf/1607.01759.pdf)]
 * **Character-level Convolutional Networks for Text
@@ -35,7 +41,7 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 ### Automatic Summarization
 
-[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#automatic-summarization) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#automatic-summarization)
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#automatic-summarization) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#automatic-summarization) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#automatic-summarization)
 
 * **Multi-Document Summarization by Maximizing Informative Content-Words** (2007), W. Yih. [[pdf](http://dl.acm.org/citation.cfm?id=1625563)]
 * **A Study of Global Inference Algorithms in Multi-Document Summarization** (2007), R. McDonald. [[pdf](https://people.dsv.su.se/~hercules/articles/Headline%20generation/globsumm.pdf)]
@@ -44,7 +50,7 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 ### Sentiment Analysis
 
-[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#sentiment-analysis) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#sentiment-analysis) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#sentiment-analysis)
 
 * **SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News** (2017), M. Pontiki et al. [[pdf](http://andrefreitas.org/papers/preprint_semeval_task05_2017.pdf)]
 * **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S16-1002)]
@@ -57,7 +63,7 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 ### Machine Translation
 
-[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#machine-translation) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation)
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#machine-translation) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#machine-translation)
 
 * **Attention Is All You Need** (2017), A. Vaswani et al. [[pdf](https://arxiv.org/abs/1706.03762)]
 * **On a Strictly Convex IBM Model 1** (2015), A. Simion et al. [[pdf](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP023.pdf)]
@@ -67,23 +73,17 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 * **Improving IBM Word-Alignment Model 1** (2004), R. Moore [[pdf](http://www.aclweb.org/anthology/P04-1066)]
 * **Why Initialization Matters for IBM Model 1: Multiple Optima and Non-Strict Convexity** (2001), K. Toutanova et al. [[pdf](http://www.aclweb.org/anthology/P11-2081)]
 
-### Representation
+### Question Answering
 
-[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#representation) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#representation)
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#question-answering)
 
-* **Skip-Gram – Zipf + Uniform = Vector Additivity** (2017), I. Mordatch et al. [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1007.pdf)]
+* **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.** (2017), M. Joshi, et al. [[pdf](https://arxiv.org/pdf/1705.03551.pdf)]
 
 ### Language Generation
 
-[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#language-generation) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-generation)
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#language-generation) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-generation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#language-generation)
 
 * **Emergence of Grounded Compositional Language in Multi-Agent Populations** (2017), A. Gittens, et al. [[pdf](https://arxiv.org/pdf/1703.04908.pdf)]
-
-### Question Answering
-
-[`⟰ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | **`⚙ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering)
-
-* **TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.** (2017), M. Joshi, et al. [[pdf](https://arxiv.org/pdf/1705.03551.pdf)]
 
 ### Miscellaneous
 
