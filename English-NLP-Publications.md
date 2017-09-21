@@ -12,6 +12,7 @@
 * [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
+* [**Entity Linking**](#entity-linking)
 * [**Coreference Resolution**](#coreference-resolution)
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
@@ -19,6 +20,9 @@
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
 * [**Resources**](#resources)
+* [**Automatic Speech Recognition**](#automatic-speech-recognition)
+* [**Text To Speech**](#text-to-speech)
+* [**Text Recognition**](#text-recognition)
 * [**Miscellaneous**](#miscellaneous)
 
 ### Text Classification
