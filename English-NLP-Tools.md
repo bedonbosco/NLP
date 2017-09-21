@@ -111,10 +111,13 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#machine-translation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation)
 
 * [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit *by Facebook AI Research (2017)* `lua,pytorch`
-* [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow  *by Google (2017)* `tensorflow`
+* [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for 
+Tensorflow  *by Google (2017)* `tensorflow`
+* [OpenNMT/OpenNMT](https://github.com/opennmt/opennmt) - Open-Source Neural Machine Translation in Torch  *by OpenNMT (2017)* `lua,torch`
 * [clab/fast_align](https://github.com/clab/fast_align) - Simple, fast unsupervised word aligner  *by C. Dyer (2013)* `c++` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
+* [moses](http://www.statmt.org/moses/) - a statistical machine translation system *by Moses (2005)* `c++` 
 
 ### Miscellaneous
 
