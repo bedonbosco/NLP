@@ -40,6 +40,6 @@
 * `JAIST '15` `UET '15` **The JAIST-UET-MITI Machine Translation Systems for IWSLT 2015** (2015), H. Trieu et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_6.pdf)]
 * `SU '15` **Stanford Neural Machine Translation Systems for Spoken Language Domains** (2015), M. Luong et al. [[pdf](https://nlp.stanford.edu/pubs/luuongong-manning-iwslt15.pdf)]
 
-<hr/>
+**See Also**
 
-[☶ Machine Translation](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#machine-translation) > **IWSLT 2015 Evaluation Campaign**
+* [☶ Machine Translation](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#machine-translation) > **IWSLT 2015 Evaluation Campaign**
