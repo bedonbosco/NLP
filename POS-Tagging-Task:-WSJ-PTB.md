@@ -4,7 +4,7 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 
 **SOTA**
 
-| Paper                         | Model                              | WSJ-PTB * |
+| Method                        | Model                              | WSJ-PTB * |
 |-------------------------------|------------------------------------|--------------------------------|
 | (Gimenez and Marquez, 2004)   | SVM with manual feature pattern    | 97.16                          |
 | (Collobert et al., 2011)      | MLP with word embeddings + CRF     | 97.29                          |
