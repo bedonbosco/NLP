@@ -15,14 +15,16 @@
 | UNETI     | 22.93  | 6.0218  | 60.33 | 2015 |
 | BASELINE  | 27.01  | 6.4716  | 58.42 | 2015 |
 
-**Task 2:  News Statements and Headlines**
+**TED: MT Vietnamese-English**
 
-| Method   	| Score         | Year 	|
-|----------	|--------	|------	|
-| Fortia-FBK    | 0.745* 	| 2017 	|
-| RiTUAL-UH  	| 0.744* 	| 2017 	|
-| TakeLab   	| 0.733  	| 2017 	|
-| LancasterA    | 0.732  	| 2017 	|
+| Method    | BLEU   | NIST    | TER   | Year |
+|-----------|--------|---------|-------|------|
+| PJAIT     | 23.46  | 5.7314  | 62.20 | 2015 |
+| UMD       | 21.57  | 5.7831  | 59.19 | 2015 |
+| JAIST     | 21.53  | 5.6413  | 62.35 | 2015 |
+| UNETI     | 20.18  | 5.1443  | 66.33 | 2015 |
+| TUT       | 19.78  | 5.4559  | 62.69 | 2015 |
+| BASELINE  | 24.61  | 5.9259  | 59.32 | 2015 |
 
 **References**
 
