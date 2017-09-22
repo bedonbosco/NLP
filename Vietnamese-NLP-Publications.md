@@ -1,4 +1,4 @@
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools) | **`⟰ Publications`**
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services)
 
 ## Table of Contents
 
