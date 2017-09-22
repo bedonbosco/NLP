@@ -29,7 +29,10 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#machine-translation) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#machine-translation) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#machine-translation)
 
-**[Wall Street Journal Section of Penn Treebank](https://github.com/magizbox/underthesea/wiki/POS-Tagging-Task:-WSJ-PTB)** <sub><sup>8 results collected</sup></sub>
+**[IWSLT 2015 Evaluation Campaign](https://github.com/magizbox/underthesea/wiki/SOTA-Machine-Translation:-IWSLT-2015)** <sub><sup>13 results collected</sup></sub>
 
-The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.
+The IWSLT 2015 Evaluation Campaign featured three tracks: automatic speech recognition (ASR), spoken language
+translation (SLT), and machine translation (MT). For ASR we offered two tasks, on English and German, while
+for SLT and MT a number of tasks were proposed, involving English, German, French, Chinese, Czech, Thai, and Vietnamese.
+
 
