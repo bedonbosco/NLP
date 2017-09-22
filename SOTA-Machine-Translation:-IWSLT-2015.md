@@ -6,7 +6,7 @@
 
 **Datasets**
 
-* `TED Data En-Vi`: 131k sentences (train), 1080 (tst2015) 
+* `TED Data En-Vi`: 131k sentences (train), 1080 sentences (tst2015) 
 
 **TED: MT English-Vietnamese**
 
