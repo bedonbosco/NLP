@@ -169,6 +169,11 @@
 * **A reordering model for Vietnamese-English statistical machine translation using dependency information** (2016), V. Tran et al. [[link](http://aunilo.uum.edu.my/Find/Record/vnu.repo.VNU_123-32277)]
 * **Building a Bidirectional English-Vietnamese Statistical Machine Translation System by Using MOSES** (2016), Q. Nguyen et al. [[link](http://www.ijcee.org/vol8/922-D1002.pdf)]
 * **The English-Vietnamese Machine Translation System for IWSLT 2015** (2015), H. Tran et al. [[link](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf)]
+* **PJAIT Systems for the IWSLT 2015 Evaluation Campaign Enhanced by Comparable Corpora** (2015), K. Wolk et al. [[pdf](https://arxiv.org/pdf/1512.01639.pdf)]
+* **Improvement of Word Alignment Models for Vietnamese-to-English Translation** (2015), A. Axelrod et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_9.pdf)]
+* **The UMD Machine Translation Systems at IWSLT 2015** (2015), T. Nomura et al. [[pdf](https://pdfs.semanticscholar.org/ce1c/bbd597e91e707aa4357a4f44a81d43ddfbbb.pdf)]
+* **The KIT Translation Systems for IWSLT 2015** (2015), T. Ha et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf)]
+* **The JAIST-UET-MITI Machine Translation Systems for IWSLT 2015** (2015), H. Trieu et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_6.pdf)]
 * **French-Vietnamese statistical machine translation combining with chunk alignments** (2013), N. Le et al. 
 * **Phrasal Transfer Model for Vietnamese-English Machine Translation** (2006), M. Le et al. [[link](http://www.cs.jhu.edu/~nguyen/share/phrasal-transfer-model-for.pdf)]
 * **Dictionaries for English-Vietnamese Machine Translation** (2006), M. Le et al. 
