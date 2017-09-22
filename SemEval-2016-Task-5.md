@@ -130,4 +130,4 @@ The [SemEval ABSA task for 2016](http://alt.qcri.org/semeval2016/task5/) (SE-ABS
 
 **See also**
 
-[☶ Sentiment Analysis (State of the art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
+* [☶ Sentiment Analysis (State of the art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
