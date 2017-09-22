@@ -1,11 +1,13 @@
 The [SemEval ABSA task for 2016](http://alt.qcri.org/semeval2016/task5/) (SE-ABSA16) gives the opportunity to participants to further experiment with English data (reviews) from the domains of SE-ABSA15 (laptops, restaurants, hotels) by providing new test datasets. In addition, SE-ABSA16 will also provide datasets in other than English languages. For each domain (e.g. restaurants) a common set of annotation guidelines will be used across all languages. Furthermore, SE-ABSA16 includes text-level annotations along with a suitable evaluation methodology.
 
-**Datasets**
+## Datasets
 
 39 datasets: 19 for training, 20 for testing
 
 * 7 domains: restaurants (RES), laptops (LAPT), mobile phones (PHNS), digital cameras (CAME), hotels (HOTE) and museums (MUSE), telecommunication (TELC)
 * 8 languages: English (EN), Arabic (AR), Chinese (CH), Dutch (DU), French (FR), Russian (RU), Spanish (ES) and Turkish (TU)
+
+## State of The Art
 
 **Subtask 1: Sentence-level ABSA**
 
@@ -120,8 +122,12 @@ The [SemEval ABSA task for 2016](http://alt.qcri.org/semeval2016/task5/) (SE-ABS
   </tr>
 </table>
 
-**References**
+## References
 
 * **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S16-1002)]
 * **NLANGP at SemEval-2016 Task 5: Improving Aspect Based Sentiment Analysis using Neural Network Features** (2016), Z Toh et al. [[pdf](http://www.aclweb.org/anthology/S16-1045)]
 * **AUEB-ABSA at SemEval-2016 Task 5: Ensembles of Classifiers and Embeddings for Aspect Based Sentiment Analysis** (2016), D. Xenos et al. [[pdf](http://www.aclweb.org/anthology/S16-1050)]
+
+**See also**
+
+[☶ Sentiment Analysis (State of the art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
