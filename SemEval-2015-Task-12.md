@@ -1,6 +1,6 @@
 [SemEval-2015 Task 12](http://alt.qcri.org/semeval2015/task12/), a continuation of SemEval-2014 Task 4, aimed to foster research beyond sentence- or text-level sentiment classification towards Aspect Based Sentiment Analysis. The goal is to identify *opinions expressed* about *specific entities* (e.g., laptops) and *their aspects* (e.g., price). The task provided manually annotated reviews in three domains (restaurants, laptops and hotels), and a common evaluation procedure. It attracted 93 submissions from 16 teams.
 
-**Dataset**
+## Datasets
 
 * `Laptops` (train: 277 review texts, test: 173 review texts)
 
@@ -9,6 +9,8 @@ Aspect Categories: 23 entity labels (LAPTOP, DISPLAY, KEYBOARD, MOUSE, MOTHERBOA
 * `Restaurants` (train: 254 review texts, test: 96 review texts)
 
 Aspect Categories: 6 entity labels (RESTAURANT, FOOD, DRINKS, AMBIENCE, SERVICE, LOCATION), 5 attribute labels (GENERAL, PRICES, QUALITY, STYLE & OPTIONS, MISCELLANEOUS)
+
+## Results
 
 **Subtask: Aspect category identification slot**
 
@@ -78,6 +80,10 @@ Dataset: *Hotels*
 | EliXa  | 79.64  | 2015 |
 | sentiue | 78.76  | 2015 |
 
-**References**
+## References
 
 * **NLANGP: Supervised Machine Learning System for Aspect Category Classification and Opinion Target Extraction** (2015), Z Toh et al. [[pdf](http://www.aclweb.org/anthology/S15-2083)]
+
+**See Also**
+
+* [☶ Sentiment Analysis (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
