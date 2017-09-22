@@ -39,6 +39,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#word-segmentation)
 
+* [pth1993/NNVLP](https://github.com/pth1993/NNVLP) - A Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `python,bash` [`demo`](http://nnvlp.org/)
 * [datquocnguyen/RDRsegmenter](https://github.com/phongnt570/UETsegmenter) - A Fast and Accurate Vietnamese Word Segmenter *by NQ Dat (2017)* `java`
 * [UETsegmenter](https://github.com/phongnt570/UETsegmenter) - a toolkit for Vietnamese word segmentation *by NT Phong (2016)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-speech tagging, dependency parsing *by LH Phuong (2016)* `java`
