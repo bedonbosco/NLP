@@ -29,6 +29,6 @@
 * **IITP at SemEval-2017 Task 5: An Ensemble of Deep Learning and Feature Based Models for Financial Sentiment Analysis** (2017), D. Ghosal et al. [[pdf](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval152.pdf)]
 * **SSN MLRG1 at SemEval-2017 Task 5: Fine-Grained Sentiment Analysis Using Multiple Kernel Gaussian Process Regression Model** (2017), SA. Deborah et al. [[pdf](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval139.pdf)]
 
-<hr>
+**See Also**
 
-[☶ Sentiment Analysis](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis) > **SemEval-2017 Task 5**
+* [☶ Sentiment Analysis](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
