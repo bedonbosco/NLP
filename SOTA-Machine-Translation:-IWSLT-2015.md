@@ -1,10 +1,5 @@
-[☶ Machine Translation](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#machine-translation) > **IWSLT 2015 Evaluation Campaign**
-
-
-
 [IWSLT 2015](http://workshop2015.iwslt.org/): The IWSLT 2015 Evaluation Campaign featured three tracks: automatic speech recognition (ASR), spoken language translation (SLT), and machine translation (MT). For ASR we offered two tasks, on English and German, while for SLT and MT a number of tasks were proposed, involving English, German, French, Chinese, Czech, Thai, and Vietnamese.
 
-<hr/>
 
 ## Datasets
 
@@ -44,3 +39,7 @@
 * `KIT '15` **The KIT Translation Systems for IWSLT 2015** (2015), T. Ha et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf)]
 * `JAIST '15` `UET '15` **The JAIST-UET-MITI Machine Translation Systems for IWSLT 2015** (2015), H. Trieu et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_6.pdf)]
 * `SU '15` **Stanford Neural Machine Translation Systems for Spoken Language Domains** (2015), M. Luong et al. [[pdf](https://nlp.stanford.edu/pubs/luuongong-manning-iwslt15.pdf)]
+
+<hr/>
+
+[☶ Machine Translation](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#machine-translation) > **IWSLT 2015 Evaluation Campaign**
