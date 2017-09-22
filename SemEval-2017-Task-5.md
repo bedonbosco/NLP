@@ -31,4 +31,4 @@
 
 **See Also**
 
-* [☶ Sentiment Analysis](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
+* [☶ Sentiment Analysis (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
