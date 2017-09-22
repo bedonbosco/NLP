@@ -39,7 +39,6 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#word-segmentation)
 
-* [pth1993/NNVLP](https://github.com/pth1993/NNVLP) - A Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `python,bash` [`demo`](http://nnvlp.org/)
 * [datquocnguyen/RDRsegmenter](https://github.com/phongnt570/UETsegmenter) - A Fast and Accurate Vietnamese Word Segmenter *by NQ Dat (2017)* `java`
 * [UETsegmenter](https://github.com/phongnt570/UETsegmenter) - a toolkit for Vietnamese word segmentation *by NT Phong (2016)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-speech tagging, dependency parsing *by LH Phuong (2016)* `java`
@@ -51,10 +50,11 @@
 * [Roy_VnTokenizer](https://github.com/roy-a/Roy_VnTokenizer) - Vietnamese tokenizer (Maximum Matching and CRF) *by A Roy (2014)* `python`
 * [vnTokenizer](http://vlsp.hpda.vn:8080/demo/?page=resources) -  an automatic tokenizer for segmenting Vietnamese texts into lexical units *by LH Phuong (2008)* `java`
 
-### Part-of-Speech tagging
+### Part-of-Speech Tagging
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#part-of-speech-tagging)
 
+* [pth1993/NNVLP](https://github.com/pth1993/NNVLP) - A Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `python,bash` [`demo`](http://nnvlp.org/)
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by TV Trung (2016)* `python`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by LH Phuong (2016)* `java`
 * [viet-morphological-analysis-svm](https://github.com/kanjirz50/viet-morphological-analysis-svm), [demonstration](http://160.16.58.116/vietnamese/morph) - Vietnamese joint word segmentation and Part-of-Speech tagging based on SVM *by K Takahashi (2016)* `python` 
@@ -68,6 +68,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#chunking)
 
+* [pth1993/NNVLP](https://github.com/pth1993/NNVLP) - A Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `python,bash` [`demo`](http://nnvlp.org/)
 * [truongdo/vita](https://github.com/truongdo/vita) - A Toolkit for Vietnamese segmentation, chunking, part of speech tagging and morphological analyzer *by truongdo (2015)* `c++`
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by TM Vu et al. (2015)* `python`
 * [VietChunker](https://vlsp.hpda.vn/demo/?page=resources) - chunking tool based on CRF *by VLSP (2010)* `java`
@@ -105,7 +106,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#named-entity-recognition)
 
-* [NNVLP](http://nnvlp.org/) - Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `demo`
+* [pth1993/NNVLP](https://github.com/pth1993/NNVLP) - A Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `python,bash` [`demo`](http://nnvlp.org/)
 * [pth1993/vie-ner-lstm](https://github.com/pth1993/vie-ner-lstm) - Vietnamese Named Entity Recognition (vie-ner-lstm) *by PT Hoang (2017)* `python,keras` 
 * [ntson2002/lstm-crf-tagging](https://github.com/ntson2002/lstm-crf-tagging) - nested named entity recognition using multilayer recurrent neural networks *by S Nguyen (2017)* `python,theano`
 * [polyglot](http://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
