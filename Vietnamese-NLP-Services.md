@@ -35,19 +35,19 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#word-segmentation) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#word-segmentation)| **`⚛ Services`** 
 
-* [OpenFPT: Vitk](hhttp://doc.openfpt.vn/#vitk) - *by FPT (2017)* [`doc`](http://doc.openfpt.vn/#vitk) [`demo`](http://vitkdemo.openfpt.vn/)
+* [OpenFPT: Vitk](http://doc.openfpt.vn/#vitk) - *by FPT (2017)* [`doc`](http://doc.openfpt.vn/#vitk) [`demo`](http://vitkdemo.openfpt.vn/)
 
 ### Part-of-Speech Tagging
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#part-of-speech-tagging) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#part-of-speech-tagging) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#part-of-speech-tagging)| **`⚛ Services`** 
 
-* [OpenFPT: Vitk](hhttp://doc.openfpt.vn/#vitk) - *by FPT (2017)* [`doc`](http://doc.openfpt.vn/#vitk) [`demo`](http://vitkdemo.openfpt.vn/)
+* [OpenFPT: Vitk](http://doc.openfpt.vn/#vitk) - *by FPT (2017)* [`doc`](http://doc.openfpt.vn/#vitk) [`demo`](http://vitkdemo.openfpt.vn/)
 
 ### Parsing
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#parsing) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#parsing) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#parsing)| **`⚛ Services`** 
 
-* [OpenFPT: Vitk](hhttp://doc.openfpt.vn/#vitk) - *by FPT (2017)* [`doc`](http://doc.openfpt.vn/#vitk) [`demo`](http://vitkdemo.openfpt.vn/)
+* [OpenFPT: Vitk](http://doc.openfpt.vn/#vitk) - *by FPT (2017)* [`doc`](http://doc.openfpt.vn/#vitk) [`demo`](http://vitkdemo.openfpt.vn/)
 
 ### Text Classification
 
