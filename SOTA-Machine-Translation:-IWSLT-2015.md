@@ -6,7 +6,7 @@
 
 **TED: MT English-Vietnamese**
 
-| System    | BLEU   | NIST    | TER   | Year |
+| Method    | BLEU   | NIST    | TER   | Year |
 |-----------|--------|---------|-------|------|
 | PJAIT     | 28.39  | 6.6650  | 56.01 | 2015 |
 | JAIST     | 28.17  | 6.7092  | 55.84 | 2015 |
