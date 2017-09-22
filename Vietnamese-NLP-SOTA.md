@@ -29,7 +29,7 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#machine-translation) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#machine-translation) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#machine-translation)
 
-**[IWSLT 2015 Evaluation Campaign](https://github.com/magizbox/underthesea/wiki/SOTA-Machine-Translation:-IWSLT-2015)** <sub><sup>13 results collected</sup></sub>
+**[IWSLT 2015 Evaluation Campaign](https://github.com/magizbox/underthesea/wiki/SOTA-Machine-Translation:-IWSLT-2015)** <sub><sup>12 results collected</sup></sub>
 
 The IWSLT 2015 Evaluation Campaign featured three tracks: automatic speech recognition (ASR), spoken language
 translation (SLT), and machine translation (MT). For ASR we offered two tasks, on English and German, while
