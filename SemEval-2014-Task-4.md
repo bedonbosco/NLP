@@ -1,9 +1,12 @@
 [SemEval 2014 Task 4](http://alt.qcri.org/semeval2014/task4/): Sentiment analysis is increasingly viewed as a vital task both from an academic and a commercial standpoint. The majority of current approaches, however, attempt to *detect the overall polarity* of a sentence, paragraph, or text span, regardless of the entities mentioned (e.g., laptops, restaurants) and *their aspects* (e.g., battery, screen; food, service). By contrast, this task is concerned with *aspect based sentiment analysis* (ABSA), where the goal is to *identify the aspects* of given target entities and the sentiment expressed towards each aspect. Datasets consisting of customer reviews with human-authored annotations identifying the mentioned aspects of the target entities and the sentiment polarity of each aspect will be provided.
 
-**Dataset**
+## Datasets
 
 * `Laptops` (train: 3045 sentences, test: 800 sentences)
 * `Restaurants` (train: 3041 sentences, test: 800 sentences)
+
+
+## Results
 
 **Subtask: Aspect term extraction**
 
@@ -66,3 +69,7 @@ Dataset: `Restaurants`
 | XRCE   	| 78.14* 	| 2014 	|
 | UNITOR   	| 76.29 	| 2014 	|
 | SAP_RI   	| 75.6  	| 2014 	|
+
+**See Also**
+
+* [☶ Sentiment Analysis (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
