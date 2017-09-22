@@ -4,7 +4,7 @@
 
 [IWSLT 2015](http://workshop2015.iwslt.org/): The IWSLT 2015 Evaluation Campaign featured three tracks: automatic speech recognition (ASR), spoken language translation (SLT), and machine translation (MT). For ASR we offered two tasks, on English and German, while for SLT and MT a number of tasks were proposed, involving English, German, French, Chinese, Czech, Thai, and Vietnamese.
 
-**Datasets**
+### Datasets
 
 * `TED Data En-Vi`: 131k sentences (train), 1080 sentences (tst2015) 
 
@@ -30,7 +30,7 @@
 | TUT       | 19.78  | 5.4559  | 62.69 | 2015 |
 | BASELINE  | 24.61  | 5.9259  | 59.32 | 2015 |
 
-**References**
+### References
 
 * `Task Description` **The IWSLT 2015 Evaluation Campaign** (2015), M. Cettolo et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_0.pdf)]
 * `UNETI '15` **The English-Vietnamese Machine Translation System for IWSLT 2015** (2015), H. Tran et al. [[link](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf)]
