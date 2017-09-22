@@ -32,6 +32,11 @@
 
 **References**
 
-* **ECNU at SemEval-2017 Task 5: An Ensemble of Regression Algorithms with Effective Features for Fine-Grained Sentiment Analysis in Financial Domain** (2017), M. Jiang et al. [[pdf](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval152.pdf)]
-* **IITP at SemEval-2017 Task 5: An Ensemble of Deep Learning and Feature Based Models for Financial Sentiment Analysis** (2017), D. Ghosal et al. [[pdf](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval152.pdf)]
-* **SSN MLRG1 at SemEval-2017 Task 5: Fine-Grained Sentiment Analysis Using Multiple Kernel Gaussian Process Regression Model** (2017), SA. Deborah et al. [[pdf](http://nlp.arizona.edu/SemEval-2017/pdf/SemEval139.pdf)]
+* `task` **The IWSLT 2015 Evaluation Campaign** (2015), M. Cettolo et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_0.pdf)]
+* **The English-Vietnamese Machine Translation System for IWSLT 2015** (2015), H. Tran et al. [[link](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_3.pdf)]
+* **PJAIT Systems for the IWSLT 2015 Evaluation Campaign Enhanced by Comparable Corpora** (2015), K. Wolk et al. [[pdf](https://arxiv.org/pdf/1512.01639.pdf)]
+* **Improvement of Word Alignment Models for Vietnamese-to-English Translation** (2015), A. Axelrod et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_9.pdf)]
+* **The UMD Machine Translation Systems at IWSLT 2015** (2015), T. Nomura et al. [[pdf](https://pdfs.semanticscholar.org/ce1c/bbd597e91e707aa4357a4f44a81d43ddfbbb.pdf)]
+* **The KIT Translation Systems for IWSLT 2015** (2015), T. Ha et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf)]
+* **The JAIST-UET-MITI Machine Translation Systems for IWSLT 2015** (2015), H. Trieu et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_6.pdf)]
+* **Stanford Neural Machine Translation Systems for Spoken Language Domains** (2015), M. Luong et al. [[pdf](https://nlp.stanford.edu/pubs/luuongong-manning-iwslt15.pdf)]
