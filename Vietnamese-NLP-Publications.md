@@ -180,6 +180,8 @@
 * **The UMD Machine Translation Systems at IWSLT 2015** (2015), T. Nomura et al. [[pdf](https://pdfs.semanticscholar.org/ce1c/bbd597e91e707aa4357a4f44a81d43ddfbbb.pdf)]
 * **The KIT Translation Systems for IWSLT 2015** (2015), T. Ha et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_17.pdf)]
 * **The JAIST-UET-MITI Machine Translation Systems for IWSLT 2015** (2015), H. Trieu et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_6.pdf)]
+* **Stanford Neural Machine Translation Systems for Spoken Language Domains** (2015), M. Luong et al. [[pdf](https://nlp.stanford.edu/pubs/luuongong-manning-iwslt15.pdf)]
+* **The IWSLT 2015 Evaluation Campaign** (2015), M. Cettolo et al. [[pdf](http://workshop2015.iwslt.org/downloads/IWSLT_2015_EP_0.pdf)]
 * **French-Vietnamese statistical machine translation combining with chunk alignments** (2013), N. Le et al. 
 * **Phrasal Transfer Model for Vietnamese-English Machine Translation** (2006), M. Le et al. [[link](http://www.cs.jhu.edu/~nguyen/share/phrasal-transfer-model-for.pdf)]
 * **Dictionaries for English-Vietnamese Machine Translation** (2006), M. Le et al. 
