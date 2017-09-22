@@ -17,8 +17,8 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 
 *: per-token accuracy %
 
-<hr>
+**See Also**
 
-[☶ Part-of-Speech Tagging](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#part-of-speech-tagging) > **Wall Street Journal Section of Penn Treebank**
+* [☶ Part-of-Speech Tagging (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#part-of-speech-tagging)
 
 
