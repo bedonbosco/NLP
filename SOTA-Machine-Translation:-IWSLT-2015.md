@@ -42,4 +42,4 @@
 
 **See Also**
 
-* [☶ Machine Translation](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#machine-translation) > **IWSLT 2015 Evaluation Campaign**
+* [☶ Machine Translation (State of The Art)](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#machine-translation) 
