@@ -31,4 +31,4 @@
 
 <hr>
 
-[☶ Sentiment Analysis](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis) > **SemEval-2017 Task 5 **
+[☶ Sentiment Analysis](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis) > **SemEval-2017 Task 5**
