@@ -14,6 +14,8 @@ Theo facebook trên trang [facebook business](https://www.facebook.com/business/
 
 **Financial services**: Lĩnh vực tài chính
 
+Credit unions, banks (ngân hàng), credit-card companies, insurance companies, accountancy companies, consumer-finance companies, stock brokerages, investment funds, individual managers and some government-sponsored enterprises
+
 **Gaming**: Lĩnh vực trò chơi điện tử
 
 **Government and politics**: Lĩnh vực chính phủ
