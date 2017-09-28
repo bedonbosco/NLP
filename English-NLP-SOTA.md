@@ -13,6 +13,7 @@
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Entity Linking**](#entity-linking)
+* [**Semantics**](#semantics)
 * [**Coreference Resolution**](#coreference-resolution)
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
@@ -24,7 +25,6 @@
 * [**Text To Speech**](#text-to-speech)
 * [**Text Recognition**](#text-recognition)
 * [**Miscellaneous**](#miscellaneous)
-
 
 # Part-of-Speech Tagging
 
