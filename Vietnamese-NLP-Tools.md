@@ -13,7 +13,7 @@
 * [**Sentiment Analysis**](#sentiment-analysis)
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Entity Linking**](#entity-linking)
-* [**Coreference Resolution**](#coreference-resolution)
+* [**Semantics**](#semantics)* [**Coreference Resolution**](#coreference-resolution)
 * [**Relationship Extraction**](#relationship-extraction)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
 * [**Machine Translation**](#machine-translation)
@@ -24,6 +24,7 @@
 * [**Text To Speech**](#text-to-speech)
 * [**Text Recognition**](#text-recognition)
 * [**Miscellaneous**](#miscellaneous)
+
 
 ### Spelling Correction
 
