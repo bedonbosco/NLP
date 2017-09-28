@@ -62,6 +62,12 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 * **Opinion mining and sentiment analysis** (2008), B. Pang et al. [[book](http://dl.acm.org/citation.cfm?id=1454712)]
 * **Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews** (2002), PD. Turney. [[pdf](https://arxiv.org/pdf/cs/0212032)]
 
+### Semantics
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#semantics) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#semantics) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantics)
+
+* **Abstract Meaning Representation for Sembanking** (2013), L. Banarescu et al. [[pdf](http://www.aclweb.org/anthology/W13-2322)]
+
 ### Machine Translation
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#machine-translation) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#machine-translation)
