@@ -66,7 +66,7 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#semantics) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#semantics) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantics)
 
-* **Abstract Meaning Representation for Sembanking** (2013), L. Banarescu et al. [[pdf](http://www.aclweb.org/anthology/W13-2322)]
+* **Abstract Meaning Representation for Sembanking** (2013), L. Banarescu et al. [[pdf](http://www.aclweb.org/anthology/W13-2322)] `amr`
 * **OntoNotes Release 5.0 with OntoNotes DB Tool v0.999 beta** (2012), R. Weischedel, et al. [[pdf](https://catalog.ldc.upenn.edu/docs/LDC2013T19/OntoNotes-Release-5.0.pdf)]
 * **OntoNotes: A Unified Relational Semantic Representation** (2007), S. Pradhan et al. [[pdf](http://cemantix.org/papers/pradhan-icsc-2007-ontonotes.pdf)]
 * **A Large-scale Classification of English Verbs** (2007), K. Kipper et al. [[pdf](http://verbs.colorado.edu/~kipper/Papers/lrec.pdf)] `verbnet`
