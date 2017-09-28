@@ -67,7 +67,7 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#semantics) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#semantics) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantics)
 
 * **Abstract Meaning Representation for Sembanking** (2013), L. Banarescu et al. [[pdf](http://www.aclweb.org/anthology/W13-2322)]
-* **OntoNotes Release 5.0 with OntoNotes DB Tool v0.999 beta ** (2012), R. Weischedel, et al. [[pdf](https://catalog.ldc.upenn.edu/docs/LDC2013T19/OntoNotes-Release-5.0.pdf)]
+* **OntoNotes Release 5.0 with OntoNotes DB Tool v0.999 beta** (2012), R. Weischedel, et al. [[pdf](https://catalog.ldc.upenn.edu/docs/LDC2013T19/OntoNotes-Release-5.0.pdf)]
 * **OntoNotes: A Unified Relational Semantic Representation** (2007), S. Pradhan et al. [[pdf](http://cemantix.org/papers/pradhan-icsc-2007-ontonotes.pdf)]
 * **A Large-scale Classification of English Verbs** (2007), K. Kipper et al. [[pdf](http://verbs.colorado.edu/~kipper/Papers/lrec.pdf)] `verbnet`
 * **The Proposition Bank: An Annotated Corpus of Semantic Roles** (2005), M. Palmer et al. [[pdf](http://delivery.acm.org/10.1145/1130000/1122628/s4.pdf?ip=118.70.116.7&id=1122628&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=808926626&CFTOKEN=58857296&__acm__=1506567431_15536eaff6d2ef3a7f2572e49eeaca6d)] `propbank`
