@@ -107,11 +107,17 @@
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python`
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
 
+### Semantics
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#semantics) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#semantics) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantics)
+
+* [snowblink14/smatch](https://github.com/snowblink14/smatch/) - Smatch tool: evaluation of AMR semantic structures *by snowblink14 (2016)* `python`
+
 ### Machine Translation
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#machine-translation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#machine-translation)
 
-* [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit *by Facebook AI Research (2017)* `lua,pytorch`
+* [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit *by Facebook AI Research (2016)* `lua,pytorch`
 * [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for 
 Tensorflow  *by Google (2017)* `tensorflow`
 * [OpenNMT/OpenNMT](https://github.com/opennmt/opennmt) - Open-Source Neural Machine Translation in Torch  *by OpenNMT (2017)* `lua,torch`
