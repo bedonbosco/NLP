@@ -9,8 +9,8 @@
 * [**Parsing**](#parsing)
 * [**Representation**](#representation)
 * [**Text Classification**](#text-classification)
-* [**Automatic Summarization**](#automatic-summarization)
 * [**Sentiment Analysis**](#sentiment-analysis)
+* [**Automatic Summarization**](#automatic-summarization)
 * [**Named Entity Recognition**](#named-entity-recognition)
 * [**Entity Linking**](#entity-linking)
 * [**Semantics**](#semantics)
@@ -40,15 +40,6 @@
 * **Character-level Convolutional Networks for Text
 Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
-### Automatic Summarization
-
-[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#automatic-summarization) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#automatic-summarization) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#automatic-summarization)
-
-* **Multi-Document Summarization by Maximizing Informative Content-Words** (2007), W. Yih. [[pdf](http://dl.acm.org/citation.cfm?id=1625563)]
-* **A Study of Global Inference Algorithms in Multi-Document Summarization** (2007), R. McDonald. [[pdf](https://people.dsv.su.se/~hercules/articles/Headline%20generation/globsumm.pdf)]
-* **Modeling Compression with Discourse Constraints** (2007), J. Clarke et al. [[pdf](http://jamesclarke.net/media/papers/clarke-lapata-emnlp07.pdf)]
-* **Summarization beyond sentence extraction** (2002), K. Pontiki et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.5237&rep=rep1&type=pdf)]
-
 ### Sentiment Analysis
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#sentiment-analysis) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#sentiment-analysis)
@@ -62,21 +53,29 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 
 **Sentence Level**
 
-* **MGNC-CNN: A Simple Approach to Exploiting Multiple Word Embeddings for Sentence Classification** (NAACL '16), W. Yin et al. [[pdf](https://arxiv.org/pdf/1603.00968.pdf)]
-* **Multichannel Variable-Size Convolution for Sentence Classification** (ACL '15), W. Yin et al. [[pdf](http://www.aclweb.org/anthology/K15-1021)]
-* **Target-Dependent Twitter Sentiment Classification with Rich Automatic Features** (IJCAI '15), D. Vo et al. [[pdf](https://www.ijcai.org/Proceedings/15/Papers/194.pdf)]
-* **Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts** (COLING '14), C. Nogueira [[pdf](http://anthology.aclweb.org/C/C14/C14-1008.pdf]
-* **Convolutional Neural Networks for Sentence Classification** (EMNLP '14), Y. Kim [[pdf](http://emnlp2014.org/papers/pdf/EMNLP2014181.pdf)]
-* **Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification** (ACL '14), D. Tang et al. [[pdf](http://www.aclweb.org/anthology/P14-1146)]
-* **A Convolutional Neural Network for Modelling Sentences** (ACL '14), N. Kalchbrenner et al. [[pdf](http://www.aclweb.org/anthology/P14-1062)]
-* **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank** (2014), R. Socher et al. [[pdf](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)]
-
-* **Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews** (2002), PD. Turney. [[pdf](https://arxiv.org/pdf/cs/0212032)]
+* **MGNC-CNN: A Simple Approach to Exploiting Multiple Word Embeddings for Sentence Classification** (NAACL '16), Y. Zhang et al. [[pdf](http://www.aclweb.org/anthology/N16-1178)]
+* **Multichannel Variable-Size Convolution for Sentence Classification** (ACL'15), W. Yin et al. [[pdf](http://www.aclweb.org/anthology/K15-1021)]
+* **Target-Dependent Twitter Sentiment Classification with Rich Automatic Features** (IJCAI'15), D. Vo et al. [[pdf](https://www.ijcai.org/Proceedings/15/Papers/194.pdf)]
+* **Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts** (COLING'14), C. Nogueira [[pdf](http://anthology.aclweb.org/C/C14/C14-1008.pdf]
+* **Convolutional Neural Networks for Sentence Classification** (EMNLP'14), Y. Kim [[pdf](http://emnlp2014.org/papers/pdf/EMNLP2014181.pdf)]
+* **Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification** (ACL'14), D. Tang et al. [[pdf](http://www.aclweb.org/anthology/P14-1146)]
+* **A Convolutional Neural Network for Modelling Sentences** (ACL'14), N. Kalchbrenner et al. [[pdf](http://www.aclweb.org/anthology/P14-1062)]
+* **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank** (EMNLP'13), R. Socher et al. [[pdf](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)]
+* **Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews** (EMNLP'02), PD. Turney. [[pdf](https://arxiv.org/pdf/cs/0212032)]
 
 **Books**
 
 * **Sentiment Analysis: Mining Opinions, Sentiments, and Emotions** (2015), B. Liu. [[book](https://www.amazon.com/Sentiment-Analysis-Opinions-Sentiments-Emotions/dp/1107017890/ref=pd_sbs_14_1?_encoding=UTF8&pd_rd_i=1107017890&pd_rd_r=3NKRKWW6G3X8JGCPW4G0&pd_rd_w=pLSSX&pd_rd_wg=Y2A4r&psc=1&refRID=3NKRKWW6G3X8JGCPW4G0)]
 * **Opinion mining and sentiment analysis** (2008), B. Pang et al. [[book](http://dl.acm.org/citation.cfm?id=1454712)]
+
+### Automatic Summarization
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#automatic-summarization) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#automatic-summarization) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#automatic-summarization)
+
+* **Multi-Document Summarization by Maximizing Informative Content-Words** (2007), W. Yih. [[pdf](http://dl.acm.org/citation.cfm?id=1625563)]
+* **A Study of Global Inference Algorithms in Multi-Document Summarization** (2007), R. McDonald. [[pdf](https://people.dsv.su.se/~hercules/articles/Headline%20generation/globsumm.pdf)]
+* **Modeling Compression with Discourse Constraints** (2007), J. Clarke et al. [[pdf](http://jamesclarke.net/media/papers/clarke-lapata-emnlp07.pdf)]
+* **Summarization beyond sentence extraction** (2002), K. Pontiki et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.5237&rep=rep1&type=pdf)]
 
 ### Named Entity Recognition
 
