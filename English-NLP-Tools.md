@@ -113,9 +113,16 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#entity-linking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#entity-linking) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#entity-linking)
 
+**Libraries**
+
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python`
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
+
+**Sources**
+
+* [yoonkim/CNN_sentence) - CNNs for sentence classification *by yoonkim (2014)* `python,theano`  
+* [FredericGodin/DynamicCNN](https://github.com/FredericGodin/DynamicCNN) - Dynamic Convolutional Neural Networks for Theano/Lasagne *by FredericGodin (2015)* `python,theano,lasagne`  
 
 ### Semantics
 
