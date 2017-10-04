@@ -101,7 +101,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#text-classification) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#text-classification) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#text-classification)
 
-* [duyvuleo/VNTC](https://github.com/duyvuleo/VNTC) - a large-scale Vietnamese news text classification corpus *by Vu Hoang Cong Duy (2007)* `resource`
+* [duyvuleo/VNTC](https://github.com/duyvuleo/VNTC) - a large-scale Vietnamese news text classification corpus *by Vu Hoang Cong Duy (2007)* `data`
 * [pth1993/vn_spam_sms_filtering](https://github.com/pth1993/vn_spam_sms_filtering) - Vietnamese spam SMS filtering system *by PT Hoang (2017)* `python` 
 
 ### Automatic Summarization
@@ -115,8 +115,8 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#sentiment-analysis) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#sentiment-analysis) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#sentiment-analysis)
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/Sentiment.html) - a natural language pipeline that supports massive multilingual applications *by polyglot (2014-2017)* `c++,java,python`
-* [pyurgent](https://github.com/tiendung/pyurgent) - life-long learning for sentiment analysis, supporting Vietnamese and English *by Alex Nguyen (2016)* `python,corpus`
-* [VietSentiWordNet](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet) - SentiwordNet dictionary for Vietnamese *by sonvxcoltech (2014)* `corpus`
+* [pyurgent](https://github.com/tiendung/pyurgent) - life-long learning for sentiment analysis, supporting Vietnamese and English *by Alex Nguyen (2016)* `python,data`
+* [VietSentiWordNet](https://github.com/magizbox/underthesea/wiki/VietSentiWordNet) - SentiwordNet dictionary for Vietnamese *by sonvxcoltech (2014)* `data`
 
 ### Named Entity Recognition
 
@@ -147,7 +147,7 @@
 
 * [Smart Meeting Diarization](http://quochoi.vietcap.org/) - Smart Meeting Diarization *by AILab (2017)* `demo`
 * [VOS](https://bitbucket.org/vaisvn/hts_for_vietnamese) - Voice of Southern Vietnam *by AILab (2017)* `demo`
-* [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `perl,bash`
+* [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `perl,bash` `data`
 
 ### Resources
 
@@ -160,7 +160,7 @@
 **Treebank**
 
 * [UniversalDependencies/UD_Vietnamese](https://github.com/UniversalDependencies/UD_Vietnamese) - Vietnamese Universal Dependency Treebank *by NT Luong et al. (2017)* `python`
-* [Vietnamese Treebank](http://vlsp.hpda.vn:8080/demo/?page=resources) *by VLSP (2010)* `corpus`
+* [Vietnamese Treebank](http://vlsp.hpda.vn:8080/demo/?page=resources) *by VLSP (2010)* `data`
 
 **Corpus**
 
@@ -171,7 +171,7 @@
 
 **Bilingual Corpus**
 
-* [English-Vietnamese bilingual corpus](http://vlsp.hpda.vn:8080/demo/?page=resources) *by VLSP (2010)* `corpus`
+* [English-Vietnamese bilingual corpus](http://vlsp.hpda.vn:8080/demo/?page=resources) *by VLSP (2010)* `data`
 
 ### Miscellaneous
 
