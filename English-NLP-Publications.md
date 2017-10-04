@@ -54,13 +54,14 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 **Sentence Level**
 
 * **MGNC-CNN: A Simple Approach to Exploiting Multiple Word Embeddings for Sentence Classification** (NAACL '16), Y. Zhang et al. [[pdf](http://www.aclweb.org/anthology/N16-1178)]
+* **Molding CNNs for text: non-linear, non-consecutive convolutions** (EMNLP'15), L. Lei et al. [[pdf](https://arxiv.org/pdf/1508.04112.pdf)]
 * **Multichannel Variable-Size Convolution for Sentence Classification** (ACL'15), W. Yin et al. [[pdf](http://www.aclweb.org/anthology/K15-1021)]
 * **Target-Dependent Twitter Sentiment Classification with Rich Automatic Features** (IJCAI'15), D. Vo et al. [[pdf](https://www.ijcai.org/Proceedings/15/Papers/194.pdf)]
 * **Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts** (COLING'14), C. Nogueira [[pdf](http://anthology.aclweb.org/C/C14/C14-1008.pdf]
 * **Convolutional Neural Networks for Sentence Classification** (EMNLP'14), Y. Kim [[pdf](http://emnlp2014.org/papers/pdf/EMNLP2014181.pdf)]
 * **Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification** (ACL'14), D. Tang et al. [[pdf](http://www.aclweb.org/anthology/P14-1146)]
 * **A Convolutional Neural Network for Modelling Sentences** (ACL'14), N. Kalchbrenner et al. [[pdf](http://www.aclweb.org/anthology/P14-1062)]
-* **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank** (EMNLP'13), R. Socher et al. [[pdf](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)]
+* **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank** (EMNLP'13), R. Socher et al. [[pdf](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)] `recnn`
 * **Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews** (EMNLP'02), PD. Turney. [[pdf](https://arxiv.org/pdf/cs/0212032)]
 
 **Books**
