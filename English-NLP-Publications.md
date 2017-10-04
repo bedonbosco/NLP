@@ -62,6 +62,13 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 * **Opinion mining and sentiment analysis** (2008), B. Pang et al. [[book](http://dl.acm.org/citation.cfm?id=1454712)]
 * **Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews** (2002), PD. Turney. [[pdf](https://arxiv.org/pdf/cs/0212032)]
 
+### Named Entity Recognition
+
+* **Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks** (2017), N. Reimers. [[pdf](http://arxiv.org/abs/1707.06799)]
+* **Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging** (2017), N. Reimers. [[pdf](https://arxiv.org/pdf/1707.09861.pdf)]
+* **NeuroNER: an easy-to-use program for named-entity recognition based on neural networks** (2017), G. Lample. [[pdf](https://arxiv.org/pdf/1705.05487.pdf)]
+* **Neural Architectures for Named Entity Recognition** (2016), D. Dernoncourt. [[pdf](http://arxiv.org/abs/1603.01360)]
+
 ### Semantics
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#semantics) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#semantics) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantics)
