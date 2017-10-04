@@ -91,6 +91,21 @@
 
 * [fastText](https://github.com/facebookresearch/fastText) - Library for efficient learning of word representations and sentence classification *by Facebook Research (2016)* `c++,python`
 
+### Sentiment Analysis
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#entity-linking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#entity-linking) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#entity-linking)
+
+**Libraries**
+
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python`
+* [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
+
+**Sources**
+
+* [yoonkim/CNN_sentence) - CNNs for sentence classification *by yoonkim (2014)* `python,theano`  
+* [FredericGodin/DynamicCNN](https://github.com/FredericGodin/DynamicCNN) - Dynamic Convolutional Neural Networks for Theano/Lasagne *by FredericGodin (2015)* `python,theano,lasagne`  
+
 ### Named Entity Recognition
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#named-entity-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#named-entity-recognition)
@@ -108,21 +123,6 @@
 * [LiyuanLucasLiu/LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF) - Empower Sequence Labeling with Task-Aware Language Model *by LiyuanLucasLiu (2017)* `python,pytorch` 
 * [glample/tagger](https://github.com/glample/tagger) - Named Entity Recognition Tool *by glample (2016)* `python,theano` 
 * [XuezheMax/LasagneNLP](https://github.com/XuezheMax/LasagneNLP) - NLP tools on Lasagne *by XuezheMax (2016)* `python,lasagne` 
-
-### Sentiment Analysis
-
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#entity-linking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#entity-linking) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#entity-linking)
-
-**Libraries**
-
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
-* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python`
-* [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
-
-**Sources**
-
-* [yoonkim/CNN_sentence) - CNNs for sentence classification *by yoonkim (2014)* `python,theano`  
-* [FredericGodin/DynamicCNN](https://github.com/FredericGodin/DynamicCNN) - Dynamic Convolutional Neural Networks for Theano/Lasagne *by FredericGodin (2015)* `python,theano,lasagne`  
 
 ### Semantics
 
