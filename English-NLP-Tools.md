@@ -106,6 +106,8 @@
 * [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER/) - Named-entity recognition using neural networks *by Dernoncourt (2017)* `python,tensorflow` 
 * [Hironsan/anago](https://github.com/Hironsan/anago) - Bidirectional LSTM-CRF for Sequence Labeling. Easy-to-use and state-of-the-art performance. *by Hironsan (2017)* `python,keras` 
 * [LiyuanLucasLiu/LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF) - Empower Sequence Labeling with Task-Aware Language Model *by LiyuanLucasLiu (2017)* `python,pytorch` 
+* [glample/tagger](https://github.com/glample/tagger) - Named Entity Recognition Tool *by glample (2016)* `python,theano` 
+* [XuezheMax/LasagneNLP](https://github.com/XuezheMax/LasagneNLP) - NLP tools on Lasagne *by XuezheMax (2016)* `python,lasagne` 
 
 ### Sentiment Analysis
 
