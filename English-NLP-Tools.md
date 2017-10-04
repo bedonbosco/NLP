@@ -105,6 +105,7 @@
 * [UKPLab/emnlp2017-bilstm-cnn-crf](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf) - BiLSTM-CNN-CRF Implementation for Sequence Tagging *by UKPLab (2017)* `python,keras,theano,tensorflow` 
 * [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER/) - Named-entity recognition using neural networks *by Dernoncourt (2017)* `python,tensorflow` 
 * [Hironsan/anago](https://github.com/Hironsan/anago) - Bidirectional LSTM-CRF for Sequence Labeling. Easy-to-use and state-of-the-art performance. *by Hironsan (2017)* `python,keras` 
+* [LiyuanLucasLiu/LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF) - Empower Sequence Labeling with Task-Aware Language Model *by LiyuanLucasLiu (2017)* `python,pytorch` 
 
 ### Sentiment Analysis
 
