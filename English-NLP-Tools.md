@@ -95,9 +95,16 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#named-entity-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#named-entity-recognition)
 
-* [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER/) - Named-entity recognition using neural networks *by Dernoncourt (2017)* `python,tensorflow` 
+**Libraries**
+
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+
+**Sources**
+
+* [UKPLab/emnlp2017-bilstm-cnn-crf](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf) - BiLSTM-CNN-CRF Implementation for Sequence Tagging *by UKPLab (2017)* `python,keras,theano,tensorflow` 
+* [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER/) - Named-entity recognition using neural networks *by Dernoncourt (2017)* `python,tensorflow` 
+* [Hironsan/anago](https://github.com/Hironsan/anago) - Bidirectional LSTM-CRF for Sequence Labeling. Easy-to-use and state-of-the-art performance. *by Hironsan (2017)* `python,keras` 
 
 ### Sentiment Analysis
 
