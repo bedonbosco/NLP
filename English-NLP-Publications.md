@@ -68,6 +68,7 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 * **Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging** (2017), N. Reimers. [[pdf](https://arxiv.org/pdf/1707.09861.pdf)]
 * **NeuroNER: an easy-to-use program for named-entity recognition based on neural networks** (2017), G. Lample. [[pdf](https://arxiv.org/pdf/1705.05487.pdf)]
 * **Neural Architectures for Named Entity Recognition** (2016), D. Dernoncourt. [[pdf](http://arxiv.org/abs/1603.01360)]
+* **End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF** (2016), X. Ma. [[pdf](https://arxiv.org/pdf/1603.01354)]
 
 ### Semantics
 
