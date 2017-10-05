@@ -155,7 +155,7 @@ Tensorflow  *by Google (2017)* `tensorflow`
 **Courses**
 
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) *by Oxford (2017)*
-* [Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2017/schedule.html) *by CMU (2017)* [video](https://www.youtube.com/watch?v=Sss2EA4hhBQ)
+* [Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2017/schedule.html) *by CMU (2017)* [`video`](https://www.youtube.com/watch?v=Sss2EA4hhBQ)
 * [CS224S/LINGUIST285](http://web.stanford.edu/class/cs224s/index.html) - Spoken Language Processing *by Stanford (2017)*
 * [cs224u](https://web.stanford.edu/class/cs224u/index.html) - Natural Language Understanding *by Stanford (2016)*
 * [CS224N/Ling 284](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml) - Natural Language Processing *by Stanford (2015)*
