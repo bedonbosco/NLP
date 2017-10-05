@@ -6,7 +6,7 @@ Tài liệu này có mục đích liệt kê và nêu ra ý nghĩa của các nh
 | Ab  | A   |       | 2   |                           | Tính từ mượn      | sexy, Peace, đờmi                 |
 | B   | FW  |       | 1   | Borrow                    | Từ mượn           | karaoke, nilông, fax, oxy         |
 | C   |     | CCONJ | 1   | Coordinating Conjunction  | Liên từ           | thì, nhưng, như, mà               |
-| Cc  |     | SCONJ | 2   | Subordinating conjunction | Liên từ đẳng lập  | và, hay, hoặc, cùng               |
+| Cc  | C   | SCONJ | 2   | Subordinating conjunction | Liên từ đẳng lập  | và, hay, hoặc, cùng               |
 | CH  |     | PUNCT | 1,2 | Chunk                     | Dấu câu           | ,, ., ", ..., “, ”                |
 | E   |     | ADP   | 1,2 | Adposition                | Giới từ           | của, trong, với, ở, cho,          |
 | Fw  | FW  |       | 2   | Foreign Word              | Từ nước ngoài     | Eleocharis, karaoke, Internationa |
