@@ -4,7 +4,7 @@ Tài liệu này có mục đích liệt kê và nêu ra ý nghĩa của các nh
 |-----|-----|-------|-----|---------------------------|-------------------|-----------------------------------|
 | A   |     | ADJ   | 1   | Adjective                 | Tính từ           | nhiều, hơn, khác, gần, lớn        |
 | Ab  | A   |       | 2   |                           | Tính từ mượn      | sexy, Peace, đờmi                 |
-| B   |     |       | 1   | Borrow                    | Từ mượn           | karaoke, nilông, fax, oxy         |
+| B   | FW  |       | 1   | Borrow                    | Từ mượn           | karaoke, nilông, fax, oxy         |
 | C   |     | CCONJ | 1   | Coordinating Conjunction  | Liên từ           | thì, nhưng, như, mà               |
 | Cc  |     | SCONJ | 2   | Subordinating conjunction | Liên từ đẳng lập  | và, hay, hoặc, cùng               |
 | CH  |     | PUNCT | 1,2 | Chunk                     | Dấu câu           | ,, ., ", ..., “, ”                |
