@@ -20,6 +20,19 @@ Tài liệu này có mục đích liệt kê và nêu ra ý nghĩa của các nh
 | I-VP  |      | 1,2 |                      |                     |                      |
 | O     |      | 1,2 |                      |                     |                      |
 
+Chú thích:
+
+
+Chú thích:
+
+* `b`: borrow: Từ mượn
+* `y`: Viết tắt
+
+Corpus:
+
+* `[1]`: VietTreeBank
+* `[2]`: VLSP2016-NER
+
 # Tài liệu tham khảo
 
 * **Báo cáo kỹ thuật SP8.4: Xây Dựng Bộ Xác Định Nhóm Cụm Từ Tiếng Việt** (2009), L. Nguyen [[pdf](http://www.jaist.ac.jp/~bao/VLSP-text/Mar2009/SP84_baocaokythuat2009thang3.pdf)]
