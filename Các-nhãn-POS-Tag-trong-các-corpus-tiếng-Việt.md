@@ -1,6 +1,6 @@
 Tài liệu này có mục đích liệt kê và nêu ra ý nghĩa của các nhãn POS Tag trong các corpus tiếng Việt. Sau đó đưa ra ánh xạ chung và chuẩn hóa các nhãn POS Tag.
 
-| Nhãn | UTS | UD    | C | Tiếng anh    | Ý nghĩa          | Ví dụ                             |
+| Tag | UTS | UD    | C | Tiếng anh    | Ý nghĩa          | Ví dụ                             |
 |------|-----|-------|---|--------------|------------------|-----------------------------------|
 | A    |     | ADJ   | 1 | Adjective    | Tính từ          | nhiều, hơn, khác, gần, lớn        |
 | Ab   | A   |       | 2 |              | Tính từ mượn     | sexy, Peace, đờmi                 |
