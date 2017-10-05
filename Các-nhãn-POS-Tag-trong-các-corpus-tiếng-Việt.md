@@ -1,11 +1,11 @@
 Tài liệu này có mục đích liệt kê và nêu ra ý nghĩa của các nhãn POS Tag trong các corpus tiếng Việt. Sau đó đưa ra ánh xạ chung và chuẩn hóa các nhãn POS Tag.
 
-| Nhãn | uts | UD    | Corpus | Tiếng anh                | Ý nghĩa          | Ví dụ                             |
-|------|-----|-------|--------|--------------------------|------------------|-----------------------------------|
+| Nhãn | UTS | UD    | Corpus | Tiếng anh                | Ý nghĩa          | Ví dụ                            |
+|------|-----|-------|--------|--------------------------|------------------|----------------------------------|
 | A    |     | ADJ   | [1]    | Adjective                | Tính từ          | nhiều, hơn, khác, gần, lớn        |
 | Ab   | A   |       | [2]    |                          | Tính từ mượn     | sexy, Peace, đờmi                 |
 | B    |     |       | [1]    | Borrow                   | Từ mượn          | karaoke, nilông, fax, oxy         |
-| C    |     | CCONJ | [1]    | Coordinating conjunction | Liên từ          | và, thì, nhưng, như, mà           |
+| C    |     | CCONJ | [1]    | Coordinating\nconjunction | Liên từ          | và, thì, nhưng, như, mà           |
 | CH   |     | PUNCT | [1]    | Chunk                    | Dấu câu          |                                   |
 | E    |     | ADP   | [1]    | Adposition               | Giới từ          | của, trong, với, ở, cho,          |
 | Fw   | FW  |       | [2]    | Foreign Word             | Từ nước ngoài    | Eleocharis, karaoke, Internationa |
