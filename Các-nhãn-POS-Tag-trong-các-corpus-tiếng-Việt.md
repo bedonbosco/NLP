@@ -32,3 +32,7 @@ Chú thích:
 
 * `b`: borrow: Từ mượn
 * `y`: Viết tắt
+
+Corpus:
+[1]: VietTreeBank
+[2]: VLSP2016-NER
