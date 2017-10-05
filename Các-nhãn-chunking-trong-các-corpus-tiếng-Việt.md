@@ -22,9 +22,6 @@ Tài liệu này có mục đích liệt kê và nêu ra ý nghĩa của các nh
 
 Chú thích:
 
-
-Chú thích:
-
 * `b`: borrow: Từ mượn
 * `y`: Viết tắt
 
