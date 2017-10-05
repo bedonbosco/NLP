@@ -38,5 +38,6 @@ Chú thích:
 * `y`: Viết tắt
 
 Corpus:
-[1]: VietTreeBank
-[2]: VLSP2016-NER
+
+* [1]: VietTreeBank
+* [2]: VLSP2016-NER
