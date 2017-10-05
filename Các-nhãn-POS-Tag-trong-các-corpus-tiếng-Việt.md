@@ -4,7 +4,7 @@ Tài liệu này có mục đích liệt kê và nêu ra ý nghĩa của các nh
 |------|-----|-------|-----|---------------------------|-------------------|-----------------------------------|
 | A    |     | ADJ   | 1   | Adjective                 | Tính từ           | nhiều, hơn, khác, gần, lớn        |
 | Ab   | A   |       | 2   |                           | Tính từ mượn      | sexy, Peace, đờmi                 |
-| B    | FW  |       | 1   | Borrow                    | Từ mượn           | karaoke, nilông, fax, oxy         |
+| B    |     |       | 1   | Borrow                    | Từ mượn           | karaoke, nilông, fax, oxy         |
 | C    |     | CCONJ | 1   | Coordinating Conjunction  | Liên từ           | thì, nhưng, như, mà               |
 | Cc   |     | SCONJ | 2   | Subordinating conjunction | Liên từ đẳng lập  | và, hay, hoặc, cùng               |
 | CH   |     | PUNCT | 1,2 | Chunk                     | Dấu câu           | ,, ., ", ..., “, ”                |
@@ -15,9 +15,9 @@ Tài liệu này có mục đích liệt kê và nêu ra ý nghĩa của các nh
 | L    |     | DET   | 1,2 | Determiner                | Định từ           | những, các, mấy, mọi, một số      |
 | M    |     | NUM   | 1,2 | Numeral                   | Số từ             | một, hai, ba, Một, triệu, 1       |
 | N    |     | NOUN  | 1,2 | Noun                      | Danh từ           | người, khi, nhà, năm, ngày        |
-| Nb   |     |       | 2   |                           | Danh từ mượn      | tivi, két, casino, golf, bar      |
+| Nb   | FW  |       | 2   |                           | Danh từ mượn      | tivi, két, casino, golf, bar      |
 | Nc   |     | NOUN  | 1,2 | Noun Category             | Danh từ chỉ loại  | con, cái, chiếc, ngôi             |
-| Ne   |     |       | 2   |                           |                   | bọn, bộ, đoàn, tụi                |
+| Ne   | Nc  |       | 2   |                           |                   | bọn, bộ, đoàn, tụi                |
 | Ni   | Np  |       | 2   |                           | Danh từ kí hiệu   | A5, 1A, A4, B, A, 2032TS          |
 | Np   |     | NOUN  | 1,2 | Proper Noun               | Danh từ riêng     |                                   |
 | NNP  | Np  |       | 2   |                           |                   | VN, Nguyễn, Văn                   |
