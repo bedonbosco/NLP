@@ -68,4 +68,4 @@ Services`**
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#text-to-speech) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#text-to-speech) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#text-to-speech)| **`⚛ Services`** 
 
 * [OpenFPT: Speech Synthesis](http://doc.openfpt.vn/#speech-synthesis) - *by FPT (2017)* [`doc`](http://doc.openfpt.vn/#speech-synthesis)
-
+* [ResponsiveVoice](https://responsivevoice.org/text-to-speech-languages/van-ban-de-noi-trong-tieng-viet/) - *by ResponsiveVoice (2017)*
