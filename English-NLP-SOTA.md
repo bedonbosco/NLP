@@ -25,6 +25,7 @@
 * [**Text To Speech**](#text-to-speech)
 * [**Speech Recognition**](#speech-recognition)
 * [**Miscellaneous**](#miscellaneous)
+
 # Part-of-Speech Tagging
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#part-of-speech-tagging) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#part-of-speech-tagging)
