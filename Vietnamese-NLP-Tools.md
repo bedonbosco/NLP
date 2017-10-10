@@ -145,8 +145,17 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#text-to-speech) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#text-to-speech) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#text-to-speech)
 
 * [Smart Meeting Diarization](http://quochoi.vietcap.org/) - Smart Meeting Diarization *by AILab (2017)* `demo`
-* [VOS](https://bitbucket.org/vaisvn/hts_for_vietnamese) - Voice of Southern Vietnam *by AILab (2017)* `demo`
+* [VOS](http://ailab.hcmus.edu.vn/vosdemo) - Voice of Southern Vietnam *by AILab (2017)* `demo`
+* [VIVOS](http://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech *by AILab (2017)* `data`
 * [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `perl,bash` `data`
+
+### Speech Recognition
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#speech-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#speech-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#speech-recognition)
+
+* [Vietnamese Speech Recognition Corpus- (Mobile)- 144 Speaker](http://kingline.speechocean.com/exchange.php?id=3758&act=view) - 76.6 hours *by Speechocean (2017)* `data` `$`
+* [Vietnamese Speech Recognition Corpus-(In-Car)-300 Speakers](http://kingline.speechocean.com/exchange.php?id=3333&act=view) - 305 hours *by Speechocean (2017)* `data` `$`
+* [Globalphone Vietnamese](http://catalog.elra.info/product_info.php?products_id=1144) - 22.5 hours of read speech from 15 Vietnamese online newspapers *by ELRA (2012)* `data` `$`
 
 ### Resources
 
