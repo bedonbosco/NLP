@@ -23,7 +23,7 @@
 * [**Resources**](#resources)
 * [**Automatic Speech Recognition**](#automatic-speech-recognition)
 * [**Text To Speech**](#text-to-speech)
-* [**Text Recognition**](#text-recognition)
+* [**Speech Recognition**](#speech-recognition)
 * [**Miscellaneous**](#miscellaneous)
 
 ### Representation
