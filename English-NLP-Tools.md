@@ -20,10 +20,10 @@
 * [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
-* [**Resources**](#resources)
 * [**Automatic Speech Recognition**](#automatic-speech-recognition)
 * [**Text To Speech**](#text-to-speech)
 * [**Speech Recognition**](#speech-recognition)
+* [**Resources**](#resources)
 * [**Miscellaneous**](#miscellaneous)
 
 ### Language Detection
