@@ -103,7 +103,7 @@
 
 **Sources**
 
-* [yoonkim/CNN_sentence) - CNNs for sentence classification *by yoonkim (2014)* `python,theano`  
+* [yoonkim/CNN_sentence](https://github.com/yoonkim/CNN_sentence) - CNNs for sentence classification *by yoonkim (2014)* `python,theano`  
 * [FredericGodin/DynamicCNN](https://github.com/FredericGodin/DynamicCNN) - Dynamic Convolutional Neural Networks for Theano/Lasagne *by FredericGodin (2015)* `python,theano,lasagne`  
 
 ### Named Entity Recognition
