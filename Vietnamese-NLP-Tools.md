@@ -31,6 +31,7 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#spelling-correction) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#spelling-correction) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#spelling-correction)
 
 * [suicao/vn-accent-restoration](https://gitlab.com/suicao/vn-accent-restoration) - Vietnamese Text Accent Restoration using Transformer Model *by K Nguyen (2017)* `python,tensorflow` 
+* [tienthanhdhcn/Vietnamese-Accent-Prediction](https://github.com/tienthanhdhcn/Vietnamese-Accent-Prediction) - Automatically assign accents for non-accented Vietnamese text *by tienthanhdhcn (2016)* `java` 
 * [lebinh/vietnamese-accent-model](https://github.com/lebinh/vietnamese-accent-model) - a simple deep learning model to add accent to Vietnamese text *by L Binh (2016)* `python` 
 * [vunb/vntk](https://github.com/vunb/vntk) - Vietnamese language toolkit for Node *by VN Bao (2016)* `nodejs` 
 * [Vietnamese diacritics restoration tool](https://github.com/kanjirz50/restore-tonemark), [demonstration](http://160.16.58.116/vietnamese/tone) - based on a point-wise diacritics restoration *by K Takahashi (2016)* `python`
