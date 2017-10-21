@@ -64,7 +64,7 @@
 **Sources**
 
 * [EmilStenstrom/rippletagger](https://github.com/EmilStenstrom/rippletagger) - RippleTagger identifies part-of-speech tags *by EmilStenstrom (2016)* `python` 
-* [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python` 
+* [clips/MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python` 
 
 ### Chunking
 
