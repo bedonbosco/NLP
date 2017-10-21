@@ -52,12 +52,17 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#part-of-speech-tagging) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#part-of-speech-tagging)
 
+**Libraries**
+
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
+
+**Sources**
+
 * [EmilStenstrom/rippletagger](https://github.com/EmilStenstrom/rippletagger) - RippleTagger identifies part-of-speech tags *by EmilStenstrom (2016)* `python` 
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python` 
 
