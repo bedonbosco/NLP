@@ -47,6 +47,7 @@ Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
 **Fine-Grained**
 
 * **SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News** (2017), M. Pontiki et al. [[pdf](http://andrefreitas.org/papers/preprint_semeval_task05_2017.pdf)]
+* **Aspect Level Sentiment Classification with Deep Memory Network** (EMNLP'16), D. Tang et al. [[pdf](https://arxiv.org/pdf/1605.08900)]
 * **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S16-1002)]
 * **SemEval-2015 Task 12: Aspect Based Sentiment Analysis** (2015), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S15-2082)]
 * **SemEval-2014 Task 4: Aspect Based Sentiment Analysis** (2014), M. Pontiki et al. [[pdf](http://aclweb.org/anthology/S/S14/S14-2004.pdf)]
