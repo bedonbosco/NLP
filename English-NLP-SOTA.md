@@ -34,13 +34,19 @@
 
 The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.
 
+# Text Classification
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
+
+**[TREC question dataset](https://github.com/magizbox/underthesea/wiki/ECL-SOTA-TREC)** <sub><sup>31 results collected</sup></sub>
+
+Task involves classifying a question into 6 question types (whether the question is about person,
+location, numeric information, etc.) (Li and Roth, 2002)
+
 # Sentiment Analysis
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#sentiment-analysis) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#sentiment-analysis)
 
-**[SemEval-2017 Task 5](https://github.com/magizbox/underthesea/wiki/SemEval-2017-Task-5)** <sub><sup>31 results collected</sup></sub>
-
-The proposed task aims at catalysing discussions around approaches of semantic interpretation of financial texts by targeting a concrete sentiment analysis task, which identifies bullish (optimistic; believing that the stock price will increase) and bearish (pessimistic; believing that the stock price will decline) sentiment associated with companies and stocks.
 
 **[SemEval-2016 Task 5](https://github.com/magizbox/underthesea/wiki/SemEval-2016-Task-5)** <sub><sup>245 results collected</sup></sub>
 
