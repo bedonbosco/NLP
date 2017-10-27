@@ -27,4 +27,4 @@ and also 500 questions from TREC 10 which serves as our test set.
 
 **See Also**
 
-* [☶ Text Classification (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#part-of-speech-tagging)
+* [☶ Text Classification (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification)
