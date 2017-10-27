@@ -30,13 +30,13 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#parsing) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#parsing) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#parsing)
 
-* **Skip-Gram – Zipf + Uniform = Vector Additivity** (2017), I. Mordatch et al. [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1007.pdf)]
+* **Globally Normalized Transition-Based Neural Networks** (2016), D. Andor et al. [[pdf](https://arxiv.org/pdf/1603.06042)]
 
 ### Representation
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#representation) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#representation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#representation)
 
-* **Globally Normalized Transition-Based Neural Networks** (2016), D. Andor et al. [[pdf](https://arxiv.org/pdf/1603.06042)]
+* **Skip-Gram – Zipf + Uniform = Vector Additivity** (2017), I. Mordatch et al. [[pdf](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1007.pdf)]
 
 ### Text Classification
 
