@@ -78,6 +78,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#parsing) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#parsing) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#parsing)
 
+* [Syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) - Neural Models of Syntax *by Google (2016)* `tensorflow` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python`
