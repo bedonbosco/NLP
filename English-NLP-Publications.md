@@ -45,6 +45,7 @@
 * **Bag of Tricks for Efficient Text Classification** (2016), A. Joulin. [[pdf](https://arxiv.org/pdf/1607.01759.pdf)]
 * **Character-level Convolutional Networks for Text
 Classification** (2015), X. Zhang. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
+* **A Convolutional Neural Network for Modelling Sentences** (ACL'14), N Kalchbrenner et al. [[pdf](http://www.aclweb.org/anthology/P14-1062)]
 
 ### Sentiment Analysis
 
