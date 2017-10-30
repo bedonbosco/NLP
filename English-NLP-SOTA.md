@@ -38,6 +38,10 @@ The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall St
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
 
+**[AG’s news corpus](https://github.com/magizbox/underthesea/wiki/DATA-AGNEWS)** <sub><sup>22 results collected</sup></sub>
+
+AG (GM Del Corso. 2005) is a collection of more than 1 million news articles. News articles have been gathered from more than 2000  news sources by ComeToMyHead in more than 1 year of activity. 
+
 **[TREC question dataset](https://github.com/magizbox/underthesea/wiki/DATA-TREC)** <sub><sup>6 results collected</sup></sub>
 
 Task involves classifying a question into 6 question types (whether the question is about person,
