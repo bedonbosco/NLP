@@ -34,3 +34,7 @@ Distribution of contextual polarity tags
 * **Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions** (EMNLP'11), RSJ Pennington et al. [[pdf](http://www.aclweb.org/anthology/D11-1014)]
 * **Dependency Tree-based Sentiment Classification using CRFs with Hidden Variables** (ACL'10), T Nakagawa et al. [[pdf](http://www.aclweb.org/anthology/N10-1120)]
 * **Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis** (HLT-EMNLP'05), T Wilson et al. [[pdf](http://people.cs.pitt.edu/~wiebe/pubs/papers/emnlp05polarity.pdf)]
+
+**See Also**
+
+* [☶ Sentiment Analysis (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis)
