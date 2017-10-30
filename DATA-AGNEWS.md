@@ -35,7 +35,7 @@ It contains 496,835 categorized news articles from more than 2000 news sources. 
 
 ## References 
 * **Character-level Convolutional Networks for Text Classification** (CL'15), X Zhang et al. [[pdf](https://arxiv.org/pdf/1509.01626.pdf)]
-* **Ranking a Stream of News** (ACM'05), GM Del Corso et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.5776&rep=rep1&type=pdf)]
+* **Ranking a Stream of News** (WWW'05), GM Del Corso et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.5776&rep=rep1&type=pdf)]
 
 **See Also**
 
