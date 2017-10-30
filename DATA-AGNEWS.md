@@ -7,7 +7,7 @@ It contains 496,835 categorized news articles from more than 2000 news sources. 
 
 ## Results
 
-| References         | Model              | Accuracy (%) |
+| References         | Model              | Testing Errors (%) |
 |--------------------|--------------------|--------------|
 | Zhang et al (2015) | BoW                | 11.19        |
 | Zhang et al (2015) | BoW TFIDF          | 10.36        |
