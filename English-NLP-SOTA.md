@@ -40,7 +40,7 @@ The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall St
 
 **[AG’s news corpus](https://github.com/magizbox/underthesea/wiki/DATA-AGNEWS)** <sub><sup>22 results collected</sup></sub>
 
-AG (GM Del Corso. 2005) is a collection of more than 1 million news articles. News articles have been gathered from more than 2000  news sources by ComeToMyHead in more than 1 year of activity. 
+AG (GM Del Corso et al. 2005) is a collection of more than 1 million news articles. News articles have been gathered from more than 2000  news sources by ComeToMyHead in more than 1 year of activity. 
 
 **[TREC question dataset](https://github.com/magizbox/underthesea/wiki/DATA-TREC)** <sub><sup>6 results collected</sup></sub>
 
