@@ -63,4 +63,4 @@ Sentiment analysis is increasingly viewed as a vital task both from an academic 
 
 **[MPQA Opinion Corpus](https://github.com/magizbox/underthesea/wiki/DATA-MPQA)** <sub><sup>9 results collected</sup></sub>
 
-The MPQA Opinion Corpus contains news articles from a wide variety of news sources manually annotated for opinions and other private states (i.e., beliefs, emotions, sentiments, speculations, etc.)
+The MPQA Opinion Corpus (Wiebe et al. 2005) contains news articles from a wide variety of news sources manually annotated for opinions and other private states (i.e., beliefs, emotions, sentiments, speculations, etc.)
