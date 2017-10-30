@@ -60,3 +60,7 @@ in three domains (restaurants, laptops and hotels), and a common evaluation proc
 **[SemEval-2014 Task 4](https://github.com/magizbox/underthesea/wiki/SemEval-2014-Task-4)** <sub><sup>16 results collected</sup></sub>
 
 Sentiment analysis is increasingly viewed as a vital task both from an academic and a commercial standpoint. The majority of current approaches, however, attempt to detect the overall polarity of a sentence, paragraph, or text span, regardless of the entities mentioned (e.g., laptops, restaurants) and their aspects (e.g., battery, screen; food, service). By contrast, this task is concerned with aspect based sentiment analysis (ABSA), where the goal is to identify the aspects of given target entities and the sentiment expressed towards each aspect. Datasets consisting of customer reviews with human-authored annotations identifying the mentioned aspects of the target entities and the sentiment polarity of each aspect will be provided.
+
+**[MPQA Opinion Corpus](https://github.com/magizbox/underthesea/wiki/DATA-MPQA)** <sub><sup>9 results collected</sup></sub>
+
+The MPQA Opinion Corpus contains news articles from a wide variety of news sources manually annotated for opinions and other private states (i.e., beliefs, emotions, sentiments, speculations, etc.)
