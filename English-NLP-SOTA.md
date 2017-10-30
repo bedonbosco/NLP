@@ -41,7 +41,7 @@ The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall St
 **[TREC question dataset](https://github.com/magizbox/underthesea/wiki/DATA-TREC)** <sub><sup>6 results collected</sup></sub>
 
 Task involves classifying a question into 6 question types (whether the question is about person,
-location, numeric information, etc.) (Li and Roth, 2002)
+location, numeric information, etc.) (Li et al. 2002)
 
 # Sentiment Analysis
 
