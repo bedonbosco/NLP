@@ -33,6 +33,14 @@
 
 The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.
 
+# Chunking
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#chunking) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#chunking) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#chunking)
+
+**[Wall Street Journal Section of Penn Treebank](https://github.com/magizbox/underthesea/wiki/Chunking-Task:-WSJ-PTB)** <sub><sup>3 results collected</sup></sub>
+
+The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.
+
 # Text Classification
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
