@@ -150,7 +150,7 @@
 * [VIVOS](http://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech *by AILab (2017)* `data`
 * [vaisvn/hts_for_vietnamese](https://bitbucket.org/vaisvn/hts_for_vietnamese) - HTS for Vietnamese *by VAIS (2016)* `perl,bash` `data`
 
-### Speech Recognition
+### Automatic Speech Recognition
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#speech-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#speech-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#speech-recognition)
 
