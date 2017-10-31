@@ -1,17 +1,14 @@
-**[REUTERS DATA](https://github.com/magizbox/underthesea/wiki/DATA-REUTERS)** <sub><sup>3 results collected</sup></sub>
+[CoNLL-2003 Shared Task](https://cogcomp.org/page/resource_view/81): Language-Independent Named Entity Recognition
 
-Reuters Corpus is a large collection of Reuters News stories for use in research and development of natural language processing, information retrieval, and machine learning systems.
+The CoNLL-2003 (Sang et al. 2003) shared task deals with language-independent named entity recognition as well (English and German).
 
-# REUTERS DATA
-[REUTERS dataset](http://trec.nist.gov/data/reuters/reuters.html)
+# Dataset
 
-In 2000, Reuters Ltd made available a large collection of Reuters News stories for use in research and development of natural language processing, information retrieval, and machine learning systems. This corpus, known as "Reuters Corpus, Volume 1" or RCV1, is significantly larger than the older, well-known Reuters-21578 collection heavily used in the text classification community.
-## Datasets
-RCV1: Reuters Corpus, Volume 1, English language, 1996 to 1997. This is distributed via web download and contains about 810,000 Reuters, English Language News stories. It requires about 2.5 GB for storage of the uncompressed files.
+The CoNLL-2003 shared task data files contain four columns separated by a single space. Each word has been put on a separate line and there is an empty line after each sentence. The first item on each line is a word, the second a part-of-speech (POS) tag, the third a syntactic chunk tag and the fourth the named entity tag. The chunk tags and the named entity tags have the format I-TYPE which means that the word is inside a phrase of type TYPE. Only if two phrases of the same type immediately follow each other, the first word of the second phrase will have tag B-TYPE to show that it starts a new phrase. A word with tag O is not part of a phrase.
 
-RCV2: Reuters Corpus, Volume 2, Multilingual Corpus, 1996 to 1997. This is distributed via web download and contains over 487,000 Reuters News stories in thirteen languages (Dutch, French, German, Chinese, Japanese, Russian, Portuguese, Spanish, Latin American Spanish, Italian, Danish, Norwegian, and Swedish).
+The English data is a collection of news wire articles from the Reuters Corpus. The annotation has been done by people of the University of Antwerp. Because of copyright reasons we only make available the annotations. In order to build the complete data sets you will need access to the Reuters Corpus. It can be obtained for research purposes without any charge from NIST.
 
-TRC2: Thomson Reuters Text Research Collection (TRC2). The TRC2 corpus comprises 1,800,370 news stories covering the period from 2008 to 2009 or 2,871,075,221 bytes, and was initially made available to participants of the 2009 blog track at the Text Retrieval Conference (TREC), to supplement the BLOGS08 corpus (that contains results of a large blog crawl carried out at the University of Glasgow).
+The German data is a collection of articles from the Frankfurter Rundschau. The named entities have been annotated by people of the University of Antwerp. Only the annotations are available here. In order to build these data sets you need access to the ECI Multilingual Text Corpus. It can be ordered from the Linguistic Data Consortium.
 
 ## Results
 
