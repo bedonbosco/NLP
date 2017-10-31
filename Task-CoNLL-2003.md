@@ -12,14 +12,14 @@ The German data is a collection of articles from the Frankfurter Rundschau. The 
 
 ## Results
 
-| References                | Task | F1    |
-|---------------------------|------|-------|
-| Kudo et al. (2001) | NER  | 88.31 |
-| Florian et al. (2003)     | NER  | 88.76 |
-| Ando et al. (2005)     | NER  | 89.31 |
+| References            | Method                                              | F1    |
+|-----------------------|-----------------------------------------------------|-------|
+| Florian et al. (2003) | Combination of various machine-learning classifiers | 88.76 |
+| Ando et al. (2005)    | Semi-supervised approach                            | 89.31 |
 
 
 ## References 
+
 * **A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data** (JMLR'05), RK Ando et al. [[pdf](http://www.jmlr.org/papers/volume6/ando05a/ando05a.pdf)]
 * **Named Entity Recognition through Classifier Combination** (HLT-NAACL'03), R Florian et al. [[pdf](http://clair.si.umich.edu/clair/HLT-NAACL03/conll/pdf/florian.pdf)]
 
