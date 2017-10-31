@@ -20,8 +20,7 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 ## References
 
 * **Ask Me Anything: Dynamic Memory Networks for Natural Language Processing** (ICML'15), A Kumar et al. [[pdf](https://arxiv.org/pdf/1506.07285.pdf)]
-* **Bidirectional LSTM-CRF Models for Sequence Tagging** (arXiv'15), Z Huang et al. [[pdf]
-(https://arxiv.org/pdf/1508.01991.pdf)]
+* **Bidirectional LSTM-CRF Models for Sequence Tagging** (arXiv'15), Z Huang et al. [[pdf](https://arxiv.org/pdf/1506.07285.pdf)]
 * **Natural Language Processing (Almost) from Scratch** (JMLR'11), R Collobert et al. [[pdf](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)]
 * **Guided Learning for Bidirectional Sequence Classification** (ACL'07), L Shen et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.6948&rep=rep1&type=pdf)]
 * **SVMTool: A general POS tagger generator based on Support Vector Machines** (LREC’04), JA Gimenez et al. [[pdf](http://www.lsi.upc.es/~nlp/SVMTool/lrec2004-gm.pdf)]]
