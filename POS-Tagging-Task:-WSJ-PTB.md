@@ -8,7 +8,7 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 |-------------------------|----------------------------------------------|-----------|
 | Toutanova et al. (2003) | MAXENT with bidirectional dependency network | **97.24** |
 | Gimenez et al. (2004)   | SVM with manual feature pattern              | 97.16     |
-| Shen et al. (2007)      | Guided Learning                              | 97.16     |
+| Shen et al. (2007)      | Guided Learning                              | 97.33     |
 | Collobert et al. (2011) | MLP with word embeddings + CRF               | 97.29     |
 | Santos et al. (2014)    | MLP with character+word embeddings           | 97.32     |
 | Huang et al. (2015)     | LSTM                                         | 97.29     |
@@ -17,7 +17,11 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 | Huang et al. (2015)     | Bidirectional LSTM-CRF                       | 97.55     |
 | Kumar et al. (2015)     | DMN                                          | 97.56     |
 
-*: per-token accuracy %
+## References
+
+* **Guided Learning for Bidirectional Sequence Classification** (ACL'07), L Shen et al. [[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.6948&rep=rep1&type=pdf)]
+* **SVMTool: A general POS tagger generator based on Support Vector Machines** (LREC’04), JA Gimenez et al. [[pdf](http://www.lsi.upc.es/~nlp/SVMTool/lrec2004-gm.pdf)]]
+* **Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network** (HTL-NAACL'03), K Toutanova et al. [[pdf](http://www.aclweb.org/anthology/N03-1033)]
 
 **See Also**
 
