@@ -25,7 +25,7 @@
 * [**Resources**](#resources)
 * [**Miscellaneous**](#miscellaneous)
 
-# Part-of-Speech Tagging
+## Part-of-Speech Tagging
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#part-of-speech-tagging) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#part-of-speech-tagging) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#part-of-speech-tagging)
 
@@ -33,7 +33,7 @@
 
 The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.
 
-# Chunking
+## Chunking
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#chunking) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#chunking) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#chunking)
 
@@ -41,7 +41,7 @@ The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall St
 
 The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.
 
-# Text Classification
+## Text Classification
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
 
@@ -54,10 +54,9 @@ AG (GM Del Corso et al. 2005) is a collection of more than 1 million news articl
 Task involves classifying a question into 6 question types (whether the question is about person,
 location, numeric information, etc.) (Li et al. 2002)
 
-# Sentiment Analysis
+## Sentiment Analysis
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#sentiment-analysis) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#sentiment-analysis)
-
 
 **[SemEval-2016 Task 5](https://github.com/magizbox/underthesea/wiki/SemEval-2016-Task-5)** <sub><sup>245 results collected</sup></sub>
 
