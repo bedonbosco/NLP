@@ -22,7 +22,6 @@
 * [**Language Generation**](#language-generation)
 * [**Automatic Speech Recognition**](#automatic-speech-recognition)
 * [**Text To Speech**](#text-to-speech)
-* [**Speech Recognition**](#speech-recognition)
 * [**Resources**](#resources)
 * [**Miscellaneous**](#miscellaneous)
 
