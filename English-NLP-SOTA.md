@@ -74,3 +74,11 @@ Sentiment analysis is increasingly viewed as a vital task both from an academic 
 **[MPQA Opinion Corpus](https://github.com/magizbox/underthesea/wiki/DATA-MPQA)** <sub><sup>9 results collected</sup></sub>
 
 The MPQA Opinion Corpus (Wiebe et al. 2005) contains news articles from a wide variety of news sources manually annotated for opinions and other private states (i.e., beliefs, emotions, sentiments, speculations, etc.)
+
+## Named Entity Recognition
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#named-entity-recognition) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#named-entity-recognition)
+
+**[CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition](https://github.com/magizbox/underthesea/wiki/TASK-CONLL-2003)** <sub><sup>9 results collected</sup></sub>
+
+The CoNLL-2003 (Sang et al. 2003) shared task deals with language-independent named entity recognition as well (English and German).
