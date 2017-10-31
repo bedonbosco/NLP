@@ -22,6 +22,7 @@ The German data is a collection of articles from the Frankfurter Rundschau. The 
 
 * **A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data** (JMLR'05), RK Ando et al. [[pdf](http://www.jmlr.org/papers/volume6/ando05a/ando05a.pdf)]
 * **Named Entity Recognition through Classifier Combination** (HLT-NAACL'03), R Florian et al. [[pdf](http://clair.si.umich.edu/clair/HLT-NAACL03/conll/pdf/florian.pdf)]
+* **Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition** (CoNLL'03), EFTK Sang et al. [[pdf](http://aclweb.org/anthology/W03-0419)]
 
 **See Also**
 
