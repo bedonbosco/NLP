@@ -12,7 +12,7 @@ The [WSJ-PTB](https://catalog.ldc.upenn.edu/ldc2000t43) (the Wall Street Journal
 
 ## References
 
-* **Voting between Multiple Data Representations for Text Chunking** (AAI'05), H Shen et al. [[pdf](https://pdfs.semanticscholar.org/1de0/b1f8196029d0cb1a4ab25f3ed37474b2a148.pdf)]]
+* **Voting between Multiple Data Representations for Text Chunking** (AAI'05), H Shen et al. [[pdf](https://pdfs.semanticscholar.org/1de0/b1f8196029d0cb1a4ab25f3ed37474b2a148.pdf)]
 * **Shallow parsing with conditional random fields** (NAACL'03), F Sha et al. [[pdf](https://dl.acm.org/citation.cfm?id=1073473)]
 * **Chunking with Support Vector Machines** (NAACL'01), T Kudo et al. [[pdf](http://chasen.org/~taku/publications/naacl2001.pdf)]
 
