@@ -24,7 +24,7 @@ and also 500 questions from TREC 10 which serves as our test set.
 ## References
 
 * **Learning question classifiers** (ACL'02), X Li et al. [[pdf](http://aclweb.org/anthology/C02-1150)]
-* **Question classification with log-linear models** (SIGIR'02), P Blunsom et al. [[pdf](https://dl.acm.org/citation.cfm?id=1148282)]
+* **Question classification with log-linear models** (SIGIR'06), P Blunsom et al. [[pdf](https://dl.acm.org/citation.cfm?id=1148282)]
 * **Question classification using head words and their hypernyms** (EMNLP'08), Z Huang et al. [[pdf](https://dl.acm.org/citation.cfm?id=1148282)]
 * **From symbolic to subsymbolic information in question classification** (AIR'11), J Silva et al. [[pdf](http://www.inesc-id.pt/pt/indicadores/Ficheiros/6678.pdf)]
 * **A Convolutional Neural Network for Modelling Sentences** (ACL'14), N Kalchbrenner et al. [[pdf](http://www.aclweb.org/anthology/P14-1062)]
