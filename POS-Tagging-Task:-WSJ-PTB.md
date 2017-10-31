@@ -6,7 +6,7 @@ The WSJ-PTB (the Wall Street Journal part of the Penn Treebank Dataset) corpus c
 
 | References              | Model                                        | Accuracy  |
 |-------------------------|----------------------------------------------|-----------|
-| Toutanova et al. (2003) | MAXENT with bidirectional dependency network | **97.24** |
+| Toutanova et al. (2003) | MAXENT with bidirectional dependency network | 97.24 |
 | Gimenez et al. (2004)   | SVM with manual feature pattern              | 97.16     |
 | Shen et al. (2007)      | Guided Learning                              | 97.33     |
 | Collobert et al. (2011) | MLP with word embeddings + CRF               | 97.29     |
