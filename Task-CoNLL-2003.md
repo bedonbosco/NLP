@@ -12,14 +12,31 @@ The German data is a collection of articles from the Frankfurter Rundschau. The 
 
 ## Results
 
-| References            | Method                                              | F1    |
-|-----------------------|-----------------------------------------------------|-------|
-| Florian et al. (2003) | Combination of various machine-learning classifiers | 88.76 |
-| Ando et al. (2005)    | Semi-supervised approach                            | 89.31 |
+| References              | Method                                              | F1    |
+|-------------------------|-----------------------------------------------------|-------|
+| Florian et al. (2003)   | Combination of various machine-learning classifiers | 88.76 |
+| Ando et al. (2005)      | Semi-supervised approach                            | 89.31 |
+| Ratinov et al (2009)  | Word-class Model                                    | 90.80 |
+| Lin et al. (2009)     | W500 + P125 + P64                                   | 90.90 |
+| Collobert et al. (2011) | NN+SLL+LM2                                          | 88.67 |
+| Collobert et al. (2011) | NN+SLL+LM2+Gazetteer                                | 89.59 |
+| Suzuki et al. (2011)    | L1CRF                                               | 91.02 |
+| Passos et al. (2014)    | Baseline + Gaz + LexEmb                             | 90.90 |
+| Huang et al. (2015)     | BI-LSTM-CRF                                         | 90.10 |
+| Chiu et al. (2015)  | BLSTM-CNN + emb + lex                               | 91.62 |
+| Luo et al. (2015)       | JERL                                                | 91.20 |
 
 
 ## References 
 
+* **Named Entity Recognition with Bidirectional LSTM-CNNs** (CL'15), JPC Chiu et al. [[pdf](https://arxiv.org/pdf/1511.08308.pdf)]
+* **Bidirectional LSTM-CRF Models for Sequence Tagging** (EMNLP'15), Z Huang et al. [[pdf](https://arxiv.org/pdf/1508.01991.pdf)]
+* **Joint entity recognition and disambiguation** (EMNLP '15), G Luo et al. [[pdf](http://aclweb.org/anthology/D15-1104)]
+* **Lexicon infused phrase embeddings for named entity resolution** (ACL'14), A Passos et al. [[pdf](http://www.aclweb.org/anthology/W14-1609)]
+* **Learning condensed feature representations from large unsupervised data sets for supervised learning** (ACL'11), J Suzuki et al. [[pdf](http://www.aclweb.org/anthology/P11-2112)]
+* **Natural Language Processing (Almost) from Scratch** (CL'11), R Collobert et al. [[pdf](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)]
+* **Design Challenges and Misconceptions in Named Entity Recognition** (CoNLL'09), L Ratinov et al. [[pdf](http://www.aclweb.org/anthology/W09-1119)]
+* **Phrase Clustering for Discriminative Learning** (ACL '09), D Lin et al. [[pdf](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35520.pdf)]
 * **A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data** (JMLR'05), RK Ando et al. [[pdf](http://www.jmlr.org/papers/volume6/ando05a/ando05a.pdf)]
 * **Named Entity Recognition through Classifier Combination** (HLT-NAACL'03), R Florian et al. [[pdf](http://clair.si.umich.edu/clair/HLT-NAACL03/conll/pdf/florian.pdf)]
 * **Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition** (CoNLL'03), EFTK Sang et al. [[pdf](http://aclweb.org/anthology/W03-0419)]
