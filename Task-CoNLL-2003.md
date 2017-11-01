@@ -16,7 +16,7 @@ The German data is a collection of articles from the Frankfurter Rundschau. The 
 |-------------------------|-----------------------------------------------------|-------|
 | Florian et al. (2003)   | Combination of various machine-learning classifiers | 88.76 |
 | Ando et al. (2005)      | Semi-supervised approach                            | 89.31 |
-| Ratinov et al (2009)  | Word-class Model                                    | 90.80 |
+| Ratinov et al. (2009)  | Word-class Model                                    | 90.80 |
 | Lin et al. (2009)     | W500 + P125 + P64                                   | 90.90 |
 | Collobert et al. (2011) | NN+SLL+LM2                                          | 88.67 |
 | Collobert et al. (2011) | NN+SLL+LM2+Gazetteer                                | 89.59 |
