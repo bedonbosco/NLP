@@ -98,7 +98,7 @@
 
 ### Sentiment Analysis
 
-**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#entity-linking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#entity-linking) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#entity-linking)
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentiment-analysis) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentiment-analysis) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#sentiment-analysis)
 
 **Libraries**
 
