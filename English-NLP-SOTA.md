@@ -79,6 +79,10 @@ The MPQA Opinion Corpus (Wiebe et al. 2005) contains news articles from a wide v
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#named-entity-recognition) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#named-entity-recognition) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#named-entity-recognition)
 
+**[CoNLL-2012 Shared Task: Language-Independent Named Entity Recognition](https://github.com/magizbox/underthesea/wiki/TASK-CONLL-2012)** <sub><sup>4 results collected</sup></sub>
+
+The OntoNotes Release 5.0 shared task deals with language-independent named entity recognition as well (English, Chinese, and Arabi).
+
 **[CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition](https://github.com/magizbox/underthesea/wiki/TASK-CONLL-2003)** <sub><sup>3 results collected</sup></sub>
 
 The CoNLL-2003 (Sang et al. 2003) shared task deals with language-independent named entity recognition as well (English and German).
