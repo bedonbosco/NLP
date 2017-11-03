@@ -10,3 +10,5 @@ Bonus: Collection of useful natural language processing resources for researcher
 
 * [Vietnamese NLP](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools)
 * [English NLP](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools)
+
+* [Vietnamese Text Normalization (in vietnamese)](https://github.com/magizbox/underthesea/wiki/Vietnamese-Text-Normalization)
