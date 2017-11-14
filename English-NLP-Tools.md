@@ -86,9 +86,17 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#representation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#representation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#representation)
 
+**Libraries**
+
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [gensim](https://radimrehurek.com/gensim/) - Topic modelling for humans *by gensim (2009)* `python` 
+
+**Sources**
+
+* [tca19/dict2vec](https://github.com/tca19/dict2vec) - Dict2vec is a framework to learn word embeddings using lexical dictionaries. (2017)* `python` 
+* [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation. (2015)* `C` 
+* [word2vec](https://code.google.com/archive/p/word2vec/) -  an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. (2013)* `C` 
 
 ### Text Classification
 
