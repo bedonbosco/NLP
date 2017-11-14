@@ -5,7 +5,7 @@
 * Một vài góp ý về TCVN-6909-2001, [link](http://www.pcworld.com.vn/articles/game/chuyen-muc/2004/01/1185068/mot-vai-gop-y-ve-tcvn-6909-2001/)
 * Hướng dẫn sử dụng tiếng Việt trên máy tính, [link](http://khoahocviet.info/meresci/files/unicode.pdf)
 
-Vấn đề bỏ dấu câu
+**Vấn đề bỏ dấu thanh**
 
 * Quy tắc đặt dấu thanh trong chữ quốc ngữ, [vi.wikipedia.org](https://vi.wikipedia.org/wiki/Quy_t%E1%BA%AFc_%C4%91%E1%BA%B7t_d%E1%BA%A5u_thanh_trong_ch%E1%BB%AF_qu%E1%BB%91c_ng%E1%BB%AF)
 * Thảo luận:Quy tắc đặt dấu thanh trong chữ quốc ngữ, [vi.wikipedia.org](https://vi.wikipedia.org/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn:Quy_t%E1%BA%AFc_%C4%91%E1%BA%B7t_d%E1%BA%A5u_thanh_trong_ch%E1%BB%AF_qu%E1%BB%91c_ng%E1%BB%AF)
