@@ -28,7 +28,7 @@ The corpus is based on the dataset introduced by Pang and Lee (2005) and consist
 | Kim (2014)                 | CNN-multichannel   | 48.0         |
 | Zhu et al. (2015)          | LSTM on tree       | 48.0         |
 | Ma et al. (2015)           | DCNNs              | 49.5         |
----
+
 ### SST2 Dataset
 
 | References                 | Method           | Accuracy (%) |
