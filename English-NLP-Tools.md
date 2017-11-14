@@ -94,9 +94,9 @@
 
 **Sources**
 
-* [tca19/dict2vec](https://github.com/tca19/dict2vec) - Dict2vec is a framework to learn word embeddings using lexical dictionaries. (2017)* `python` 
-* [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation. (2015)* `C` 
-* [word2vec](https://code.google.com/archive/p/word2vec/) -  an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. (2013)* `C` 
+* [tca19/dict2vec](https://github.com/tca19/dict2vec) - Dict2vec is a framework to learn word embeddings using lexical dictionaries. *(2017)* `python` 
+* [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation. *(2015)* `C` 
+* [word2vec](https://code.google.com/archive/p/word2vec/) -  an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. *(2013)* `C` 
 
 ### Text Classification
 
