@@ -71,6 +71,10 @@ in three domains (restaurants, laptops and hotels), and a common evaluation proc
 
 Sentiment analysis is increasingly viewed as a vital task both from an academic and a commercial standpoint. The majority of current approaches, however, attempt to detect the overall polarity of a sentence, paragraph, or text span, regardless of the entities mentioned (e.g., laptops, restaurants) and their aspects (e.g., battery, screen; food, service). By contrast, this task is concerned with aspect based sentiment analysis (ABSA), where the goal is to identify the aspects of given target entities and the sentiment expressed towards each aspect. Datasets consisting of customer reviews with human-authored annotations identifying the mentioned aspects of the target entities and the sentiment polarity of each aspect will be provided.
 
+**[Stanford Sentiment Treebank](https://github.com/magizbox/underthesea/wiki/DATA-SST)** <sub><sup>15 results collected</sup></sub>
+
+Stanford Sentiment Treebank—an extension of MR but with train/dev/test splits provided and fine-grained labels (very positive, positive, neutral, negative, very negative), re-labeled by Socher et al. (2013).
+
 **[MPQA Opinion Corpus](https://github.com/magizbox/underthesea/wiki/DATA-MPQA)** <sub><sup>9 results collected</sup></sub>
 
 The MPQA Opinion Corpus (Wiebe et al. 2005) contains news articles from a wide variety of news sources manually annotated for opinions and other private states (i.e., beliefs, emotions, sentiments, speculations, etc.)
