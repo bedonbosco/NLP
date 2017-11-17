@@ -141,6 +141,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#semantics) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#semantics) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantics)
 
+* [google/sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser (2017) `C++,tensorflow`
 * [snowblink14/smatch](https://github.com/snowblink14/smatch/) - Smatch tool: evaluation of AMR semantic structures *by snowblink14 (2016)* `python`
 
 ### Machine Translation
