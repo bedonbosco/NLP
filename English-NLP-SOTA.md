@@ -45,7 +45,7 @@ The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall St
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#representation) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#representation) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#representation)
 
-*[Simverb-3500-Dataset](https://github.com/magizbox/underthesea/wiki/DATA-SIMVERB-3500)** <sub><sup>5 results collected</sup></sub>
+**[Simverb-3500-Dataset](https://github.com/magizbox/underthesea/wiki/DATA-SIMVERB-3500)** <sub><sup>5 results collected</sup></sub>
 
 SimVerb-3500 is an evaluation resource that provides human ratings for the similarity of 3,500 verb pairs. SimVerb-3500 covers all normed verb types from the USF free-association database, providing at least three examples for every VerbNet class.
 
