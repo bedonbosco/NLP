@@ -41,6 +41,14 @@ The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall St
 
 The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall Street Journal (WSJ) collection of 98,732 stories for syntactic annotation. These 2,499 stories have been distributed in both Treebank-2 (LDC1999T42) and Treebank-3 (LDC1999T42) releases of PTB. Treebank-2 includes the raw text for each story. Three "map" files are available in a compressed file (pennTB_tipster_wsj_map.tar.gz) as an additional download for users who have licensed Treebank-2 and provide the relation between the 2,499 PTB filenames and the corresponding WSJ DOCNO strings in TIPSTER.
 
+## Representation
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#representation) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#representation) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#representation)
+
+*[Simverb-3500-Dataset](https://github.com/magizbox/underthesea/wiki/DATA-SIMVERB-3500)** <sub><sup>5 results collected</sup></sub>
+
+SimVerb-3500 is an evaluation resource that provides human ratings for the similarity of 3,500 verb pairs. SimVerb-3500 covers all normed verb types from the USF free-association database, providing at least three examples for every VerbNet class.
+
 ## Text Classification
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#text-classification) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
