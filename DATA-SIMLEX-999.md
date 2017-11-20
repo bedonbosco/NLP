@@ -2,7 +2,7 @@ SimLex-999 Dataset [(Hill 2014)](https://arxiv.org/pdf/1408.3456.pdf)
 
 SimLex-999 is a gold standard resource for evaluating distributional semantic models that improves on existing resources in several important ways. this focus on similarity, SimLex-999 incentivizes the development of models with a different, and arguably wider range of applications than those which reflect conceptual association. SimLex-999 contains a range of concrete and abstract adjective, noun and verb pairs, together with an independent rating of concreteness and (free) association strength for each pair. This diversity enables fine-grained analyses of the performance of models on concepts of different types, and consequently greater insight into how architectures can be improved. 
 
-# Dataset
+## Dataset
 
 [Download](https://www.cl.cam.ac.uk/~fh295/simlex.html)
 
