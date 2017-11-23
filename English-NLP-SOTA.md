@@ -49,7 +49,7 @@ The Penn Treebank (PTB) project selected 2,499 stories from a three year Wall St
 
 SimVerb-3500 (Gerz ‎2016) is an evaluation resource that provides human ratings for the similarity of 3,500 verb pairs. SimVerb-3500 covers all normed verb types from the USF free-association database, providing at least three examples for every VerbNet class.
 
-**[SimLex-999 Dataset](https://github.com/magizbox/underthesea/wiki/DATA-SIMLEX-999)** <sub><sup>9 results collected</sup></sub>
+**[SimLex-999 Dataset](https://github.com/magizbox/underthesea/wiki/DATA-SIMLEX-999)** <sub><sup>14 results collected</sup></sub>
 
 SimLex-999 (Hill 2014) is a gold standard resource for the evaluation of models that learn the meaning of words and concepts. SimLex-999 provides a way of measuring how well models capture similarity, rather than relatedness or association.
 
