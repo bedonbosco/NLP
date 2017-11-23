@@ -31,7 +31,7 @@ SimLex-999 is structured to facilitate focused evaluations based around the foll
 | Faruqui et al (2015)   | Ling Dense                                | 0.58           |
 | Wieting et al (2015)   | PARAGRAM                                  | 0.68           |
 | Recski et al (2016)    | Embeddings+wordnet+4lang                  | 0.76           |
-| Mrksic et al (2016)    | Annotator/gold standard agreement         | 0.78           |
+| Mrksic et al (2016)    | Paragram-SL999 + Counter-fitting          | 0.74           |
 
 
 ## References 
