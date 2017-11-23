@@ -37,7 +37,7 @@ SimLex-999 is structured to facilitate focused evaluations based around the foll
 ## References 
 
 * **Measuring semantic similarity of words using concept networks** (RepL4NLP'16), G Recski et al. [[pdf](http://aclweb.org/anthology/W/W16/W16-1622.pdf)]
-* **Measuring semantic similarity of words using concept networks** (EMNLP'16), N Mrksic et al. [[pdf](https://arxiv.org/pdf/1603.00892.pdf)]
+* **Counter-fitting Word Vectors to Linguistic Constraints** (NAACL'16), N Mrksic et al. [[pdf](https://arxiv.org/pdf/1603.00892.pdf)]
 * **Lemon and Tea Are Not Similar: Measuring Word-to-Word Similarity by Combining Different Methods** (CICLing'15),  R Banjade et al. [[pdf](http://nobalniraula.com/papers/LemonTeaNotSimilar_CICLing_2015.pdf)]
 * **Embedding Word Similarity with Neural Machine Translation.** (ICLR'15.), F Hill et al. [[pdf](https://arxiv.org/pdf/1412.6448.pdf)]
 * **Non-Distributional Word Vector Representations.** (ACL'15), M Faruqui et al. [[pdf](http://www.aclweb.org/anthology/P15-2076)]
