@@ -53,7 +53,7 @@ SimVerb-3500 (Gerz ‎2016) is an evaluation resource that provides human rating
 
 SimLex-999 (Hill 2014) is a gold standard resource for the evaluation of models that learn the meaning of words and concepts. SimLex-999 provides a way of measuring how well models capture similarity, rather than relatedness or association.
 
-**[WordSim353 Dataset](https://github.com/magizbox/underthesea/wiki/DATA-WORDSIM-353)** <sub><sup>9 results collected</sup></sub>
+**[WordSim353 Dataset](https://github.com/magizbox/underthesea/wiki/DATA-WORDSIM-353)** <sub><sup>22 results collected</sup></sub>
 
 The WordSimilarity-353 Test Collection (Gabrilovich 2002) contains two sets of English word pairs along with human-assigned similarity judgements. The collection can be used to train and/or test computer algorithms implementing semantic similarity measures.
 
