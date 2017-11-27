@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+* [**Preprocess**](#preprocess)
+* [**Language Detection**](#language-detection)
 * [**Spelling Correction**](#spelling-correction)
 * [**Word Segmentation**](#word-segmentation)
 * [**Part-of-Speech Tagging**](#part-of-speech-tagging)
