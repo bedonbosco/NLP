@@ -53,6 +53,10 @@ SimVerb-3500 (Gerz ‎2016) is an evaluation resource that provides human rating
 
 SimLex-999 (Hill 2014) is a gold standard resource for the evaluation of models that learn the meaning of words and concepts. SimLex-999 provides a way of measuring how well models capture similarity, rather than relatedness or association.
 
+**[Rare Word (RW) dataset](https://github.com/magizbox/underthesea/wiki/DATA-RAREWORD)** <sub><sup>15 results collected</sup></sub>
+
+Most existing word similarity datasets contain frequent words and few of them possesses enough rare or morphologically complex words that we could really attest the expressiveness of our morphoRNN models. Good embedding in general should be able to learn useful representations for not just frequent words but also rare ones. Rare Word (Luong 2013) is dataset focusing on rare words to complement existing ones.
+
 **[WordSim353 Dataset](https://github.com/magizbox/underthesea/wiki/DATA-WORDSIM-353)** <sub><sup>22 results collected</sup></sub>
 
 The WordSimilarity-353 Test Collection (Gabrilovich 2002) contains two sets of English word pairs along with human-assigned similarity judgements. The collection can be used to train and/or test computer algorithms implementing semantic similarity measures.
