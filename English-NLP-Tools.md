@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+* [**Preprocess**](#preprocess)
+* [**Language Detection**](#language-detection)
 * [**Spelling Correction**](#spelling-correction)
 * [**Word Segmentation**](#word-segmentation)
 * [**Part-of-Speech Tagging**](#part-of-speech-tagging)
@@ -24,6 +26,13 @@
 * [**Text To Speech**](#text-to-speech)
 * [**Resources**](#resources)
 * [**Miscellaneous**](#miscellaneous)
+
+
+### Preprocess
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#preprocess) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#preprocess) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#preprocess)
+
+* [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.  *by Vikash Singh (2017)* `python` 
 
 ### Language Detection
 
