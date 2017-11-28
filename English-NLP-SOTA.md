@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [**Preprocess**](#preprocess)
+* [**Sentence Boundary Disambiguation**](#sentence-boundary-disambiguation)
 * [**Language Detection**](#language-detection)
 * [**Spelling Correction**](#spelling-correction)
 * [**Word Segmentation**](#word-segmentation)
@@ -25,7 +26,6 @@
 * [**Automatic Speech Recognition**](#automatic-speech-recognition)
 * [**Text To Speech**](#text-to-speech)
 * [**Resources**](#resources)
-* [**Miscellaneous**](#miscellaneous)
 
 ## Part-of-Speech Tagging
 
