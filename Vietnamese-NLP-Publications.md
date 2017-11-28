@@ -26,6 +26,7 @@
 * [**Automatic Speech Recognition**](#automatic-speech-recognition)
 * [**Text To Speech**](#text-to-speech)
 * [**Resources**](#resources)
+* [**Miscellaneous**](#miscellaneous)
 
 ### Spelling Correction
 
