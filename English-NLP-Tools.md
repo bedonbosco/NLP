@@ -32,12 +32,21 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#preprocess) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#preprocess) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#preprocess)
 
 * [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.  *by Vikash Singh (2017)* `python` 
+* [PyNLPL](https://github.com/proycon/pynlpl) - Python library for Natural Language Processing *(2011)* `python`
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java,lemmatizer`
+
+### Sentence Boundary Disambiguation
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#sentence-boundary-disambiguation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#sentence-boundary-disambiguation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#sentence-boundary-disambiguation)
+
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 
 ### Language Detection
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#language-detection) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-detection) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#language-detection)
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java` 
 
 ### Spelling Correction
 
@@ -54,6 +63,7 @@
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python` 
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python`
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 
 ### Part-of-Speech Tagging
 
@@ -65,7 +75,8 @@
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
-* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java`
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
 
 **Sources**
@@ -80,6 +91,7 @@
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python`
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 
 ### Parsing
 
@@ -90,7 +102,10 @@
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `java`
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
 * [MaltParser](http://www.maltparser.org/) - a system for data-driven dependency parsing *by Johan Hall (2008)* `java`
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
+* [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
 
 ### Representation
 
@@ -113,6 +128,7 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
 
 * [fastText](https://github.com/facebookresearch/fastText) - Library for efficient learning of word representations and sentence classification *by Facebook Research (2016)* `c++,python`
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 
 ### Sentiment Analysis
 
@@ -123,6 +139,7 @@
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python`
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
 
 **Sources**
 
@@ -137,6 +154,9 @@
 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
+* [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
 
 **Sources**
 
@@ -153,6 +173,14 @@
 
 * [google/sling](https://github.com/google/sling) - SLING - A natural language frame semantics parser (2017) `C++,tensorflow`
 * [snowblink14/smatch](https://github.com/snowblink14/smatch/) - Smatch tool: evaluation of AMR semantic structures *by snowblink14 (2016)* `python`
+* [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
+
+### Coreference Resolution
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#coreference-resolution) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#coreference-resolution) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#coreference-resolution)
+
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 
 ### Machine Translation
 
