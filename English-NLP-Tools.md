@@ -87,9 +87,11 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#parsing) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#parsing) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#parsing)
 
 * [Syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) - Neural Models of Syntax *by Google (2016)* `tensorflow` 
+* [mynlp/enju](https://github.com/mynlp/enju) - English HPSG parser *(2016)* `roff` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
-* [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python`
+* [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `java`
+* [MaltParser](http://www.maltparser.org/) - a system for data-driven dependency parsing *by Johan Hall (2008)* `java`
 
 ### Representation
 
@@ -166,6 +168,19 @@ Tensorflow  *by Google (2017)* `tensorflow`
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [stanfordnlp/phrasal](https://github.com/stanfordnlp/phrasal/) - A large-scale statistical machine translation system written in Java *by Stanford NLP (2008)* `java` 
 * [moses](http://www.statmt.org/moses/) - a statistical machine translation system *by Moses (2005)* `c++` 
+
+### Resources
+
+**Annotation Tools**
+
+* [webis-de/wat](https://github.com/webis-de/wat) - Web Annotation Tool for Segment Labeling *(2017)* `web app` 
+* [brat](http://brat.nlplab.org/) - brat rapid annotation tool *(2011)* `web app` 
+* [EXMARaLDA](http://exmaralda.org/en/) - a system for working with oral corpora *(2011)* `software` 
+* [UAM CorpusTool](http://www.corpustool.com/) - Text Annotation made Easy *(2008)* `software` 
+* [MMAX2](https://sourceforge.net/projects/mmax2/) - a GUI-based text annotation tool for creating and visualizing annotations *(2006)* `software` 
+* [NITE XML Toolkit (NXT)](http://groups.inf.ed.ac.uk/nxt/) - open-source libraries to support heavily annotated corpora *(2003)* `software` 
+* [WordFreak](https://sourceforge.net/projects/wordfreak/) - a java-based linguistic annotation tool *(2003)* `software` 
+* [GATE](https://gate.ac.uk/) - open source software capable of solving almost any text processing problem *(1996)* `software` 
 
 ### Miscellaneous
 
