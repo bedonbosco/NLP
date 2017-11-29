@@ -200,6 +200,11 @@ Tensorflow  *by Google (2017)* `tensorflow`
 
 ### Resources
 
+**Lexicon**
+
+* [VALEX](https://ilexir.co.uk/valex/index.html) - new large valency (subcategorization) lexicon for English verbs *(2006)*
+* [Unified Verb Index](https://verbs.colorado.edu/verb-index/) - a system which merges links and web pages from four different natural language processing projects: VerbNet, PropBank, FrameNet, OntoNotes Sense Groupings *(2014)*
+
 **Annotation Tools**
 
 * [webis-de/wat](https://github.com/webis-de/wat) - Web Annotation Tool for Segment Labeling *(2017)* `web app` 
