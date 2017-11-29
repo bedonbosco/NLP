@@ -23,7 +23,7 @@
 * [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
-* [**Knowledge Representation**](#knowledge-representation)
+* [**Knowledge Representation and Reasoning**](#knowledge-representation-and-reasoning)
 * [**Automatic Speech Recognition**](#automatic-speech-recognition)
 * [**Text To Speech**](#text-to-speech)
 * [**Resources**](#resources)
