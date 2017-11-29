@@ -134,8 +134,16 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
 
+**Libraries**
+
 * [fastText](https://github.com/facebookresearch/fastText) - Library for efficient learning of word representations and sentence classification (Facebook Research 2016) `c++,python`
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text (2004) `java`
+
+**Sources**
+
+* [brightmart/text_classification](https://github.com/brightmart/text_classification) - all kinds of text classificaiton models and more with deep learning (2017) `python`
+* [FredericGodin/DynamicCNN](https://github.com/FredericGodin/DynamicCNN) - Dynamic Convolutional Neural Networks for Theano/Lasagne (FredericGodin 2015) `python,theano,lasagne`  
+* [yoonkim/CNN_sentence](https://github.com/yoonkim/CNN_sentence) - CNNs for sentence classification (Yoonkim 2014) `python,theano`  
 
 ### Sentiment Analysis
 
@@ -151,9 +159,7 @@
 
 **Sources**
 
-* [FredericGodin/DynamicCNN](https://github.com/FredericGodin/DynamicCNN) - Dynamic Convolutional Neural Networks for Theano/Lasagne (FredericGodin 2015) `python,theano,lasagne`  
 * [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - a lexicon and rule-based sentiment analysis tool (2014) `python`  
-* [yoonkim/CNN_sentence](https://github.com/yoonkim/CNN_sentence) - CNNs for sentence classification (Yoonkim 2014) `python,theano`  
 
 ### Named Entity Recognition
 
