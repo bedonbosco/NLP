@@ -37,6 +37,7 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#preprocess) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#preprocess) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#preprocess)
 
 * [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.  *by Vikash Singh (2017)* `python` 
+* [chartbeat-labs/textacy](https://github.com/chartbeat-labs/textacy) -  a Python library for performing higher-level natural language processing (NLP) tasks *(2015)* `python`
 * [PyNLPL](https://github.com/proycon/pynlpl) - Python library for Natural Language Processing *(2011)* `python`
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java,lemmatizer`
 
@@ -63,7 +64,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#word-segmentation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#word-segmentation)
 
-* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
+* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing (2015) `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python` 
@@ -76,7 +77,7 @@
 
 **Libraries**
 
-* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
+* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing (2015) `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
@@ -93,7 +94,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#chunking) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#chunking) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#chunking)
 
-* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
+* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing (2015) `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python`
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
@@ -118,22 +119,23 @@
 
 **Libraries**
 
-* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
+* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing (2015) `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
-* [gensim](https://radimrehurek.com/gensim/) - Topic modelling for humans *by gensim (2009)* `python` 
+* [gensim](https://radimrehurek.com/gensim/) - Topic modelling for humans (2009) `python` 
 
 **Sources**
 
-* [tca19/dict2vec](https://github.com/tca19/dict2vec) - Dict2vec is a framework to learn word embeddings using lexical dictionaries. *(2017)* `python` 
-* [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation. *(2015)* `C` 
-* [word2vec](https://code.google.com/archive/p/word2vec/) -  an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. *(2013)* `C` 
+* [tca19/dict2vec](https://github.com/tca19/dict2vec) - Dict2vec is a framework to learn word embeddings using lexical dictionaries. (2017) `python` 
+* [tudarmstadt-lt/sensegram](https://github.com/tudarmstadt-lt/sensegram) - Making sense embedding out of word embeddings. (2015) `python` 
+* [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation. (2015) `C` 
+* [word2vec](https://code.google.com/archive/p/word2vec/) -  an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. (2013) `C` 
 
 ### Text Classification
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-classification) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-classification) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-classification)
 
-* [fastText](https://github.com/facebookresearch/fastText) - Library for efficient learning of word representations and sentence classification *by Facebook Research (2016)* `c++,python`
-* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
+* [fastText](https://github.com/facebookresearch/fastText) - Library for efficient learning of word representations and sentence classification (Facebook Research 2016) `c++,python`
+* [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text (2004) `java`
 
 ### Sentiment Analysis
 
@@ -142,14 +144,16 @@
 **Libraries**
 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
-* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python`
-* [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
-* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
+* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing (Steven Loria 2013) `python`
+* [pattern](https://github.com/clips/pattern) - A web mining module for Python (Smedt 2012) `python`  
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software (Stanford NLP 2010) `java` 
+* [SenticNet](http://sentic.net/) - concept-level sentiment analysis (2009) `java` 
 
 **Sources**
 
-* [yoonkim/CNN_sentence](https://github.com/yoonkim/CNN_sentence) - CNNs for sentence classification *by yoonkim (2014)* `python,theano`  
-* [FredericGodin/DynamicCNN](https://github.com/FredericGodin/DynamicCNN) - Dynamic Convolutional Neural Networks for Theano/Lasagne *by FredericGodin (2015)* `python,theano,lasagne`  
+* [FredericGodin/DynamicCNN](https://github.com/FredericGodin/DynamicCNN) - Dynamic Convolutional Neural Networks for Theano/Lasagne (FredericGodin 2015) `python,theano,lasagne`  
+* [cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment) - a lexicon and rule-based sentiment analysis tool (2014) `python`  
+* [yoonkim/CNN_sentence](https://github.com/yoonkim/CNN_sentence) - CNNs for sentence classification (Yoonkim 2014) `python,theano`  
 
 ### Named Entity Recognition
 
@@ -157,7 +161,7 @@
 
 **Libraries**
 
-* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
+* [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing (2015) `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
@@ -170,7 +174,18 @@
 * [Hironsan/anago](https://github.com/Hironsan/anago) - Bidirectional LSTM-CRF for Sequence Labeling. Easy-to-use and state-of-the-art performance. *by Hironsan (2017)* `python,keras` 
 * [LiyuanLucasLiu/LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF) - Empower Sequence Labeling with Task-Aware Language Model *by LiyuanLucasLiu (2017)* `python,pytorch` 
 * [glample/tagger](https://github.com/glample/tagger) - Named Entity Recognition Tool *by glample (2016)* `python,theano` 
-* [XuezheMax/LasagneNLP](https://github.com/XuezheMax/LasagneNLP) - NLP tools on Lasagne *by XuezheMax (2016)* `python,lasagne` 
+* [XuezheMax/LasagneNLP](https://github.com/XuezheMax/LasagneNLP) - NLP tools on Lasagne (XuezheMax 2016) `python,lasagne` 
+
+### Relationship Extraction
+
+* [machinalis/iepy](https://github.com/machinalis/iepy) - an open source tool for Information Extraction focused on Relation Extraction (2014) `python` 
+* [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - library and tools for information extraction (2008) `c++` 
+
+### Knowledge Representation and Reasoning
+
+* [Pikes](http://pikes.fbk.eu/) - Java-based suite that extracts knowledge from textual resources (2015)
+* [KnowRob](http://www.knowrob.org/knowrob) - Knowledge processing for robots (2011)
+* [KReator](http://kreator-ide.sourceforge.net/) - an integrated development environment (IDE) for relational probabilistic knowledge representation languages (2010)
 
 ### Semantics
 
@@ -201,10 +216,10 @@ Tensorflow  *by Google (2017)* `tensorflow`
 * [stanfordnlp/phrasal](https://github.com/stanfordnlp/phrasal/) - A large-scale statistical machine translation system written in Java (Stanford NLP 2008) `java` 
 * [moses](http://www.statmt.org/moses/) - a statistical machine translation system (Moses 2005) `c++` 
 
-### Knowledge Representation and Reasoning
+### Dialog Systems and Chatbots
 
-* [KnowRob](http://www.knowrob.org/knowrob) - Knowledge processing for robots (2011)
-* [KReator](http://kreator-ide.sourceforge.net/) - an integrated development environment (IDE) for relational probabilistic knowledge representation languages (2010)
+* [RasaHQ/rasa_nlu](https://github.com/RasaHQ/rasa_nlu) - turn natural language into structured data (2016) `python`
+* [wit.ai](https://wit.ai/) - makes it easy for developers to build applications and devices that you can talk or text to (2014) `service`
 
 ### Resources
 
