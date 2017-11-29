@@ -13,19 +13,22 @@
 * [**Representation**](#representation)
 * [**Text Classification**](#text-classification)
 * [**Sentiment Analysis**](#sentiment-analysis)
-* [**Automatic Summarization**](#automatic-summarization)
 * [**Named Entity Recognition**](#named-entity-recognition)
-* [**Entity Linking**](#entity-linking)
-* [**Semantics**](#semantics)
-* [**Coreference Resolution**](#coreference-resolution)
 * [**Relationship Extraction**](#relationship-extraction)
+* [**Coreference Resolution**](#coreference-resolution)
+* [**Slotfilling**](#slotfilling)
+* [**Entity Linking**](#entity-linking)
+* [**Knowledge Representation and Reasoning**](#knowledge-representation-and-reasoning)
+* [**Semantics**](#semantics)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
-* [**Machine Translation**](#machine-translation)
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
-* [**Knowledge Representation and Reasoning**](#knowledge-representation-and-reasoning)
+* [**Machine Translation**](#machine-translation)
+* [**Automatic Summarization**](#automatic-summarization)
 * [**Automatic Speech Recognition**](#automatic-speech-recognition)
 * [**Text To Speech**](#text-to-speech)
+* [**Dialog Systems and Chatbots**](#dialogue-systems-and-chatbots)
+* [**Optical Text Recognition**](#optical-text-recognition)
 * [**Resources**](#resources)
 * [**Miscellaneous**](#miscellaneous)
 
@@ -47,7 +50,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#language-detection) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#language-detection) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#language-detection)
 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java` 
 
 ### Spelling Correction
@@ -61,7 +64,7 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#word-segmentation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#word-segmentation)
 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python` 
 * [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python`
@@ -74,7 +77,7 @@
 **Libraries**
 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java`
@@ -116,7 +119,7 @@
 **Libraries**
 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [gensim](https://radimrehurek.com/gensim/) - Topic modelling for humans *by gensim (2009)* `python` 
 
 **Sources**
@@ -138,7 +141,7 @@
 
 **Libraries**
 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python`
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
@@ -155,7 +158,7 @@
 **Libraries**
 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing *by spacy (2015)* `python` 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
@@ -193,28 +196,34 @@
 Tensorflow  *by Google (2017)* `tensorflow`
 * [OpenNMT/OpenNMT](https://github.com/opennmt/opennmt) - Open-Source Neural Machine Translation in Torch  *by OpenNMT (2017)* `lua,torch`
 * [clab/fast_align](https://github.com/clab/fast_align) - Simple, fast unsupervised word aligner  *by C. Dyer (2013)* `c++` 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit  *by R Al-Rfou (2014)* `python` 
-* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
-* [stanfordnlp/phrasal](https://github.com/stanfordnlp/phrasal/) - A large-scale statistical machine translation system written in Java *by Stanford NLP (2008)* `java` 
-* [moses](http://www.statmt.org/moses/) - a statistical machine translation system *by Moses (2005)* `c++` 
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
+* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing (Loria 2013) `python` 
+* [stanfordnlp/phrasal](https://github.com/stanfordnlp/phrasal/) - A large-scale statistical machine translation system written in Java (Stanford NLP 2008) `java` 
+* [moses](http://www.statmt.org/moses/) - a statistical machine translation system (Moses 2005) `c++` 
+
+### Knowledge Representation and Reasoning
+
+* [KnowRob](http://www.knowrob.org/knowrob) - Knowledge processing for robots (2011)
+* [KReator](http://kreator-ide.sourceforge.net/) - an integrated development environment (IDE) for relational probabilistic knowledge representation languages (2010)
 
 ### Resources
 
 **Lexicon**
 
-* [VALEX](https://ilexir.co.uk/valex/index.html) - new large valency (subcategorization) lexicon for English verbs *(2006)*
-* [Unified Verb Index](https://verbs.colorado.edu/verb-index/) - a system which merges links and web pages from four different natural language processing projects: VerbNet, PropBank, FrameNet, OntoNotes Sense Groupings *(2014)*
+* [Unified Verb Index](https://verbs.colorado.edu/verb-index/) - a system which merges links and web pages from four different natural language processing projects: VerbNet, PropBank, FrameNet, OntoNotes Sense Groupings (2014)
+* [UBY](https://verbs.colorado.edu/verb-index/) - A Large-Scale Unified Lexical-Semantic Resource (2011)
+* [VALEX](https://ilexir.co.uk/valex/index.html) - new large valency (subcategorization) lexicon for English verbs (2006)
 
 **Annotation Tools**
 
-* [webis-de/wat](https://github.com/webis-de/wat) - Web Annotation Tool for Segment Labeling *(2017)* `web app` 
-* [brat](http://brat.nlplab.org/) - brat rapid annotation tool *(2011)* `web app` 
-* [EXMARaLDA](http://exmaralda.org/en/) - a system for working with oral corpora *(2011)* `software` 
-* [UAM CorpusTool](http://www.corpustool.com/) - Text Annotation made Easy *(2008)* `software` 
-* [MMAX2](https://sourceforge.net/projects/mmax2/) - a GUI-based text annotation tool for creating and visualizing annotations *(2006)* `software` 
-* [NITE XML Toolkit (NXT)](http://groups.inf.ed.ac.uk/nxt/) - open-source libraries to support heavily annotated corpora *(2003)* `software` 
-* [WordFreak](https://sourceforge.net/projects/wordfreak/) - a java-based linguistic annotation tool *(2003)* `software` 
-* [GATE](https://gate.ac.uk/) - open source software capable of solving almost any text processing problem *(1996)* `software` 
+* [webis-de/wat](https://github.com/webis-de/wat) - Web Annotation Tool for Segment Labeling (2017) `web app` 
+* [brat](http://brat.nlplab.org/) - brat rapid annotation tool (2011) `web app` 
+* [EXMARaLDA](http://exmaralda.org/en/) - a system for working with oral corpora (2011) `software` 
+* [UAM CorpusTool](http://www.corpustool.com/) - Text Annotation made Easy (2008) `software` 
+* [MMAX2](https://sourceforge.net/projects/mmax2/) - a GUI-based text annotation tool for creating and visualizing annotations (2006) `software` 
+* [NITE XML Toolkit (NXT)](http://groups.inf.ed.ac.uk/nxt/) - open-source libraries to support heavily annotated corpora (2003) `software` 
+* [WordFreak](https://sourceforge.net/projects/wordfreak/) - a java-based linguistic annotation tool (2003) `software` 
+* [GATE](https://gate.ac.uk/) - open source software capable of solving almost any text processing problem (1996) `software` 
 
 ### Miscellaneous
 
