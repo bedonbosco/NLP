@@ -64,6 +64,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#word-segmentation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#word-segmentation)
 
+* [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation (2017) `C++` 
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing (2015) `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
@@ -125,10 +126,17 @@
 
 **Sources**
 
+* [facebookresearch/InferSent](https://github.com/facebookresearch/InferSent) - Sentence embeddings (InferSent) and training code for NLI (2017) `python` 
 * [tca19/dict2vec](https://github.com/tca19/dict2vec) - Dict2vec is a framework to learn word embeddings using lexical dictionaries. (2017) `python` 
 * [tudarmstadt-lt/sensegram](https://github.com/tudarmstadt-lt/sensegram) - Making sense embedding out of word embeddings. (2015) `python` 
 * [stanfordnlp/GloVe](https://github.com/stanfordnlp/GloVe) - GloVe model for distributed word representation. (2015) `C` 
+* [Skip-thoughts](https://github.com/ryankiros/skip-thoughts) - Sent2Vec encoder and training code from the paper "Skip-Thought Vectors" (Kiros 2015) `python` 
+* [AdaGram.jl](https://github.com/sbos/AdaGram.jl) - A nonparametric extension of Skip-gram model  (Bartunov 2015) `Julia` 
 * [word2vec](https://code.google.com/archive/p/word2vec/) -  an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words. (2013) `C` 
+
+**Data**
+
+* [NASARI](http://lcl.uniroma1.it/nasari/) - Semantic vector representations for BabelNet synsets* and Wikipedia pages in several languages. (Collados 2015) `software` 
 
 ### Text Classification
 
@@ -208,10 +216,19 @@
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 
+### Question Answering
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#question-answering) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#question-answering)
+
+* [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for dialog AI research, implemented in Python *(2017)* `python`
+* [Attentive_reader](https://github.com/caglar/Attentive_reader) - Simple Attentive Reader Code (Gulcehre 2016) `Python` 
+
 ### Machine Translation
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#machine-translation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#machine-translation)
 
+* [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation (2017) `C++` 
+* [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for dialog AI research, implemented in Python *(2017)* `python`
 * [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit *by Facebook AI Research (2016)* `lua,pytorch`
 * [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for 
 Tensorflow  *by Google (2017)* `tensorflow`
@@ -224,8 +241,16 @@ Tensorflow  *by Google (2017)* `tensorflow`
 
 ### Dialog Systems and Chatbots
 
+* [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for dialog AI research, implemented in Python *(2017)* `python`
 * [RasaHQ/rasa_nlu](https://github.com/RasaHQ/rasa_nlu) - turn natural language into structured data (2016) `python`
 * [wit.ai](https://wit.ai/) - makes it easy for developers to build applications and devices that you can talk or text to (2014) `service`
+
+**Sources**
+
+* [BotKit](https://github.com/howdyai/botkit) - Designed to ease the process of designing and running useful, creative bots that live inside messaging platforms. (2015) `nodejs` 
+* [bwilcox-1234/ChatScript](https://github.com/bwilcox-1234/ChatScript) - Next generation chatbot engine (Robino 2015) `c` 
+* [SuperScript](https://github.com/superscriptjs/superscript) - A dialog system and bot engine for creating human-like conversation chat bots (2014) `javascript` 
+* * [Chatter bot](https://github.com/gunthercox/ChatterBot) - A machine learning, conversational dialog engine for creating chat bots (2014) `python` 
 
 ### Resources
 
@@ -233,6 +258,7 @@ Tensorflow  *by Google (2017)* `tensorflow`
 
 * [Unified Verb Index](https://verbs.colorado.edu/verb-index/) - a system which merges links and web pages from four different natural language processing projects: VerbNet, PropBank, FrameNet, OntoNotes Sense Groupings (2014)
 * [UBY](https://verbs.colorado.edu/verb-index/) - A Large-Scale Unified Lexical-Semantic Resource (2011)
+* [Babelnet](http://babelnet.org/) - Multilingual resource that covers hundreds of languages (Navigli 2009) `web app` 
 * [VALEX](https://ilexir.co.uk/valex/index.html) - new large valency (subcategorization) lexicon for English verbs (2006)
 
 **Annotation Tools**
