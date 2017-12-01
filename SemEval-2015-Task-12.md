@@ -82,6 +82,7 @@ Dataset: *Hotels*
 
 ## References
 
+* **SemEval-2015 Task 12: Aspect Based Sentiment Analysis** (2015), Ma Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S15-2082)]
 * **NLANGP: Supervised Machine Learning System for Aspect Category Classification and Opinion Target Extraction** (2015), Z Toh et al. [[pdf](http://www.aclweb.org/anthology/S15-2083)]
 
 **See Also**
