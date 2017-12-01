@@ -124,9 +124,10 @@ The [SemEval ABSA task for 2016](http://alt.qcri.org/semeval2016/task5/) (SE-ABS
 
 ## References
 
-* **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), M. Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S16-1002)]
-* **NLANGP at SemEval-2016 Task 5: Improving Aspect Based Sentiment Analysis using Neural Network Features** (2016), Z Toh et al. [[pdf](http://www.aclweb.org/anthology/S16-1045)]
-* **AUEB-ABSA at SemEval-2016 Task 5: Ensembles of Classifiers and Embeddings for Aspect Based Sentiment Analysis** (2016), D. Xenos et al. [[pdf](http://www.aclweb.org/anthology/S16-1050)]
+* **SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), Pontiki et al. [[pdf](http://www.aclweb.org/anthology/S16-1002)]
+* **UWB at SemEval-2016 Task 5: Aspect Based Sentiment Analysis** (2016), Hercig et al. [[pdf](http://aclweb.org/anthology/S/S16/S16-1055.pdf)]
+* **NLANGP at SemEval-2016 Task 5: Improving Aspect Based Sentiment Analysis using Neural Network Features** (2016), Toh et al. [[pdf](http://www.aclweb.org/anthology/S16-1045)]
+* **AUEB-ABSA at SemEval-2016 Task 5: Ensembles of Classifiers and Embeddings for Aspect Based Sentiment Analysis** (2016), Xenos et al. [[pdf](http://www.aclweb.org/anthology/S16-1050)]
 
 **See also**
 
