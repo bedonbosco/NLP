@@ -37,9 +37,19 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#preprocess) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#preprocess) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#preprocess)
 
 * [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.  *by Vikash Singh (2017)* `python` 
-* [chartbeat-labs/textacy](https://github.com/chartbeat-labs/textacy) -  a Python library for performing higher-level natural language processing (NLP) tasks *(2015)* `python`
-* [PyNLPL](https://github.com/proycon/pynlpl) - Python library for Natural Language Processing *(2011)* `python`
+* [nlp-compromise/compromise](https://github.com/nlp-compromise/nlp_compromise) - Natural language processing in javascript  (2011) `javascript`
+* [NaturalNode/natural](https://github.com/NaturalNode/natural) - General natural language facilities for node  (2011) `node.js`
+* [twitter/twitter-text](https://github.com/twitter/twitter-text) -Twitter Text Libraries (2010) `javascript`
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java,lemmatizer`
+
+**More**
+
+* [chartbeat-labs/textacy](https://github.com/chartbeat-labs/textacy) -  a Python library for performing higher-level natural language processing (NLP) tasks *(2015)* `python`
+* [wooorm/retext](https://github.com/wooorm/retext) - Natural language processor powered by plugins (2014) `javascript`
+* [datamade/parserator](https://github.com/datamade/parserator) - A toolkit for making domain-specific probabilistic parsers (2014) `python`
+* [benhmoore/Knwl.js](https://github.com/loadfive/Knwl.js) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information. (2013) `javascript`
+* [columbia-applied-data-science/rosetta](https://github.com/columbia-applied-data-science/rosetta) - Tools, wrappers, etc... for data science with a concentration on text processing (2013) `python`
+* [PyNLPL](https://github.com/proycon/pynlpl) - Python library for Natural Language Processing *(2011)* `python`
 
 ### Sentence Boundary Disambiguation
 
@@ -69,8 +79,12 @@
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python` 
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python` 
-* [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `python`
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
+
+**More**
+
+* [proycon/python-ucto](https://github.com/proycon/python-ucto) - a Python binding to the tokenizer Ucto (2014) `python`
+* [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python (2011-2012) `python`
 
 ### Part-of-Speech Tagging
 
@@ -105,14 +119,18 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#parsing) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#parsing) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#parsing)
 
 * [Syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet) - Neural Models of Syntax *by Google (2016)* `tensorflow` 
-* [mynlp/enju](https://github.com/mynlp/enju) - English HPSG parser *(2016)* `roff` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing *by Steven Loria (2013)* `python` 
 * [pattern](https://github.com/clips/pattern) - A web mining module for Python *by TD Smedt et al. (2012)* `python`  
-* [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `java`
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
 * [MaltParser](http://www.maltparser.org/) - a system for data-driven dependency parsing *by Johan Hall (2008)* `java`
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
+
+**More**
+
+* [mynlp/enju](https://github.com/mynlp/enju) - English HPSG parser *(2016)* `roff` 
+* [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies and Universal Depenencies (2014) `python`
+* [MBSP](https://github.com/clips/MBSP) - Memory-based shallow parser for Python *by V Asch et al. (2011-2012)* `java`
 
 ### Representation
 
@@ -228,16 +246,21 @@
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#machine-translation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#machine-translation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#machine-translation)
 
 * [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation (2017) `C++` 
-* [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for dialog AI research, implemented in Python *(2017)* `python`
-* [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit *by Facebook AI Research (2016)* `lua,pytorch`
+* [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for dialog AI research, implemented in Python (2017) `python`
+* [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit (Facebook AI Research 2016) `lua,pytorch`
 * [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for 
-Tensorflow  *by Google (2017)* `tensorflow`
-* [OpenNMT/OpenNMT](https://github.com/opennmt/opennmt) - Open-Source Neural Machine Translation in Torch  *by OpenNMT (2017)* `lua,torch`
-* [clab/fast_align](https://github.com/clab/fast_align) - Simple, fast unsupervised word aligner  *by C. Dyer (2013)* `c++` 
-* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
+Tensorflow  (Google 2017) `tensorflow`
+* [OpenNMT/OpenNMT](https://github.com/opennmt/opennmt) - Open-Source Neural Machine Translation in Torch   (2017) `lua,torch`
+* [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (2014) `python` 
 * [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing (Loria 2013) `python` 
 * [stanfordnlp/phrasal](https://github.com/stanfordnlp/phrasal/) - A large-scale statistical machine translation system written in Java (Stanford NLP 2008) `java` 
 * [moses](http://www.statmt.org/moses/) - a statistical machine translation system (Moses 2005) `c++` 
+
+**More**
+
+* [clab/fast_align](https://github.com/clab/fast_align) - Simple, fast unsupervised word aligner (2013) `c++` 
+* [machinalis/yalign](https://github.com/machinalis/yalign) - A sentence aligner for comparable corpora  (2013) `python`
+* [BLLIP/bllip-parser](https://github.com/BLLIP/bllip-parser) - BLLIP reranking parser (also known as Charniak-Johnson parser, Charniak parser, Brown reranking parser) (2011) `GAP`
 
 ### Dialog Systems and Chatbots
 
