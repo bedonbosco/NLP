@@ -273,7 +273,7 @@ Tensorflow  (Google 2017) `tensorflow`
 * [BotKit](https://github.com/howdyai/botkit) - Designed to ease the process of designing and running useful, creative bots that live inside messaging platforms. (2015) `nodejs` 
 * [bwilcox-1234/ChatScript](https://github.com/bwilcox-1234/ChatScript) - Next generation chatbot engine (Robino 2015) `c` 
 * [SuperScript](https://github.com/superscriptjs/superscript) - A dialog system and bot engine for creating human-like conversation chat bots (2014) `javascript` 
-* * [Chatter bot](https://github.com/gunthercox/ChatterBot) - A machine learning, conversational dialog engine for creating chat bots (2014) `python` 
+* [Chatter bot](https://github.com/gunthercox/ChatterBot) - A machine learning, conversational dialog engine for creating chat bots (2014) `python` 
 
 ### Resources
 
