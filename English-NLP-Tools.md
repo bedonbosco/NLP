@@ -21,6 +21,7 @@
 * [**Knowledge Representation and Reasoning**](#knowledge-representation-and-reasoning)
 * [**Semantics**](#semantics)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
+* [**Textual Entailment**](#textual-entailment)
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
 * [**Machine Translation**](#machine-translation)
@@ -138,6 +139,7 @@
 
 **Libraries**
 
+* [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking. (2017) `c++`
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing (2015) `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [gensim](https://radimrehurek.com/gensim/) - Topic modelling for humans (2009) `python` 
@@ -155,6 +157,11 @@
 **Data**
 
 * [NASARI](http://lcl.uniroma1.it/nasari/) - Semantic vector representations for BabelNet synsets* and Wikipedia pages in several languages. (Collados 2015) `software` 
+
+**More**
+
+* [text2vec](https://github.com/dselivanov/text2vec) - an R package which provides an efficient framework with a concise API for text analysis and natural language processing (2015) `R`
+* [wordVectors](https://github.com/bmschmidt/wordVectors) - An R package for creating and exploring word2vec and other word embedding models (2015) `R`
 
 ### Text Classification
 
@@ -196,6 +203,7 @@
 * [spacy](https://spacy.io/) - Industrial-Strength Natural Language Processing (2015) `python` 
 * [polyglot](http://polyglot.readthedocs.io/en/latest/) - Multilingual text (NLP) processing toolkit (Al-Rfou 2014) `python` 
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
+* [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - library and tools for information extraction (2008) `c++`
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
 
@@ -211,6 +219,7 @@
 ### Relationship Extraction
 
 * [machinalis/iepy](https://github.com/machinalis/iepy) - an open source tool for Information Extraction focused on Relation Extraction (2014) `python` 
+* [knowitall/reverb](https://github.com/knowitall/reverb/) - a program that automatically identifies and extracts binary relationships from English sentences. (2011) `java`
 * [mit-nlp/MITIE](https://github.com/mit-nlp/MITIE) - library and tools for information extraction (2008) `c++` 
 
 ### Knowledge Representation and Reasoning
@@ -227,18 +236,33 @@
 * [snowblink14/smatch](https://github.com/snowblink14/smatch/) - Smatch tool: evaluation of AMR semantic structures *by snowblink14 (2016)* `python`
 * [nltk](https://github.com/nltk/nltk) - Natural Language Toolkit *by nltk (2001)* `python`
 
+### Semantic Role Labeling
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#semantic-role-labeling) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#semantic-role-labeling) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantic-role-labeling)
+
+* [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch (2017) `python`
+
+### Textual Entailment
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#textual-entailment) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#textual-entailment) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#textual-entailment)
+
+* [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch (2017) `python`
+
 ### Coreference Resolution
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#coreference-resolution) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#coreference-resolution) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#coreference-resolution)
 
+* [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch (2017) `python`
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Natural language software *by Stanford NLP (2010)* `java` 
 * [Apache OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text *(2004)* `java`
+
 
 ### Question Answering
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#question-answering) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#question-answering)
 
 * [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for dialog AI research, implemented in Python *(2017)* `python`
+* [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch (2017) `python`
 * [Attentive_reader](https://github.com/caglar/Attentive_reader) - Simple Attentive Reader Code (Gulcehre 2016) `Python` 
 
 ### Machine Translation
