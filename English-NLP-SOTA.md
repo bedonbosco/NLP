@@ -77,6 +77,10 @@ The WordSimilarity-353 Test Collection (Gabrilovich 2002) contains two sets of E
 
 AG (GM Del Corso et al. 2005) is a collection of more than 1 million news articles. News articles have been gathered from more than 2000  news sources by ComeToMyHead in more than 1 year of activity. 
 
+**[IMDB dataset](https://github.com/magizbox/underthesea/wiki/DATA-IMDB)** <sub><sup>11 results collected</sup></sub>
+
+The Internet Movie Database (IMDB) is an online database containing information and statistics about movies, TV shows and video games as well as actors, directors and other film industry professionals. This information can include lists of cast and crew members, movie release dates and box office information, plot summaries, trailers, actor and director biographies and other trivia.
+
 **[TREC question dataset](https://github.com/magizbox/underthesea/wiki/DATA-TREC)** <sub><sup>6 results collected</sup></sub>
 
 Task involves classifying a question into 6 question types (whether the question is about person,
@@ -123,10 +127,26 @@ The OntoNotes Release 5.0 shared task deals with language-independent named enti
 
 The CoNLL-2003 (Sang et al. 2003) shared task deals with language-independent named entity recognition as well (English and German).
 
+## Textual Entailment
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#textual-entailment) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#textual-entailment) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#textual-entailment)
+
+**[The Stanford Natural Language Inference (SNLI) Corpus](https://github.com/magizbox/underthesea/wiki/DATA-SNLI)** <sub><sup>10 results collected</sup></sub>
+
+The SNLI corpus (Bowman 2015) is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral, supporting the task of natural language inference (NLI), also known as recognizing textual entailment (RTE). We aim for it to serve both as a benchmark for evaluating representational systems for text, especially including those induced by representation learning methods, as well as a resource for developing NLP models of any kind.
+
+## Question Answerin
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#question-answering) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#question-answering)
+
+**[Stanford Question Answering Dataset (SQuAD) dataset](https://github.com/magizbox/underthesea/wiki/DATA-SQUAD)** <sub><sup>8 results collected</sup></sub>
+
+Stanford Question Answering Dataset (SQuAD) (Rajpurkar 2016) is a new reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage.
+
 ## Machine Translation
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#machine-translation) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#machine-translation) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#machine-translation)
 
 **[Multi30k dataset](https://github.com/magizbox/underthesea/wiki/DATA-MULTI30k)** <sub><sup>4 results collected</sup></sub>
 
-Multi30K dataset to stimulate multilingual multimodal research.  This dataset extends the Flickr30K dataset with German translations created by professional translators over a subset of the English descriptions, and German descriptions crowdsourced independently of the original English descriptions. We describe the data and outline how it can be used for multilingual image description and multimodal machine translation, but we anticipate the data will be useful for a broader range of tasks.
+Multi30K dataset (Elliott 2017) to stimulate multilingual multimodal research.  This dataset extends the Flickr30K dataset with German translations created by professional translators over a subset of the English descriptions, and German descriptions crowdsourced independently of the original English descriptions. We describe the data and outline how it can be used for multilingual image description and multimodal machine translation, but we anticipate the data will be useful for a broader range of tasks.
