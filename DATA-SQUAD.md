@@ -35,4 +35,4 @@ Stanford Question Answering Dataset contains 107,785 questions and 23,215 passag
 
 **See Also**
 
-* [☶ Question Answering (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA##question-answering)
+* [☶ Question Answering (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#question-answering)
