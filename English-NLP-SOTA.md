@@ -122,3 +122,11 @@ The OntoNotes Release 5.0 shared task deals with language-independent named enti
 **[CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition](https://github.com/magizbox/underthesea/wiki/TASK-CONLL-2003)** <sub><sup>3 results collected</sup></sub>
 
 The CoNLL-2003 (Sang et al. 2003) shared task deals with language-independent named entity recognition as well (English and German).
+
+## Machine Translation
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#machine-translation) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#machine-translation) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#machine-translation)
+
+**[Multi30k dataset](https://github.com/magizbox/underthesea/wiki/DATA-MULTI30k)** <sub><sup>4 results collected</sup></sub>
+
+Multi30K dataset to stimulate multilingual multimodal research.  This dataset extends the Flickr30K dataset with German translations created by professional translators over a subset of the English descriptions, and German descriptions crowdsourced independently of the original English descriptions. We describe the data and outline how it can be used for multilingual image description and multimodal machine translation, but we anticipate the data will be useful for a broader range of tasks.
