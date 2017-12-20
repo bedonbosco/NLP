@@ -21,6 +21,7 @@
 * [**Knowledge Representation and Reasoning**](#knowledge-representation-and-reasoning)
 * [**Semantics**](#semantics)
 * [**Semantic Role Labeling**](#semantic-role-labeling)
+* [**Textual Entailment**](#textual-entailment)
 * [**Question Answering**](#question-answering)
 * [**Language Generation**](#language-generation)
 * [**Machine Translation**](#machine-translation)
