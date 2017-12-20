@@ -286,6 +286,20 @@ Tensorflow  (Google 2017) `tensorflow`
 * [machinalis/yalign](https://github.com/machinalis/yalign) - A sentence aligner for comparable corpora  (2013) `python`
 * [BLLIP/bllip-parser](https://github.com/BLLIP/bllip-parser) - BLLIP reranking parser (also known as Charniak-Johnson parser, Charniak parser, Brown reranking parser) (2011) `GAP`
 
+### Text To Speech
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#text-to-speech) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#text-to-speech) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#text-to-speech)
+
+* [HTS-engine](http://hts-engine.sourceforge.net/) - software to synthesize speech waveform from HMMs trained by the HMM-based speech synthesis system (2015-2016)
+* [HTK](https://sourceforge.net/projects/sp-tk/) - The Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models. HTK is primarily used for speech recognition research although it has been used for numerous other applications including research into speech synthesis, character recognition and DNA sequencing (2004-2016)
+* [Speech Signal Processing Toolkit (SPTK)](https://sourceforge.net/projects/sp-tk/) - a suite of speech signal processing tools for UNIX environments (2016)
+
+**Libraries**
+
+* [Kyubyong/deepvoice3](https://github.com/Kyubyong/deepvoice3) - Tensorflow Implementation of Deep Voice 3 (2017)
+* [Kyubyong/tacotron](https://github.com/Kyubyong/tacotron) - A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model (2017)
+* [israelg99/deepvoice](https://github.com/israelg99/deepvoice) - Deep Voice: Real-time Neural Text-to-Speech (2017)
+
 ### Dialog Systems and Chatbots
 
 * [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for dialog AI research, implemented in Python *(2017)* `python`
