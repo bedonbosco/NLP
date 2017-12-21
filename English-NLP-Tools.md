@@ -293,6 +293,7 @@ Tensorflow  (Google 2017) `tensorflow`
 * [HTS-engine](http://hts-engine.sourceforge.net/) - software to synthesize speech waveform from HMMs trained by the HMM-based speech synthesis system (2015-2016)
 * [HTK](https://sourceforge.net/projects/sp-tk/) - The Hidden Markov Model Toolkit (HTK) is a portable toolkit for building and manipulating hidden Markov models. HTK is primarily used for speech recognition research although it has been used for numerous other applications including research into speech synthesis, character recognition and DNA sequencing (2004-2016)
 * [Speech Signal Processing Toolkit (SPTK)](https://sourceforge.net/projects/sp-tk/) - a suite of speech signal processing tools for UNIX environments (2016)
+* [marytts/marytts](https://github.com/marytts/marytts) - an open-source, multilingual text-to-speech synthesis system written in pure java (2006-2017) `java`
 
 **Libraries**
 
