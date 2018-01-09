@@ -3,7 +3,7 @@
 | Lần cập nhật cuối | 09/01/2018 |
 | Người thực hiện   | Vũ Anh     |
 
-Tài liệu mô tả đề xuất về cấu trúc chuẩn của tập dữ liệu (corpus) đối với bài toán nhận dạng tiếng nói (ASR). Được áp dụng trong các thí nghiệm của `underthesea` từ phiên bản 1.2.0
+Tài liệu mô tả đề xuất về cấu trúc chuẩn của tập dữ liệu (corpus) đối với bài toán nhận dạng tiếng nói (ASR). Được áp dụng trong các thí nghiệm của [`underthesea`](https://github.com/undertheseanlp/automatic_speech_recognition) từ phiên bản 1.2.0
 
 Các ví dụ mẫu: [`diadiem`](https://github.com/undertheseanlp/automatic_speech_recognition/tree/sphinx_lab/data/diadiem/corpus) corpus
 
