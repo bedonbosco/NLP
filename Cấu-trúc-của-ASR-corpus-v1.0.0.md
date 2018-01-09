@@ -7,9 +7,9 @@ Tài liệu mô tả đề xuất về cấu trúc chuẩn của tập dữ li�
 
 Các ví dụ mẫu: [`diadiem`](https://github.com/undertheseanlp/automatic_speech_recognition/tree/sphinx_lab/data/diadiem/corpus) corpus
 
-# Thư mục của tập dữ liệu
+### Tập dữ liệu
 
-Thư mục này chứa dữ liệu huấn luyện và dữ liệu kiểm thử của bài toán.
+Dữ liệu của bài toán nhận dạng tiếng nói được lưu trong một thư mục, gồm hai thư mục con `train` và `test`.
 
 * Dữ liệu huấn luyện được lưu trong thư mục `train`
 * Dữ liệu kiểm thử được lưu trong thư mục `test`
@@ -34,7 +34,7 @@ Cấu trúc thư mục
 
 Mỗi thư mục `train` và `test` gồm một file `text` và một thư mục con `wav`. Trong thư mục `wav` có chứa các file âm thanh (với đuôi định dạng phổ biến là wav), chứa dữ liệu âm thanh.
 
-Nội dụng của file `text`
+Nội dung của file `text`
 
 ```
 train_01|text content 01
