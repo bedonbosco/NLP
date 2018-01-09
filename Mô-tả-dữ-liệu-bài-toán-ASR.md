@@ -44,6 +44,7 @@ Nội dung của file `text`
 train_01|text content 01
 train_02|text content 02
 train_03|text content 03
+train_04|text content 04
 ```
 
 Nội dung của file `speaker`
@@ -52,6 +53,7 @@ Nội dung của file `speaker`
 spk01 train_01
 spk01 train_02
 spk02 train_03
+spk02 train_04
 ```
 
 Nội dung của file `speaker`
