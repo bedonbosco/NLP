@@ -1,0 +1,43 @@
+| Phiên bản         | v1.0.0     |
+|-------------------|------------|
+| Lần cập nhật cuối | 09/01/2018 |
+| Người thực hiện   | Vũ Anh     |
+
+Tài liệu mô tả đề xuất về cấu trúc chuẩn của tập dữ liệu (corpus) đối với bài toán nhận dạng tiếng nói (ASR). Được áp dụng trong các thí nghiệm của `underthesea` từ phiên bản 1.2.0
+
+Các ví dụ mẫu: [`diadiem`](https://github.com/undertheseanlp/automatic_speech_recognition/tree/sphinx_lab/data/diadiem/corpus) corpus
+
+# Thư mục của tập dữ liệu
+
+Thư mục này chứa dữ liệu huấn luyện và dữ liệu kiểm thử của bài toán.
+
+* Dữ liệu huấn luyện được lưu trong thư mục `train`
+* Dữ liệu kiểm thử được lưu trong thư mục `test`
+
+Cấu trúc thư mục
+
+```
+.                       
+├── train                
+|   ├── wav
+|   |   ├── train_01.wav
+|   |   ├── train_02.wav
+|   |   └── train_03.wav
+|   └── text
+└── test                 
+    ├── wav
+    |   ├── test_01.wav
+    |   ├── test_02.wav
+    |   └── test_03.wav
+    └── text
+```
+
+Mỗi thư mục `train` và `test` gồm một file `text` và một thư mục con `wav`. Trong thư mục `wav` có chứa các file âm thanh (với đuôi định dạng phổ biến là wav), chứa dữ liệu âm thanh.
+
+Nội dụng của file `text`
+
+```
+train_01|text content 01
+train_02|text content 02
+train_03|text content 03
+```
