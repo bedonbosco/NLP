@@ -23,16 +23,20 @@ Cấu trúc thư mục
 |   |   ├── train_01.wav
 |   |   ├── train_02.wav
 |   |   └── train_03.wav
+|   ├── gender
+|   ├── speaker
 |   └── text
 └── test                 
     ├── wav
     |   ├── test_01.wav
     |   ├── test_02.wav
     |   └── test_03.wav
+    ├── gender
+    ├── speaker
     └── text
 ```
 
-Mỗi thư mục `train` và `test` gồm một file `text` và một thư mục con `wav`. Trong thư mục `wav` có chứa các file âm thanh (với đuôi định dạng phổ biến là wav), chứa dữ liệu âm thanh.
+Mỗi thư mục `train` và `test` gồm thư mục con `wav`, file `gender`, file `speaker` và file `text`. Trong thư mục `wav` có chứa các file âm thanh (với đuôi định dạng phổ biến là wav), chứa dữ liệu âm thanh.
 
 Nội dung của file `text`
 
@@ -40,4 +44,19 @@ Nội dung của file `text`
 train_01|text content 01
 train_02|text content 02
 train_03|text content 03
+```
+
+Nội dung của file `speaker`
+
+```
+spk01 train_01
+spk01 train_02
+spk02 train_03
+```
+
+Nội dung của file `speaker`
+
+```
+spk01 f
+spk02 m
 ```
