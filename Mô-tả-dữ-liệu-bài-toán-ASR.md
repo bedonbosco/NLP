@@ -38,7 +38,7 @@ Cấu trúc thư mục
 
 Mỗi thư mục `train` và `test` gồm thư mục con `wav`, file `gender`, file `speaker` và file `text`. Trong thư mục `wav` có chứa các file âm thanh (với đuôi định dạng phổ biến là wav), chứa dữ liệu âm thanh.
 
-Nội dung của file `text`
+File `text` chứa nội dung của từng câu nói với tên file âm thanh tương ứng
 
 ```
 train_01|text content 01
@@ -47,7 +47,7 @@ train_03|text content 03
 train_04|text content 04
 ```
 
-Nội dung của file `speaker`
+File `speaker` chứa mô tả speaker id với câu nói tương ứng
 
 ```
 spk01 train_01
@@ -56,9 +56,14 @@ spk02 train_03
 spk02 train_04
 ```
 
-Nội dung của file `speaker`
+File `gender` chứa thông tin về giới tính của speaker
 
 ```
 spk01 f
 spk02 m
 ```
+
+Ký hiệu:
+
+* `f` (female): speaker có giới tính nữ
+* `m` (male): speakder có giới tính nam
