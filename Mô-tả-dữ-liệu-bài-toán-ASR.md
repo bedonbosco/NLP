@@ -40,7 +40,7 @@ Mỗi thư mục `train` và `test` gồm thư mục con `wav`, file `gender`, f
 
 File `text` chứa nội dung của từng câu nói với tên file âm thanh tương ứng
 
-**Format**: `<audio_file_id>|<text content>`
+*Format*: `<audio_file_id>|<text content>`
 
 ```
 train_01|text content 01
@@ -51,7 +51,7 @@ train_04|text content 04
 
 File `speaker` chứa mô tả speaker id với câu nói tương ứng
 
-**Format**: `<speaker_id> <audio_file_id>`
+*Format*: `<speaker_id> <audio_file_id>`
 
 ```
 spk01 train_01
@@ -62,7 +62,7 @@ spk02 train_04
 
 File `gender` chứa thông tin về giới tính của speaker
 
-**Format**: `<speaker_id> <gender>`
+*Format*: `<speaker_id> <gender>`
 
 ```
 spk01 f
