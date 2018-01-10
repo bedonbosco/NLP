@@ -1,6 +1,6 @@
 | Phiên bản         | v1.0.0     |
 |-------------------|------------|
-| Lần cập nhật cuối | 09/01/2018 |
+| Lần cập nhật cuối | 10/01/2018 |
 | Người thực hiện   | Vũ Anh     |
 
 Tài liệu mô tả đề xuất về cấu trúc chuẩn của tập dữ liệu (corpus) đối với bài toán nhận dạng tiếng nói (ASR). Được áp dụng trong các thí nghiệm của [`underthesea`](https://github.com/undertheseanlp/automatic_speech_recognition) từ phiên bản 1.2.0
@@ -40,6 +40,8 @@ Mỗi thư mục `train` và `test` gồm thư mục con `wav`, file `gender`, f
 
 File `text` chứa nội dung của từng câu nói với tên file âm thanh tương ứng
 
+**Format**: `<audio_file_id>|<text content>`
+
 ```
 train_01|text content 01
 train_02|text content 02
@@ -49,6 +51,8 @@ train_04|text content 04
 
 File `speaker` chứa mô tả speaker id với câu nói tương ứng
 
+**Format**: `<speaker_id> <audio_file_id>`
+
 ```
 spk01 train_01
 spk01 train_02
@@ -57,6 +61,8 @@ spk02 train_04
 ```
 
 File `gender` chứa thông tin về giới tính của speaker
+
+**Format**: `<speaker_id> <gender>`
 
 ```
 spk01 f
