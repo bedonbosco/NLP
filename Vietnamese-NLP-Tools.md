@@ -47,6 +47,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#word-segmentation) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#word-segmentation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#word-segmentation)
 
+* [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit *by NQ Dat (2018)* `java`
 * [datquocnguyen/RDRsegmenter](https://github.com/datquocnguyen/RDRsegmenter) - A Fast and Accurate Vietnamese Word Segmenter *by NQ Dat (2017)* `java`
 * [UETsegmenter](https://github.com/phongnt570/UETsegmenter) - a toolkit for Vietnamese word segmentation *by NT Phong (2016)* `java`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-speech tagging, dependency parsing *by LH Phuong (2016)* `java`
@@ -62,6 +63,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#part-of-speech-tagging) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#part-of-speech-tagging) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#part-of-speech-tagging)
 
+* [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit *by NQ Dat (2018)* `java`
 * [pth1993/NNVLP](https://github.com/pth1993/NNVLP) - A Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `python,bash` [`demo`](http://nnvlp.org/)
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by TV Trung (2016)* `python`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by LH Phuong (2016)* `java`
@@ -129,6 +131,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#named-entity-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#named-entity-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#named-entity-recognition)
 
+* [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit *by NQ Dat (2018)* `java`
 * [pth1993/NNVLP](https://github.com/pth1993/NNVLP) - A Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `python,bash` [`demo`](http://nnvlp.org/)
 * [pth1993/vie-ner-lstm](https://github.com/pth1993/vie-ner-lstm) - Vietnamese Named Entity Recognition (vie-ner-lstm) *by PT Hoang (2017)* `python,keras` 
 * [ntson2002/lstm-crf-tagging](https://github.com/ntson2002/lstm-crf-tagging) - nested named entity recognition using multilayer recurrent neural networks *by S Nguyen (2017)* `python,theano`
