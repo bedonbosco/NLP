@@ -4,7 +4,7 @@ Documentation: [underthesea.readthedocs](https://magizbox-underthesea.readthedoc
 
 Facebook: [undertheseanlp](https://www.facebook.com/undertheseanlp/)
 
-Lead developer: Vu Anh <[brother.rain.1024@gmail.com](mailto:brother.rain.1024@gmail.com)>
+Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 
 Bonus: Collection of useful natural language processing resources for researchers
 
