@@ -11,6 +11,14 @@ Ta cần nhận diện và tách các từ
 [u"Chúng ta", u"thường", u"nói", u"đến", u"Rau sạch", u",", u"Rau", u"an toàn", u"để", u"phân biệt", u"với",
 u"các", u"rau", u"bình thường", u"bán", u"ngoài", u"chợ", u"."]
 
+# Tạo một project tách từ
+
+Cách đơn giản nhất để tạo một project cho việc tách từ là clone project `word_sent` của `underthesea`
+
+```
+git clone https://github.com/undertheseanlp/word_sent
+```
+
 # Chuẩn bị dữ liệu
 
 Có nhiều cách để biểu diễn bài toán tách từ. `underthesea` sử dụng định dạng CoNLL format. Mỗi một câu được biểu diễn thành
