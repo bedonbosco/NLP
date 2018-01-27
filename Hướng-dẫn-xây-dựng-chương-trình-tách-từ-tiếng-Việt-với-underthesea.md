@@ -4,12 +4,16 @@
 
 Bài toán tách từ là bài toán cơ bản của xử lý ngôn ngữ tự nhiên. Khi cho đầu vào là một câu 
 
-"Chúng ta thường nói đến Rau sạch, Rau an toàn để phân biệt với các rau bình thường bán ngoài chợ"
+```
+Chúng ta thường nói đến Rau sạch, Rau an toàn để phân biệt với các rau bình thường bán ngoài chợ
+```
 
 Ta cần nhận diện và tách các từ
 
+```
 [u"Chúng ta", u"thường", u"nói", u"đến", u"Rau sạch", u",", u"Rau", u"an toàn", u"để", u"phân biệt", u"với",
 u"các", u"rau", u"bình thường", u"bán", u"ngoài", u"chợ", u"."]
+```
 
 # Tạo một project tách từ
 
