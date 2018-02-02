@@ -37,3 +37,6 @@ Rau BW
 sạch IW
 ```
 
+# Xây dựng model
+
+# Đánh giá model
