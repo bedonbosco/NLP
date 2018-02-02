@@ -11,7 +11,7 @@
 
 # Các dự án liên quan
 
-* [underthesea](https://github.com/magizbox/underthesea): đưa ra các model đã được huấn luyện sẵn cho các nhiệm vụ xử lý ngôn ngữ tự nhiên 
+* [underthesea](https://github.com/magizbox/underthesea): đưa ra các model đã được huấn luyện sẵn cho các nhiệm vụ xử lý ngôn ngữ tự nhiên, đảm bảo sự ổn định, độ hoàn thiện và tốc độ
 * [languageflow](https://github.com/undertheseanlp/languageflow): hỗ trợ việc xây dựng model, đánh giá model 
 * [sealion](https://github.com/undertheseanlp/sealion): hỗ trợ việc xây dựng corpus cho các nhiệm vụ xử lý ngôn ngữ tự nhiên 
 * [word_sent](https://github.com/undertheseanlp/word_sent), [pos_tag](https://github.com/undertheseanlp/pos_tag), [chunking](https://github.com/undertheseanlp/chunking), [ner](https://github.com/undertheseanlp/ner), [classification](https://github.com/undertheseanlp/classification), [sentiment](https://github.com/undertheseanlp/sentiment): các dự án cho các nhiệm vụ cụ thể, chứa `dữ liệu` và `phương pháp`  cho từng nhiệm vụ 
