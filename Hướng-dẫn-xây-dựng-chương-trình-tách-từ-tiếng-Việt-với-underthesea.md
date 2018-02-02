@@ -39,4 +39,9 @@ sạch IW
 
 # Xây dựng model
 
+(đang hoàn thiện)
+
 # Đánh giá model
+
+(đang hoàn thiện)
+
