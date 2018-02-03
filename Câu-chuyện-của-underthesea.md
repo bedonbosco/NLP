@@ -4,15 +4,15 @@
 
 # Những mong muốn của đội ngũ phát triển
 
-* underthesea là một công cụ dễ sử dụng, dễ cài đặt, cùng với hướng dẫn và tài liệu đầy đủ
-* underthesea là phần mềm nguồn mở, tất cả mọi người đều có quyền sử dụng miễn phí với mục đích học tập, nghiên cứu và thương mại
-* underthesea luôn sẵn sàng hỗ trợ, mọi issue đều được trả lời nhanh chóng
-* underthesea hỗ trợ các bài toán về xử lý ngôn ngữ: bao gồm văn bản, tiếng nói, hình ảnh chữ viết
+* underthesea là một công cụ *dễ sử dụng*, *dễ cài đặt*, cùng với *hướng dẫn và tài liệu đầy đủ*
+* underthesea là *phần mềm nguồn mở*, tất cả mọi người đều có quyền sử dụng miễn phí với mục đích học tập, nghiên cứu và thương mại
+* underthesea *luôn sẵn sàng hỗ trợ*, mọi issue đều được trả lời nhanh chóng
+* underthesea hỗ trợ các bài toán về xử lý ngôn ngữ: bao gồm *văn bản*, *tiếng nói*, *hình ảnh chữ viết*
 
 Trong tương lai xa, 
 
-* underthesea cập nhật được các nghiên cứu về xử lý ngôn ngữ tự nhiên mới nhất 
-* underthesea là cầu nối giữa các nhà nghiên cứu NLP của Việt Nam. Qua underthesea, các nhà nghiên cứu có thể triển khai các ý tưởng, tích hợp các bộ dữ liệu, kết quả nghiên cứu mới nhất của mình cho cộng đồng 
+* underthesea *cập nhật* được các nghiên cứu về xử lý ngôn ngữ tự nhiên mới nhất 
+* underthesea là *cầu nối giữa các nhà nghiên cứu* NLP của Việt Nam. Qua underthesea, các nhà nghiên cứu có thể triển khai các ý tưởng, tích hợp các bộ dữ liệu, kết quả nghiên cứu mới nhất của mình cho cộng đồng 
 
 # Các dự án
 
