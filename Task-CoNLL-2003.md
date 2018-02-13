@@ -28,6 +28,7 @@ The German data is a collection of articles from the Frankfurter Rundschau. The 
 
 ## References 
 
+#### * **End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF** (ACL'16), Ma et al. [[pdf](https://arxiv.org/pdf/1603.01354.pdf)]
 #### **Named Entity Recognition with Bidirectional LSTM-CNNs** (CL'15), JPC Chiu et al. [[pdf](https://arxiv.org/pdf/1511.08308.pdf)]
 * **Bidirectional LSTM-CRF Models for Sequence Tagging** (EMNLP'15), Z Huang et al. [[pdf](https://arxiv.org/pdf/1508.01991.pdf)]
 * **Joint entity recognition and disambiguation** (EMNLP '15), G Luo et al. [[pdf](http://aclweb.org/anthology/D15-1104)]
