@@ -14,18 +14,17 @@ The German data is a collection of articles from the Frankfurter Rundschau. The 
 
 | References              | Method                                              | F1    |
 |-------------------------|-----------------------------------------------------|-------|
-| Florian et al. (2003)   | Combination of various machine-learning classifiers | 88.76 |
-| Ando et al. (2005)      | Semi-supervised approach                            | 89.31 |
+| Luo et al. (2015)       | JERL                                                | 91.20 |
+| Chiu et al. (2015)  | BLSTM-CNN + emb + lex                               | 91.62 |
+| Huang et al. (2015)     | BI-LSTM-CRF                                         | 90.10 |
+| Passos et al. (2014)    | Baseline + Gaz + LexEmb                             | 90.90 |
+| Suzuki et al. (2011)    | L1CRF                                               | 91.02 |
+| Collobert et al. (2011) | NN+SLL+LM2+Gazetteer                                | 89.59 |
+| Collobert et al. (2011) | NN+SLL+LM2                                          | 88.67 |
 | Ratinov et al. (2009)  | Word-class Model                                    | 90.80 |
 | Lin et al. (2009)     | W500 + P125 + P64                                   | 90.90 |
-| Collobert et al. (2011) | NN+SLL+LM2                                          | 88.67 |
-| Collobert et al. (2011) | NN+SLL+LM2+Gazetteer                                | 89.59 |
-| Suzuki et al. (2011)    | L1CRF                                               | 91.02 |
-| Passos et al. (2014)    | Baseline + Gaz + LexEmb                             | 90.90 |
-| Huang et al. (2015)     | BI-LSTM-CRF                                         | 90.10 |
-| Chiu et al. (2015)  | BLSTM-CNN + emb + lex                               | 91.62 |
-| Luo et al. (2015)       | JERL                                                | 91.20 |
-
+| Ando et al. (2005)      | Semi-supervised approach                            | 89.31 |
+| Florian et al. (2003)   | Combination of various machine-learning classifiers | 88.76 |
 
 ## References 
 
