@@ -14,7 +14,7 @@ The German data is a collection of articles from the Frankfurter Rundschau. The 
 
 | References              | Method                                              | F1    |
 |-------------------------|-----------------------------------------------------|-------|
-| [Ma 2016](#-end-to-end-sequence-labeling-via-bi-directional-lstm-cnns-crf-acl16-ma-et-al-pdf)                 | CNN-bidirectional LSTM-CRF                          | 91.21 |
+| [Ma 2016](https://arxiv.org/pdf/1603.01354.pdf)   | CNN-bidirectional LSTM-CRF | 91.21 |
 | Luo et al. (2015)       | JERL                                                | 91.20 |
 | Chiu et al. (2015)      | BLSTM-CNN + emb + lex                               | 91.62 |
 | Huang et al. (2015)     | BI-LSTM-CRF                                         | 90.10 |
