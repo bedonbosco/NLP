@@ -14,3 +14,4 @@ Bonus: Collection of useful natural language processing resources for researcher
 Articles
 
 * [Vietnamese Text Normalization (in vietnamese)](https://github.com/magizbox/underthesea/wiki/Vietnamese-Text-Normalization)
+* [Câu chuyện của underthesea](https://github.com/magizbox/underthesea/wiki/C%C3%A2u-chuy%E1%BB%87n-c%E1%BB%A7a-underthesea)
