@@ -198,6 +198,7 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#resources) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#resources) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#resources)
 
+* **BKTreebank: Building a Vietnamese Dependency Treebank** (2018), KH. Nguyen. [[link](https://arxiv.org/abs/1710.05519)]
 * **Building a Large Syntactically-Annotated Corpus of Vietnamese** (2009), H. Le et al. [[link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.6770&rep=rep1&type=pdf)]
 
 ### Miscellaneous
