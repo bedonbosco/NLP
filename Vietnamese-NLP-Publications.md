@@ -43,7 +43,7 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#word-segmentation) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#word-segmentation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#word-segmentation)
 
-* **A Fast and Accurate Vietnamese Word Segmenter** (2017), Q. Nguyen [[pdf](https://arxiv.org/pdf/1709.06307.pdf)]
+* **A Fast and Accurate Vietnamese Word Segmenter** (2017), DQ Nguyen [[pdf](https://arxiv.org/pdf/1709.06307.pdf)]
 * **Supervised Ensemble Learning for Vietnamese Tokenization** (2017), W. Liu [[link](https://www.researchgate.net/publication/315949021_Supervised_Ensemble_Learning_for_Vietnamese_Tokenization)]
 * **How does Dictionary Size Influence Performance of Vietnamese Word Segmentation?** (2016), W. Liu et al. [[link](http://www.lrec-conf.org/proceedings/lrec2016/pdf/266_Paper.pdf)]
 * **Unsupervised ensemble learning for Vietnamese multisyllabic word extraction** (2016), W Liu et al. [[link](http://ieeexplore.ieee.org/document/7876004/)]
@@ -63,6 +63,7 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#part-of-speech-tagging) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#part-of-speech-tagging) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#part-of-speech-tagging)
 
+* **From Word Segmentation to POS Tagging for Vietnamese** (2017), DQ Nguyen et al. [[link](https://arxiv.org/abs/1711.04951)] [[pdf](https://arxiv.org/pdf/1711.04951.pdf)] 
 * **Vietnamese POS Tagging for Social Media Text** (2016), X. Ngo et al. [[link](https://www.researchgate.net/publication/309176280_Vietnamese_POS_Tagging_for_Social_Media_Text)]
 * **A robust transformation-based learning approach using ripple down rules for part-of-speech tagging** (2016), Q. Nguyen et al. [[link](https://arxiv.org/pdf/1412.4021.pdf)]
 * **RDRPOSTagger: A Ripple Down Rules-based Part-Of-Speech Tagger** (2014), Q. Nguyen et al. [[link](http://www.aclweb.org/anthology/E14-2005)]
