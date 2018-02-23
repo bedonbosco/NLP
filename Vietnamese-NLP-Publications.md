@@ -155,6 +155,7 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#named-entity-recognition) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#named-entity-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#named-entity-recognition)
 
+* **VnCoreNLP: A Vietnamese Natural Language Processing Toolkit** (2018), T Vu et al. [[link](https://arxiv.org/abs/1801.01331)] [[pdf](https://arxiv.org/abs/1801.01331)]
 * **An Empirical Study of Discriminative Sequence Labeling Models for Vietnamese Text Processing** (2017), H. Le et al. [[link](https://arxiv.org/abs/1708.09163)]
 * **End-to-end Recurrent Neural Network Models for Vietnamese Named Entity Recognition: Word-level vs. Character-level** (2017), T. Pham et al. [[link](https://arxiv.org/abs/1705.04044)]
 * **The Importance of Automatic Syntactic Features in Vietnamese Named Entity Recognition** (2017), T. Pham et al. [[link](https://arxiv.org/abs/1705.10610)]
