@@ -156,21 +156,20 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#named-entity-recognition) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#named-entity-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#named-entity-recognition)
 
-* **VnCoreNLP: A Vietnamese Natural Language Processing Toolkit** (2018), T Vu et al. [[link](https://arxiv.org/abs/1801.01331)] [[pdf](https://arxiv.org/abs/1801.01331.pdf)]
-* **NNVLP: A Neural Network-Based Vietnamese Language Processing Toolkit** (2017), TH Pham et al. [[link](https://arxiv.org/abs/1708.07241)] [[pdf](https://arxiv.org/pdf/1708.07241.pdf)]
-* **An Empirical Study of Discriminative Sequence Labeling Models for Vietnamese Text Processing** (2017), H. Le et al. [[link](https://arxiv.org/abs/1708.09163)]
-* **End-to-end Recurrent Neural Network Models for Vietnamese Named Entity Recognition: Word-level vs. Character-level** (2017), T. Pham et al. [[link](https://arxiv.org/abs/1705.04044)]
-* **The Importance of Automatic Syntactic Features in Vietnamese Named Entity Recognition** (2017), T. Pham et al. [[link](https://arxiv.org/abs/1705.10610)]
-* **Vietnamese Named Entity Recognition using Token Regular Expressions and Bidirectional Inference** (2016), H. Le.
-* **VLSP 2016 Shared Task: Named Entity Recognition** (2016), T. Nguyen et al.
-* **Named Entity Recognition in Vietnamese Text** (2016), T. Le et al.
-* **Vietnamese Named Entity Recognition at VLSP 2016 Evaluation campaign** (2016), T. Nguyen et al.
-* **DSKTLAB-NER: Nested Named Entity Recognition in Vietnamese Text** (2016), T. Nguyen et al.
-* **Named entity recognition in vietnamese text using label propagation** (2013), H. Le et al.
-* **Named Entity Recognition for Vietnamese** (2010), D. Nguyen et al.
-* **Named Entity Recognition in Vietnamese documents** (2007), T. Tran et al. 
-* **Named entity recognition in Vietnamese using classifier voting** (2007), T. Pham et al. 
-
+* **VnCoreNLP: A Vietnamese Natural Language Processing Toolkit** (2018) Thanh Vu et al.  [[url](https://arxiv.org/abs/1801.01331)]  [[pdf](https://arxiv.org/pdf/1801.01331.pdf)]
+* **The Importance of Automatic Syntactic Features in Vietnamese Named Entity Recognition** (2017) Pham Thai Hoang  et al.  [[url](https://www.semanticscholar.org/paper/The-Importance-of-Automatic-Syntactic-Features-in-Pham-Le/2a3361e131d3381b0ef80ff0f3bac9c01c4058cf)]  [[pdf](https://arxiv.org/pdf/1705.10610.pdf)]
+* **NNVLP: A Neural Network-Based Vietnamese Language Processing Toolkit** (2017) Pham Thai Hoang et al.  [[url](https://arxiv.org/abs/1708.07241)]  [[pdf](https://arxiv.org/pdf/1708.07241.pdf)]
+* **End-to-end Recurrent Neural Network Models for Vietnamese Named Entity Recognition: Word-level vs. Character-level** (2017) Pham Thai Hoang et al.  [[url](https://arxiv.org/abs/1705.04044)]  [[pdf](https://arxiv.org/pdf/1705.04044.pdf)]
+* **An Empirical Study of Discriminative Sequence Labeling Models for Vietnamese Text Processing** (2017) Le Hong Phuong et al.  [[url](https://arxiv.org/abs/1708.09163)]  [[pdf](https://arxiv.org/pdf/1708.09163.pdf)]
+* **Vietnamese Named Entity Recognition using Token Regular Expressions and Bidirectional Inference** (2016) Le Hong Phuong  
+* **Vietnamese Named Entity Recognition @ VLSP 2016 Evaluation campaign** (2016) Nguyen Truong Son et al.  
+* **DSKTLAB-NER: Nested Named Entity Recognition in Vietnamese Text** (2016) Nguyen Thi Cam Van et al.  
+* **VLSP 2016 Shared Task: Named Entity Recognition** (2016) Nguyen Thi Minh Huyen et al.  
+* **Named Entity Recognition in Vietnamese Text** (2016) Le Thanh Huong et al.  
+* **Named entity recognition in vietnamese text using label propagation** (2013) Le Thanh Huong et al.  [[url](https://www.semanticscholar.org/paper/Named-entity-recognition-in-vietnamese-text-using-Le-Sam/79a4e80ea5a36e026359b84cbf8e72195bab9d37)] 
+* **Named Entity Recognition for Vietnamese** (2010) Nguyen Ba Dat et al.  [[url](https://www.semanticscholar.org/paper/Named-Entity-Recognition-for-Vietnamese-Nguyen-Hoang/931af0c14c6f32c7e6782cde1007fdddcd3e18c2)]  [[pdf](https://pdfs.semanticscholar.org/931a/f0c14c6f32c7e6782cde1007fdddcd3e18c2.pdf?_ga=2.249289476.26579401.1520334621-721084246.1519381355)]
+* **Named Entity Recognition in Vietnamese documents** (2007) Tri Tran et al.  [[url](https://www.semanticscholar.org/paper/Named-Entity-Recognition-in-Vietnamese-documents-Tran-Pham/32ecdf1774d24d2461615e5eb448668dfe2a8647)]  [[pdf](https://pdfs.semanticscholar.org/32ec/df1774d24d2461615e5eb448668dfe2a8647.pdf?_ga=2.53162539.26579401.1520334621-721084246.1519381355)]
+* **Named entity recognition in Vietnamese using classifier voting** (2007) Pham Thi Xuan Thao et al.  [[url](https://www.semanticscholar.org/paper/Named-entity-recognition-in-Vietnamese-using-class-Thao-Tri/a6aeb599a261a5e077ad430a30b448d41a927132)] 
 ### Semantic Role Labeling
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#semantic-role-labeling) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#semantic-role-labeling) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#semantic-role-labeling)
