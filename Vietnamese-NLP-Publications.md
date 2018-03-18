@@ -156,25 +156,16 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#named-entity-recognition) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#named-entity-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#named-entity-recognition)
 
+* **A Feature-Rich Vietnamese Named-Entity Recognition Model** (2018) Pham Quang Nhat Minh et al.  [[url](https://arxiv.org/abs/1803.04375)]  [[pdf](https://arxiv.org/pdf/1803.04375.pdf)]
 * **VnCoreNLP: A Vietnamese Natural Language Processing Toolkit** (2018) Thanh Vu et al.  [[url](https://arxiv.org/abs/1801.01331)]  [[pdf](https://arxiv.org/pdf/1801.01331.pdf)]
 * **The Importance of Automatic Syntactic Features in Vietnamese Named Entity Recognition** (2017) Pham Thai Hoang  et al.  [[url](https://www.semanticscholar.org/paper/The-Importance-of-Automatic-Syntactic-Features-in-Pham-Le/2a3361e131d3381b0ef80ff0f3bac9c01c4058cf)]  [[pdf](https://arxiv.org/pdf/1705.10610.pdf)]
-* **Intent Extraction from Social Media Texts Using Sequential Segmentation and Deep Learning Models** (2017) Le Luong et al.  [[url](https://www.semanticscholar.org/paper/Intent-extraction-from-social-media-texts-using-se-Luong-Cao/81e32a08c2c356939c0f0513fcba2f25d96b9a2a)] 
 * **NNVLP: A Neural Network-Based Vietnamese Language Processing Toolkit** (2017) Pham Thai Hoang et al.  [[url](https://arxiv.org/abs/1708.07241)]  [[pdf](https://arxiv.org/pdf/1708.07241.pdf)]
-* **Construction of a Word Similarity Dataset and Evaluation of Word Similarity Techniques for Vietnamese** (2017) Bui Van Tan et al.  [[url](https://www.semanticscholar.org/paper/Construction-of-a-word-similarity-dataset-and-eval-Tan-Thai/b4a2808b425dd5b53ed85d3ed5384b5fcd5bd012)] 
 * **End-to-end Recurrent Neural Network Models for Vietnamese Named Entity Recognition: Word-level vs. Character-level** (2017) Pham Thai Hoang et al.  [[url](https://arxiv.org/abs/1705.04044)]  [[pdf](https://arxiv.org/pdf/1705.04044.pdf)]
 * **An Empirical Study of Discriminative Sequence Labeling Models for Vietnamese Text Processing** (2017) Le Hong Phuong et al.  [[url](https://arxiv.org/abs/1708.09163)]  [[pdf](https://arxiv.org/pdf/1708.09163.pdf)]
-* **Multi-Channel LSTM-CNN Model for Vietnamese Sentiment Analysis** (2017) Quan-Hoang Vo et al.  [[url](https://www.semanticscholar.org/paper/Multi-channel-LSTM-CNN-model-for-Vietnamese-sentim-Vo-Nguyen/5171c87513d025711fd6a401eac04bae6af24cea)] 
-* **Dialog Act Segmentation from Vietnamese Human-Human Conversational Texts** (2017) Thi-Lan Ngo et al.  [[url](https://www.semanticscholar.org/paper/Dialogue-act-segmentation-for-Vietnamese-human-hum-Ngo-Pham/8bc9fbc2faa66b2f246e0f4f3294dadc8652c880)] 
-* **Sentiment Analysis for Vietnamese using Support Vector Machines with application to Facebook comments** (2016) Vi Ngo Van et al.  
-* **A Lightweight Ensemble Method for Sentiment Classification Task** (2016) Quang Nhat Minh Pham et al.  
 * **Vietnamese Named Entity Recognition using Token Regular Expressions and Bidirectional Inference** (2016) Le Hong Phuong.  
 * **Vietnamese Named Entity Recognition @ VLSP 2016 Evaluation campaign** (2016) Nguyen Truong Son et al.  
 * **VLSP 2016 Shared Task: Named Entity Recognition** (2016) Nguyen Thi Minh Huyen et al.  
 * **DSKTLAB-NER: Nested Named Entity Recognition in Vietnamese Text** (2016) Nguyen Thi Cam Van et al.  
-* **A Simple Supervised Learning Approach to Sentiment Classification at VLSP 2016** (2016) Hy Nguyen et al.  
-* **DSKTLAB: Vietnamese Sentiment Analysis for Product Reviews** (2016) Thi Quynh Trang Pham et al.  
-* **VLSP 2016 Shared Task: Sentiment Analysis** (2016) Anh Cuong Le et al.  
-* **A Multi-layer Neural Network-based System for Vietnamese Sentiment Analysis at the VLSP 2016 Evaluation Campaign** (2016) Thy Tran et al.  
 * **Named Entity Recognition in Vietnamese Text** (2016) Le Thanh Huong et al.  
 * **Named entity recognition in vietnamese text using label propagation** (2013) Le Thanh Huong et al.  [[url](https://www.semanticscholar.org/paper/Named-entity-recognition-in-vietnamese-text-using-Le-Sam/79a4e80ea5a36e026359b84cbf8e72195bab9d37)] 
 * **Named Entity Recognition for Vietnamese** (2010) Nguyen Ba Dat et al.  [[url](https://www.semanticscholar.org/paper/Named-Entity-Recognition-for-Vietnamese-Nguyen-Hoang/931af0c14c6f32c7e6782cde1007fdddcd3e18c2)]  [[pdf](https://pdfs.semanticscholar.org/931a/f0c14c6f32c7e6782cde1007fdddcd3e18c2.pdf?_ga=2.249289476.26579401.1520334621-721084246.1519381355)]
