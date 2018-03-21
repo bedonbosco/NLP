@@ -168,6 +168,12 @@
 * [Vietnamese Speech Recognition Corpus-(In-Car)-300 Speakers](http://kingline.speechocean.com/exchange.php?id=3333&act=view) - 305 hours *by Speechocean (2017)* `data` `$`
 * [Globalphone Vietnamese](http://catalog.elra.info/product_info.php?products_id=1144) - 22.5 hours of read speech from 15 Vietnamese online newspapers *by ELRA (2012)* `data` `$`
 
+### Optical Text Recognition
+
+**`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#optical-text-recognition) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#optical-text-recognition) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#optical-text-recognition)
+
+* [miendinh/VietnameseOCR](https://github.com/miendinh/VietnameseOCR) - Vietnamese Optical Character Recognition *by miendinh (2018)* `python,tensorflow`
+
 ### Resources
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#resources) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#resources) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#resources)
