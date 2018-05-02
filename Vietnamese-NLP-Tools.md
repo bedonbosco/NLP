@@ -67,7 +67,6 @@
 * [pth1993/NNVLP](https://github.com/pth1993/NNVLP) - A Neural Network-Based Vietnamese Language Processing Toolkit *by PT Hoang (2017)* `python,bash` [`demo`](http://nnvlp.org/)
 * [pyvi](https://pypi.python.org/pypi/pyvi) - easy to do tokenizing/pos-tagging Vietnamese *by TV Trung (2016)* `python`
 * [Vitk](https://github.com/phuonglh/vn.vitk) - toolkit is for large data processing, includes word segmentation, part-of-sppech tagging, dependency parsing *by LH Phuong (2016)* `java`
-* [viet-morphological-analysis-svm](https://github.com/kanjirz50/viet-morphological-analysis-svm), [demonstration](http://160.16.58.116/vietnamese/morph) - Vietnamese joint word segmentation and Part-of-Speech tagging based on SVM *by K Takahashi (2016)* `python` 
 * [viet-morphological-analysis-crf](https://github.com/kanjirz50/viet-morphological-analysis-crf), [demonstration](http://160.16.58.116/vietnamese/morph_crf) - Vietnamese joint word segmentation and Part-of-Speech tagging based on CRF *by K Takahashi (2016)* `python`
 * [vTools](https://github.com/lupanh/vTools) - Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker *by TM Vu et al. (2015)* `python`
 * [truongdo/vita](https://github.com/truongdo/vita) - A Toolkit for Vietnamese segmentation, chunking, part of speech tagging and morphological analyzer *by truongdo (2015)* `c++`
