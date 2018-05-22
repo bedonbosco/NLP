@@ -108,6 +108,9 @@
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#representation) | **`⟰ Publications`** | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#representation) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#representation)
 
+* **Introducing two Vietnamese Datasets for Evaluating Semantic Models of (Dis-)Similarity and Relatedness** (NAACL-HLT 2018), KA Nguyen et al. [[pdf](https://arxiv.org/pdf/1804.05388.pdf)]
+* **Construction of a Word Similarity Dataset and Evaluation of Word Similarity Techniques for
+Vietnamese** (KSE 2017), B Van Tan et al. [[pdf](https://github.com/undertheseanlp/publications/blob/master/kse2017/10.1109%40kse.2017.8119436.pdf)]
 * **A Vietnamese language model based on Recurrent Neural Network** (2016), V. Tran et al. [[link](https://www.slideshare.net/microlife/a-vietnamese-language-model-based-on-recurrent-neural-network-66865054)]
 
 ### Text Classification
