@@ -59,6 +59,33 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 <td>89.3</td>
 </tr>
 <tr>
+<td><code>Feb 15, 2018</code></td>
+<td>450D DR-BiLSTM Ensemble<br/>
+<i>Oregon State University</i><br/>
+<code><a href='https://arxiv.org/pdf/1802.05577.pdf'>Ghaeini et al. NAACL-HLT'18</a></code>
+</td>
+<td>94.8</td>
+<td>89.3</td>
+</tr>
+<tr>
+<td><code>May 29, 2018</code></td>
+<td>Densely-Connected Recurrent and Co-Attentive Network<br/>
+<i>Naver Corporation</i><br/>
+<code><a href='http://arxiv.org/abs/1606.05250'>Kim et al. '18</a></code>
+</td>
+<td>93.1</td>
+<td>88.9</td>
+</tr>
+<tr>
+<td><code>May 26, 2018</code></td>
+<td>448D Densely Interactive Inference Network (DIIN) Ensemble<br/>
+<i>New York University</i><br/>
+<code><a href='https://arxiv.org/pdf/1709.04348.pdf'>Yichen Gong et al. ICLR'18</a></code>
+</td>
+<td>92.3</td>
+<td>88.9</td>
+</tr>
+<tr>
 <td><code>Aug 4, 2017</code></td>
 <td>KIM<br/>
 <i>University of Science and Technology of China</i><br/>
@@ -75,6 +102,24 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 </td>
 <td>94.1</td>
 <td>88.6</td>
+</tr>
+<tr>
+<td><code>Feb 15, 2018</code></td>
+<td>450D DR-BiLSTM<br/>
+<i>Oregon State University</i><br/>
+<code><a href='https://arxiv.org/pdf/1802.05577.pdf'>Ghaeini et al. NAACL-HLT'18</a></code>
+</td>
+<td>94.1</td>
+<td>88.5</td>
+</tr>
+<tr>
+<td><code>May 26, 2018</code></td>
+<td>448D Densely Interactive Inference Network (DIIN)<br/>
+<i>New York University</i><br/>
+<code><a href='https://arxiv.org/pdf/1709.04348.pdf'>Yichen Gong et al. ICLR'18</a></code>
+</td>
+<td>91.2</td>
+<td>88.0</td>
 </tr>
 <tr>
 <td><code>Nov 28, 2017</code></td>
@@ -177,6 +222,15 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 </tr>
 <tr>
 <td><code>Aug 21, 2015</code></td>
+<td>Unlexicalized features + Unigram and bigram features<br/>
+<i>Stanford University</i><br/>
+<code><a href='https://arxiv.org/pdf/1508.05326.pdf'>Bowman et al. EMNLP'15</a></code>
+</td>
+<td>99.7</td>
+<td>78.2</td>
+</tr>
+<tr>
+<td><code>Aug 21, 2015</code></td>
 <td>100D LSTM encoders<br/>
 <i>Stanford University</i><br/>
 <code><a href='https://arxiv.org/pdf/1508.05326.pdf'>Bowman et al. EMNLP'15</a></code>
@@ -188,16 +242,7 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 <td><code>Aug 21, 2015</code></td>
 <td>Unlexicalized features<br/>
 <i>Stanford University</i><br/>
-<code><a href='https://arxiv.org/pdf/1508.05326.pdf'>Bowman et al. EMNLP'15</a></code>
-</td>
-<td>49.4</td>
-<td>50.4</td>
-</tr>
-<tr>
-<td><code>Aug 21, 2015</code></td>
-<td>+ Unigram and bigram features<br/>
-<i>Stanford University</i><br/>
-<code><a href='https://arxiv.org/pdf/1508.05326.pdf'>Bowman et al. EMNLP'15</a></code>
+<code><a href=https://arxiv.org/pdf/1508.05326.pdf>Bowman et al. EMNLP'15</a></code>
 </td>
 <td>49.4</td>
 <td>50.4</td>
