@@ -6,8 +6,43 @@ Stanford Question Answering Dataset (Rajpurkar 2016) is a new reading comprehens
 
 Stanford Question Answering Dataset contains 107,785 questions and 23,215 passages coming from 536 Wikipedia articles. The data was randomly partitioned into a training set (80%), a development set (10%) and an unreleased test set (10%). Rajpurkar et al. (2016) build a leaderboard to evaluate and publish results on the test set. 
 
+<table>
+<tr>
+<td><b style="color:red">Date</b></td>
+<td><b>Model</b></td>
+<td><b>EM</b></td>
+<td><b>F1</b></td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+Human Performance<br/>
+<i>Stanford University</i><br/>
+<small><a href="http://arxiv.org/abs/1606.05250">(Rajpurkar et al. '16)</a></small>
+</td>
+<td>82.304</td>
+<td>91.221</td>
+</tr>
+<tr>
+<td>
+<code>Jun 20, 2018</code>
+</td>
+<td style="text-align: center;">
+<center>
+MARS (ensemble)<br/>
+<small><i>YUANFUDAO research NLP</i></small><br/>
+<small><a href="http://arxiv.org/abs/1606.05250">(Rajpurkar et al. '16)</a></small>
+</center>
+</td>
+<td><b>83.982</b></td>
+<td><b>89.796</b></td>
+</tr>
+</table>
 
-## Results
+`abc`
+
+## SQuAD1.1 Leaderboard
 
 | References               | Model                      | F1 (%) |
 |--------------------------|----------------------------|--------|
