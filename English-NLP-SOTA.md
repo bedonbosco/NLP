@@ -139,7 +139,7 @@ The SNLI corpus (Bowman 2015) is a collection of 570k human-written English sent
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#question-answering) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#question-answering)
 
-**[Stanford Question Answering Dataset (SQuAD) dataset](https://github.com/magizbox/underthesea/wiki/DATA-SQUAD)** <sub><sup>8 results collected</sup></sub>
+**[Stanford Question Answering Dataset (SQuAD) dataset](https://github.com/magizbox/underthesea/wiki/DATA-SQUAD)** <sub><sup>6 results collected</sup></sub>
 
 Stanford Question Answering Dataset (SQuAD) (Rajpurkar 2016) is a new reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage.
 
