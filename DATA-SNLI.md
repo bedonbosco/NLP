@@ -24,7 +24,7 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 </tr>
 <tr>
 <td><code>May 29, 2018</code></td>
-<td>Densely-Connected Recurrent and Co-Attentive Network (Ensemble)<br/>
+<td>Densely-Connected Recurrent and Co-Attentive <br/> Network (Ensemble)<br/>
 <i>Naver Corporation</i><br/>
 <code><a href='http://arxiv.org/abs/1606.05250'>Kim et al. '18</a></code>
 </td>
@@ -69,7 +69,7 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 </tr>
 <tr>
 <td><code>May 29, 2018</code></td>
-<td>Densely-Connected Recurrent and Co-Attentive Network<br/>
+<td>Densely-Connected Recurrent and Co-Attentive <br/> Network<br/>
 <i>Naver Corporation</i><br/>
 <code><a href='http://arxiv.org/abs/1606.05250'>Kim et al. '18</a></code>
 </td>
