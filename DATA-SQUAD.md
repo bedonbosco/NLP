@@ -25,65 +25,65 @@ Stanford Question Answering Dataset contains 107,785 questions and 23,215 passag
 <td><b>EM</b></td>
 <td><b>F1</b></td>
 </tr>
+
 <tr>
-<td>
-</td>
-<td>
-Human Performance<br/>
+<td></td>
+<td>Human Performance<br/>
 <i>Stanford University</i><br/>
 <code><a href="http://arxiv.org/abs/1606.05250">(Rajpurkar et al. '16)</a></code>
 </td>
 <td>82.304</td>
 <td>91.221</td>
 </tr>
+
 <tr>
-<td>
-<code>Jun 20, 2018</code>
-</td>
-<td>
-MARS (ensemble)<br/>
+<td><code>Jun 20, 2018</code></td>
+<td>MARS (ensemble)<br/>
 <i>YUANFUDAO research NLP</i><br/>
 <code><a href="http://arxiv.org/abs/1606.05250">(Rajpurkar et al. '16)</a></code>
 </td>
 <td><b>83.982</b></td>
 <td><b>89.796</b></td>
 </tr>
+
 <tr>
-<td>
-<code>Mar 19, 2018</code>
-</td>
-<td>
-QANet (ensemble)<br/>
+<td><code>Mar 19, 2018</code></td>
+<td>QANet (ensemble)<br/>
 <i>Google Brain & CMU</i><br/>
 <code><a href="https://arxiv.org/abs/1804.09541">(Yu et al. ICLR'18)</a></code>
 </td>
 <td>83.877</td>
 <td>89.737</td>
 </tr>
+
 <tr>
-<td>
-<code>Jul 30, 2017</code>
+<td><code>Nov 17, 2017</code></td>
+<td>BiDAF + Self Attention + ELMo (ensemble)<br/>
+<i>Allen Institute for Artificial Intelligence</i><br/>
+<code><a href="https://arxiv.org/abs/1802.05365">(Peters, et al. NAACL'18)</a></code>
 </td>
-<td>
-CCNN (ensemble)<br/>
-<i>Carnegie Mellon University</i><br/>
-<code><a href="https://pdfs.semanticscholar.org/6044/3b601f50e8934319dff7803ca81a275499c0.pdf?_ga=2.255339464.1368387525.1513004549-1361082864.1510655493">(Xie  et al. ACL'17)</a></code>
-</td>
-<td></td>
-<td>82.6</td>
+<td>81.003</td>
+<td>87.432</td>
 </tr>
 
 <tr>
-<td>
-<code>Aug 3, 2017</code>
+<td><code>Dec 05, 2017</code></td>
+<td>SAN (ensemble model)<br/>
+<i>Microsoft Business AI Solutions Team</i><br/>
+<code><a href="https://arxiv.org/abs/1712.03556">(Liu  et al. ACL'18)</a></code>
 </td>
-<td>
-FastQAExt<br/>
-<i>Language Technology Lab</i><br/>
-<code><a href="https://pdfs.semanticscholar.org/e460/0ece1f09236d082eca4537ee9c1efe687f6c.pdf?_ga=2.254747208.1368387525.1513004549-1361082864.1510655493">(Weissenborn  et al. ConLL'17)</a></code>
+<td>79.608</td>
+<td>86.496</td>
+</tr>
+
+<tr>
+<td><code>Dec 28, 2016</code></td>
+<td>FastQAExt<br/>
+<i>German Research Center for Artificial Intelligence</i><br/>
+<code><a href="https://arxiv.org/abs/1703.04816">(Weissenborn  et al. ConLL'17)</a></code>
 </td>
-<td></td>
-<td>78.9</td>
+<td>70.849</td>
+<td>78.857</td>
 </tr>
 </table>
 
