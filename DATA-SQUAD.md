@@ -41,7 +41,7 @@ Stanford Question Answering Dataset contains 107,785 questions and 23,215 passag
 <td><code>Jun 20, 2018</code></td>
 <td>MARS (ensemble)<br/>
 <i>YUANFUDAO research NLP</i><br/>
-<code><a href="http://arxiv.org/abs/1606.05250">(Rajpurkar et al. '16)</a></code>
+<code><a href="https://arxiv.org/pdf/1803.00191.pdf">(Wang et al. '18)</a></code>
 </td>
 <td><b>83.982</b></td>
 <td><b>89.796</b></td>
