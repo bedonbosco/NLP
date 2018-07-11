@@ -1,4 +1,4 @@
-# SQuAD - The Stanfrod Question Answering Dataset
+# SQuAD
 
 Stanford Question Answering Dataset (Rajpurkar 2016) is a new reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage.
 
