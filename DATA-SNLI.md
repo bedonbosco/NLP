@@ -10,37 +10,200 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 ## References
 
 * :scroll: [SNLI paper (Bowman et al. EMNLP'15)](https://nlp.stanford.edu/pubs/snli_paper.pdf)
-* :file_folder: [SNLI 1.0 (zip, ~100MB)](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
+* :file_folder: [SNLI v1.0 (zip, ~100MB)](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
 * :link: [SNLI Website](https://nlp.stanford.edu/projects/snli/)
 
+## Leaderboard
 
-## Results
+<table>
+<tr>
+<td><b>Date</b></td>
+<td><b>Model</b></td>
+<td><b>Train (% acc)</b></td>
+<td><b>Test (% acc)</b></td>
+</tr>
+<tr>
+<td><code>May 29, 2018</code></td>
+<td>Densely-Connected Recurrent and Co-Attentive Network (Ensemble)<br/>
+<i>Naver Corporation</i><br/>
+<code><a href=""http://arxiv.org/abs/1606.05250"">Kim et al. '18</a></code>
+</td>
+<td>95.0</td>
+<td>90.1</td>
+</tr>
+<tr>
+<td><code>Jun 11, 2018</code></td>
+<td>Fine-Tuned LM-Pretrained Transformer<br/>
+<i>OpenAI</i><br/>
+<code><a href=""https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf"">Radford et al. '18</a></code>
+</td>
+<td>96.6</td>
+<td>89.9</td>
+</tr>
+<tr>
+<td><code>Dec 30, 2017</code></td>
+<td>300D CAFE (Ensemble)<br/>
+<i>Nanyang Technological</i><br/>
+<code><a href=""https://arxiv.org/pdf/1801.00102.pdf"">Tay et al. '17</a></code>
+</td>
+<td>92.5</td>
+<td>89.3</td>
+</tr>
+<tr>
+<td><code>Mar 22, 2018</code></td>
+<td>ESIM + ELMo (Ensemble)<br/>
+<i>Allen Institute for Artificial Intelligence</i><br/>
+<code><a href=""https://arxiv.org/pdf/1801.00102.pdf"">Peters et al. NAACL'18</a></code>
+</td>
+<td>92.1</td>
+<td>89.3</td>
+</tr>
+<tr>
+<td><code>Aug 4, 2017</code></td>
+<td>KIM<br/>
+<i>University of Science and Technology of China</i><br/>
+<code><a href=""https://pdfs.semanticscholar.org/ceb7/dddbd0c51f511c4ba97d328b48fd10d2a7fc.pdf?_ga=2.221332632.1229478610.1512832600-1361082864.1510655493"">Chen et al. RepEval@EMNLP'17</a></code>
+</td>
+<td>94.1</td>
+<td>88.6</td>
+</tr>
+<tr>
+<td><code>Aug 4, 2017</code></td>
+<td>KIM Ensemble<br/>
+<i>University of Science and Technology of China</i><br/>
+<code><a href=""https://pdfs.semanticscholar.org/ceb7/dddbd0c51f511c4ba97d328b48fd10d2a7fc.pdf?_ga=2.221332632.1229478610.1512832600-1361082864.1510655493"">Chen et al. RepEval@EMNLP'17</a></code>
+</td>
+<td>94.1</td>
+<td>88.6</td>
+</tr>
+<tr>
+<td><code>Nov 28, 2017</code></td>
+<td>600D Residual stacked encoders<br/>
+<i>UNC Chapel Hill</i><br/>
+<code><a href=""https://arxiv.org/pdf/1708.02312.pdf"">Nie and Bansal RepEval@EMNLP'17</a></code>
+</td>
+<td>91.0</td>
+<td>86.0</td>
+</tr>
+<tr>
+<td><code>Nov 28, 2017</code></td>
+<td>300D Residual stacked encoders<br/>
+<i>UNC Chapel Hill</i><br/>
+<code><a href=""https://arxiv.org/pdf/1708.02312.pdf"">Nie and Bansal RepEval@EMNLP'17</a></code>
+</td>
+<td>89.8</td>
+<td>85.7</td>
+</tr>
+<tr>
+<td><code>Aug 4, 2017</code></td>
+<td>600D (300+300) Deep Gated Attn. BiLSTM encoders<br/>
+<i>University of Science and Technology of China</i><br/>
+<code><a href=""https://pdfs.semanticscholar.org/ceb7/dddbd0c51f511c4ba97d328b48fd10d2a7fc.pdf?_ga=2.221332632.1229478610.1512832600-1361082864.1510655493"">Chen et al. RepEval@EMNLP'17</a></code>
+</td>
+<td>90.5</td>
+<td>85.5</td>
+</tr>
+<tr>
+<td><code>Sep 20, 2016</code></td>
+<td>Gated-Att BiLSTM<br/>
+<i>University of Science and Technology of China</i><br/>
+<code><a href=""https://pdfs.semanticscholar.org/9b84/3ea293e72d83c14a7a6ee8165037a9cc484a.pdf?_ga=2.234423454.1229478610.1512832600-1361082864.1510655493"">Chen et al. ACL'17</a></code>
+</td>
+<td></td>
+<td>85.5</td>
+</tr>
+<tr>
+<td><code>Jul 14,  2016</code></td>
+<td>300D MMA-NSE encoders with attention<br/>
+<i>University of Massachusetts</i><br/>
+<code><a href=""https://arxiv.org/abs/1607.04315"">Munkhdalai et al. EACL'17</a></code>
+</td>
+<td>86.9</td>
+<td>85.4</td>
+</tr>
+<tr>
+<td><code>Jul 14,  2016</code></td>
+<td>300D NSE encoders<br/>
+<i>University of Massachusetts</i><br/>
+<code><a href=""https://arxiv.org/abs/1607.04315"">Munkhdalai et al. EACL'17</a></code>
+</td>
+<td>86.2</td>
+<td>84.6</td>
+</tr>
+<tr>
+<td><code>May 9, 2017</code></td>
+<td>4096D BiLSTM with max-pooling<br/>
+<i>Facebook AI Research</i><br/>
+<code><a href=""https://arxiv.org/pdf/1705.02364.pdf"">Conneau et al. EMNLP'17</a></code>
+</td>
+<td>85.6</td>
+<td>84.5</td>
+</tr>
+<tr>
+<td><code>Mar 19, 2016</code></td>
+<td>300D SPINN-PI encoders<br/>
+<i>Stanford University</i><br/>
+<code><a href=""https://arxiv.org/abs/1603.06021"">Bowman et al. ACL'16</a></code>
+</td>
+<td>89.2</td>
+<td>83.2</td>
+</tr>
+<tr>
+<td><code>Sep 20,  2016</code></td>
+<td>BiDAF<br/>
+<i>University of Science and Technology of China</i><br/>
+<code><a href=""https://pdfs.semanticscholar.org/9b84/3ea293e72d83c14a7a6ee8165037a9cc484a.pdf?_ga=2.234423454.1229478610.1512832600-1361082864.1510655493"">Min et al. ACL'17</a></code>
+</td>
+<td></td>
+<td>83.2</td>
+</tr>
+<tr>
+<td><code>Mar 19, 2016</code></td>
+<td>300D LSTM encoders<br/>
+<i>Stanford University</i><br/>
+<code><a href=""https://arxiv.org/abs/1603.06021"">Bowman et al. ACL'16</a></code>
+</td>
+<td>83.9</td>
+<td>80.6</td>
+</tr>
+<tr>
+<td><code>Apr 3, 2017 </code></td>
+<td>LSTM + CPR <br/>
+<i>University of Illinois</i><br/>
+<code><a href=""https://pdfs.semanticscholar.org/1468/d174aa49ec091d92c4709c48f24d65927f93.pdf?_ga=2.134889969.1229478610.1512832600-1361082864.1510655493"">Lai et al. EACL'2017</a></code>
+</td>
+<td></td>
+<td>78.2</td>
+</tr>
+<tr>
+<td><code>Aug 21, 2015</code></td>
+<td>100D LSTM encoders<br/>
+<i>Stanford University</i><br/>
+<code><a href=""https://arxiv.org/pdf/1508.05326.pdf"">Bowman et al. EMNLP'15</a></code>
+</td>
+<td>84.8</td>
+<td>77.6</td>
+</tr>
+<tr>
+<td><code>Aug 21, 2015</code></td>
+<td>Unlexicalized features<br/>
+<i>Stanford University</i><br/>
+<code><a href=""https://arxiv.org/pdf/1508.05326.pdf"">Bowman et al. EMNLP'15</a></code>
+</td>
+<td>49.4</td>
+<td>50.4</td>
+</tr>
+<tr>
+<td><code>Aug 21, 2015</code></td>
+<td>+ Unigram and bigram features<br/>
+<i>Stanford University</i><br/>
+<code><a href=""https://arxiv.org/pdf/1508.05326.pdf"">Bowman et al. EMNLP'15</a></code>
+</td>
+<td>49.4</td>
+<td>50.4</td>
+</tr>
 
-| References              | Model                                      | Test Accuracy (%) |
-|-------------------------|--------------------------------------------|-------------------|
-| Bowman et al (2015)     | LSTM                                       | 80.6              |
-| Bowman et al (2016)     | SPINN-PI                                   | 83.2              |
-| Conneau et al (2017)    | BiLSTM-Max                                 | 83.9              |
-| Lai et al (2017)        | LSTM + CPR                                 | 78.2              |
-| Chen et al (2017)       | HIM (600D ESIM + 300D Syntactic tree-LSTM) | 88.6              |
-| Nie et al (2017)        | Shortcut-Stacked Encoder                   | 86.1              |
-| Chen et al (2017)       | Gated-Att BiLSTM                           | 85.5              |
-| Min et al (2017)        | BiDAF                                      | 83.20             |
-| Munkhdalai et al (2017) | NSE                                        | 84.6              |
-| Munkhdalai et al (2017) | NTI                                        | 83.4              |
-
-
-## References 
-
-* **Supervised Learning of Universal Sentence Representations from Natural Language Inference Data** (EMNLP'17), A Conneau et al. [[pdf](https://pdfs.semanticscholar.org/ccb4/2d732b94a2d9ad942cad22107389591fc980.pdf?_ga=2.198254639.1229478610.1512832600-1361082864.1510655493)]
-* **Learning to Predict Denotational Probabilities For Modeling Entailment** (EACL'17), A Lai et al. [[pdf](https://pdfs.semanticscholar.org/1468/d174aa49ec091d92c4709c48f24d65927f93.pdf?_ga=2.134889969.1229478610.1512832600-1361082864.1510655493)]
-* **Enhanced LSTM for Natural Language Inference** (ACL'17), Q Chen et al. [[pdf](https://pdfs.semanticscholar.org/9b84/3ea293e72d83c14a7a6ee8165037a9cc484a.pdf?_ga=2.234423454.1229478610.1512832600-1361082864.1510655493)]
-* **Shortcut-Stacked Sentence Encoders for Multi-Domain Inference** (RepEval@EMNLP'17), Y Nie et al. [[pdf](https://pdfs.semanticscholar.org/a887/d1031398f01f0f01e9167567e8bc49537419.pdf?_ga=2.121203080.1229478610.1512832600-1361082864.1510655493)]
-* **Recurrent Neural Network-Based Sentence Encoder with Gated Attention for Natural Language Inference** (RepEval@EMNLP'17), Q Chen et al. [[pdf](https://pdfs.semanticscholar.org/ceb7/dddbd0c51f511c4ba97d328b48fd10d2a7fc.pdf?_ga=2.221332632.1229478610.1512832600-1361082864.1510655493)]
-* **Question Answering through Transfer Learning from Large Fine-grained Supervision Data** (ACL'17), S Min et al. [[pdf](https://pdfs.semanticscholar.org/dea0/9775b944e96d3099ae4c2e9187c97cb20090.pdf?_ga=2.226697373.1229478610.1512832600-1361082864.1510655493)]
-* **Neural Semantic Encoders** (EACL'17),T Munkhdalai et al. [[pdf](https://arxiv.org/abs/1607.04315)]
-* **A Fast Unified Model for Parsing and Sentence Understanding** (ACL'16), SR Bowman et al. [[pdf](https://arxiv.org/pdf/1603.06021.pdf)]
-* **A large annotated corpus for learning natural language inference.** (EMNLP'15), SR Bowman et al. [[pdf](https://nlp.stanford.edu/pubs/snli_paper.pdf)]
+</table>
 
 **See Also**
 
