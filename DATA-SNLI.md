@@ -19,8 +19,8 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 <tr>
 <td><b>Date</b></td>
 <td><b>Model</b></td>
-<td><b>Train (% acc)</b></td>
-<td><b>Test (% acc)</b></td>
+<td><b>Train<br/>(% acc)</b></td>
+<td><b>Test<br/>(% acc)</b></td>
 </tr>
 <tr>
 <td><code>May 29, 2018</code></td>
