@@ -127,6 +127,10 @@ The OntoNotes Release 5.0 shared task deals with language-independent named enti
 
 The CoNLL-2003 (Sang et al. 2003) shared task deals with language-independent named entity recognition as well (English and German).
 
+## Semantic Role Labeling
+
+[`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#semantic-role-labeling) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#semantic-role-labeling) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantic-role-labeling)
+
 ## Textual Entailment
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#textual-entailment) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#textual-entailment) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#textual-entailment)
