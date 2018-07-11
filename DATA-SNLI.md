@@ -7,6 +7,12 @@ The SNLI corpus (Bowman 2015) is a collection of 570k human-written English sent
 
 Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pairs labeled for entailment, contradiction, and semantic independence. At 570,152 sentence pairs, SNLI is two orders of magnitude larger than all other resources of its type. And, in contrast to many such resources, all of its sentences and labels were written by humans in a grounded, naturalistic context. In a separate validation phase, we collected four additional judgments for each label for 56,941 of the examples. Of these, 98% of cases emerge with a threeannotator consensus, and 58% see a unanimous consensus from all five annotators.
 
+## References
+
+* :scroll: [SNLI paper (Bowman et al. EMNLP'15)](https://nlp.stanford.edu/pubs/snli_paper.pdf)
+* :file_folder: [SNLI 1.0 (zip, ~100MB)](https://nlp.stanford.edu/projects/snli/snli_1.0.zip)
+* :link: [SNLI Website](https://nlp.stanford.edu/projects/snli/)
+
 
 ## Results
 
