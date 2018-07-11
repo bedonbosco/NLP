@@ -14,7 +14,7 @@ Stanford Question Answering Dataset contains 107,785 questions and 23,215 passag
 * :file_folder: [Dev Set v2.0 (4 MB)](https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v2.0.json)
 * :link: [SQuAD Website](https://rajpurkar.github.io/SQuAD-explorer/)
 * :link: [Evaluation Script v2.0](https://worksheets.codalab.org/rest/bundles/0x6b567e1cf2e041ec80d7098f031c5c9e/contents/blob/)
-* :link:[Sample Prediction File (on Dev v2.0)](https://worksheets.codalab.org/bundles/0x8731effab84f41b7b874a070e40f61e2/)
+* :link: [Sample Prediction File (on Dev v2.0)](https://worksheets.codalab.org/bundles/0x8731effab84f41b7b874a070e40f61e2/)
 
 ## SQuAD1.1 Leaderboard
 
