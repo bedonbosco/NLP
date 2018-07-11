@@ -15,7 +15,7 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 
 ## Leaderboard
 
-<table>
+"<table>
 <tr>
 <td><b>Date</b></td>
 <td><b>Model</b></td>
@@ -203,8 +203,7 @@ Stanford Natural Language Inference (SNLI) corpus is a collection of sentence pa
 <td>50.4</td>
 </tr>
 
-</table>
-
+</table>"
 **See Also**
 
 * [☶ Textual Entailment (State of The Art)](https://github.com/magizbox/underthesea/wiki/English-NLP-SOTA#textual-entailment)
