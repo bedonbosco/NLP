@@ -1,4 +1,4 @@
-SQuAD Corpus (Rajpurkar 2016)
+# SQuAD - The Stanfrod Question Answering Dataset
 
 Stanford Question Answering Dataset (Rajpurkar 2016) is a new reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage.
 
@@ -38,9 +38,21 @@ MARS (ensemble)<br/>
 <td><b>83.982</b></td>
 <td><b>89.796</b></td>
 </tr>
+<tr>
+<td>
+<code>Mar 19, 2018</code>
+</td>
+<td style="text-align: center;">
+<center>
+QANet (ensemble)<br/>
+<i>Google Brain & CMU</i><br/>
+<small><a href="http://arxiv.org/abs/1606.05250">(Rajpurkar et al. '16)</a></small>
+</center>
+</td>
+<td>83.877</td>
+<td>89.737</td>
+</tr>
 </table>
-
-`abc`
 
 ## SQuAD1.1 Leaderboard
 
