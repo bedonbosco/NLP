@@ -135,7 +135,7 @@ The CoNLL-2003 (Sang et al. 2003) shared task deals with language-independent na
 
 The SNLI corpus (Bowman 2015) is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral, supporting the task of natural language inference (NLI), also known as recognizing textual entailment (RTE). We aim for it to serve both as a benchmark for evaluating representational systems for text, especially including those induced by representation learning methods, as well as a resource for developing NLP models of any kind.
 
-## Question Answerin
+## Question Answering
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#question-answering) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#question-answering) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#question-answering)
 
