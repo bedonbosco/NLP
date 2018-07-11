@@ -8,7 +8,7 @@ Stanford Question Answering Dataset contains 107,785 questions and 23,215 passag
 
 <table>
 <tr>
-<td><b style="color:red">Date</b></td>
+<td><b>Date</b></td>
 <td><b>Model</b></td>
 <td><b>EM</b></td>
 <td><b>F1</b></td>
