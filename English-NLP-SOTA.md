@@ -131,6 +131,10 @@ The CoNLL-2003 (Sang et al. 2003) shared task deals with language-independent na
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#semantic-role-labeling) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#semantic-role-labeling) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#semantic-role-labeling)
 
+**[OntoNotes](https://github.com/magizbox/underthesea/wiki/DATA-ONTONOTES)** <sub><sup>2 results collected</sup></sub>
+
+The OntoNotes project has created a large-scale corpus of accurate and integrated annotation of multiple layers of syntactic, semantic and discourse information in text. The English language portion comprises roughly 1.7M words and Chinese language portion comprises roughly 1M words of newswire, magazine articles, broadcast news, broadcast conversations, web data and conversational speech data . The Arabic portion is smaller, comprising 300K words of newswire articles. This rich, integrated annotation covering many layers aims at facilitating the development of richer, cross-layer models and enabling better automatic semantic analysis. The corpus is tagged with syntactic trees, propositions for most verb and some noun instances, partial verb and noun word senses, coreference, and named entities.
+
 ## Textual Entailment
 
 [`⚙ Tools`](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools#textual-entailment) | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/English-NLP-Publications#textual-entailment) | **`☶ SOTA`** | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/English-NLP-Services#textual-entailment)
