@@ -108,7 +108,7 @@
 
 **`⚙ Tools`** | [`⟰ Publications`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#text-classification) | [`☶ SOTA`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#text-classification) | [`⚛ Services`](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#text-classification)
 
-* [suicao/transformer-text-classifier](https://github.com/suicao/transformer-text-classifier) - Vietnamese Text Classifier using Transformer model *by suicao (2018)* `python`
+* [suicao/transformer-text-classifier](https://github.com/suicao/transformer-text-classifier) - Vietnamese Text Classifier using Transformer model *by Khoi Nguyen (2018)* `python`
 * [pth1993/vn_spam_sms_filtering](https://github.com/pth1993/vn_spam_sms_filtering) - Vietnamese spam SMS filtering system *by PT Hoang (2017)* `python` 
 * [duyvuleo/VNTC](https://github.com/duyvuleo/VNTC) - a large-scale Vietnamese news text classification corpus *by Vu Hoang Cong Duy (2007)* `data`
 
