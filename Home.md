@@ -8,7 +8,6 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 
 Bonus: Collection of useful natural language processing resources for researchers
 
-* [Vietnamese NLP](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools)
 * [English NLP](https://github.com/magizbox/underthesea/wiki/English-NLP-Tools)
 
 Articles
