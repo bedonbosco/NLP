@@ -56,7 +56,7 @@ Nếu các bạn quan tâm đến việc xây dựng các ứng dụng liên qua
 * Natural Language Toolkit (NLTK) ([website](http://www.nltk.org/), [book](http://www.nltk.org/book/)) - Phần mềm về xử lý ngôn ngữ, được viết bằng Python. Thường được sử dụng cho mục đích giảng dạy.
 * Stanford CoreNLP ([website](https://stanfordnlp.github.io/CoreNLP/)) - Công cụ xử lý ngôn ngữ chất lượng cao, được phát triển bởi nhóm xử lý ngôn ngữ tự nhiên từ trường Stanford. 
 * AllenNLP ([website](https://allennlp.org/)) - Công cụ xử lý ngôn ngữ tự nhiên với bằng Pytorch, tập trung vào các bài toán mức cao như máy đọc, gán vai nghĩa, phân giải đồng tham chiếu, suy diễn văn bản 
-* fastText ([website](https://fasttext.cc/)) Công cụ xử lý ngôn ngữ tự nhiên tiện dụng, tốc độ cao, thích hợp cho bài toán phân loại, được phát triển bởi Facebook 
+* fastText ([website](https://fasttext.cc/)) - Công cụ xử lý ngôn ngữ tự nhiên tiện dụng, tốc độ cao, thích hợp cho bài toán phân loại, được phát triển bởi Facebook 
 
 **Thông tin xử lý tiếng Việt**
 
@@ -65,3 +65,23 @@ Dưới đây là các liên kết hữu ích dành cho các bạn quan tâm đ�
 * [Cộng đồng xử lý ngôn ngữ tiếng Việt](https://www.facebook.com/groups/vietnlp/) - Group tập trung các chuyên gia hàng đầu trong lĩnh vực xử lý ngôn ngữ tự nhiên tiếng Việt
 * [undertheseanlp/NLP-Vietnamese-progress](https://github.com/undertheseanlp/NLP-Vietnamese-progress) - Cập nhật 
 thông tin các nghiên cứu, các tập dữ liệu và các sản phẩm tốt nhất trong lĩnh vực xử lý ngôn ngữ tự nhiên tiếng Việt.
+
+**Thực hành với các dự án của underthesea**
+
+*Chú ý: Phần này dành riêng cho các underthesea fan :D*
+
+Khi đã tích lũy các kiến thức cơ bản, là lúc tiến vào giai đoạn thực hành. Các dự án của underthesea đều open source, các bạn có thể học bằng cách tìm hiểu source code từ các dự án này, sau đó tự mình thu thập dữ liệu, tùy biến mô hình trên dữ liệu của các bạn hay cải tiến các mô hình sẵn có được đề xuất bởi underthesea. 
+
+Hiện nay, underthesea đã open source các dự án 
+
+* Dự án về tách từ tiếng Việt - [undertheseanlp/word_tokenize](https://github.com/undertheseanlp/word_tokenize)
+* Dự án về gán nhãn từ loại tiếng Việt - [undertheseanlp/pos_tag](https://github.com/undertheseanlp/pos_tag)
+* Dự án về chunking tiếng Việt - [undertheseanlp/chunking](https://github.com/undertheseanlp/chunking)
+* Dự án về nhận diện thực thể tên riêng tiếng Việt - [undertheseanlp/ner](https://github.com/undertheseanlp/ner)
+* Dự án về phân loại văn bản - [underthesea/classification](https://github.com/undertheseanlp/classification)
+* Dự án về phân tích cảm xúc trên văn bản - [underthesea/sentiment](https://github.com/undertheseanlp/sentiment)
+* Dự án về chatbot tiếng Việt cơ bản - [undertheseanlp/chatbot](https://github.com/undertheseanlp/chatbot)
+
+Việc tìm hiểu, tùy biến và cải tiến những phần mềm mã nguồn mở có sẵn sẽ giúp bạn đưa những kiến thức của mình vào thực tế, vừa giúp bạn nâng cao trình độ của mình, vừa đóng góp cho cộng đồng. 
+
+Chúc các bạn học thật vui. Rất hi vọng được thấy sản phẩm về NLP của các bạn trong tương lai. 
