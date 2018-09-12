@@ -8,17 +8,24 @@ Xử lý ngôn ngữ tự nhiên gồm có phân tích hình thái, phân tích 
 
 **Nền tảng**
 
-Đầu tiên, hãy trang bị cho mình một nền tảng thật tốt. 
+Đầu tiên, hãy trang bị cho mình một nền tảng thật tốt.
 
-* Toán học: Xác suất thống kê, Giải tích, Đại số
-* Lập trình cơ bản: Python hoặc Java
-* Học máy cơ bản, học sâu (Deep Learning)
+Đừng choáng ngợp bởi danh sách này! **Bạn vẫn có thể xây dựng ứng dụng NLP mà không cần phải là một siêu nhân về toán học hay lập trình**. Nhưng hãy dành thời gian tích lũy dần dần các kiến thức này theo năm tháng, chúng sẽ hữu ích cho quá trình phát triển của bạn sau này. 
 
+* Toán học: Xác suất thống kê ([CS109](http://web.stanford.edu/class/cs109/)), Giải tích ([MIT 18.01](https://www.youtube.com/watch?v=jbIQW0gkgxo&list=PLE2215608E2574180), [MIT 18.02](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)), Đại số ([MIT 18.06 Linear Algebra](https://www.youtube.com/watch?list=PLE7DDD91010BC51F8&v=ZK3O402wf1c))
+* Lập trình cơ bản: Python ([Python for Everybody](https://www.coursera.org/specializations/python)) hoặc Java ([Complete Java Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/))
+* Học máy cơ bản - Machine Learning ([Khóa Machine Learning của thầy Andrew Ng](https://www.coursera.org/learn/machine-learning))
+* Học sâu - Deep Learning ([Sách Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf), [Khoá Deep Learning của thầy Andrew Ng](https://www.deeplearning.ai/), [Khóa fast.ai](http://www.fast.ai/))
+
+*Gợi ý 1*: Nếu bạn thấy phần toán quá rộng, cần một "phương pháp" học nhanh, thì có thể đọc luôn phần 1 "Toán ứng dụng và học máy cơ bản" trong quyển Deep Learning Book
+
+*Gợi ý 2*: Bạn có thể tập thời bỏ qua phần này nếu lựa chọn một trong những khóa học về NLP ở dưới. Hầu hết các khóa học đều có những nội dung giới thiệu về các kiến thức cơ bản kể trên
+ 
 **Các khóa học**
 
 Tiếp theo, hãy chọn cho mình một khóa học phù hợp với trình độ và hướng nghiên cứu của mình
 
-* [Dan Jurafsky & Chris Manning: Natural Language Processing](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) - Khóa học cơ bản về NLP, được giới thiệu bởi hai chuyên gia hàng dầu là Dan Jurafsky và Chris Manning
+* [Dan Jurafsky & Chris Manning: Natural Language Processing](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) - Khóa học cơ bản về NLP, được giới thiệu bởi hai chuyên gia hàng đầu là Dan Jurafsky và Chris Manning
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) - Khóa học nâng cao về NLP của trường Stanford, tập trung về các phương pháp xử lý ngôn ngữ dựa vào học sâu.
 
 **Sách giáo khoa**
@@ -30,10 +37,10 @@ Nếu bạn quan tâm đến việc nghiên cứu xử lý ngôn ngữ tự nhi�
 
 **Các trang web hữu ích**
 
-Bước tiếp theo là việc cập nhật từ các trang web hữu ích và các hội nghị hàng đầu
+Bước tiếp theo là việc cập nhật kiến thức mới từ các trang web hữu ích và các hội nghị hàng đầu
 
 * [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - tổng hợp các kết quả tốt nhất trong xử lý ngôn ngữ tự nhiên
-* [Stanford NLP Reading Group Schedule](https://nlp.stanford.edu/read/) - chứa các nghiên cứu đáng chú ý, được tổng hợp bởi nhóm NLP ở trường Stanford
+* [Stanford NLP Reading Group Schedule](https://nlp.stanford.edu/read/) - chứa các nghiên cứu mới đáng chú ý, được tổng hợp bởi nhóm NLP ở trường Stanford
 
 Các hội nghị hàng đầu
 
