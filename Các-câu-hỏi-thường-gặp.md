@@ -57,6 +57,7 @@ Nếu các bạn quan tâm đến việc xây dựng các ứng dụng liên qua
 * Stanford CoreNLP ([website](https://stanfordnlp.github.io/CoreNLP/)) - Công cụ xử lý ngôn ngữ chất lượng cao, được phát triển bởi nhóm xử lý ngôn ngữ tự nhiên từ trường Stanford. 
 * AllenNLP ([website](https://allennlp.org/)) - Công cụ xử lý ngôn ngữ tự nhiên với bằng Pytorch, tập trung vào các bài toán mức cao như máy đọc, gán vai nghĩa, phân giải đồng tham chiếu, suy diễn văn bản 
 * fastText ([website](https://fasttext.cc/)) - Công cụ xử lý ngôn ngữ tự nhiên tiện dụng, tốc độ cao, thích hợp cho bài toán phân loại, được phát triển bởi Facebook 
+* gensim ([website](https://radimrehurek.com/gensim/)) - Công cụ chuyên về lĩnh vực Topic Modelling
 
 **Thông tin xử lý tiếng Việt**
 
