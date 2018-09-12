@@ -19,7 +19,7 @@ Xử lý ngôn ngữ tự nhiên gồm có phân tích hình thái, phân tích 
 
 *Gợi ý 1*: Nếu bạn thấy phần toán quá rộng, cần một "phương pháp" học nhanh, thì có thể đọc luôn phần 1 "Toán ứng dụng và học máy cơ bản" trong quyển Deep Learning Book
 
-*Gợi ý 2*: Bạn có thể tập thời bỏ qua phần này nếu lựa chọn một trong những khóa học về NLP ở dưới. Hầu hết các khóa học về NLP đều có những nội dung giới thiệu tổng quan về các kiến thức cơ bản kể trên.
+*Gợi ý 2*: Bạn có thể tạm thời bỏ qua phần này nếu lựa chọn một trong những khóa học về NLP ở dưới. Hầu hết các khóa học về NLP đều có những nội dung giới thiệu tổng quan về các kiến thức cơ bản kể trên.
  
 **Các khóa học**
 
