@@ -15,7 +15,7 @@ Xử lý ngôn ngữ tự nhiên gồm có phân tích hình thái, phân tích 
 * Toán học: Xác suất thống kê ([CS109](http://web.stanford.edu/class/cs109/)), Giải tích ([MIT 18.01](https://www.youtube.com/watch?v=jbIQW0gkgxo&list=PLE2215608E2574180), [MIT 18.02](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)), Đại số ([MIT 18.06 Linear Algebra](https://www.youtube.com/watch?list=PLE7DDD91010BC51F8&v=ZK3O402wf1c))
 * Lập trình cơ bản: Python ([Python for Everybody](https://www.coursera.org/specializations/python)) hoặc Java ([Complete Java Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/))
 * Học máy cơ bản - Machine Learning ([Khóa Machine Learning của thầy Andrew Ng](https://www.coursera.org/learn/machine-learning))
-* Học sâu - Deep Learning ([Sách Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf), [Khoá Deep Learning của thầy Andrew Ng](https://www.deeplearning.ai/), [Khóa fast.ai](http://www.fast.ai/))
+* Học sâu - Deep Learning ([Sách Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf), [Deep Learning Book Video Seminar](https://www.youtube.com/watch?v=vi7lACKOUao&index=1&list=PLqIdRQ-0JBALEr7MtuS6E39T-28NFX1Ia), [Khoá Deep Learning của thầy Andrew Ng](https://www.deeplearning.ai/), [Khóa fast.ai](http://www.fast.ai/))
 
 *Gợi ý 1*: Nếu bạn thấy phần toán quá rộng, cần một "phương pháp" học nhanh, thì có thể đọc luôn phần 1 "Toán ứng dụng và học máy cơ bản" trong quyển Deep Learning Book
 
