@@ -6,7 +6,7 @@ Facebook: [undertheseanlp](https://www.facebook.com/undertheseanlp/)
 
 Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 
-## Ghi chú / Notes
+## Ghi chú | Notes
 
 * [Vietnamese Text Normalization (in vietnamese)](https://github.com/magizbox/underthesea/wiki/Vietnamese-Text-Normalization)
 * [Câu chuyện của underthesea](https://github.com/undertheseanlp/underthesea/wiki/C%C3%A2u-chuy%E1%BB%87n-c%E1%BB%A7a-underthesea)
