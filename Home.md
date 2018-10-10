@@ -1,4 +1,4 @@
-# Welcome to underthesea's wiki
+# Underthesea Wiki
 
 Documentation: [underthesea.readthedocs](https://magizbox-underthesea.readthedocs-hosted.com/en/latest/?badge=latest)
 
