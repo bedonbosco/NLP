@@ -8,8 +8,9 @@
 
 ### Underthesea:StatusUpdate
 
-* Tổng kết dự án mỗi tháng
-* tổng kết báo cáo trên fanpage
+Tổng kết dự án mỗi tháng
+
+* Tổng kết báo cáo trên fanpage
 * Offline các thành viên
 
 ### Underthesea:Release
