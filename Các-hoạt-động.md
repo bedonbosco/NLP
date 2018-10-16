@@ -21,7 +21,8 @@ Giao lưu với các trường học, doanh nghiệp
 * Hướng dẫn sử dụng 
 * Hướng dẫn tham gia đóng góp
 
-Danh sách Seminar 
+**Danh sách Seminar**
+
 * [Seminar 01 tại đại học bách khoa Hà Nội](https://www.facebook.com/undertheseanlp/posts/169964720376829?__tn__=-R)
 
 ### Meetup
@@ -34,6 +35,6 @@ Tổ chức Underthesea Meetup 6 tháng một lần
 * Công bố danh sách các thành viên Underthesea Member mới 
 * Giao lưu, lắng nghe ý kiến đóng góp cho sự phát triển của underthesea  
 
-Danh sách Meetup 
+**Danh sách Meetup**
 
 * [Meetup đầu tiên tháng 10 năm 2018](https://www.facebook.com/undertheseanlp/posts/254670031906297?__xts__[0]=68.ARDpFvMyJZnmPa9mxgs9TBPYzczccdlBTnmRsXnCFpzBw4a5sCQiE6UB6GbB5VoGICBcCtCpG1RQN8mqPadpkojHuh4OorR0B-0TgUGdTVp8dKjur0ra7peH2PTG5nR1hOtc3R_eAeDSd-WC99yxe8u9MVGpFE97f2gQs-WE384YcGj0MjLVhlWf1AkiW7c3AOLv_a7TiR4bvCS_kEC-JA&__tn__=-R)
