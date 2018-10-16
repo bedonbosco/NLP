@@ -1,4 +1,4 @@
-Tài liệu này giới thiệu về nhóm underthesea, các vai trò và hướng dẫn đóng góp cho underthesea.
+Tài liệu giới thiệu về nhóm underthesea, các vai trò và hướng dẫn đóng góp cho underthesea.
 
 | Người viết        | Vũ Anh     |
 |-------------------|------------|
@@ -11,21 +11,21 @@ Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ 
 
 ## Các vai trò 
 
-Để đóng góp cho underthesea, bạn có thể tham gia với một trong những vai trò sau: `Người dùng`, `Developer/Contributor`, `Committer`, `PMC (Project Manager Committee)` và `Underthesea Member`
+Underthesea hoan nghênh các đóng góp từ cộng động với các vai trò: `Người dùng`, `Developer/Contributor`, `Committer`, `PMC (Project Manager Committee)` và `Underthesea Member`
 
 ### Người dùng
 
-Là những người đã sử dụng underthesea. Người dùng đóng góp cho underthesea bằng những phản hồi đến những developers khác trong dự án bằng cách thông báo các lỗi của dự án trên mục `[Issue]`. 
+Người dùng đóng góp cho underthesea bằng cách thông báo các lỗi trong quá trình sử dụng trên mục `[Issue]` của dự án.
 
 ### Developer/Contributor 
 
-Developer (hay còn gọi là Contributor), là những người tham gia đóng góp vào mã nguồn hoặc tài liệu trong một dự án của underthesea. Các đóng góp bao gồm việc sửa lỗi, phát triển thêm tính năng, hoàn thiện tài liệu hay cung cấp và thử nghiệm các test cases.
+Developer (hay Contributor) là những người tham gia đóng góp vào mã nguồn hoặc tài liệu trong một dự án của underthesea. Các đóng góp bao gồm việc sửa lỗi, phát triển thêm tính năng, hoàn thiện tài liệu hay cung cấp và thử nghiệm các test cases.
 
-### Committer 
+### Committer
 
-Là những `developer` tích cực, được đề cử và bầu chọn bởi các `Committer` và `PMC` khác trong dự án. Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat tương ứng trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển project. `Committer` cũng được tham gia vào việc lựa chọn các hướng đi cho dự án.
+Là những `developer` tích cực, được đề cử và bầu chọn bởi các `Committer` và `PMC` khác trong dự án. Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat tương ứng trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển dự án. `Committer` cũng được tham gia vào việc lựa chọn các hướng đi cho dự án.
 
-### PMC: Project Manager Committee 
+### PMC: Project Manager Committee
 
 `PMC` là một `developer` và `commiter` được đề cử bởi cộng đồng vì những cống hiến cho sự phát triển của dự án. `PMC` có quyền ghi trong code repository, quyền admin trong chat group, và quyền quyết định cuối cùng trong các bầu chọn với các thảo luận trong dự án. 
 
@@ -39,8 +39,8 @@ Quyền lợi:
 * Được đề cử và bầu chọn các `Underthesea Member` khác
 * Được tham gia vào các sự kiện, lời mời seminar của underthesea
 * Tham gia vào nhóm `undertheseanlp/members` trên facebook 
-* Được tặng áo underthesea :D
 * Được các thành viên khác hỗ trợ trong các dự án open source của mình
+* Nhận được các món quà kỷ niệm từ đội ngũ phát triển underthesea
 
 ### Tham khảo
 
