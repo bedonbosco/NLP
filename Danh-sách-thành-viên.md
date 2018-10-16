@@ -1,4 +1,4 @@
-Các thành viên của nhóm underthesea
+Các thành viên chính thức của nhóm underthesea
 
 |   | Thành viên                                     | Dự án                                                 |
 |---|------------------------------------------------|-------------------------------------------------------|
