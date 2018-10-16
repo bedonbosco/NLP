@@ -13,7 +13,7 @@ Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ 
 
 ## Các vai trò 
 
-Để đóng góp cho underthesea, bạn có thể tham gia với một trong những vai trò sau: Người dùng, Developer/Contributor, Committer, PMC (Project Manager Committee) và Underthesea Member
+Để đóng góp cho underthesea, bạn có thể tham gia với một trong những vai trò sau: `Người dùng`, `Developer/Contributor`, `Committer`, `PMC (Project Manager Committee)` và `Underthesea Member`
 
 ### Người dùng
 
