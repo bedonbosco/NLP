@@ -10,7 +10,7 @@
 
 * Tổng kết dự án mỗi tháng
 * tổng kết báo cáo trên fanpage
-* có thể offline các thành viên
+* Offline các thành viên
 
 ### Underthesea:Release
 
