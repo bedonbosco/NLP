@@ -9,9 +9,11 @@ Tài liệu này giới thiệu về nhóm underthesea, các vai trò và hướ
 
 ## Giới thiệu về underthesea
 
-Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ tự nhiên tiếng Việt. Được thành lập vào tháng 3 năm 2017, sau một năm rưỡi hình thành và phát triển, underthesea đã có hơn 30 dự án và 3 thành viên, một buổi seminar tại trường đại học Bách Khoa vào tháng 04 năm 2018 và một buổi meetup vào tháng 10 năm 2018. 
+Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ tự nhiên tiếng Việt. Được thành lập vào tháng 3 năm 2017, sau một năm rưỡi hình thành và phát triển, underthesea đã có hơn 30 dự án và 3 thành viên. Underthesea đã tổ chức một buổi seminar tại trường đại học Bách Khoa vào tháng 04 năm 2018 và một buổi meetup vào tháng 10 năm 2018. 
 
 ## Các vai trò 
+
+Để đóng góp cho underthesea, bạn có thể tham gia với một trong những vai trò sau: Người dùng, Developer/Contributor, Committer, PMC (Project Manager Committee) và Underthesea Member
 
 ### Người dùng
 
@@ -31,7 +33,7 @@ PMC là một developer và commiter được đề cử bởi cộng đồng v�
 
 ### Underthesea Member
 
-Underthesea Member được đề cử và bầu chọn bởi các thành viên chính thức khác của underthesea vì sự đóng góp và phát triển của dự án. Các thành viên chính thức là người xây dựng và phát triển underthesea. 
+Underthesea Member được đề cử và bầu chọn bởi các thành viên chính thức khác của underthesea vì sự đóng góp và phát triển của dự án. Các thành viên chính thức là người xây dựng và phát triển underthesea. Xem danh sách các thành viên tại [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-s%C3%A1ch-th%C3%A0nh-vi%C3%AAn)
 
 Quyền lợi:
 
