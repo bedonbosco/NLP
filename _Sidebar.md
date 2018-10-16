@@ -1,4 +1,4 @@
 * [Giới thiệu](https://github.com/undertheseanlp/underthesea/wiki/C%C3%A2u-chuy%E1%BB%87n-c%E1%BB%A7a-underthesea)
-* [Các thành viên](https://github.com/undertheseanlp/underthesea/wiki/C%C3%A1c-th%C3%A0nh-vi%C3%AAn)
+* [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/C%C3%A1c-th%C3%A0nh-vi%C3%AAn)
 * [Hướng dẫn đóng góp](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p)
 * [Các hoạt động](https://github.com/undertheseanlp/underthesea/wiki/C%C3%A1c-ho%E1%BA%A1t-%C4%91%E1%BB%99ng)
