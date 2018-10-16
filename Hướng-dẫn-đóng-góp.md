@@ -23,28 +23,24 @@ Developer (hay còn gọi là Contributor), là những người tham gia đóng
 
 ### Committer 
 
-Là những developer tích cực, được đề cử và bầu chọn bởi các Committer khác trong dự án. Sau khi đã được bầu cử, committer được tham gia vào nhóm chat tương ứng trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển project. Committer cũng được tham gia vào việc lựa chọn các hướng đi cho dự án.
+Là những `developer` tích cực, được đề cử và bầu chọn bởi các `Committer` và `PMC` khác trong dự án. Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat tương ứng trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển project. `Committer` cũng được tham gia vào việc lựa chọn các hướng đi cho dự án.
 
 ### PMC: Project Manager Committee 
 
-PMC là một developer và commiter được đề cử bởi cộng đồng vì những cống hiến cho sự phát triển của dự án. PMC có quyền ghi trong code repository, quyền admin trong chat group, và quyền quyết định trong các bầu chọn với các thảo luận trong dự án. 
+`PMC` là một `developer` và `commiter` được đề cử bởi cộng đồng vì những cống hiến cho sự phát triển của dự án. `PMC` có quyền ghi trong code repository, quyền admin trong chat group, và quyền quyết định cuối cùng trong các bầu chọn với các thảo luận trong dự án. 
 
 ### Underthesea Member
 
-Underthesea Member được đề cử và bầu chọn bởi các thành viên chính thức khác của underthesea vì sự đóng góp và phát triển của dự án. Các thành viên chính thức là người xây dựng và phát triển underthesea. Xem danh sách các thành viên tại [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-s%C3%A1ch-th%C3%A0nh-vi%C3%AAn)
+`Underthesea Member` được đề cử và bầu chọn bởi các thành viên chính thức khác của underthesea vì sự đóng góp và phát triển của dự án. Các thành viên chính thức là người xây dựng và phát triển underthesea. Xem danh sách các thành viên tại [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-s%C3%A1ch-th%C3%A0nh-vi%C3%AAn)
 
 Quyền lợi:
 
-* Được tặng áo underthesea :D
 * Thảo luận về sự phát triển của underthesea
-* Được đề cử và bầu chọn các Underthesea Member khác
-* Được các thành viên khác hỗ trợ trong các dự án open source của mình
+* Được đề cử và bầu chọn các `Underthesea Member` khác
 * Được tham gia vào các sự kiện, lời mời seminar của underthesea
-* Tham gia vào nhóm undertheseanlp/members trên facebook 
-
-Công việc :
-
-* Tham gia meetup của underthesea
+* Tham gia vào nhóm `undertheseanlp/members` trên facebook 
+* Được tặng áo underthesea :D
+* Được các thành viên khác hỗ trợ trong các dự án open source của mình
 
 ### Tham khảo
 
