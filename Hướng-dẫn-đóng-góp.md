@@ -1,5 +1,3 @@
-# Hướng dẫn đóng góp 
-
 Tài liệu này giới thiệu về nhóm underthesea, các vai trò và hướng dẫn đóng góp cho underthesea.
 
 | Người viết        | Vũ Anh     |
