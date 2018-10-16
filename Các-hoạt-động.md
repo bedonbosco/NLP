@@ -2,7 +2,7 @@
 
 Tổng kết dự án mỗi tháng
 
-* Tổng kết báo cáo trên fanpage
+* Tổng kết tình hình hoạt động của nhóm, đăng báo cáo trên fanpage
 * Offline các thành viên (tùy chọn)
 
 ### Release
