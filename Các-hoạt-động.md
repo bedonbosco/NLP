@@ -1,10 +1,13 @@
 ### Underthesea:Meetup
 
-* Tổ chức Underthesea Meetup 6 tháng một lần
-  * Thực hiện đề xuất Underthesea Member 6 tháng một lần 
-* Các thông tin trong báo cáo tại Meetup
-  * Danh sách các thành viên mới
-  * Tiến độ các dự án
+Tổ chức Underthesea Meetup 6 tháng một lần
+
+* Thực hiện đề xuất Underthesea Member 6 tháng một lần 
+
+Nội dung meetup
+
+* Trình bày sự phát triển của underthesea, tiến độ các dự án
+* Danh sách các thành viên (Underthesea Member) mới 
 
 ### Underthesea:StatusUpdate
 
