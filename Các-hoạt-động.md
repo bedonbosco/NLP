@@ -23,7 +23,7 @@ Giao lưu với các trường học, doanh nghiệp
 
 **Danh sách Seminar**
 
-* [Seminar 01 tại đại học bách khoa Hà Nội (tháng 10 năm 2018)](https://www.facebook.com/undertheseanlp/posts/169964720376829?__tn__=-R)
+* [Seminar 01 tại đại học bách khoa Hà Nội (tháng 04 năm 2018)](https://www.facebook.com/undertheseanlp/posts/169964720376829?__tn__=-R)
 
 ### Meetup
 
