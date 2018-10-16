@@ -25,7 +25,7 @@ Developer (hay còn gọi là Contributor), là những người tham gia đóng
 
 ### Committer 
 
-Là những developer tích cực, được đề cử và bầu chọn bởi các Committer khác trong dự án. Sau khi đã được bầu cử, committer được tham gia vào nhóm underthesea/[project] trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển project. Committer cũng được tham gia vào việc lựa chọn các hướng đi cho dự án.
+Là những developer tích cực, được đề cử và bầu chọn bởi các Committer khác trong dự án. Sau khi đã được bầu cử, committer được tham gia vào nhóm chat tương ứng trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển project. Committer cũng được tham gia vào việc lựa chọn các hướng đi cho dự án.
 
 ### PMC: Project Manager Committee 
 
@@ -37,7 +37,7 @@ Underthesea Member được đề cử và bầu chọn bởi các thành viên 
 
 Quyền lợi:
 
-* Được tặng áo underthesea
+* Được tặng áo underthesea :D
 * Thảo luận về sự phát triển của underthesea
 * Được đề cử và bầu chọn các Underthesea Member khác
 * Được các thành viên khác hỗ trợ trong các dự án open source của mình
