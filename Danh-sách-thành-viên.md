@@ -6,6 +6,6 @@ Các thành viên của nhóm underthesea
 | 2 | Đoàn Việt Dũng<br> doanvietdung273@gmail.com | `word_tokenize` |
 | 3 | Bùi Nhật Anh<br> buinhatanh1208@gmail.com    | `word_tokenize`,`pos_tag`,`chunking`<br>`ner`,`text_classification`,`sentiment` |
 | 4 | Nguyễn Thị Hậu<br> nguyenhau1996mta@gmail.com| `sealion`|
-| 5 | Vương Hoài Thu                                 |                         |
+| 5 | Vương Hoài Thu <br> thuvh87@gmail.com        | `slp3-vietnamese` |
 | 6 | Trương Thị Huyên <br> huyenth2110@gmail.com  | `slp3-vietnamese` |
-| 7 | Mai Duy Khánh <br> khanh.md01@gmail.com      | `slp3-vietnamese`                   |
+| 7 | Mai Duy Khánh <br> khanh.md01@gmail.com      | `slp3-vietnamese` |
