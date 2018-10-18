@@ -13,8 +13,16 @@ Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ 
 
 Underthesea hoan nghênh các đóng góp từ cộng đồng với các vai trò
 
-* Ở từng dự án: `User`, `Developer/Contributor`, `Committer`, `PMC (Project Manager Committee)`
-* Ở tổ chức: `Underthesea Member`
+Ở từng dự án:
+
+* `User`
+* `Developer/Contributor`
+* `Committer`
+* `PMC (Project Manager Committee)`
+
+Ở tổ chức
+
+* `Underthesea Member`
 
 ![](https://i.imgur.com/hMcWUQQ.png)
 
