@@ -35,13 +35,15 @@ Các đóng góp bao gồm:
 * Xây dựng và hoàn thiện tài liệu hướng dẫn sử dụng, báo cáo kỹ thuật
 * Thảo luận về các hướng phát triển mới cho dự án
 
-Developer được ghi nhận những cống hiến của mình khi có một `Pull requests` được chấp nhận bởi `PMC`. Khi đó, tên và email của developer sẽ có trong mục "Nhóm tác giả" của dự án.
+Developer được ghi nhận những cống hiến của mình khi có một `Pull requests` được chấp nhận bởi `PMC`. Khi đó, tên và email của developer sẽ có trong mục **"Nhóm tác giả"** của dự án.
 
 ### Committer
 
 `Committer` là những `developer` tích cực, được đề cử và bầu chọn bởi các `PMC` và những `committer` khác trong dự án.
 Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat trên facebook để thảo luận riêng với các `committer` khác về kế hoạch và hướng đi cho việc phát triển dự án.
 `Committer` cũng được quyền đề cử và bầu chọn những `committer` mới.
+
+Commiter được ghi nhận những đóng góp bằng việc có tên và email trong mục **"Nhóm tác giả"** của dự án, cũng như có tên trong **"Báo cáo kỹ thuật"** của dự án.
 
 ### PMC: Project Manager Committee
 
