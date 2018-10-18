@@ -2,32 +2,50 @@ Tài liệu giới thiệu về nhóm underthesea, các vai trò và hướng d�
 
 | Người viết        | Vũ Anh     |
 |-------------------|------------|
-| Phiên bản         | 1.0.0      |
-| Cập nhật lần cuối | 16/10/2018 |
+| Phiên bản         | 1.0.1      |
+| Cập nhật lần cuối | 18/10/2018 |
 
 ## Giới thiệu về underthesea
 
-Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ tự nhiên tiếng Việt. Được thành lập vào tháng 3 năm 2017, sau một năm rưỡi hình thành và phát triển, underthesea đã có hơn 30 dự án và 3 thành viên. Underthesea đã tổ chức một buổi seminar tại trường đại học Bách Khoa vào tháng 04 năm 2018 và một buổi meetup vào tháng 10 năm 2018. 
+Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ tự nhiên tiếng Việt. Được thành lập vào tháng 3 năm 2017, sau một năm rưỡi hình thành và phát triển, underthesea đã có hơn 30 [dự án](https://github.com/undertheseanlp) và 7 [thành viên chính thức](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên). Underthesea đã tổ chức thành công một buổi seminar tại trường đại học Bách Khoa vào tháng 04 năm 2018 và một buổi meetup vào tháng 10 năm 2018. 
 
 ## Các vai trò 
 
-Underthesea hoan nghênh các đóng góp từ cộng động với các vai trò: `Người dùng`, `Developer/Contributor`, `Committer`, `PMC (Project Manager Committee)` và `Underthesea Member`
+Underthesea hoan nghênh các đóng góp từ cộng động với các vai trò
 
-### Người dùng
+* Ở từng dự án: `User`, `Developer/Contributor`, `Committer`, `PMC (Project Manager Committee)`
+* Ở tổ chức: `Underthesea Member`
 
-Người dùng đóng góp cho underthesea bằng cách thông báo các lỗi trong quá trình sử dụng trên mục `[Issue]` của dự án.
+![](https://i.imgur.com/hMcWUQQ.png)
+
+### User 
+
+User (Người dùng) đóng góp cho underthesea bằng cách sử dụng phần mềm, thông báo các lỗi trong quá trình sử dụng hoặc đề xuất các tính năng mới cho đội ngũ phát triển tại mục [`[Issue]`](https://github.com/undertheseanlp/underthesea/issues) của dự án underthesea hoặc từng các dự án con.
+
+Xem danh sách các dự án của underthesea tại trang [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
 
 ### Developer/Contributor 
 
-Developer (hay Contributor) là những người tham gia đóng góp vào mã nguồn hoặc tài liệu trong một dự án của underthesea. Các đóng góp bao gồm việc sửa lỗi, phát triển thêm tính năng, hoàn thiện tài liệu hay cung cấp và thử nghiệm các test cases.
+Developer (hay Contributor) là những người tham gia đóng góp vào mã nguồn hoặc tài liệu trong một dự án của underthesea.
+
+Các đóng góp bao gồm:
+
+* Lập trình: Phát triển và hoàn thiện các tính năng
+* Dùng thử, phát hiện lỗi, phân tích và đề xuất các test cases, đề xuất các phương án sửa lỗi
+* Xây dựng và hoàn thiện tài liệu hướng dẫn sử dụng, báo cáo kỹ thuật
+* Thảo luận về các hướng phát triển mới cho dự án
 
 ### Committer
 
-Là những `developer` tích cực, được đề cử và bầu chọn bởi các `Committer` và `PMC` khác trong dự án. Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat tương ứng trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển dự án. `Committer` cũng được tham gia vào việc lựa chọn các hướng đi cho dự án.
+`Committer` là những `developer` tích cực, được đề cử và bầu chọn bởi các `PMC` và những `committer` khác trong dự án.
+Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển dự án.
+`Committer` cũng được tham gia vào việc lựa chọn các hướng phát triển cho dự án.
 
 ### PMC: Project Manager Committee
 
-`PMC` là một `developer` và `commiter` được đề cử bởi cộng đồng vì những cống hiến cho sự phát triển của dự án. `PMC` có quyền ghi trong code repository, quyền admin trong chat group, và quyền quyết định cuối cùng trong các bầu chọn với các thảo luận trong dự án. 
+`PMC` là một `developer` hay `committer` được đề cử bởi cộng đồng vì những cống hiến cho sự phát triển của dự án.
+`PMC` đóng vai trò quan trọng trong sự phát triển của dự án. Ngoài việc đóng góp bằng mã nguồn, PMC đảm bảo "sức khỏe" cho dự án bằng cách luôn cập nhật các hướng phát triển mới, và là nguồn thu hút các Committer và Developer gắn bó với dự
+`PMC` có quyền ghi trong code repository, quyền admin trong chat group, và quyền quyết định cuối cùng trong các thảo luận về hướng phát triển cũng như các bầu cử `Committer` trong dự án. 
 
 ### Underthesea Member
 
