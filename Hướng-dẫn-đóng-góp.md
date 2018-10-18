@@ -49,9 +49,9 @@ Commiter được ghi nhận những đóng góp bằng việc có tên và emai
 
 `PMC` là một `developer` hay `committer` được đề cử bởi cộng đồng vì những cống hiến cho sự phát triển của dự án. `PMC` đóng vai trò quan trọng trong sự phát triển của dự án.
 
-Ngoài việc đóng góp bằng mã nguồn, PMC đảm bảo "sức khỏe" cho dự án bằng cách luôn cập nhật các hướng phát triển mới, là nguồn thu hút các Committer và Developer tham gia và gắn bó với dự án.
+Ngoài việc đóng góp bằng mã nguồn, PMC đảm bảo "sức khỏe" cho dự án bằng cách luôn cập nhật các hướng phát triển mới, thu hút các Committer và Developer tham gia và gắn bó với dự án.
 
-`PMC` có quyền ghi trong code repository, quyền admin trong chat group, và quyền quyết định cuối cùng trong các thảo luận về hướng phát triển cũng như các bầu cử `Committer` trong dự án. 
+`PMC` có quyền ghi trong code repository, quyền admin trong chat group, và quyền quyết định cuối cùng trong các thảo luận về hướng phát triển và việc lựa chọn `Committer` trong dự án. 
 
 ### Underthesea Member
 
