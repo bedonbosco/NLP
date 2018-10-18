@@ -2,7 +2,7 @@ Tài liệu giới thiệu về nhóm underthesea, các vai trò và hướng d�
 
 | Người viết        | Vũ Anh     |
 |-------------------|------------|
-| Phiên bản         | 1.0.1      |
+| Phiên bản         | 1.0.2      |
 | Cập nhật lần cuối | 18/10/2018 |
 
 ## Giới thiệu về underthesea
@@ -20,13 +20,13 @@ Underthesea hoan nghênh các đóng góp từ cộng động với các vai tr�
 
 ### User 
 
-User (Người dùng) đóng góp cho underthesea bằng cách sử dụng phần mềm, thông báo các lỗi trong quá trình sử dụng hoặc đề xuất các tính năng mới cho đội ngũ phát triển tại mục [`[Issue]`](https://github.com/undertheseanlp/underthesea/issues) của dự án underthesea hoặc từng các dự án con.
+`User` (người dùng) đóng góp cho underthesea bằng cách sử dụng phần mềm, thông báo các lỗi trong quá trình sử dụng hoặc đề xuất các tính năng mong muốn cho đội ngũ phát triển tại mục [`[Issue]`](https://github.com/undertheseanlp/underthesea/issues) của dự án underthesea hoặc từng các dự án con.
 
-Xem danh sách các dự án của underthesea tại trang [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
+Nếu bạn đang quan tâm đến các dự án của underthesea, mời bạn xem danh sách chi tiết các dự án của underthesea tại trang [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
 
 ### Developer/Contributor 
 
-Developer (hay Contributor) là những người tham gia đóng góp vào mã nguồn hoặc tài liệu trong một dự án của underthesea.
+`Developer` (hay `Contributor`) là những người tham gia đóng góp vào ý tưởng, mã nguồn hoặc tài liệu trong một dự án của underthesea.
 
 Các đóng góp bao gồm:
 
@@ -35,11 +35,13 @@ Các đóng góp bao gồm:
 * Xây dựng và hoàn thiện tài liệu hướng dẫn sử dụng, báo cáo kỹ thuật
 * Thảo luận về các hướng phát triển mới cho dự án
 
+Developer được ghi nhận những cống hiến của mình khi có một `Pull requests` được chấp nhận bởi `PMC`. Khi đó, tên và email của developer sẽ có trong mục "Nhóm tác giả" của dự án.
+
 ### Committer
 
 `Committer` là những `developer` tích cực, được đề cử và bầu chọn bởi các `PMC` và những `committer` khác trong dự án.
-Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat trên facebook để thảo luận riêng với các committer khác về kế hoạch và giải pháp cho việc phát triển dự án.
-`Committer` cũng được tham gia vào việc lựa chọn các hướng phát triển cho dự án.
+Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat trên facebook để thảo luận riêng với các `committer` khác về kế hoạch và hướng đi cho việc phát triển dự án.
+`Committer` cũng được quyền đề cử và bầu chọn những `committer` mới.
 
 ### PMC: Project Manager Committee
 
@@ -49,16 +51,19 @@ Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat 
 
 ### Underthesea Member
 
-`Underthesea Member` được đề cử và bầu chọn bởi các thành viên chính thức khác của underthesea vì sự đóng góp và phát triển của dự án. Các thành viên chính thức là người xây dựng và phát triển underthesea. Xem danh sách các thành viên tại [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-s%C3%A1ch-th%C3%A0nh-vi%C3%AAn)
+`Underthesea Member` (thành viên chính thức của underthesea) được đề cử và bầu chọn bởi các thành viên chính thức khác của underthesea vì sự đóng góp và phát triển của nhóm. Các thành viên chính thức là những người ủng hộ xây dựng và quyết định sự phát triển underthesea.
 
-Quyền lợi:
+`Underthesea Member` đóng góp vào sự phát triển của underthesea qua nhiều hoạt động:
 
-* Thảo luận về sự phát triển của underthesea
-* Được đề cử và bầu chọn các `Underthesea Member` khác
-* Được tham gia vào các sự kiện, lời mời seminar của underthesea
-* Tham gia vào nhóm `undertheseanlp/members` trên facebook 
+* Tổ chức các sự kiện như meetup, seminar của underthesea
+* Thảo luận và đề xuất các ý tưởng về sự phát triển của underthesea, tham gia vào chat group `undertheseanlp/members` trên facebook cùng các thành viên chính thức khác.
+* Đề cử và bầu chọn các `Underthesea Member` mới
+
+Tham gia vào nhóm, `Underthesea Member` nhận được nhiều lợi ích thú vị:
+
+* Được ghi nhận các đóng góp và công hiến trong [danh sách thành viên chính thức của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Danh-s%C3%A1ch-th%C3%A0nh-vi%C3%AAn)
 * Được các thành viên khác hỗ trợ trong các dự án open source của mình
-* Nhận được các món quà kỷ niệm từ đội ngũ phát triển underthesea
+* Nhận được các món quà kỷ niệm từ nhóm underthesea
 
 ### Tham khảo
 
