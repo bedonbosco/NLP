@@ -11,7 +11,7 @@ Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ 
 
 ## Các vai trò 
 
-Underthesea hoan nghênh các đóng góp từ cộng động với các vai trò
+Underthesea hoan nghênh các đóng góp từ cộng đồng với các vai trò
 
 * Ở từng dự án: `User`, `Developer/Contributor`, `Committer`, `PMC (Project Manager Committee)`
 * Ở tổ chức: `Underthesea Member`
