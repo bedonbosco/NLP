@@ -7,7 +7,7 @@ Tài liệu giới thiệu về nhóm underthesea, các vai trò và hướng d�
 
 ## Giới thiệu về underthesea
 
-Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ tự nhiên tiếng Việt. Được thành lập vào tháng 3 năm 2017, sau một năm rưỡi hình thành và phát triển, underthesea đã có hơn [30 dự án](https://github.com/undertheseanlp) và [7 thành viên chính thức](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên). Underthesea đã tổ chức thành công một buổi seminar tại trường đại học Bách Khoa vào tháng 04 năm 2018 và một buổi meetup vào tháng 10 năm 2018. 
+Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ tự nhiên tiếng Việt. Được thành lập vào tháng 3 năm 2017, sau một năm rưỡi hình thành và phát triển, underthesea đã có hơn [30 dự án](https://github.com/undertheseanlp) và [7 thành viên chính thức](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên). Underthesea đã tổ chức thành công một buổi seminar tại trường đại học Bách Khoa vào tháng 04 năm 2018 và một buổi meetup vào tháng 10 năm 2018. Để biết thêm các thông tin về underthesea, mời bạn đọc [Câu chuyện của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea).
 
 ## Các vai trò 
 
@@ -46,7 +46,7 @@ Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat 
 ### PMC: Project Manager Committee
 
 `PMC` là một `developer` hay `committer` được đề cử bởi cộng đồng vì những cống hiến cho sự phát triển của dự án.
-`PMC` đóng vai trò quan trọng trong sự phát triển của dự án. Ngoài việc đóng góp bằng mã nguồn, PMC đảm bảo "sức khỏe" cho dự án bằng cách luôn cập nhật các hướng phát triển mới, và là nguồn thu hút các Committer và Developer gắn bó với dự
+`PMC` đóng vai trò quan trọng trong sự phát triển của dự án. Ngoài việc đóng góp bằng mã nguồn, PMC đảm bảo "sức khỏe" cho dự án bằng cách luôn cập nhật các hướng phát triển mới, là nguồn thu hút các Committer và Developer tham gia và gắn bó với dự án.
 `PMC` có quyền ghi trong code repository, quyền admin trong chat group, và quyền quyết định cuối cùng trong các thảo luận về hướng phát triển cũng như các bầu cử `Committer` trong dự án. 
 
 ### Underthesea Member
