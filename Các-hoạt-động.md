@@ -12,8 +12,9 @@ Tổng kết dự án mỗi tháng
 
 Cập nhật underthesea 3 tháng một lần 
 
-* Sửa các lỗi được báo cáo trên Issue
 * Cập nhật các tính năng mới
+* Cải thiện hiệu năng của hệ thống
+* Sửa các lỗi được báo cáo trên Issue
 * Thêm các tài liệu và video hướng dẫn sử dụng
 
 ### Seminar
