@@ -3,6 +3,9 @@
 Tổng kết dự án mỗi tháng
 
 * Tổng kết tình hình hoạt động của nhóm, đăng báo cáo trên fanpage
+  * Giới thiệu các dự án mới
+  * Giới thiệu các cập nhật mới của các dự án hiện tại
+  * Đưa ra số lượng thống kê về tăng trưởng Stars/Issues/Pull requests trên github
 * Offline các thành viên (tùy chọn)
 
 ### Release
