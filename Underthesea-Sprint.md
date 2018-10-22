@@ -1,0 +1,65 @@
+Sprint có độ dài 4 tuần, trong sprint, nhóm phát triển tập trung vào việc nghiên cứu và phát triển các module trong xử lý ngôn ngữ tự nhiên tiếng Việt. Kết quả mỗi sprint là những lần đẩy 
+
+## Vai trò và công việc trong mỗi sprint
+
+<table>
+<tr>
+  <th>Vai trò</th>
+  <th>Công việc</th>
+</tr>
+<tr>
+  <td>PMC</td>
+  <td>
+    - Quyết định feature nào sẽ được dev<br>
+    - Merge PR
+   </ul>
+  </td>
+</tr>
+<tr>
+  <td>Developer</td>
+  <td>
+    - Lập trình: code, dev, test<br>
+    - Viết báo cáo, cập nhật tài liệu<br>
+   </ul>
+  </td>
+</tr>
+<tr>
+  <td>Reviewer</td>
+  <td>
+    - Kiểm thử và đánh giá mã nguồn, các tài liệu (README.md) và báo cáo kỹ thuật
+   </ul>
+  </td>
+</tr>
+</table>
+
+## Giai đoạn 1: Phát triển
+
+Thời gian thực hiện: 3 tuần đầu (25 tháng trước - 15 tháng này)
+
+* Phát triển các tính năng
+* Sửa các lỗi
+* Cải tiến code
+* Merge các Pull Request
+* Viết tài liệu
+
+## Giai đoạn 2: Kiểm thử và đánh giá 
+
+Thời gian thực hiện: 15 - 20 hàng tháng
+
+* Reviewer chạy lại các thử nghiệm, kiểm tra chất lượng code
+* Xác nhận lại các kết quả mà nhóm phát triển đã thực hiện 
+
+## Giai đoạn 3: Cập nhật trạng thái
+
+Thời gian thực hiện: 21-24 hàng tháng
+
+* PMC thực hiện [Cập nhật trạng thái dự án](https://goo.gl/forms/7LkbwGVmAevm0cMF2)
+* PMC tạo các Issue mới, assign task cho các Developer
+
+## THÀNH QUẢ
+
+Ngày 25 hàng tháng, underthesea cập nhật báo cáo trong tài liệu "Cập nhật trạng thái dự án", phát hành trên wiki. Tóm tắt nội dung của tài liệu này trong một bài viết ngắn gọn trên fanpage của nhóm.
+
+Nhóm phát triển chuẩn bị nhận like, comment cảm ơn từ người dùng.
+
+**Happy Coding!**
