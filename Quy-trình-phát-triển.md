@@ -35,7 +35,7 @@ Các dự án có underthesea được phát triển theo từng sprint có đ�
 
 ## Giai đoạn 1: Lập kế hoạch 
 
-Thời gian thực hiện: 3 tuần đầu (25 - 27 hàng tháng)
+Thời gian thực hiện: 3 tuần đầu (26 - 28 hàng tháng)
 
 * PMC tập hợp nhóm phát triển
   * Nhóm phát triển cần ít nhất 3 người (1 PMC, 1 dev, 1 reviewer)
@@ -70,19 +70,19 @@ Thời gian thực hiện: 16 - 20 hàng tháng
 
 ## Giai đoạn 4: Cập nhật kết quả
 
-Thời gian thực hiện: 21 - 24 hàng tháng
+Thời gian thực hiện: 21 - 23 hàng tháng
 
 * PMC thực hiện [Cập nhật kết quả sprint](https://goo.gl/forms/7LkbwGVmAevm0cMF2)
 
-:loudspeaker:  &nbsp; 24 hàng tháng
+:loudspeaker:  &nbsp; 23 hàng tháng
 
 * Cập nhật `kết quả của sprint` vào trang wiki của project tương ứng
 * Chia sẻ `kết quả của sprint` trên chat group với các thành viên khác của dự án 
 
 ## THÀNH QUẢ
 
-Ngày 25 hàng tháng, underthesea cập nhật báo cáo trong tài liệu "Cập nhật trạng thái dự án", phát hành trên wiki. Tóm tắt nội dung của tài liệu này trong một bài viết ngắn gọn trên fanpage của nhóm.
+Ngày 24 hàng tháng, `PMC Chair` cập nhật báo cáo trong tài liệu "Tình hình hoạt động" của dự án. Tóm tắt nội dung của tài liệu này trong một bài viết ngắn gọn trên fanpage của nhóm.
 
-Nhóm phát triển chuẩn bị nhận like, comment cảm ơn từ người dùng.
+Nhóm phát triển chuẩn bị nhận like, comment, cảm ơn (và gạch đá) của người dùng.
 
 **Happy Coding!**
