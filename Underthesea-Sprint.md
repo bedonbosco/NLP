@@ -10,7 +10,7 @@ Sprint có độ dài 4 tuần, trong sprint, nhóm phát triển tập trung v�
 <tr>
   <td>PMC</td>
   <td>
-    - Lập nhóm phát triển, review<br>
+    - Lập nhóm phát triển <br>
     - Quyết định các tính năng quan trọng cần tập trung trong sprint<br>
     - Merge PR
    </ul>
