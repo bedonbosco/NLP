@@ -35,13 +35,15 @@ Sprint có độ dài 4 tuần, trong sprint, nhóm phát triển tập trung v�
 
 ## Giai đoạn 1: Lập kế hoạch 
 
+Thời gian thực hiện: 3 tuần đầu (25 - 27 hàng tháng)
+
 * PMC thành lập nhóm phát triển
 * PMC quyết định các tính năng quan trọng cần tập trung trong sprint
 * PMC tạo các Issue mới, assign task cho các Developer
 
 ## Giai đoạn 2: Phát triển
 
-Thời gian thực hiện: 3 tuần đầu (25 tháng trước - 15 tháng này)
+Thời gian thực hiện: 3 tuần đầu (28 tháng trước - 15 tháng này)
 
 * Phát triển các tính năng
 * Sửa các lỗi
