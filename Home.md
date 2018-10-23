@@ -20,3 +20,7 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 * [Xử lý ngôn ngữ tự nhiên là gì?](https://drive.google.com/file/d/152-XDtZ8mi9wET4jyDV3kg8PLome_zXK/view?usp=sharing)
 * [Học NLP nên bắt đầu từ đâu?](https://github.com/undertheseanlp/underthesea/wiki/Học-NLP-nên-bắt-đầu-từ-đâu%3F)
 * [Các kết quả tốt nhất trong những bài toán xử lý ngôn ngữ tự nhiên tiếng Việt](https://github.com/undertheseanlp/NLP-Vietnamese-progress)
+
+## Tình hình hoạt động
+
+* Tháng 10 năm 2018
