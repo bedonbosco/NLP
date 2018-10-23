@@ -45,8 +45,10 @@ Thời gian thực hiện: 3 tuần đầu (25 - 27 hàng tháng)
 
 :loudspeaker: &nbsp; 27 hàng tháng
 
-* Tạo một page mới trên wiki của project tương ứng với kế hoạch của Sprint
-* Chia sẻ `kế hoạch sprint` trên chat group với các thành viên khác của dự án 
+* `PMC` tạo một page mới trên wiki của project tương ứng với kế hoạch của Sprint
+* `PMC` chia sẻ `kế hoạch sprint` trên chat group với các thành viên khác của dự án 
+* `PMC Chair` thống nhất các dự án, nên kế hoạch chung cho toàn bộ các dự án của underthesea
+  * Tạo thêm một Project trên group Underthesea Github
 
 ## Giai đoạn 2: Phát triển
 
