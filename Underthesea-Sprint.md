@@ -49,7 +49,7 @@ Thời gian thực hiện: 15 - 20 hàng tháng
 * Reviewer chạy lại các thử nghiệm, kiểm tra chất lượng code
 * Xác nhận lại các kết quả mà nhóm phát triển đã thực hiện 
 
-## Giai đoạn 3: Cập nhật trạng thái
+## Giai đoạn 3: Cập nhật kết quả
 
 Thời gian thực hiện: 21-24 hàng tháng
 
