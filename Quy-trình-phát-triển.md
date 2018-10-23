@@ -39,7 +39,7 @@ Thời gian thực hiện: 3 tuần đầu (25 - 27 hàng tháng)
 
 * PMC tập hợp nhóm phát triển
   * Nhóm phát triển cần ít nhất 3 người (1 PMC, 1 dev, 1 reviewer)
-  * Ngoài ra có thể có (1-2 expert)
+  * Ngoài ra có thể có 1-2 expert
 * PMC quyết định các tính năng quan trọng cần tập trung trong sprint
 * PMC tạo các Issue mới, assign task cho các Developer
 
