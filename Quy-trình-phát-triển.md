@@ -79,9 +79,11 @@ Thời gian thực hiện: 21 - 23 hàng tháng
 * Cập nhật `kết quả của sprint` vào trang wiki của project tương ứng
 * Chia sẻ `kết quả của sprint` trên chat group với các thành viên khác của dự án 
 
-## THÀNH QUẢ
+## NGHỈ NGƠI
 
-Ngày 24 hàng tháng, `PMC Chair` cập nhật báo cáo trong tài liệu "Tình hình hoạt động" của dự án. Tóm tắt nội dung của tài liệu này trong một bài viết ngắn gọn trên fanpage của nhóm.
+:loudspeaker:  &nbsp; 24 hàng tháng
+
+`PMC Chair` cập nhật báo cáo trong tài liệu "Tình hình hoạt động" của dự án. Tóm tắt nội dung của tài liệu này trong một bài viết ngắn gọn trên fanpage của nhóm.
 
 Nhóm phát triển chuẩn bị nhận like, comment, cảm ơn (và gạch đá) của người dùng.
 
