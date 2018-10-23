@@ -60,7 +60,7 @@ Thời gian thực hiện: 15 - 20 hàng tháng
 
 ## Giai đoạn 4: Cập nhật kết quả
 
-Thời gian thực hiện: 21-24 hàng tháng
+Thời gian thực hiện: 21 - 24 hàng tháng
 
 * PMC thực hiện [Cập nhật kết quả sprint](https://goo.gl/forms/7LkbwGVmAevm0cMF2)
 
