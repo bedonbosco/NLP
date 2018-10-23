@@ -60,7 +60,7 @@ Thời gian thực hiện: 3 tuần đầu (28 tháng trước - 15 tháng này)
 
 ## Giai đoạn 3: Kiểm thử và đánh giá 
 
-Thời gian thực hiện: 15 - 20 hàng tháng
+Thời gian thực hiện: 16 - 20 hàng tháng
 
 * Reviewer chạy lại các thử nghiệm, kiểm tra chất lượng code
 * Xác nhận lại các kết quả mà nhóm phát triển đã thực hiện 
