@@ -1,4 +1,4 @@
-Sprint có độ dài 4 tuần, trong sprint, nhóm phát triển tập trung vào việc nghiên cứu và phát triển các module trong xử lý ngôn ngữ tự nhiên tiếng Việt. Kết quả mỗi sprint là những lần đẩy 
+Sprint có độ dài 4 tuần, trong sprint, nhóm phát triển tập trung vào việc nghiên cứu và phát triển các module trong xử lý ngôn ngữ tự nhiên tiếng Việt. Kết quả mỗi sprint là những kết quả thử nghiệm, với hiệu năng tốt hơn trong mỗi bài toán. Khi hoàn thiện có thể tích hợp vào module underthesea.
 
 ## Vai trò và công việc trong mỗi sprint
 
@@ -10,7 +10,8 @@ Sprint có độ dài 4 tuần, trong sprint, nhóm phát triển tập trung v�
 <tr>
   <td>PMC</td>
   <td>
-    - Quyết định feature nào sẽ được dev<br>
+    - Lập nhóm phát triển, review<br>
+    - Quyết định các tính năng quan trọng cần tập trung trong sprint<br>
     - Merge PR
    </ul>
   </td>
@@ -19,7 +20,7 @@ Sprint có độ dài 4 tuần, trong sprint, nhóm phát triển tập trung v�
   <td>Developer</td>
   <td>
     - Lập trình: code, dev, test<br>
-    - Viết báo cáo, cập nhật tài liệu<br>
+    - Viết báo cáo, cập nhật tài liệu
    </ul>
   </td>
 </tr>
@@ -32,7 +33,13 @@ Sprint có độ dài 4 tuần, trong sprint, nhóm phát triển tập trung v�
 </tr>
 </table>
 
-## Giai đoạn 1: Phát triển
+## Giai đoạn 1: Lập kế hoạch 
+
+* PMC thành lập nhóm phát triển
+* PMC quyết định các tính năng quan trọng cần tập trung trong sprint
+* PMC tạo các Issue mới, assign task cho các Developer
+
+## Giai đoạn 2: Phát triển
 
 Thời gian thực hiện: 3 tuần đầu (25 tháng trước - 15 tháng này)
 
@@ -42,19 +49,18 @@ Thời gian thực hiện: 3 tuần đầu (25 tháng trước - 15 tháng này)
 * Merge các Pull Request
 * Viết tài liệu
 
-## Giai đoạn 2: Kiểm thử và đánh giá 
+## Giai đoạn 3: Kiểm thử và đánh giá 
 
 Thời gian thực hiện: 15 - 20 hàng tháng
 
 * Reviewer chạy lại các thử nghiệm, kiểm tra chất lượng code
 * Xác nhận lại các kết quả mà nhóm phát triển đã thực hiện 
 
-## Giai đoạn 3: Cập nhật kết quả
+## Giai đoạn 4: Cập nhật kết quả
 
 Thời gian thực hiện: 21-24 hàng tháng
 
-* PMC thực hiện [Cập nhật trạng thái dự án](https://goo.gl/forms/7LkbwGVmAevm0cMF2)
-* PMC tạo các Issue mới, assign task cho các Developer
+* PMC thực hiện [Cập nhật kết quả sprint](https://goo.gl/forms/7LkbwGVmAevm0cMF2)
 
 ## THÀNH QUẢ
 
