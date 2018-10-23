@@ -42,6 +42,11 @@ Thời gian thực hiện: 3 tuần đầu (25 - 27 hàng tháng)
 * PMC quyết định các tính năng quan trọng cần tập trung trong sprint
 * PMC tạo các Issue mới, assign task cho các Developer
 
+:loudspeaker: &nbsp; 27 hàng tháng
+
+* Tạo một page mới trên wiki của project tương ứng với kế hoạch của Sprint
+* Chia sẻ `kế hoạch sprint` trên chat group với các thành viên khác của dự án 
+
 ## Giai đoạn 2: Phát triển
 
 Thời gian thực hiện: 3 tuần đầu (28 tháng trước - 15 tháng này)
@@ -64,6 +69,11 @@ Thời gian thực hiện: 15 - 20 hàng tháng
 Thời gian thực hiện: 21 - 24 hàng tháng
 
 * PMC thực hiện [Cập nhật kết quả sprint](https://goo.gl/forms/7LkbwGVmAevm0cMF2)
+
+:loudspeaker:  &nbsp; 24 hàng tháng
+
+* Cập nhật `kết quả của sprint` vào trang wiki của project tương ứng
+* Chia sẻ `kết quả của sprint` trên chat group với các thành viên khác của dự án 
 
 ## THÀNH QUẢ
 
