@@ -1,11 +1,3 @@
-## Câu hỏi 1: NLP - Xử lý ngôn ngữ tự nhiên là gì?
-
-Xử lý ngôn ngữ tự nhiên là một nhánh của trí tuệ nhân tạo. Tập trung vào các ứng dụng liên quan đến việc giao tiếp sử dụng ngôn ngữ của con người.
-
-Xử lý ngôn ngữ tự nhiên gồm có phân tích hình thái, phân tích cú pháp, phân tích ngữ nghĩa và cuối cùng là phân tích thực nghĩa.
-
-## Câu hỏi 2: Học NLP nên bắt đầu từ đâu?
-
 ### Nền tảng
 
 Đầu tiên, hãy trang bị cho mình một nền tảng thật tốt.
