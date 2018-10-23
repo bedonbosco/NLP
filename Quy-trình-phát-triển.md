@@ -83,7 +83,8 @@ Thời gian thực hiện: 21 - 23 hàng tháng
 
 :loudspeaker:  &nbsp; 24 hàng tháng
 
-`PMC Chair` cập nhật báo cáo trong tài liệu "Tình hình hoạt động" của dự án. Tóm tắt nội dung của tài liệu này trong một bài viết ngắn gọn trên fanpage của nhóm.
+* `PMC Chair` cập nhật báo cáo trong tài liệu "Tình hình hoạt động" của dự án
+* `PMC Chair` tóm tắt "Tình hình hoạt động" của dự án trong một bài viết ngắn gọn trên fanpage của nhóm.
 
 Nhóm phát triển chuẩn bị nhận like, comment, cảm ơn (và gạch đá) của người dùng.
 
