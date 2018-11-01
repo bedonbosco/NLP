@@ -22,7 +22,7 @@ Tiếp theo, hãy chọn cho mình một khóa học phù hợp với trình đ�
 * [Dan Jurafsky & Chris Manning: Natural Language Processing](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) - Khóa học cơ bản về NLP, được giới thiệu bởi hai chuyên gia hàng đầu là Dan Jurafsky và Chris Manning
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) - Khóa học nâng cao về NLP của trường Stanford, tập trung về các phương pháp xử lý ngôn ngữ dựa vào học sâu.
 * [CS224u: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) - Khoá học về chủ đề hiểu ngôn ngữ của trường Stanford, tập trung vào các bài toán ở mức cao trong xử lý ngôn ngữ như sentiment analysis, relation extraction, natural language inference, semantic parsing, grounded language understanding.
-* [CS224S: http://web.stanford.edu/class/cs224s/](http://web.stanford.edu/class/cs224s/) - Khóa học về xử lý ngôn ngữ tiếng nói của trường Stanford. 
+* [CS224S / LINGUIST285 - Spoken Language Processing](http://web.stanford.edu/class/cs224s/) - Khóa học về xử lý ngôn ngữ tiếng nói của trường Stanford. 
 
 ### Sách giáo khoa
 
