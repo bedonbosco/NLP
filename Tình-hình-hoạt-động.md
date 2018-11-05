@@ -11,7 +11,7 @@
 <tr>
   <td>slp3-vietnamese</td>
   <td>Release chương 2 và chương 3</td>
-  <td>Vũ Anh (dịch), Thu, Khánh, Huyên, Nhật Anh (reviewer)</td>
+  <td>Dịch: Vũ Anh<br>Reviewer: Thu, Khánh, Huyên, Nhật Anh</td>
 </tr>
 <tr>
   <td>chatbot</td>
