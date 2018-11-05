@@ -41,8 +41,8 @@
 * Đề xuất phương án hoạt động, các role
 * Underthesea được dùng để thử nghiệm trong báo cáo [
 Attentive Neural Network for Named Entity Recognition in Vietnamese](https://arxiv.org/pdf/1810.13097.pdf)
-* Dự án [ASR](https://github.com/undertheseanlp/automatic_speech_recognition) có dev mới Lê Phi Hùng
-* Dự án chatbot bắt đầu được khởi động lại với dev mới Hồ Thành Luân
+* Dự án `ASR` có dev mới Lê Phi Hùng
+* Dự án `chatbot` bắt đầu được khởi động lại với dev mới Hồ Thành Luân
 
 ### Nội dung offline
 
