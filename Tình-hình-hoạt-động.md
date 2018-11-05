@@ -25,7 +25,7 @@
 </tr>
 </table>
 
-Active project: asr
+**Active project**: automatic_speech_recognition
 
 # Tháng 10/2018
 
