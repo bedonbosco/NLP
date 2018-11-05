@@ -31,9 +31,9 @@
 
 ### Các dự án 
 
-* SLP-3 phát hành chương 1
-* classification dựng lại luồng
-* dự án word_tokenize, classification đã chuyển README sang tiếng Việt 
+* `slp3-vietnamese` phát hành chương 1
+* `classification` dựng lại luồng
+* `word_tokenize`, `classification` đã chuyển README sang tiếng Việt 
 
 ### Các hoạt động
 
