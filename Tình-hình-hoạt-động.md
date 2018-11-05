@@ -25,7 +25,7 @@
 </tr>
 </table>
 
-**Active project**: automatic_speech_recognition
+**Active projects**: `automatic_speech_recognition`
 
 # Tháng 10/2018
 
