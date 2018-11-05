@@ -27,6 +27,10 @@
 
 **Active projects**: `automatic_speech_recognition`
 
+### Các hoạt động
+
+* Chuyển quản lý dự án sang zube.io
+
 # Tháng 10/2018
 
 ### Các dự án 
