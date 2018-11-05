@@ -16,12 +16,12 @@
 <tr>
   <td>chatbot</td>
   <td>Dựng lại bot HoaiAn sử dụng Chatscript</td>
-  <td>Vũ Anh (PMC, Dev), Luân (dev), Hậu (reviewer)</td>
+  <td>PMC: Vũ Anh<br>Dev: Vũ Anh, Luân<br>Reviewer: Hậu</td>
 </tr>
 <tr>
   <td>classification</td>
   <td>Lặp lại thử nghiệm VNTC</td>
-  <td>Vũ Anh (PMC), Nhật Anh (dev), Khánh (reviewer)</td>
+  <td>PMC: Vũ Anh<br>Dev: Nhật Anh<br>Reviewer: Khánh</td>
 </tr>
 </table>
 
