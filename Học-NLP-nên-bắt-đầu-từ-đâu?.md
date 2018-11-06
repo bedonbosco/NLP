@@ -1,12 +1,29 @@
+### Mục lục
+
+* [Nền tảng](#nền-tảng)
+* [Các khoá học](#các-khóa-học)
+* [Sách giáo khoa](#sách-giáo-khoa)
+* [Các trang web hữu ích](#các-trang-web-hữu-ích)
+* [Phần mềm](#phần-mềm)
+* [Thông tin xử lý tiếng Việt](#thông-tin-xử-lý-tiếng-việt)
+* [Thực hành với các dự án của underthesea](#thực-hành-với-các-dự-án-của-underthesea)
+* [Phụ lục A - Các tài liệu tiếng Việt](#phụ-lục-a---các-tài-liệu-tiếng-việt)
+
 ### Nền tảng
 
 Đầu tiên, hãy trang bị cho mình một nền tảng thật tốt.
 
 Đừng choáng ngợp bởi danh sách này! **Bạn vẫn có thể xây dựng ứng dụng NLP mà không cần phải là một siêu nhân về toán học hay lập trình**. Nhưng hãy dành thời gian tích lũy dần dần các kiến thức này theo năm tháng, chúng sẽ hữu ích cho quá trình phát triển của bạn sau này. 
 
-* Toán học: Xác suất thống kê ([CS109](http://web.stanford.edu/class/cs109/)), Giải tích ([MIT 18.01](https://www.youtube.com/watch?v=jbIQW0gkgxo&list=PLE2215608E2574180), [MIT 18.02](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)), Đại số ([MIT 18.06 Linear Algebra](https://www.youtube.com/watch?list=PLE7DDD91010BC51F8&v=ZK3O402wf1c))
-* Lập trình cơ bản: Python ([Python for Everybody](https://www.coursera.org/specializations/python)) hoặc Java ([Complete Java Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/))
-* Học máy cơ bản - Machine Learning ([khóa học Machine Learning của thầy Andrew Ng](https://www.coursera.org/learn/machine-learning))
+* Toán học
+  * Xác suất thống kê: [CS109](http://web.stanford.edu/class/cs109/)
+  * Giải tích: [MIT 18.01](https://www.youtube.com/watch?v=jbIQW0gkgxo&list=PLE2215608E2574180), [MIT 18.02](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
+  * Đại số: [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?list=PLE7DDD91010BC51F8&v=ZK3O402wf1c)
+* Lập trình cơ bản:
+  * Python: [Python for Everybody](https://www.coursera.org/specializations/python)
+  * Java (tùy chọn): [Complete Java Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/)
+* Học máy cơ bản - Machine Learning
+  * Khóa học Machine Learning (Andrew Ng): [coursera](https://www.coursera.org/learn/machine-learning)
 * Học sâu - Deep Learning
   * Deep Learning Book: [sách](https://github.com/janishar/mit-deep-learning-book-pdf), [video](https://www.youtube.com/watch?v=vi7lACKOUao&index=1&list=PLqIdRQ-0JBALEr7MtuS6E39T-28NFX1Ia)
   * Khóa học Deep Learning (Andrew Ng): [coursera](https://www.deeplearning.ai/), [CS230](http://cs230.stanford.edu/syllabus.html)
