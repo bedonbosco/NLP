@@ -1,3 +1,5 @@
+Trang này tổng hợp các tài liệu và giáo trình hữu ích cho việc tìm hiểu về xử lý ngôn ngữ tự nhiên. Rất hi vọng những thông tin này sẽ hữu ích cho bạn.
+
 ### Mục lục
 
 * [Nền tảng](#nền-tảng)
