@@ -10,7 +10,7 @@
 </tr>
 <tr>
   <td>underthesea 1.1.9 ☆</td>
-  <td>cải thiện tốc độ word_tokenize, pos_tag, ner</td>
+  <td>Release v1.1.9:<br>Cải thiện tốc độ word_tokenize, pos_tag, ner</td>
   <td>PMC: Vũ Anh<br>Reviewer: Nhật Anh</td>
 </tr>
 <tr>
