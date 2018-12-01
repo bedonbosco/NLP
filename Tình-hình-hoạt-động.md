@@ -60,16 +60,6 @@
 </tr>
 </table>
 
-### Các hoạt động
-
-* Chuyển quản lý dự án sang zube.io
-
-### Nội dung offline
-
-Dự kiến:
-
-* Xây dựng code of conduct (cách tổ chức thảo luận trên Issue, estimate deadline)
-
 # Tháng 10/2018
 
 ### Các dự án 
