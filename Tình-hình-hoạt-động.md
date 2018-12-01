@@ -9,17 +9,17 @@
   <td>Thành viên</td>
 </tr>
 <tr>
-  <td>slp3-vietnamese</td>
+  <td>slp3-vietnamese ☆</td>
   <td>Release chương 2 và chương 3</td>
   <td>Dịch: Vũ Anh<br>Reviewer: Thu, Khánh, Huyên, Nhật Anh</td>
 </tr>
 <tr>
-  <td>chatbot</td>
+  <td>chatbot ☆</td>
   <td>Dựng lại bot HoaiAn sử dụng Chatscript</td>
   <td>PMC: Vũ Anh<br>Dev: Vũ Anh, Luân<br>Reviewer: Hậu</td>
 </tr>
 <tr>
-  <td>classification</td>
+  <td>classification ☆</td>
   <td>Lặp lại thử nghiệm VNTC</td>
   <td>PMC: Vũ Anh<br>Dev: Nhật Anh<br>Reviewer: Khánh</td>
 </tr>
@@ -35,26 +35,30 @@
   <td>Thành viên</td>
 </tr>
 <tr>
-  <td>slp3-vietnamese</td>
+  <td>slp3-vietnamese ☆</td>
   <td>Release chương 2 và chương 3</td>
   <td>Drop</td>
   <td>Dịch: Vũ Anh<br>Reviewer: Thu, Khánh, Huyên, Nhật Anh</td>
 </tr>
 <tr>
-  <td>chatbot</td>
+  <td>chatbot ☆</td>
   <td>Dựng lại bot HoaiAn sử dụng Chatscript</td>
   <td>Release chatbot với demo</td>
   <td>PMC: Vũ Anh<br>Dev: Vũ Anh, Luân<br>Reviewer: Hậu</td>
 </tr>
 <tr>
-  <td>classification</td>
+  <td>classification ☆</td>
   <td>Lặp lại thử nghiệm VNTC</td>
   <td>92.8%</td>
   <td>PMC: Vũ Anh<br>Dev: Nhật Anh<br>Reviewer: Khánh</td>
 </tr>
+<tr>
+  <td>automatic_speech_recognition</td>
+  <td>Hoàn thành luồng LDA_MLTT</td>
+  <td>79.80% WER (+2.23%)</td>
+  <td>PMC: Vũ Anh<br>Dev: Hùng<br>Reviewer: Nhật Anh</td>
+</tr>
 </table>
-
-**Active projects**: `automatic_speech_recognition`
 
 ### Các hoạt động
 
