@@ -1,4 +1,4 @@
-# Tháng 11/2018
+# Tháng 12/2018
 
 ### Kế hoạch
 
@@ -9,19 +9,34 @@
   <td>Thành viên</td>
 </tr>
 <tr>
-  <td>slp3-vietnamese ☆</td>
-  <td>Release chương 2 và chương 3</td>
-  <td>Dịch: Vũ Anh<br>Reviewer: Thu, Khánh, Huyên, Nhật Anh</td>
+  <td>underthesea 1.1.9 ☆</td>
+  <td>cải thiện tốc độ word_tokenize, pos_tag, ner</td>
+  <td>Vũ Anh</td>
 </tr>
 <tr>
-  <td>chatbot ☆</td>
-  <td>Dựng lại bot HoaiAn sử dụng Chatscript</td>
-  <td>PMC: Vũ Anh<br>Dev: Vũ Anh, Luân<br>Reviewer: Hậu</td>
+  <td>ner ☆</td>
+  <td>dựng lại luồng VLSP 2016, VLSP 2018</td>
+  <td>Vũ Anh</td>
 </tr>
 <tr>
-  <td>classification ☆</td>
-  <td>Lặp lại thử nghiệm VNTC</td>
+  <td>chatbot</td>
+  <td>cập nhật các kịch bản</td>
+  <td>Code: Vũ Anh<br>Kịch bản: Hậu, Huyên</td>
+</tr>
+<tr>
+  <td>text_classification</td>
+  <td>Language model, tách từ</td>
   <td>PMC: Vũ Anh<br>Dev: Nhật Anh<br>Reviewer: Khánh</td>
+</tr>
+<tr>
+  <td>automatic_speech_recognition</td>
+  <td>Dữ liệu Open FPT 30 hours</td>
+  <td>PMC: Vũ Anh<br>Dev: Hùng<br>Reviewer: Nhật Anh</td>
+</tr>
+<tr>
+  <td>word_tokenize</td>
+  <td>Dựng lại luồng VLSP 2013</td>
+  <td>PMC: Vũ Anh<br>Dev: Dũng<br>Reviewer: Nhật Anh</td>
 </tr>
 </table>
 
