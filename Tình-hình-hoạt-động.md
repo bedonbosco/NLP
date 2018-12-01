@@ -11,12 +11,12 @@
 <tr>
   <td>underthesea 1.1.9 ☆</td>
   <td>cải thiện tốc độ word_tokenize, pos_tag, ner</td>
-  <td>Vũ Anh</td>
+  <td>PMC: Vũ Anh<br>Reviewer: Nhật Anh</td>
 </tr>
 <tr>
   <td>ner ☆</td>
   <td>dựng lại luồng VLSP 2016, VLSP 2018</td>
-  <td>Vũ Anh</td>
+  <td>PMC: Vũ Anh<br>Reviewer: Nhật Anh</td>
 </tr>
 <tr>
   <td>chatbot</td>
