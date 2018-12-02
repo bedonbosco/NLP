@@ -17,17 +17,18 @@ Mục tiêu phát triển gồm có:
 
 ## Giai đoạn 1: Lập kế hoạch 
 
-Thời gian thực hiện: 3 tuần đầu (25 - 27 hàng tháng)
+Thời gian thực hiện: 5 ngày đầu tháng (1 - 5 hàng tháng)
 
-* PMC tập hợp nhóm phát triển
+* Nhóm underthesea họp Offline, cùng thảo luận để xác định **02** top level projects, các active projects.
+
+Trong mỗi dự án cần xác định
+
+* Các thành viên
   * Nhóm phát triển cần ít nhất 3 người (1 PMC, 1 dev, 1 reviewer)
   * Ngoài ra có thể có 1-2 expert
-* Các developer
-  * Tạo issue mới với các tính năng dự định phát triển, hoặc lỗi cần cải thiện 
-  * Comment vào những issue cũ nếu muốn phát triển trong sprint này
-* PMC quyết định các tính năng quan trọng cần tập trung trong sprint và assign các Issue cho các Developer
+* Kế hoạch phát triển 
 
-:loudspeaker: &nbsp; 27 hàng tháng
+:loudspeaker: &nbsp; 05 hàng tháng
 
 * `PMC` tạo một page mới trên wiki của project tương ứng với kế hoạch của Sprint
 * `PMC` chia sẻ `kế hoạch sprint` trên chat group với các thành viên khác của dự án 
