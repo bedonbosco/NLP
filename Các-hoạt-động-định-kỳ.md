@@ -7,6 +7,10 @@ Tổng kết dự án mỗi tháng
   * Giới thiệu các cập nhật mới của các dự án hiện tại
   * Đưa ra số lượng thống kê về tăng trưởng Stars/Issues/Pull requests trên github
 
+**Danh sách**
+
+* [Tổng kết tháng 10/2018](https://www.facebook.com/notes/underthesea/undertheseaupdate-t%E1%BB%95ng-k%E1%BA%BFt-th%C3%A1ng-10/259844121388888/)
+
 ### Offline
 
 Diễn ra mỗi tháng một lần
