@@ -1,6 +1,6 @@
-Các dự án có underthesea được phát triển theo từng sprint có độ dài 4 tuần. Trong mỗi sprint, nhóm phát triển tập trung vào việc nghiên cứu và phát triển các module trong xử lý ngôn ngữ tự nhiên tiếng Việt. Kết quả mỗi sprint là những kết quả thử nghiệm với hiệu năng tốt hơn trong mỗi bài toán. Khi hoàn thiện có thể tích hợp vào module underthesea.
+Các dự án có underthesea được phát triển theo từng tháng. Trong mỗi tháng, nhóm tập trung vào việc nghiên cứu và phát triển các module trong xử lý ngôn ngữ tự nhiên tiếng Việt. Kết quả mỗi tháng là những kết quả thử nghiệm với hiệu năng tốt hơn trong mỗi bài toán. Khi hoàn thiện có thể tích hợp vào module underthesea.
 
-## Vai trò và công việc trong mỗi sprint
+## Vai trò và công việc trong mỗi tháng
 
 <table>
 <tr>
