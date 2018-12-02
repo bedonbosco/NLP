@@ -1,3 +1,10 @@
+Quy trình phát triển của nhóm underthesea
+
+| Người viết        | Vũ Anh     |
+|-------------------|------------|
+| Phiên bản         | 2.0.0      |
+| Cập nhật lần cuối | 02/12/2018 |
+
 Các dự án có underthesea được phát triển theo từng tháng. Trong mỗi tháng, nhóm tập trung vào việc nghiên cứu và phát triển các module trong xử lý ngôn ngữ tự nhiên tiếng Việt. Kết quả mỗi tháng là những kết quả thử nghiệm với hiệu năng tốt hơn trong mỗi bài toán. Khi hoàn thiện có thể tích hợp vào module underthesea.
 
 ## Vai trò và công việc trong mỗi tháng
