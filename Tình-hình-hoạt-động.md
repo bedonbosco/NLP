@@ -21,7 +21,7 @@
 <tr>
   <td>chatbot</td>
   <td>cập nhật các kịch bản</td>
-  <td>Code: Vũ Anh<br>Kịch bản: Hậu, Huyên</td>
+  <td>PMC: Vũ Anh<br>Kịch bản: Hậu, Huyên</td>
 </tr>
 <tr>
   <td>text_classification</td>
