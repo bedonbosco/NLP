@@ -1,4 +1,4 @@
-* [Về chúng tôi](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
+* [Giới thiệu](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
 * [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên)
 * [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
 * [Hướng dẫn đóng góp](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-đóng-góp)
