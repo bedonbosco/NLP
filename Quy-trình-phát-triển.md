@@ -7,14 +7,14 @@ Quy trình phát triển của nhóm underthesea
 
 Các dự án có underthesea được phát triển theo từng tháng. Trong mỗi tháng, nhóm tập trung vào việc nghiên cứu và phát triển các module trong xử lý ngôn ngữ tự nhiên tiếng Việt.
 
-Kết quả mỗi tháng là:
+Mục tiêu phát triển gồm có:
 
 * Cải thiện độ chính xác và tốc độ của module hiện có.
   * Cố gắng đạt được những kết quả tốt nhất (SOTA) trong mỗi module
 * Báo cáo kỹ thuật mô tả chi tiết các mô hình sử dụng trong các thử nghiệm
 * Tích hợp module vào underthesea
 
-## Vai trò và công việc trong mỗi tháng
+## Vai trò và nhiệm vụ của mỗi thành viên
 
 <table>
 <tr>
