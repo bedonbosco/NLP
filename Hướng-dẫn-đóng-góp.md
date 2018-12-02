@@ -47,6 +47,13 @@ Developer được ghi nhận những cống hiến của mình khi có một `P
 
 ### Committer
 
+Yêu cầu:
+
+* Có khả năng lập trình tốt
+* Có kiến thức về NLP
+* Có thời gian để đóng góp cho dự án
+* Có thái độ hợp tác tốt với các developer khác trong dự án
+
 `Committer` là những `developer` tích cực, được đề cử và bầu chọn bởi các `PMC` và những `committer` khác trong dự án.
 Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat trên facebook để thảo luận riêng với các `committer` khác về kế hoạch và hướng đi cho việc phát triển dự án.
 `Committer` cũng được quyền đề cử và bầu chọn những `committer` mới.
