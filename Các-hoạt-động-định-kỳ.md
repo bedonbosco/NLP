@@ -6,7 +6,21 @@ Tổng kết dự án mỗi tháng
   * Giới thiệu các dự án mới
   * Giới thiệu các cập nhật mới của các dự án hiện tại
   * Đưa ra số lượng thống kê về tăng trưởng Stars/Issues/Pull requests trên github
-* Offline các thành viên (tùy chọn)
+
+### Offline
+
+Diễn ra mỗi tháng một lần
+
+* Offline giữa các thành viên underthesea
+* Trình bày về tình hình hoạt động tháng trước và kế hoạch phát triển tháng tiếp theo
+* Các ý tưởng phát triển underthesea 
+* Vote các vấn đề liên quan
+* Chia sẻ kỹ thuật giữa các thành viên
+
+**Danh sách Offline**
+
+* Offline tháng 11/2018
+* Offline tháng 10/2018
 
 ### Release
 
