@@ -17,7 +17,7 @@ Mục tiêu phát triển gồm có:
 
 ## Giai đoạn 1: Lập kế hoạch 
 
-Thời gian thực hiện: 5 ngày đầu tháng (1 - 5 hàng tháng)
+Thời gian thực hiện: 5 ngày đầu tháng (01 - 05 hàng tháng)
 
 * Nhóm underthesea họp Offline, cùng thảo luận để xác định **02** top level projects, các active projects.
 
@@ -27,6 +27,8 @@ Trong mỗi dự án cần xác định
   * Nhóm phát triển cần ít nhất 3 người (1 PMC, 1 dev, 1 reviewer)
   * Ngoài ra có thể có 1-2 expert
 * Kế hoạch phát triển 
+  * Kế hoạch phát triển cụ thể cho từng dự án
+  * Phân công công việc cho từng thành viên
 
 :loudspeaker: &nbsp; 05 hàng tháng
 
@@ -38,7 +40,9 @@ Trong mỗi dự án cần xác định
 
 ## Giai đoạn 2: Phát triển
 
-Thời gian thực hiện: 3 tuần đầu (28 tháng trước - 15 tháng này)
+2.1 Phát triển
+
+Thời gian thực hiện: 3 tuần đầu (5 tháng trước - 25 tháng này)
 
 * Phát triển các tính năng
 * Sửa các lỗi
@@ -46,30 +50,23 @@ Thời gian thực hiện: 3 tuần đầu (28 tháng trước - 15 tháng này)
 * Merge các Pull Request
 * Viết tài liệu
 
-## Giai đoạn 3: Kiểm thử và đánh giá 
+2.2 Kiểm thử và đánh giá 
 
-Thời gian thực hiện: 16 - 20 hàng tháng
+Thời gian thực hiện: 25 - 28 hàng tháng
 
 * Reviewer chạy lại các thử nghiệm, kiểm tra chất lượng code
 * Xác nhận lại các kết quả mà nhóm phát triển đã thực hiện 
 
-## Giai đoạn 4: Cập nhật kết quả
+2.3 Tài liệu
 
-Thời gian thực hiện: 21 - 23 hàng tháng
+Thời gian thực hiện: từ ngày 29
 
 * PMC thực hiện [Cập nhật kết quả sprint](https://goo.gl/forms/7LkbwGVmAevm0cMF2)
 
-:loudspeaker:  &nbsp; 23 hàng tháng
+:loudspeaker:  &nbsp; 29 hàng tháng
 
 * Cập nhật `kết quả của sprint` vào trang wiki của project tương ứng
 * Chia sẻ `kết quả của sprint` trên chat group với các thành viên khác của dự án 
-
-## NGHỈ NGƠI
-
-:loudspeaker:  &nbsp; 24 hàng tháng
-
-* `PMC Chair` cập nhật báo cáo trong tài liệu "Tình hình hoạt động" của dự án
-* `PMC Chair` tóm tắt "Tình hình hoạt động" của dự án trong một bài viết ngắn gọn trên fanpage của nhóm.
 
 Nhóm phát triển chuẩn bị nhận like, comment, cảm ơn (và gạch đá) của người dùng.
 
