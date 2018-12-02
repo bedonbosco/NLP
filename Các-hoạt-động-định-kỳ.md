@@ -65,4 +65,4 @@ Tổ chức Underthesea Meetup 6 tháng một lần
 
 **Danh sách Meetup**
 
-* [Meetup 01 (tháng 10 năm 2018)](https://www.facebook.com/undertheseanlp/posts/254670031906297?__xts__[0]=68.ARDpFvMyJZnmPa9mxgs9TBPYzczccdlBTnmRsXnCFpzBw4a5sCQiE6UB6GbB5VoGICBcCtCpG1RQN8mqPadpkojHuh4OorR0B-0TgUGdTVp8dKjur0ra7peH2PTG5nR1hOtc3R_eAeDSd-WC99yxe8u9MVGpFE97f2gQs-WE384YcGj0MjLVhlWf1AkiW7c3AOLv_a7TiR4bvCS_kEC-JA&__tn__=-R)
+* [Meetup lần 01 (tháng 10 năm 2018)](https://www.facebook.com/undertheseanlp/posts/254670031906297?__xts__[0]=68.ARDpFvMyJZnmPa9mxgs9TBPYzczccdlBTnmRsXnCFpzBw4a5sCQiE6UB6GbB5VoGICBcCtCpG1RQN8mqPadpkojHuh4OorR0B-0TgUGdTVp8dKjur0ra7peH2PTG5nR1hOtc3R_eAeDSd-WC99yxe8u9MVGpFE97f2gQs-WE384YcGj0MjLVhlWf1AkiW7c3AOLv_a7TiR4bvCS_kEC-JA&__tn__=-R)
