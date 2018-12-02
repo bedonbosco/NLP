@@ -92,19 +92,3 @@ Attentive Neural Network for Named Entity Recognition in Vietnamese](https://arx
 * Dự án `ASR` có dev mới Lê Phi Hùng
 * Dự án `chatbot` bắt đầu được khởi động lại với dev mới Hồ Thành Luân
 
-### Nội dung offline
-
-* Buổi Offline đầu tiên của underthesea, gồm 5 members Vũ Anh, Khánh, Thu, Hậu, Huyên
-* Chia sẻ về quá trình hình thành và phát triển underthesea
-* Chia sẻ về vị trí của underthesea hiện tại
-* Báo cáo tình hình hoạt động tháng 10
-* Quyết định về kế hoạch phát triển tháng 11
-
-### Đánh giá
-
-* Underthesea vẫn nhận được sự quan tâm và sử dụng của sinh viên, nghiên cứu sinh và doanh nghiệp
-* Underthesea vẫn chưa cập nhật được các kết quả nghiên cứu mới nhất
-* Nhóm cần tập trung vào ít dự án hơn so với nguồn lực hiện tại
-* Hiện tại, chưa có hướng phát triển về developers
-* Cần tổng kết lại các trường hợp chưa hợp tác được với các bạn contributors trong quá khứ
-
