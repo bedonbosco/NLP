@@ -24,17 +24,17 @@ Underthesea hoan nghênh các đóng góp từ cộng đồng với các vai tr�
 
 * `Underthesea Member`
 
-![](https://i.imgur.com/hMcWUQQ.png)
+![](https://i.imgur.com/mKcCnwY.png)
 
-### User 
+### Users
 
 `User` (người dùng) đóng góp cho underthesea bằng cách sử dụng phần mềm, thông báo các lỗi trong quá trình sử dụng hoặc đề xuất các tính năng mong muốn cho đội ngũ phát triển tại mục [`[Issue]`](https://github.com/undertheseanlp/underthesea/issues) của dự án underthesea hoặc từng các dự án con.
 
 Nếu bạn đang quan tâm đến các dự án của underthesea, mời bạn xem danh sách chi tiết các dự án của underthesea tại trang [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
 
-### Developer/Contributor 
+### Contributors
 
-`Developer` (hay `Contributor`) là những người tham gia đóng góp vào ý tưởng, mã nguồn hoặc tài liệu trong một dự án của underthesea.
+`Contributor` là những người tham gia đóng góp vào ý tưởng, mã nguồn hoặc tài liệu trong một dự án của underthesea.
 
 Các đóng góp bao gồm:
 
@@ -45,7 +45,7 @@ Các đóng góp bao gồm:
 
 Developer được ghi nhận những cống hiến của mình khi có một `Pull requests` được chấp nhận bởi `PMC`. Khi đó, tên và email của developer sẽ có trong mục *"Nhóm tác giả"* của dự án.
 
-### Committer
+### Committers
 
 Yêu cầu:
 
@@ -54,7 +54,7 @@ Yêu cầu:
 * Có thời gian để đóng góp cho dự án
 * Có thái độ hợp tác tốt với các developer khác trong dự án
 
-`Committer` là những `developer` tích cực, được đề cử và bầu chọn bởi các `PMC` và những `committer` khác trong dự án.
+`Committer` là những `contributor` tích cực, được đề cử và bầu chọn bởi các `PMC` và những `committer` khác trong dự án.
 Sau khi đã được bầu cử, `committer` được tham gia vào nhóm chat trên facebook để thảo luận riêng với các `committer` khác về kế hoạch và hướng đi cho việc phát triển dự án.
 `Committer` cũng được quyền đề cử và bầu chọn những `committer` mới.
 
