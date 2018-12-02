@@ -14,38 +14,6 @@ Mục tiêu phát triển gồm có:
 * Báo cáo kỹ thuật mô tả chi tiết các mô hình sử dụng trong các thử nghiệm
 * Tích hợp module vào underthesea
 
-## Vai trò và nhiệm vụ của mỗi thành viên
-
-<table>
-<tr>
-  <th>Vai trò</th>
-  <th>Công việc</th>
-</tr>
-<tr>
-  <td>PMC</td>
-  <td>
-    - Lập nhóm phát triển <br>
-    - Quyết định các tính năng quan trọng cần tập trung trong sprint<br>
-    - Merge PR
-   </ul>
-  </td>
-</tr>
-<tr>
-  <td>Developer</td>
-  <td>
-    - Lập trình: code, dev, test<br>
-    - Viết báo cáo, cập nhật tài liệu
-   </ul>
-  </td>
-</tr>
-<tr>
-  <td>Reviewer</td>
-  <td>
-    - Kiểm thử và đánh giá mã nguồn, các tài liệu (README.md) và báo cáo kỹ thuật
-   </ul>
-  </td>
-</tr>
-</table>
 
 ## Giai đoạn 1: Lập kế hoạch 
 
@@ -104,4 +72,37 @@ Thời gian thực hiện: 21 - 23 hàng tháng
 
 Nhóm phát triển chuẩn bị nhận like, comment, cảm ơn (và gạch đá) của người dùng.
 
-**Happy Coding!**
+## Vai trò và nhiệm vụ của mỗi thành viên
+
+<table>
+<tr>
+  <th>Vai trò</th>
+  <th>Công việc</th>
+</tr>
+<tr>
+  <td>PMC</td>
+  <td>
+    - Lập nhóm phát triển <br>
+    - Quyết định các tính năng quan trọng cần tập trung trong sprint<br>
+    - Merge PR
+   </ul>
+  </td>
+</tr>
+<tr>
+  <td>Developer</td>
+  <td>
+    - Lập trình: code, dev, test<br>
+    - Viết báo cáo, cập nhật tài liệu
+   </ul>
+  </td>
+</tr>
+<tr>
+  <td>Reviewer</td>
+  <td>
+    - Kiểm thử và đánh giá mã nguồn, các tài liệu (README.md) và báo cáo kỹ thuật
+   </ul>
+  </td>
+</tr>
+</table>
+
+**Happy Contributing!**
