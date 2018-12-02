@@ -2,8 +2,8 @@ Tài liệu giới thiệu về nhóm underthesea, các vai trò và hướng d�
 
 | Người viết        | Vũ Anh     |
 |-------------------|------------|
-| Phiên bản         | 1.0.2      |
-| Cập nhật lần cuối | 18/10/2018 |
+| Phiên bản         | 1.0.3      |
+| Cập nhật lần cuối | 02/12/2018 |
 
 ## Giới thiệu về underthesea
 
