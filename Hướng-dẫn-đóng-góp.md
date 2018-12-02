@@ -86,4 +86,4 @@ Tham gia vào nhóm, `Underthesea Member` nhận được nhiều lợi ích th�
 
 ### Tham khảo
 
-Tài liệu này được tham khảo từ cách tổ chức của Apache Software Foundation. Thông tin chi tiết xem tại http://www.apache.org/foundation/how-it-works.html#roles.
+Tài liệu này được tham khảo từ cách tổ chức của Apache Software Foundation. Thông tin chi tiết xem tại [http://www.apache.org/foundation/how-it-works.html#roles](http://www.apache.org/foundation/how-it-works.html#roles) và [https://www.apache.org/foundation/governance/orgchart](https://www.apache.org/foundation/governance/orgchart)
