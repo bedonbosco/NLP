@@ -51,7 +51,7 @@ Hãy chắc chắn bạn biết giá trị của các biến
 
 Python + Anaconda: Bộ đôi hoàn hảo
 
-Hãy chắc chắn là bạn sử dụng python 3.6.
+Hãy chắc chắn là bạn biết lập trình python, và sử dụng python 3.6+
 
 * Kiểu dữ liệu `number`, `string`, `dict`, `list`, `set`
 * Sử dụng `if`, `for`, `while`, `break`, `continue`, `yield` (generator)
