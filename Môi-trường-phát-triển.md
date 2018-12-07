@@ -43,7 +43,9 @@ Hãy chắc chắn bạn biết ý nghĩa của các đường dẫn
 * `/etc/hosts`
 * `/usr/share/`
 
+Hãy chắc chắn bạn biết giá trị của các biến
 
+* `PATH`, `LD_PATH`
 
 ## Môi trường phát triển
 
@@ -57,3 +59,6 @@ Hãy chắc chắn là bạn sử dụng python 3.6.
 * Generator
 
 Và biết các tạo, activate, cài đặt các gói qua pip và conda.
+
+* `pip install`
+* `conda install`, `source activate`, `deactivate`
