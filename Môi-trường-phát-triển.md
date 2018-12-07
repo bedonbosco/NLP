@@ -53,12 +53,12 @@ Python + Anaconda: Bộ đôi hoàn hảo
 
 Hãy chắc chắn là bạn sử dụng python 3.6.
 
-* Sử dụng `if`, `for`, `while`, `break`
+* Kiểu dữ liệu `number`, `string`, `dict`, `list`, `set`
+* Sử dụng `if`, `for`, `while`, `break`, `continue`, `yield` (generator)
 * Cách import một module `from`, `import`
-* Cách viết một hàm `def`
-* Cách tạo một class `class`
-* Generator `yield`
-* Cách lấy tham số `sys.args`
+* Cách viết một hàm `def`, một class `class`
+* Cách làm việc với file, folder `listdir`, `open`, `rm`, `shutil.rmtree`
+* Cách lấy tham số `sys.args` 
 
 Và biết các tạo, activate môi trường, cài đặt các gói qua pip và conda.
 
