@@ -49,4 +49,11 @@ Hãy chắc chắn bạn biết ý nghĩa của các đường dẫn
 
 Python + Anaconda: Bộ đôi hoàn hảo
 
-Hãy chắc chắn là bạn sử dụng python 3.6. Và biết các tạo, activate, cài đặt các gói qua pip và conda.
+Hãy chắc chắn là bạn sử dụng python 3.6.
+
+* Sử dụng `if`, `for`, `while`, `break`
+* Cách import một module
+* Cách tạo một class
+* Generator
+
+Và biết các tạo, activate, cài đặt các gói qua pip và conda.
