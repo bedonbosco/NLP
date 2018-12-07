@@ -32,8 +32,17 @@ Ubuntu 16.04 vẫn là một sự lựa chọn hoàn hảo tại thời điểm 
 Hãy chắc chắn bạn biết sử dụng
 
 * `ls`, `cd`, `cat`, `pwd`, `rm`
-* `htop`
+* `du`, `chmod`, `chown`
+* `top`, `htop`
 * `git`
+
+Hãy chắc chắn bạn biết ý nghĩa của các đường dẫn
+
+* `/home/` `var`
+* `/etc/hosts`
+* `/usr/share`
+
+
 
 ## Môi trường phát triển
 
