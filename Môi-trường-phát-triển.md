@@ -54,11 +54,13 @@ Python + Anaconda: Bộ đôi hoàn hảo
 Hãy chắc chắn là bạn sử dụng python 3.6.
 
 * Sử dụng `if`, `for`, `while`, `break`
-* Cách import một module
-* Cách tạo một class
-* Generator
+* Cách import một module `from`, `import`
+* Cách viết một hàm `def`
+* Cách tạo một class `class`
+* Generator `yield`
+* Cách lấy tham số `sys.args`
 
-Và biết các tạo, activate, cài đặt các gói qua pip và conda.
+Và biết các tạo, activate môi trường, cài đặt các gói qua pip và conda.
 
-* `pip install`
+* `pip install`, `python setup.py install`
 * `conda install`, `source activate`, `deactivate`
