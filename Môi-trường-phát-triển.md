@@ -29,7 +29,7 @@ Việc sắm ít nhất một GPU là một điều cần thiết (với các m�
 
 Ubuntu 16.04 vẫn là một sự lựa chọn hoàn hảo tại thời điểm viết bài.
 
-Hãy chắc chắn bạn biết sử dụng `ls`, `cat`, `git`
+Hãy chắc chắn bạn biết sử dụng `ls`, `cd`, `cat`, `git`, `htop`
 
 ## Môi trường phát triển
 
