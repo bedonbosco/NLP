@@ -21,7 +21,7 @@ Ram tối thiểu 8 GB giúp bạn có thể chạy hệ điều hành, IDE mư�
 
 Ổ cứng SDD giúp quá trình đọc, ghi dữ liệu nhanh hơn, ảnh hưởng đến quá trình tiền xử lý dữ liệu, save và load mô hình.
 
-Việc sắm ít nhất một GPU là một điều cần thiết (với các mô hình ensemble như XGBoost, Catboost), và là một điều bắt buộc khi bạn phát triển một chương trình deep learning. Tất nhiên, bạn có thể không cần GPU, nếu bạn sẵn sàng chờ chương trình chạy 3 tiếng thay vì 5 phút!
+Việc sắm ít nhất một GPU là một điều cần thiết (với các mô hình ensemble như XGBoost, Catboost), và là một **điều bắt buộc** khi bạn phát triển một chương trình deep learning. Tất nhiên, bạn có thể không cần GPU, nếu bạn sẵn sàng chờ chương trình chạy 3 tiếng thay vì 5 phút!
 
 ## Hệ điều hành
 
