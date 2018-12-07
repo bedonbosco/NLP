@@ -38,9 +38,9 @@ Hãy chắc chắn bạn biết sử dụng
 
 Hãy chắc chắn bạn biết ý nghĩa của các đường dẫn
 
-* `/home/` `var`
+* `/home/`, `/var`
 * `/etc/hosts`
-* `/usr/share`
+* `/usr/share/`
 
 
 
