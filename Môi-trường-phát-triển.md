@@ -15,7 +15,7 @@ Cấu hình đề nghị
 * Ổ cứng: SDD 256 GB
 * GPU
 
-CPU tốt giúp chương trình của bạn load nhanh, quá trình huấn luyện và tiền xử lý dữ liệu của bạn cũng diễn ra nhanh hơn.
+CPU tốt giúp chương trình của bạn load nhanh, tăng tốc quá trình tiền xử lý dữ liệu và huấn luyện mô hình.
 
 Ram tối thiểu 8 GB giúp bạn có thể chạy hệ điều hành, IDE mượt mà. Ram càng cao, bạn càng đỡ gặp vấn đề khi đối mặt với các bộ dữ liệu "to"
 
