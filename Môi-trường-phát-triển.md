@@ -34,6 +34,7 @@ Hãy chắc chắn bạn biết sử dụng
 * `ls`, `cd`, `cat`, `pwd`, `rm`
 * `du`, `chmod`, `chown`
 * `top`, `htop`
+* `gcc`, `g++`, `make`
 * `git`
 
 Hãy chắc chắn bạn biết ý nghĩa của các đường dẫn
