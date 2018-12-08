@@ -32,10 +32,12 @@ Ubuntu 16.04 vẫn là một sự lựa chọn hoàn hảo tại thời điểm 
 Hãy chắc chắn bạn biết sử dụng
 
 * `ls`, `cd`, `cat`, `pwd`, `rm`
-* `du`, `chmod`, `chown`
+* `du`, `df`, `lscpu`, `free`, `nvidia-smi`
+* `chmod`, `chown`
 * `top`, `htop`
 * `gcc`, `g++`, `make`
 * `git`
+* `which python`
 
 Hãy chắc chắn bạn biết ý nghĩa của các đường dẫn
 
