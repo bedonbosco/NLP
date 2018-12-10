@@ -36,7 +36,7 @@ Hãy chắc chắn bạn biết sử dụng
 * `chmod`, `chown`
 * `top`, `htop`
 * `gcc`, `g++`, `make`
-* `git`
+* git: `remote`, `brach`, `Fork`, `clone`, `push`, `pull`, `checkout`, merge, `Pull requests`
 * `which python`
 
 Hãy chắc chắn bạn biết ý nghĩa của các đường dẫn
