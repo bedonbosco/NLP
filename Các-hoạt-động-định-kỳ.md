@@ -9,6 +9,7 @@ Tổng kết dự án mỗi tháng
 
 **Danh sách**
 
+* [Tổng kết tháng 11/2018](https://www.facebook.com/notes/underthesea/c%E1%BA%ADp-nh%E1%BA%ADt-th%C3%A1ng-11/272857286754238/)
 * [Tổng kết tháng 10/2018](https://www.facebook.com/notes/underthesea/undertheseaupdate-t%E1%BB%95ng-k%E1%BA%BFt-th%C3%A1ng-10/259844121388888/)
 
 ### Offline
