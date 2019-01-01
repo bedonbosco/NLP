@@ -3,6 +3,7 @@
 * [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
 * [Hướng dẫn đóng góp](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-đóng-góp)
     * [Môi trường phát triển](https://github.com/undertheseanlp/underthesea/wiki/Môi-trường-phát-triển)
+    * [Sử dụng git](https://github.com/undertheseanlp/underthesea/wiki/Sử-dụng-git)
 * [Quy trình phát triển](https://github.com/undertheseanlp/underthesea/wiki/Quy-trình-phát-triển)
 * [Các hoạt động định kỳ](https://github.com/undertheseanlp/underthesea/wiki/Các-hoạt-động-định-kỳ)
 * [Tình hình hoạt động](https://github.com/undertheseanlp/underthesea/wiki/Tình-hình-hoạt-động)
