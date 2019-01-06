@@ -36,11 +36,7 @@ Cập nhật underthesea 3 tháng một lần
 * Sửa các lỗi được báo cáo trên Issue
 * Thêm các tài liệu và video hướng dẫn sử dụng
 
-**Danh sách các release**
-
-* [v1.1.8 - tháng 06/2018](https://github.com/undertheseanlp/underthesea/releases/tag/v1.1.8)
-* v1.1.7 - tháng 04/2018
-* v1.1.6 - tháng 12/2017
+[**Danh sách các release**](https://github.com/undertheseanlp/underthesea/releases)
 
 ### Seminar
 
