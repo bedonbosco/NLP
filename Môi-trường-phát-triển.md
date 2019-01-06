@@ -2,18 +2,33 @@ Bài viết này mô tả môi trường phát triển khi phát triển các mo
 
 ## Thiết bị
 
-Cấu hình tối thiểu:
-
-* CPU: Core i5
-* RAM: 8 GB
-* Ổ cứng: HDD 500 GB
-
-Cấu hình đề nghị
-
-* CPU: Core i7
-* RAM: 16 GB
-* Ổ cứng: SDD 256 GB
-* GPU
+<table>
+<tr>
+<th></td>
+<th>Cấu hình tối thiểu</th>
+<th>Cấu hình đề nghị</th>
+</tr>
+<tr>
+<td>CPU</td>
+<td>Intel® Core™ i5</td>
+<td>Intel® Core™ i7</td>
+</tr>
+<tr>
+<td>RAM</td>
+<td>8 GB</td>
+<td>16 GB</td>
+</tr>
+<tr>
+<td>Ổ cứng</td>
+<td>HDD 500 GB</td>
+<td>SDD 256 GB</td>
+</tr>
+<tr>
+<td>GPU</td>
+<td></td>
+<td>GTX 1070 Ti</td>
+</tr>
+</table>
 
 CPU tốt giúp chương trình của bạn load nhanh, tăng tốc quá trình tiền xử lý dữ liệu và huấn luyện mô hình.
 
