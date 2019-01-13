@@ -17,6 +17,6 @@ Các bước thực hiện:
 6. Cập nhật path version
 7. Cập nhật lên git bằng `git push orgin GH-163`
 8. Chờ xem có pass test trên travis-CI
-9. Merge request.
+9. Merge pull request.
 
 Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật với tính năng mới.
