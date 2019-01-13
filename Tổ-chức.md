@@ -1,13 +1,10 @@
-Tài liệu giới thiệu về nhóm underthesea, các vai trò và hướng dẫn đóng góp cho underthesea.
+Tài liệu giới thiệu về tổ chức underthesea, các vai trò và hướng dẫn đóng góp cho underthesea.
 
 | Người viết        | Vũ Anh     |
 |-------------------|------------|
 | Phiên bản         | 1.0.3      |
 | Cập nhật lần cuối | 02/12/2018 |
 
-## Giới thiệu về underthesea
-
-Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ tự nhiên tiếng Việt. Được thành lập vào tháng 3 năm 2017, sau một năm rưỡi hình thành và phát triển, underthesea đã có hơn [30 dự án](https://github.com/undertheseanlp) và [7 thành viên chính thức](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên). Underthesea đã tổ chức thành công một buổi seminar tại trường đại học Bách Khoa vào tháng 04 năm 2018 và một buổi meetup vào tháng 10 năm 2018. Để biết thêm các thông tin về underthesea, mời bạn đọc [Câu chuyện của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea).
 
 ## Tổ chức
 
