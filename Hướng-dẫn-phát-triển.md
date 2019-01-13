@@ -5,7 +5,7 @@ Tài liệu hướng dẫn phát triển của nhóm underthesea
 | Phiên bản         | 1.0.0      |
 | Cập nhật lần cuối | 13/01/2019 |
 
-# Xử lý một issue 
+# Xử lý một issue trên underthesea
 
 Các bước thực hiện: 
 
