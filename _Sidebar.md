@@ -1,7 +1,7 @@
 * [Giới thiệu](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
 * [Tổ chức](https://github.com/undertheseanlp/underthesea/wiki/Tổ-chức)
 * [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên)
-* [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
+* [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
 * [Hướng dẫn đóng góp](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-đóng-góp)
     * [Môi trường phát triển](https://github.com/undertheseanlp/underthesea/wiki/Môi-trường-phát-triển)
     * [Sử dụng git](https://github.com/undertheseanlp/underthesea/wiki/Sử-dụng-git)
