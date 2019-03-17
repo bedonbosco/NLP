@@ -23,6 +23,15 @@ Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật
 
 # Quản lý phiên bản
 
+## Nhánh release-x.y.z 
+
+1. Từ nhánh master, tạo một nhánh release-x.y.z ứng với phiên bản đang phát triển
+2. Các tính năng sẽ được phát triển, sau đó merge vào nhánh này
+3. Tạo phiên bản rc
+    * Bump version của phiên bản thành x.y.z-rc, sau đó merge vào nhánh master để phát hành phiên bản rc 
+4. Tạo phiên bản chính 
+    * Bump version của phiên bản thành x.y.z, sau đó merge vào nhánh master để phát hành phiên bản chính
+
 Các tài liệu tham khảo 
 
 * [Dự án flair](https://github.com/zalandoresearch/flair)
