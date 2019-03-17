@@ -20,3 +20,10 @@ Các bước thực hiện:
 9. Merge pull request.
 
 Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật với tính năng mới.
+
+# Quản lý phiên bản
+
+Các tài liệu tham khảo 
+
+* [Dự án flair](https://github.com/zalandoresearch/flair)
+* [Dự án allennlp](https://github.com/allenai/allennlp)
