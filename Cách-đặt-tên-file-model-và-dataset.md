@@ -18,3 +18,19 @@ chunk | chunk |
 ner | ner | 
 classify | tc | text classify
 sentiment | se
+
+# Ghi chú 
+
+Tham khảo 
+
+* Data versioning in machine learning projects - Dmitry Petrov. https://www.youtube.com/watch?v=BneW7jgB298
+
+Tham khảo cách đặt tên của các model ở dự án repo [tensorflow/models](https://github.com/tensorflow/models)
+
+
+Model | TF-Slim File | Checkpoint | Top-1 Accuracy | Top-5 Accuracy
+-- | -- | -- | -- | --
+Inception V1 | Code | inception_v1_2016_08_28.tar.gz | 69.8 | 89.6
+Inception V2 | Code | inception_v2_2016_08_28.tar.gz | 73.9 | 91.8
+Inception V3 | Code | inception_v3_2016_08_28.tar.gz | 78.0 | 93.9
+Inception V4 | Code | inception_v4_2016_09_09.tar.gz
