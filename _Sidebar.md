@@ -8,4 +8,5 @@
     * [Quy trình phát triển](https://github.com/undertheseanlp/underthesea/wiki/Quy-trình-phát-triển)
     * [Môi trường phát triển](https://github.com/undertheseanlp/underthesea/wiki/Môi-trường-phát-triển)
     * [Sử dụng git](https://github.com/undertheseanlp/underthesea/wiki/Sử-dụng-git)
+    * [Cách đặt tên file model và dataset](https://github.com/undertheseanlp/underthesea/wiki/Cách-đặt-tên-file-model-và-dataset)
 * [Tình hình hoạt động](https://github.com/undertheseanlp/underthesea/wiki/Tình-hình-hoạt-động)
