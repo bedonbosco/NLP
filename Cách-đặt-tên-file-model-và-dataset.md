@@ -19,6 +19,13 @@ ner | ner |
 classify | tc | text classify
 sentiment | se
 
+# Đặt tên file dataset 
+
+Các quy tắc đặt tên file dataset 
+
+* Ưu tiên sử dụng tên gốc của dataset (VietTreeBank, VNTC)
+* Thêm task tương ứng của dataset (VLSP2016_NER, VLSP2016_SA_RESTAURANT)
+
 # Ghi chú 
 
 Tham khảo 
