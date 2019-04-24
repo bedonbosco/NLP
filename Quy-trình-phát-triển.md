@@ -12,13 +12,13 @@
 
 * `Branch`: Cho việc quản lý luồng phát triển
 * `Issue`: Cho việc mô tả lỗi, log lịch sử, quản lý kế hoạch phát triển
-* `Release`: Cho việc thông báo và mô tả các phieen bản
+* `Release`: Cho việc thông báo và mô tả các phiên bản
 
 ## Các bước trong quá trình phát triển 
 
 * Bước 1: Lên kế hoạch phát triển
   * Tạo Major Issue, đây là issue ứng với major version
-  * Ví dụ: [LanguageFlow v1.2.0](https://github.com/undertheseanlp/languageflow/issues/34), [Underthesea 2.0](https://github.com/undertheseanlp/underthesea/issues/223))
+  * Ví dụ: [LanguageFlow v1.2.0](https://github.com/undertheseanlp/languageflow/issues/34), [Underthesea 2.0](https://github.com/undertheseanlp/underthesea/issues/223)
 * Bước 2: Thêm tính năng mới
   * Tạo các issue ứng với các tính năng, bug 
   * Thêm các issue này vào các phiên bản phụ (minor version) trong Major Issue
@@ -71,6 +71,7 @@ Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật
 * [Dự án Flair](https://github.com/zalandoresearch/flair) - Dự án này có rất nhiều điểm rất hay để học hỏi, như cách thêm issue id vào commit message, pinned issue cho kế hoạch phát triển từng phiên bản
 * [Dự án allennlp](https://github.com/allenai/allennlp) - Học hỏi từ dự án này cách quản lý phiên bản
 * [What is the master branch and release branch for?](https://stackoverflow.com/questions/20755434/what-is-the-master-branch-and-release-branch-for) - Ý nghĩa và sự khác nhau của master và release branch
+* [Semantic Versioning 2.0.0](https://semver.org/) - Cách đánh số các phiên bản 
 
 ## Phụ lục: Lịch sử chỉnh sửa 
 
