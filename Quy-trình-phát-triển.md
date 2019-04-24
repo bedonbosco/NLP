@@ -1,4 +1,4 @@
-Tài liệu mô tả quy trình phát triển thêm các tính năng của nhóm underthesea
+Tài liệu mô tả quy trình phát triển, thêm các tính năng và phát hành của nhóm underthesea
 
 | Người viết        | Vũ Anh     |
 |-------------------|------------|
