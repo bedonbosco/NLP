@@ -4,6 +4,17 @@ Tài liệu mô tả quy trình phát triển thêm các tính năng, xử lý c
 
 ![](https://i.imgur.com/5b4dfpm.png)
 
+## Các bước trong quá trình phát triển 
+
+* Bước 1: Tạo Major Issue, đây là issue ứng với phiên bản chính (ví dụ: LanguageFlow v1.2.0)
+* Bước 2: Tạo các issue ứng với các tính năng, bug 
+* Bước 3: Thêm các issue này vào các phiên bản phụ (minor version) trong Major Issue
+* Bước 4: Xử lý các issue này 
+* Bước 5: Merge vào các minor version
+* Bước 6: Phát hành rc version cho minor version
+* Bước 7: Phát hành minor version (sau rc version khoảng 7 ngày)
+* Bước 8: Phát hành rc version cho major version 
+* Bước 9: Phát hành phiên bản major version
 
 ## Xử lý một issue trên underthesea
 
