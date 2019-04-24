@@ -6,6 +6,7 @@
 * [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên)
 * [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
 * [Hướng dẫn đóng góp](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-đóng-góp)
+* [Tình hình hoạt động](https://github.com/undertheseanlp/underthesea/wiki/Tình-hình-hoạt-động)
 
 **TÀI LIỆU PHÁT TRIỂN**
 
@@ -14,4 +15,3 @@
     * [Môi trường phát triển](https://github.com/undertheseanlp/underthesea/wiki/Môi-trường-phát-triển)
     * [Sử dụng git](https://github.com/undertheseanlp/underthesea/wiki/Sử-dụng-git)
     * [Cách đặt tên file model và dataset](https://github.com/undertheseanlp/underthesea/wiki/Cách-đặt-tên-file-model-và-dataset)
-* [Tình hình hoạt động](https://github.com/undertheseanlp/underthesea/wiki/Tình-hình-hoạt-động)
