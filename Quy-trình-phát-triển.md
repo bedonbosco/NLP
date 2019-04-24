@@ -1,6 +1,4 @@
-Tài liệu mô tả quy trình phát triển thêm các tính năng của underthesea
-
-Tài liệu hướng dẫn phát triển của nhóm underthesea
+Tài liệu mô tả quy trình phát triển thêm các tính năng của nhóm underthesea
 
 | Người viết        | Vũ Anh     |
 |-------------------|------------|
@@ -56,7 +54,22 @@ Tham khảo:
 
 ### Lịch sử chỉnh sửa 
 
-| Phiên bản      | Ngày cập nhật | Nội dung |
-|----------------|---------------|----------|
-| 1.1.0          | 24/04/2019    |          |
-| 1.0.0          | 13/01/2019    |          |
+<table>
+<tr>
+<th>Phiên bản</th>
+<th>Ngày cập nhật</th>
+<th>Nội dung</th>
+</tr>
+<tr>
+<td>1.1.0</td>
+<td>24/04/2019</td>
+<td>
+- Gộp các tài liệu vào một văn bản duy nhất
+</td>
+</tr>
+<tr>
+<td>1.0.0</td>
+<td>13/01/2019</td>
+<td></td>
+</tr>
+</table>
