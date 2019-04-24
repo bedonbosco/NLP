@@ -6,14 +6,9 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 
 ## Các liên kết hữu ích
 
-* [Giới thiệu](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
+* [Câu chuyển của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
 * [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên)
 * [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
-* [Hướng dẫn đóng góp](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-đóng-góp)
-* [Quy trình phát triển](https://github.com/undertheseanlp/underthesea/wiki/Quy-trình-phát-triển)
-* [Các hoạt động định kỳ](https://github.com/undertheseanlp/underthesea/wiki/Các-hoạt-động-định-kỳ)
-* [Python Module Documentation](https://magizbox-underthesea.readthedocs-hosted.com/en/latest/?badge=latest)
-* [Facebook @undertheseanlp](https://www.facebook.com/undertheseanlp/)
 
 ## Các câu hỏi thường gặp
 
