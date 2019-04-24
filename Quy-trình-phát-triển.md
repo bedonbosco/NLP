@@ -16,15 +16,18 @@
 
 ## Các bước trong quá trình phát triển 
 
-* Bước 1: Tạo Major Issue, đây là issue ứng với phiên bản chính (ví dụ: [LanguageFlow v1.2.0](https://github.com/undertheseanlp/languageflow/issues/34), [Underthesea 2.0](https://github.com/undertheseanlp/underthesea/issues/223))
-* Bước 2: Tạo các issue ứng với các tính năng, bug 
-* Bước 3: Thêm các issue này vào các phiên bản phụ (minor version) trong Major Issue
-* Bước 4: Xử lý các issue này 
-* Bước 5: Merge vào các minor version
-* Bước 6: Phát hành rc version cho minor version
-* Bước 7: Phát hành minor version (sau rc version khoảng 7 ngày)
-* Bước 8: Phát hành rc version cho major version 
-* Bước 9: Phát hành phiên bản major version
+* Bước 1: Lên kế hoạch phát triển
+  * Tạo Major Issue, đây là issue ứng với major version
+  * Ví dụ: [LanguageFlow v1.2.0](https://github.com/undertheseanlp/languageflow/issues/34), [Underthesea 2.0](https://github.com/undertheseanlp/underthesea/issues/223))
+* Bước 2: Thêm tính năng mới
+  * Tạo các issue ứng với các tính năng, bug 
+  * Thêm các issue này vào các phiên bản phụ (minor version) trong Major Issue
+  * Xử lý các issue
+  * Merge vào các minor version
+* Bước 3: Phát hành rc version cho minor version
+* Bước 4: Phát hành minor version (sau rc version khoảng 7 ngày)
+* Bước 5: Phát hành rc version cho major version 
+* Bước 6: Phát hành phiên bản major version
 
 ## Xử lý một issue trên underthesea
 
