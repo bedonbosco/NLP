@@ -1,6 +1,6 @@
 # Underthesea là gì?
 
-`Underthesea` là một toolkit hỗ trợ cho việc nghiên cứu và phát triển xử lý ngôn ngữ tự nhiên tiếng Việt. underthesea ra đời vào tháng 3 năm 2017, trong bối cảnh ở Việt Nam đã có một số toolkit khá tốt như [vn.vitk](https://github.com/phuonglh/vn.vitk), [pyvi](https://pypi.python.org/pypi/pyvi), nhưng vẫn thiếu một toolkit **hoàn chỉnh**, **nguồn mở**, **dễ dàng cài đặt và sử dụng** như các sản phẩm tương đương đối với tiếng Anh [nltk](http://www.nltk.org/), [polyglot](https://github.com/aboSamoor/polyglot), [spacy](https://spacy.io/)
+`Underthesea` là một toolkit hỗ trợ cho việc nghiên cứu và phát triển xử lý ngôn ngữ tự nhiên tiếng Việt. underthesea ra đời vào tháng 03 năm 2017, trong bối cảnh ở Việt Nam đã có một số toolkit khá tốt như [vn.vitk](https://github.com/phuonglh/vn.vitk), [pyvi](https://pypi.python.org/pypi/pyvi), nhưng vẫn thiếu một toolkit **hoàn chỉnh**, **nguồn mở**, **dễ dàng cài đặt và sử dụng** như các sản phẩm tương đương đối với tiếng Anh [nltk](http://www.nltk.org/), [polyglot](https://github.com/aboSamoor/polyglot), [spacy](https://spacy.io/)
 
 # Những mong muốn của đội ngũ phát triển
 
