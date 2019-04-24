@@ -1,4 +1,4 @@
-Tài liệu mô tả quy trình phát triển, thêm các tính năng và phát hành của nhóm underthesea
+Tài liệu mô tả quy trình phát triển thêm các tính năng, xử lý các bug và phát hành phiên bản mới của nhóm underthesea
 
 | Người viết        | Vũ Anh     |
 |-------------------|------------|
@@ -33,10 +33,7 @@ Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật
 4. Tạo phiên bản chính 
     * Bump version của phiên bản thành x.y.z, sau đó merge vào nhánh master để phát hành phiên bản chính
 
-Các tài liệu tham khảo 
 
-* [Dự án flair](https://github.com/zalandoresearch/flair)
-* [Dự án allennlp](https://github.com/allenai/allennlp)
 
 ### Cách đặt tên commit
 
@@ -48,11 +45,13 @@ Các tài liệu tham khảo
 * Tên branch để phát hành có dạng `release-[VERSION]`
   * ví dụ: `release-1.1.9`
 
-Tham khảo:
+## Tài liệu tham khảo
 
-* [Flair project](https://github.com/zalandoresearch/flair)
+* [Dự án Flair](https://github.com/zalandoresearch/flair) - Dự án này có rất nhiều điểm rất hay để học hỏi, như cách thêm issue id vào commit message, pinned issue cho kế hoạch phát triển từng phiên bản
+* [Dự án allennlp](https://github.com/allenai/allennlp) - Học hỏi từ dự án này cách quản lý phiên bản
+* [What is the master branch and release branch for?](https://stackoverflow.com/questions/20755434/what-is-the-master-branch-and-release-branch-for) - Ý nghĩa và sự khác nhau của master và release branch
 
-### Lịch sử chỉnh sửa 
+## Phụ lục: Lịch sử chỉnh sửa 
 
 <table>
 <tr>
