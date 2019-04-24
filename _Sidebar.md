@@ -12,4 +12,7 @@
 
 * [Quy trình phát triển](https://github.com/undertheseanlp/underthesea/wiki/Quy-trình-phát-triển)
 * [Môi trường phát triển](https://github.com/undertheseanlp/underthesea/wiki/Môi-trường-phát-triển)
+
+**CONVENTION**
+
 * [Cách đặt tên file model và dataset](https://github.com/undertheseanlp/underthesea/wiki/Cách-đặt-tên-file-model-và-dataset)
