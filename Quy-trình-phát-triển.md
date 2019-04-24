@@ -24,6 +24,7 @@
   * Thêm các issue này vào các phiên bản phụ (minor version) trong Major Issue
   * Xử lý các issue
   * Merge vào các minor version
+      * Chú ý merge theo kiểu rebase
 * Bước 3: Phát hành rc version cho minor version
 * Bước 4: Phát hành minor version (sau rc version khoảng 7 ngày)
 * Bước 5: Phát hành rc version cho major version 
