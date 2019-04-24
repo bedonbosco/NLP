@@ -6,7 +6,7 @@ Tài liệu mô tả quy trình phát triển thêm các tính năng, xử lý c
 | Cập nhật lần cuối | 24/04/2019 |
 
 
-# Xử lý một issue trên underthesea
+## Xử lý một issue trên underthesea
 
 Các bước thực hiện: 
 
@@ -22,9 +22,9 @@ Các bước thực hiện:
 
 Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật với tính năng mới.
 
-# Quản lý phiên bản
+## Quản lý phiên bản
 
-## Nhánh release-x.y.z 
+### Nhánh release-x.y.z 
 
 1. Từ nhánh master, tạo một nhánh release-x.y.z ứng với phiên bản đang phát triển
 2. Các tính năng sẽ được phát triển, sau đó merge vào nhánh này
@@ -32,8 +32,6 @@ Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật
     * Bump version của phiên bản thành x.y.z-rc, sau đó merge vào nhánh master để phát hành phiên bản rc 
 4. Tạo phiên bản chính 
     * Bump version của phiên bản thành x.y.z, sau đó merge vào nhánh master để phát hành phiên bản chính
-
-
 
 ### Cách đặt tên commit
 
