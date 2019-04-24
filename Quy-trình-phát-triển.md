@@ -40,6 +40,20 @@ Các tài liệu tham khảo
 * [Dự án flair](https://github.com/zalandoresearch/flair)
 * [Dự án allennlp](https://github.com/allenai/allennlp)
 
+### Cách đặt tên commit
+
+* Đặt tên commit với prefix `GH-[ISSUE_NUMBER]: nội dung` trỏ đến issue tương ứng
+  * ví dụ: `GH-206: fix flake8`
+
+### Cách đặt tên branch
+
+* Tên branch để phát hành có dạng `release-[VERSION]`
+  * ví dụ: `release-1.1.9`
+
+Tham khảo:
+
+* [Flair project](https://github.com/zalandoresearch/flair)
+
 ### Lịch sử chỉnh sửa 
 
 | Phiên bản      | Ngày cập nhật | Nội dung |
