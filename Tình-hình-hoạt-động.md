@@ -12,6 +12,8 @@ Tổng kết dự án mỗi tháng
 * [Tổng kết tháng 11/2018](https://www.facebook.com/notes/underthesea/c%E1%BA%ADp-nh%E1%BA%ADt-th%C3%A1ng-11/272857286754238/)
 * [Tổng kết tháng 10/2018](https://www.facebook.com/notes/underthesea/undertheseaupdate-t%E1%BB%95ng-k%E1%BA%BFt-th%C3%A1ng-10/259844121388888/)
 
+---
+
 ### Offline
 
 Diễn ra mỗi tháng một lần
@@ -27,6 +29,8 @@ Diễn ra mỗi tháng một lần
 * Offline tháng 11/2018
 * Offline tháng 10/2018
 
+---
+
 ### Release
 
 Cập nhật underthesea 3 tháng một lần 
@@ -37,6 +41,8 @@ Cập nhật underthesea 3 tháng một lần
 * Thêm các tài liệu và video hướng dẫn sử dụng
 
 [**Danh sách các release**](https://github.com/undertheseanlp/underthesea/releases)
+
+---
 
 ### Seminar
 
@@ -49,6 +55,8 @@ Giao lưu với các trường học, doanh nghiệp
 **Danh sách Seminar**
 
 * [Seminar 01 tại đại học bách khoa Hà Nội (tháng 04 năm 2018)](https://www.facebook.com/undertheseanlp/posts/169964720376829?__tn__=-R)
+
+---
 
 ### Meetup
 
