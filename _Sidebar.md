@@ -4,15 +4,14 @@
 * [Mô hình hoạt động](https://github.com/undertheseanlp/underthesea/wiki/Mô-hình-hoạt-động)
 * [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
 * [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên)
-* [Tình hình hoạt động](https://github.com/undertheseanlp/underthesea/wiki/Tình-hình-hoạt-động)
 * [Tổ chức](https://github.com/undertheseanlp/underthesea/wiki/Tổ-chức)
 * [Hướng dẫn đóng góp](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-đóng-góp)
-
+* [Tình hình hoạt động](https://github.com/undertheseanlp/underthesea/wiki/Tình-hình-hoạt-động)
 
 **TÀI LIỆU PHÁT TRIỂN**
 
 * [Hướng dẫn phát triển](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-phát-triển)
-    * [Quy trình phát triển](https://github.com/undertheseanlp/underthesea/wiki/Quy-trình-phát-triển)
-    * [Môi trường phát triển](https://github.com/undertheseanlp/underthesea/wiki/Môi-trường-phát-triển)
-    * [Sử dụng git](https://github.com/undertheseanlp/underthesea/wiki/Sử-dụng-git)
-    * [Cách đặt tên file model và dataset](https://github.com/undertheseanlp/underthesea/wiki/Cách-đặt-tên-file-model-và-dataset)
+* [Quy trình phát triển](https://github.com/undertheseanlp/underthesea/wiki/Quy-trình-phát-triển)
+* [Môi trường phát triển](https://github.com/undertheseanlp/underthesea/wiki/Môi-trường-phát-triển)
+* [Sử dụng git](https://github.com/undertheseanlp/underthesea/wiki/Sử-dụng-git)
+* [Cách đặt tên file model và dataset](https://github.com/undertheseanlp/underthesea/wiki/Cách-đặt-tên-file-model-và-dataset)
