@@ -7,13 +7,6 @@ Tài liệu hướng dẫn phát triển của nhóm underthesea
 | Phiên bản         | 1.1.0      |
 | Cập nhật lần cuối | 24/04/2019 |
 
-Lịch sử chỉnh sửa 
-
-| Phiên bản      | Ngày cập nhật | Nội dung |
-|----------------|---------------|----------|
-| 1.1.0          | 24/04/2019    |          |
-| 1.0.0          | 13/01/2019    |          |
-
 
 # Xử lý một issue trên underthesea
 
@@ -46,3 +39,10 @@ Các tài liệu tham khảo
 
 * [Dự án flair](https://github.com/zalandoresearch/flair)
 * [Dự án allennlp](https://github.com/allenai/allennlp)
+
+### Lịch sử chỉnh sửa 
+
+| Phiên bản      | Ngày cập nhật | Nội dung |
+|----------------|---------------|----------|
+| 1.1.0          | 24/04/2019    |          |
+| 1.0.0          | 13/01/2019    |          |
