@@ -7,7 +7,7 @@
 * [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
 * [Hướng dẫn đóng góp](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-đóng-góp)
 
-TÀI LIỆU PHÁT TRIỂN
+**TÀI LIỆU PHÁT TRIỂN**
 
 * [Hướng dẫn phát triển](https://github.com/undertheseanlp/underthesea/wiki/Hướng-dẫn-phát-triển)
     * [Quy trình phát triển](https://github.com/undertheseanlp/underthesea/wiki/Quy-trình-phát-triển)
