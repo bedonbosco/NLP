@@ -1,12 +1,22 @@
-Tài liệu mô tả quy trình phát triển thêm các tính năng, xử lý các bug và phát hành phiên bản mới của nhóm underthesea
+> Tài liệu mô tả quy trình phát triển thêm các tính năng, xử lý các bug và phát hành phiên bản mới của nhóm underthesea
 
-> Mục tiêu phát triển là phát hành các phiên bản với các tính năng ổn định, hữu ích
+**Quy tắc 1**: Mục tiêu phát triển là phát hành các **phiên bản chính** với các tính năng ổn định, hữu ích
 
 ![](https://i.imgur.com/5b4dfpm.png)
 
+* `Major version` (phiên bản chính) - Phiên bản với các API ổn định 
+* `Minor version` (phiên bản phụ) - Phiên bản với các sự thay đổi nhỏ của các API
+* `Patch version` (phiên bản patch) - Phiên bản gồm việc sửa lỗi hoặc phát triển các tính năng nhỏ, không có sự thay đổi của các API
+
+**Quy tắc 2**: Sử dụng **git/github** cho toàn bộ quá trình quản lý và phát triển 
+
+* `Branch`: Cho việc quản lý luồng phát triển
+* `Issue`: Cho việc mô tả lỗi, log lịch sử, quản lý kế hoạch phát triển
+* `Release`: Cho việc thông báo và mô tả các phieen bản
+
 ## Các bước trong quá trình phát triển 
 
-* Bước 1: Tạo Major Issue, đây là issue ứng với phiên bản chính (ví dụ: LanguageFlow v1.2.0)
+* Bước 1: Tạo Major Issue, đây là issue ứng với phiên bản chính (ví dụ: [LanguageFlow v1.2.0](https://github.com/undertheseanlp/languageflow/issues/34), [Underthesea 2.0](https://github.com/undertheseanlp/underthesea/issues/223))
 * Bước 2: Tạo các issue ứng với các tính năng, bug 
 * Bước 3: Thêm các issue này vào các phiên bản phụ (minor version) trong Major Issue
 * Bước 4: Xử lý các issue này 
