@@ -1,9 +1,8 @@
 Tài liệu mô tả quy trình phát triển thêm các tính năng, xử lý các bug và phát hành phiên bản mới của nhóm underthesea
 
-| Người viết        | Vũ Anh     |
-|-------------------|------------|
-| Phiên bản         | 1.1.0      |
-| Cập nhật lần cuối | 24/04/2019 |
+> Mục tiêu phát triển là phát hành các phiên bản với các tính năng ổn định, hữu ích
+
+![](https://i.imgur.com/5b4dfpm.png)
 
 
 ## Xử lý một issue trên underthesea
@@ -50,6 +49,11 @@ Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật
 * [What is the master branch and release branch for?](https://stackoverflow.com/questions/20755434/what-is-the-master-branch-and-release-branch-for) - Ý nghĩa và sự khác nhau của master và release branch
 
 ## Phụ lục: Lịch sử chỉnh sửa 
+
+| Người viết        | Vũ Anh     |
+|-------------------|------------|
+| Phiên bản         | 1.1.0      |
+| Cập nhật lần cuối | 24/04/2019 |
 
 <table>
 <tr>
