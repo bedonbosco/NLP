@@ -7,8 +7,8 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 ## Các liên kết hữu ích
 
 * [Câu chuyện của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
+* [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
 * [Danh sách thành viên](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên)
-* [Các dự án](https://github.com/undertheseanlp/underthesea/wiki/Các-dự-án)
 
 ## Các câu hỏi thường gặp
 
