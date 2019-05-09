@@ -14,6 +14,12 @@
 * `Issue`: Cho việc mô tả lỗi, log lịch sử, quản lý kế hoạch phát triển
 * `Release`: Cho việc thông báo và mô tả các phiên bản
 
+Mục lục 
+
+* [Các bước trong quá trình phát triển]()
+* [Xử lý một issue trên underthesea]()
+* [Quản lý phiên bản]()
+
 ## Các bước trong quá trình phát triển 
 
 * Bước 1: Lên kế hoạch phát triển
