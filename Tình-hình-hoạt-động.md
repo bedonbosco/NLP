@@ -26,6 +26,7 @@ Diễn ra mỗi tháng một lần
 
 **Danh sách Offline**
 
+* Offline tháng 05/2019
 * Offline tháng 11/2018
 * Offline tháng 10/2018
 
