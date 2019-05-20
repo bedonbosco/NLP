@@ -40,15 +40,19 @@ Mục lục
 
 Các bước thực hiện: 
 
-1. Tạo một nhánh mới tương ứng với Issue. Ví dụ: `GH-163`
-2. Thực hiện code trên nhánh này
-3. Commit với prefix của issue tương ứng: Ví dụ: `GH-163: add sent_tokenize function`
-4. Cập nhật lên git bằng `git push orgin GH-163`
-5. Chờ xem có pass test trên travis-CI
-6. Cập nhật path version
-7. Cập nhật lên git bằng `git push orgin GH-163`
-8. Chờ xem có pass test trên travis-CI
-9. Merge pull request.
+1. Cập nhật code từ nhánh upstream/master (1: git fetch upstream, 2: git checkout upstream/master)
+2. Tạo một nhánh mới tương ứng với Issue. Ví dụ: `GH-163`
+  * `git checkout -B GH-163`
+3. Thực hiện code trên nhánh này
+4. Commit với prefix của issue tương ứng: Ví dụ: `GH-163: add sent_tokenize function`
+  * `git commit -m "GH-163: add sent_tokenize function"`
+5. Cập nhật lên git bằng `git push origin GH-163`
+6. Gửi một `pull request` đến nhánh release
+7. Chờ xem có pass test trên travis-CI
+8. Cập nhật path version
+9. Cập nhật lên git bằng `git push origin GH-163`
+10. Chờ xem có pass test trên travis-CI
+11. Merge pull request.
 
 Sau khoảng 20 phút, phiên bản của underthesea sẽ được cập nhật với tính năng mới.
 
