@@ -1,8 +1,8 @@
 **Các thành viên chính thức của nhóm underthesea**
 
 * Vũ Anh (anhv.ict91@gmail.com)
-* Phạm Hồng Quang 
-* Phạm Thị Anh Sương 
+* Phạm Hồng Quang (từ 05/19)
+* Phạm Thị Anh Sương (từ 05/19)
 
 **Cựu thành viên**
 
