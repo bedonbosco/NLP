@@ -2,7 +2,7 @@
 
 * Vũ Anh (anhv.ict91@gmail.com)
 * Phạm Hồng Quang (từ 05/19)
-* Phạm Thị Anh Sương (từ 05/19)
+* Phạm Thị Ánh Sương (từ 05/19)
 
 **Cựu thành viên**
 
