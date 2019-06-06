@@ -38,7 +38,7 @@ Tài liệu này chứa mẫu dự án cho các thử nghiệm của nhóm under
 * requirements.txt	
 * .gitignore	
 
-Tham số của train.py
+**Tham số của train.py**
 
 ```
 usage: train.py [-h] --train TRAIN -s SERIALIZATION_DIR
