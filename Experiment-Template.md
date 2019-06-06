@@ -86,4 +86,16 @@ Danh sách thay đổi
 <td>Vũ Anh</td>
 <td>train.py option<br> (<a href="https://allenai.github.io/allennlp-docs/api/allennlp.commands.train.html">example</a>)</td>
 </tr>
+<tr>
+<td>1.0.1</td>
+<td></td>
+<td>Vũ Anh</td>
+<td>Có thư mục egs<br> (<a href="https://github.com/undertheseanlp/classification/tree/master/egs">example</a>)</td>
+</tr>
+<tr>
+<td>1.0.0</td>
+<td></td>
+<td>Vũ Anh</td>
+<td>Có thư mục data</td>
+</tr>
 </table>
