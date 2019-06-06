@@ -25,18 +25,18 @@ Tài liệu này chứa mẫu dự án cho các thử nghiệm của nhóm under
 
 ## Cấu trúc thư mục
 
-* egs: Viết tắt của example scripts, mỗi một thư mục con trong egs, là một thử nghiệm với một mô hình trên một tập dữ liệu
-  * [example_id]	Tên của thử nghiệm
-    * data	Chứa dữ liệu cho thử nghiệm
-    * train.py
-   * evaluate.py	
-* report	
-* tmp	
-* util	
-* README.md	
-* ner.py	
-* requirements.txt	
-* .gitignore	
+* `egs`: Viết tắt của example scripts, mỗi một thư mục con trong egs, là một thử nghiệm với một mô hình trên một tập dữ liệu
+  * `[example_id]`: Tên của thử nghiệm
+    * `data`: Chứa dữ liệu cho thử nghiệm
+    * `train.py`
+    * `evaluate.py`
+* `report`
+* `tmp`
+* `util`
+* `README.md`
+* `ner.py`	
+* `requirements.txt`
+* `.gitignore`
 
 **Tham số của train.py**
 
