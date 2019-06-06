@@ -53,9 +53,9 @@ Danh sách các dự án được phát triển và bảo trì bởi underthesea
       <a href="https://github.com/undertheseanlp/classification">classification</a>
     </td>
     <td>
-        Vũ Anh<br>Bùi Nhật Anh
+        Vũ Anh<br>Phạm Hồng Quang
     </td>
-    <td>10/2018<br><small>09/2017</small></td>
+    <td>06/2019<br><small>09/2017</small></td>
   </tr>
   <tr>
     <td>6</td>
@@ -63,9 +63,9 @@ Danh sách các dự án được phát triển và bảo trì bởi underthesea
       <a href="https://github.com/undertheseanlp/sentiment">sentiment</a>
     </td>
     <td>
-        Vũ Anh<br>Bùi Nhật Anh
+        Vũ Anh<br>Phạm Hồng Quang<br>Phạm Thị Ánh Sương
     </td>
-    <td>09/2018<br><small>12/2017</small></td>
+    <td>06/2019<br><small>12/2017</small></td>
   </tr>
   <tr>
     <td>7</td>
