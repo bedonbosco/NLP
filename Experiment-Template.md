@@ -74,4 +74,16 @@ Danh sách thay đổi
 <td>Vũ Anh</td>
 <td>Cập nhật repo theo cấu trúc của flair</td>
 </tr>
+<tr>
+<td>1.1.0</td>
+<td></td>
+<td>Vũ Anh</td>
+<td>Thay đổi cấu trúc thư mục theo flair<br>- Xóa thư mục data</td>
+</tr>
+<tr>
+<td>1.0.2</td>
+<td>train.py option<br> (<a href="https://allenai.github.io/allennlp-docs/api/allennlp.commands.train.html"></a>)</td>
+<td>Vũ Anh</td>
+<td></td>
+</tr>
 </table>
