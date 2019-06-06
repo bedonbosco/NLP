@@ -41,7 +41,6 @@ Tài liệu này chứa mẫu dự án cho các thử nghiệm của nhóm under
 Tham số của train.py
 
 ```
-```
 usage: train.py [-h] --train TRAIN -s SERIALIZATION_DIR
 
 optional arguments:
