@@ -10,7 +10,7 @@ Danh sách các dự án được phát triển và bảo trì bởi underthesea
   <tr>
     <td>1</td>
     <td>
-      <a href="https://github.com/undertheseanlp/word_tokenize">word_tokenize</a>
+      <a href="https://github.com/undertheseanlp/word_tokenize">word_tokenize v1.0.6</a>
     </td>
     <td>
         Vũ Anh<br>Bùi Nhật Anh<br>Đoàn Việt Dũng
