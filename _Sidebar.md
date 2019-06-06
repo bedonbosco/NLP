@@ -12,6 +12,7 @@
 
 * [Quy trình phát triển](https://github.com/undertheseanlp/underthesea/wiki/Quy-trình-phát-triển)
 * [Môi trường phát triển](https://github.com/undertheseanlp/underthesea/wiki/Môi-trường-phát-triển)
+* [Experiment Template](https://github.com/undertheseanlp/underthesea/wiki/Experiment-Template)
 
 **CONVENTION**
 
