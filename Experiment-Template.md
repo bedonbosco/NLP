@@ -25,18 +25,11 @@ Tài liệu này chứa mẫu dự án cho các thử nghiệm của nhóm under
 
 ## Cấu trúc thư mục
 
-* egs	Viết tắt của example scripts, mỗi một thư mục con trong egs, là một thử nghiệm với một mô hình trên một tập dữ liệu
+* egs: Viết tắt của example scripts, mỗi một thư mục con trong egs, là một thử nghiệm với một mô hình trên một tập dữ liệu
   * [example_id]	Tên của thử nghiệm
     * data	Chứa dữ liệu cho thử nghiệm
-    * train.py	"usage: train.py [-h] --train TRAIN -s SERIALIZATION_DIR
-
-optional arguments:
-  -h, --help            show this help message and exit
-  --train TRAIN         train data path
-  -s SERIALIZATION_DIR, --serialization-dir SERIALIZATION_DIR
-                        directory in which to save the model and its logs"
-    evaluate.py	
-
+    * train.py
+   * evaluate.py	
 * report	
 * tmp	
 * util	
@@ -44,6 +37,19 @@ optional arguments:
 * ner.py	
 * requirements.txt	
 * .gitignore	
+
+Tham số của train.py
+
+```
+```
+usage: train.py [-h] --train TRAIN -s SERIALIZATION_DIR
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --train TRAIN         train data path
+  -s SERIALIZATION_DIR, --serialization-dir SERIALIZATION_DIR
+                        directory in which to save the model and its logs
+```
 
 ### Phụ lục
 
