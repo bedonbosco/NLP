@@ -82,8 +82,8 @@ Danh sách thay đổi
 </tr>
 <tr>
 <td>1.0.2</td>
-<td>train.py option<br> (<a href="https://allenai.github.io/allennlp-docs/api/allennlp.commands.train.html"></a>)</td>
-<td>Vũ Anh</td>
 <td></td>
+<td>Vũ Anh</td>
+<td>train.py option<br> (<a href="https://allenai.github.io/allennlp-docs/api/allennlp.commands.train.html">example</a>)</td>
 </tr>
 </table>
