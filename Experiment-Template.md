@@ -63,10 +63,10 @@ Danh sách thay đổi
 
 <table>
 <tr>
-<th>Phiên bản</th>
-<th>Thời gian</th>
-<th>Người cập nhật</th>
-<th>Thay đổi</th>
+<td>Phiên bản</td>
+<td>Thời gian</td>
+<td>Người cập nhật</td>
+<td>Thay đổi</td>
 </tr>
 <tr>
 <td>1.2.0-alpha</td>
