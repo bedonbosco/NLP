@@ -24,7 +24,7 @@ Danh sách các dự án được phát triển và bảo trì bởi underthesea
     <td>
       <a href="https://github.com/undertheseanlp/word_tokenize">word_tokenize</a>
     </td>
-    <td></td>
+    <td>1.0.6</td>
     <td>
         Vũ Anh<br>Bùi Nhật Anh<br>Đoàn Việt Dũng
     </td>
@@ -57,7 +57,7 @@ Danh sách các dự án được phát triển và bảo trì bởi underthesea
     <td>
       <a href="https://github.com/undertheseanlp/ner">ner</a>
     </td>
-    <td></td>
+    <td>1.0.6</td>
     <td>
         Vũ Anh<br>Bùi Nhật Anh
     </td>
@@ -68,7 +68,7 @@ Danh sách các dự án được phát triển và bảo trì bởi underthesea
     <td>
       <a href="https://github.com/undertheseanlp/classification">classification</a>
     </td>
-    <td></td>
+    <td>1.0.1</td>
     <td>
         Vũ Anh<br>Phạm Hồng Quang
     </td>
@@ -90,7 +90,7 @@ Danh sách các dự án được phát triển và bảo trì bởi underthesea
     <td>
       <a href="https://github.com/undertheseanlp/chatbot">chatbot</a>
     </td>
-    <td></td>
+    <td>1.0.1</td>
     <td>
         Vũ Anh<br>Cao Thanh Tùng
     </td>
@@ -101,7 +101,7 @@ Danh sách các dự án được phát triển và bảo trì bởi underthesea
     <td>
       <a href="https://github.com/undertheseanlp/automatic_speech_recognition">automatic_speech_recognition</a>
     </td>
-    <td></td>
+    <td>1.0.1</td>
     <td>
         Vũ Anh<br>Lê Phi Hùng
     </td>
