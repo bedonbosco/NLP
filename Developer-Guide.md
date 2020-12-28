@@ -1,4 +1,4 @@
-Developer Guide
+Setup development environment
 
 Run `flake8` before commit, edit your `underthesea/.git/hooks/pre-commit` file 
 
