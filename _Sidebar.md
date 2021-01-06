@@ -1,5 +1,6 @@
 **GIỚI THIỆU CHUNG**
 
+* [Home](https://github.com/undertheseanlp/underthesea/wiki/)
 * [Câu chuyện của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
 * [Mô hình hoạt động](https://github.com/undertheseanlp/underthesea/wiki/Mô-hình-hoạt-động)
 * [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
