@@ -1,4 +1,4 @@
-# Đặt tên file model 
+# 1. Đặt tên file model 
 
 Đề xuất đặt tên theo `task-id_model-name_timestamp`
 
@@ -19,18 +19,25 @@ ner | ner |
 classify | tc | text classify
 sentiment | se
 
-# Đặt tên file dataset 
+# 2. Đặt tên file dataset 
 
 Các quy tắc đặt tên file dataset 
 
 * Ưu tiên sử dụng tên gốc của dataset (`VietTreeBank`, `VNTC`)
 * Thêm task tương ứng của dataset (`VLSP2016_NER`, `VLSP2016_SA_RESTAURANT`)
 
+```
+Ví dụ:
+- Task NER: VLSP2016_NER, 
+- Task SA: VLSP2016_SA_RESTAURANT
+```
+
 * Lưu ý: Sử dụng ký tự `_` (không phải `-` để tách các thành phần trong folder của dataset)
 
 ```
-Nên: VLSP2016_NER, VLSP2016_SA_RESTAURANT
-Không nên: VLSP2016-NER, VLSP2016-SA-RESTAURANT
+Ví dụ:
+- Nên: VLSP2016_NER, VLSP2016_SA_RESTAURANT
+- Không nên: VLSP2016-NER, VLSP2016-SA-RESTAURANT
 ```
 
 # Ghi chú 
