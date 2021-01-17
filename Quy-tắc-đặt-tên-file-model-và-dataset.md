@@ -26,7 +26,12 @@ Các quy tắc đặt tên file dataset
 * Ưu tiên sử dụng tên gốc của dataset (`VietTreeBank`, `VNTC`)
 * Thêm task tương ứng của dataset (`VLSP2016_NER`, `VLSP2016_SA_RESTAURANT`)
 
-* Sử dụng ký tự `_` để tách các thành phần trong folder của dataset
+* Lưu ý: Sử dụng ký tự `_` (không phải `-` để tách các thành phần trong folder của dataset)
+
+```
+Nên: VLSP2016_NER, VLSP2016_SA_RESTAURANT
+Không nên: VLSP2016-NER, VLSP2016-SA-RESTAURANT
+```
 
 # Ghi chú 
 
