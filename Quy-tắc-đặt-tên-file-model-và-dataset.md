@@ -23,8 +23,13 @@ sentiment | se
 
 Các quy tắc đặt tên file dataset 
 
-* Ưu tiên sử dụng tên gốc của dataset (`VietTreeBank`, `VNTC`)
-* Thêm task tương ứng của dataset (`VLSP2016_NER`, `VLSP2016_SA_RESTAURANT`)
+* Ưu tiên sử dụng tên gốc của dataset 
+
+```
+Ví dụ: VietTreeBank, VNTC
+```
+
+* Thêm task tương ứng của dataset
 
 ```
 Ví dụ:
