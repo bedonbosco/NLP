@@ -10,6 +10,7 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 * [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
 * [Developer Guide](https://github.com/undertheseanlp/underthesea/wiki/Developer-Guide)
 * [Models](https://github.com/undertheseanlp/underthesea/wiki/Models-Tracking)
+* [abc](https://github.com/undertheseanlp/underthesea/wiki/Quy-t%E1%BA%AFc-%C4%91%E1%BA%B7t-t%C3%AAn-file-model-v%C3%A0-dataset)
 
 ## Các câu hỏi thường gặp
 
