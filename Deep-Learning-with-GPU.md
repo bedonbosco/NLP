@@ -11,11 +11,9 @@ Environment:
   <th>11.0</th>
 </tr>
 <tr>
-<td>
-Tensorflow
-</td>
+<th>Tensorflow</th>
 <td>2.4.1</td>
-<td>✓</td>
+<td>&nbsp;&nbsp;✓</td>
 </tr>
 </table>
 
