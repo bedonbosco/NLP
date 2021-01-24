@@ -23,11 +23,11 @@ Environment:
 * Ubuntu 18.04
 ```
 
-### Ubuntu 18.04 (CUDA 11.0)
+## Ubuntu 18.04 (CUDA 11.0)
 
 TBD
 
-### Appendix
+## Appendix
 
 **NVIDIA Driver**: NVIDIA Driver is the software driver for NVIDIA Graphics GPU installed on the PC. It is a program used to communicate from the Operating System to the device. This software is required in most cases for the hardware device to function properly
 
@@ -35,7 +35,7 @@ TBD
 
 **cuDNN**: The NVIDIA CUDA® Deep Neural Network library (cuDNN) is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers.
 
-### References
+## References
 
 * https://www.tensorflow.org/install/gpu#ubuntu_1804_cuda_110
 * https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#title-new-features
