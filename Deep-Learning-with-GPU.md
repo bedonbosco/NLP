@@ -32,3 +32,4 @@ Tensorflow
 References
 
 * https://www.tensorflow.org/install/gpu#ubuntu_1804_cuda_110
+* https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#title-new-features
