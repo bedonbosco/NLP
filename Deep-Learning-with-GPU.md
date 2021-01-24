@@ -25,9 +25,17 @@ Environment:
 
 ### Ubuntu 18.04 (CUDA 11.0)
 
+TBD
 
+### Appendix
 
-References
+**NVIDIA Drivers**: 
+
+**CUDA**: CUDA® is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, developers are able to dramatically speed up computing applications by harnessing the power of GPUs.
+
+**cuDNN**: The NVIDIA CUDA® Deep Neural Network library (cuDNN) is a GPU-accelerated library of primitives for deep neural networks. cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers.
+
+### References
 
 * https://www.tensorflow.org/install/gpu#ubuntu_1804_cuda_110
 * https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html#title-new-features
