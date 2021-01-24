@@ -1,6 +1,6 @@
 # Deep Learning with GPU
 
-Environment:
+Dependencies table
 
 <table>
 <tr>
