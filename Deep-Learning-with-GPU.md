@@ -29,7 +29,7 @@ TBD
 
 ### Appendix
 
-**NVIDIA Drivers**: 
+**NVIDIA Driver**: NVIDIA Driver is the software driver for NVIDIA Graphics GPU installed on the PC. It is a program used to communicate from the Operating System to the device. This software is required in most cases for the hardware device to function properly
 
 **CUDA**: CUDA® is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, developers are able to dramatically speed up computing applications by harnessing the power of GPUs.
 
