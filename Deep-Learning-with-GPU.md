@@ -13,7 +13,7 @@ Environment:
 <tr>
 <th>Tensorflow</th>
 <td>2.4.1</td>
-<td>&nbsp;&nbsp;✓</td>
+<td>Driver>=450.36</td>
 </tr>
 </table>
 
