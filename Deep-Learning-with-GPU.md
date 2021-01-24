@@ -15,7 +15,7 @@ Environment:
 Tensorflow
 </td>
 <td>2.4.1</td>
-<td>
+<td>✓</td>
 </tr>
 </table>
 
