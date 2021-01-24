@@ -17,13 +17,30 @@ Environment:
 </tr>
 </table>
 
-```
-* Tensorflow-GPU
-* GTX 1080Ti
-* Ubuntu 18.04
-```
+## Tested Recipes
 
-## Ubuntu 18.04 (CUDA 11.0)
+<table>
+<tr>
+  <th>ID</th>
+  <th>Ubuntu</th>
+  <th>Card</th>
+  <th>Tensorflow</th>
+  <th>NVIDIA Driver</th>
+  <th>CUDA</th>
+  <th>cuDNN</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>18.04</td>
+  <td>GTX 1080Ti</td>
+  <td>2.4.1</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
+
+## Recipe 1
 
 TBD
 
