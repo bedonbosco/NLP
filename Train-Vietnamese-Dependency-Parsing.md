@@ -35,10 +35,12 @@ Model parameters
 <td>LSTM</td>
 <td>Encoder</td>
 <td>
+n_lstm_hidden<br/>
 n_lstm_layers<br/>
 lstm_dropout
 </td>
 <td>
+400<br/>
 3<br/>
 0.33
 </td>
