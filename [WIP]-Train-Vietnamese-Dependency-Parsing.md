@@ -1,10 +1,4 @@
-In this work, we build a Vietnamese Dependency Parser using Biaffine Attention in a graph-based dependency parser.
-
-### Training Data
-
-VLSP 2020 Dataset
-
-Train: 8151 sentences, Test: 1122 sentences
+In this work, we build a Vietnamese Dependency Parser using Biaffine Attention in a graph-based dependency parser on VLSP 2020 Dependency Parsing dataset.
 
 ### Models Description
 
@@ -75,6 +69,12 @@ Training Parameters
 </table>
 
 Choose batch_size (5000) right help us alots
+
+### Training Data
+
+VLSP 2020 Dataset
+
+Train: 8151 sentences, Test: 1122 sentences
 
 ### Notes
 
