@@ -1,3 +1,5 @@
+In this work, we build a Vietnamese Dependency Parser using Biaffine Attention in a graph-based dependency parser.
+
 ### Training Data
 
 VLSP 2020 Dataset
