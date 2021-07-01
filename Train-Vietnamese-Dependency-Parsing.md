@@ -6,6 +6,8 @@ Train: 8151 sentences, Test: 1122 sentences
 
 ### Models Description
 
+![download](https://user-images.githubusercontent.com/1780281/124057936-99f3d780-da52-11eb-844b-821c555186ec.png)
+
 **Input vectors**
 
 The *i*th input vector is composed of two parts: the word embedding and the CharLSTM word representation vector of w_i
