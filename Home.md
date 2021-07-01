@@ -20,5 +20,4 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 * [Các kết quả tốt nhất trong những bài toán xử lý ngôn ngữ tự nhiên tiếng Việt](https://github.com/undertheseanlp/NLP-Vietnamese-progress)
 
 ## Works
-
-* [WIP] Train Vietnamese Dependency Parsing
+* [WIP: Train Vietnamese Dependency Parsing](https://github.com/undertheseanlp/underthesea/wiki/%5BWIP%5D-Train-Vietnamese-Dependency-Parsing)
