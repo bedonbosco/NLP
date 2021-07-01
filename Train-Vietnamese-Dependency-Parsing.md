@@ -16,11 +16,47 @@ The ![](https://latex.codecogs.com/gif.latex?ith) input vector is composed of tw
 
 **Parameter settings**
 
+Model parameters
+
 <table>
-<tr><td>abc</td></tr>
+<tr>
+<th></th>
+<th>Component</th>
+<th>Hyper-Parameter</th>
+<th>Value</th>
+</tr>
+<tr>
+<td>Embedding</td>
+<td>BERT</td>
+<td>dimension</td>
+<td>768</td>
+</tr>
+<tr>
+<td>LSTM</td>
+<td>Encoder</td>
+<td>
+n_lstm_layers<br/>
+lstm_dropout
+</td>
+<td>
+3<br/>
+0.33
+</td>
+</tr>
 </table>
 
+Training Parameters
 
+<table>
+<tr>
+<th>Hyper-Parameter</th>
+<th>Value</th>
+</tr>
+<tr>
+<td>optimizer</td>
+<td>Adam</td>
+</tr>
+</table>
 
 Choose batch_size (5000) right help us alots
 
