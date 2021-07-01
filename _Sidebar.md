@@ -1,1 +1,1 @@
-* Home
+* [Home](https://github.com/undertheseanlp/underthesea/wiki)
