@@ -28,8 +28,14 @@ Model parameters
 <tr>
 <td>Embedding</td>
 <td>BERT</td>
-<td>dimension</td>
-<td>768</td>
+<td>
+n_bert_layers<br/>
+dimension
+</td>
+<td>
+4<br/>
+768
+</td>
 </tr>
 <tr>
 <td>LSTM</td>
