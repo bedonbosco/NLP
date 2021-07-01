@@ -14,6 +14,12 @@ The ![](https://latex.codecogs.com/gif.latex?ith) input vector is composed of tw
 
 ![](http://mathurl.com/render.cgi?e_i%20%3D%20emb%28w_i%29%20%5Coplus%20CharLSTM%28w_i%29%5Cnocache)
 
+**Biaffine Attention Mechanism**
+
+Compute the score of a dependency ![](https://latex.codecogs.com/gif.latex?i%20%5Cto%20j) via biaffine attention:
+
+![](https://latex.codecogs.com/gif.latex?s%28i%2C%20j%29%20%3D%20%5Cbegin%7Bbmatrix%7D%20r_j%5Em%20%5C%5C%201%20%5Cend%7Bbmatrix%7D%5E%7BT%7D%20W%5E%7Bbiaffine%7D%20r_i%5Eh)
+
 **Parameter settings**
 
 Model parameters
