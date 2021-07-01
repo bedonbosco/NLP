@@ -10,14 +10,20 @@ Train: 8151 sentences, Test: 1122 sentences
 
 **Input vectors**
 
-The *i*th input vector is composed of two parts: the word embedding and the CharLSTM word representation vector of w_i
+The ![](https://latex.codecogs.com/gif.latex?ith) input vector is composed of two parts: the word embedding and the CharLSTM word representation vector of ![](https://latex.codecogs.com/gif.latex?w_i)
 
 ![](http://mathurl.com/render.cgi?e_i%20%3D%20emb%28w_i%29%20%5Coplus%20CharLSTM%28w_i%29%5Cnocache)
 
-Our models:
+**Parameter settings**
+
+<table>
+<tr><td>abc</td></tr>
+</table>
 
 
 
 Choose batch_size (5000) right help us alots
 
-Using wandb logs is very handful. We can easily watch logs, loss graph with nearly zero setup
+### Notes
+
+* Using wandb logs is very handful. We can easily watch logs, loss graph with nearly zero setup
