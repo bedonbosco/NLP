@@ -12,6 +12,16 @@
 <th>Sentiment</td>
 </tr>
 <tr>
+<td>v1.3.2</td>
+<td>●</td>
+<td>●</td>
+<td>●</td>
+<td>❆</td>
+<td>●</td>
+<td>●</td>
+<td>●</td>
+</tr>
+<tr>
 <td>v1.3.0</td>
 <td>●</td>
 <td>●</td>
