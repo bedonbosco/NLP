@@ -9,7 +9,11 @@ Sử dụng chuẩn hóa NFC
 * `hoà` -> `hòa`
 * `uý` -> `úy`
 
+## Capitalization
 
+* UPPER CASE
+* lower case
+* Title Case
 
 ## Tham khảo
 
