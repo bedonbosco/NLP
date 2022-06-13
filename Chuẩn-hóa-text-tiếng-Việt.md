@@ -1,5 +1,9 @@
 # Các bước chuẩn hóa 
 
+## Unicode Normalization
+
+Sử dụng chuẩn hóa NFC
+
 ## Chuẩn hóa dấu câu
 
 `hoà` -> `hòa`
