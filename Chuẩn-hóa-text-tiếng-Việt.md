@@ -7,6 +7,7 @@ Sử dụng chuẩn hóa NFC
 ## Chuẩn hóa dấu câu
 
 `hoà` -> `hòa`
+`uý` -> `úy`
 
 
 
