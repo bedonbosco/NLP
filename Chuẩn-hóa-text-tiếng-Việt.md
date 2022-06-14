@@ -5,6 +5,7 @@
 Sử dụng chuẩn hóa NFC
 
 ## Chuẩn hóa dấu câu
+Diacritics (accent marks) normalization
 
 * `hoà` -> `hòa`
 * `uý` -> `úy`
