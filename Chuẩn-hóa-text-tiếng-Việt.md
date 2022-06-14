@@ -15,6 +15,10 @@ Sử dụng chuẩn hóa NFC
 * lower case
 * Title Case
 
+## Chuẩn hóa chính tả
+
+* i ngắn, y dài: `đột quị` -> `đột quỵ`
+
 ## Tham khảo
 
 * https://nguyenvanhieu.vn/xu-ly-tieng-viet-trong-python/
