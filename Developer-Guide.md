@@ -42,3 +42,4 @@ For development and maintaince underthesea, we are using the following tools
 * Anaconda (conda 4.9.2)
 * Python (3.8), Rust
 * Docker ([Playground](https://labs.play-with-docker.com/))
+* Rust ([poetry](https://github.com/poem-web/poem) 1.1.14, [maturin](https://github.com/PyO3/maturin) 0.9.4)
