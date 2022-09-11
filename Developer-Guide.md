@@ -37,5 +37,6 @@ $ chmod u+x .git/hooks/pre-commit
 For development and maintaince underthesea, We are using the following tools
 
 * Pycharm Community Edition
-* Anaconda 
+* Anaconda (conda 4.9.2)
 * Git (Github, Github Actions)
+* Mac (Mac OS Monterey 12.4), Ubuntu (20.04)
