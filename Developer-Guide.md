@@ -41,3 +41,4 @@ For development and maintaince underthesea, we are using the following tools
 * Mac (Mac OS Monterey 12.4), Ubuntu (20.04)
 * Anaconda (conda 4.9.2)
 * Python (3.8), Rust
+* Docker ([Playground](https://labs.play-with-docker.com/))
