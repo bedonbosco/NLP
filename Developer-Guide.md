@@ -40,3 +40,4 @@ For development and maintaince underthesea, we are using the following tools
 * Anaconda (conda 4.9.2)
 * Git (Github, Github Actions)
 * Mac (Mac OS Monterey 12.4), Ubuntu (20.04)
+* Python (3.8), Rust
