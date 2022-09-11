@@ -34,7 +34,7 @@ $ chmod u+x .git/hooks/pre-commit
 
 ## Tools 
 
-For development and maintaince underthesea, We are using the following tools
+For development and maintaince underthesea, we are using the following tools
 
 * Pycharm Community Edition
 * Anaconda (conda 4.9.2)
