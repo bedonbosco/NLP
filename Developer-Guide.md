@@ -31,3 +31,11 @@ python build.py
 ```
 $ chmod u+x .git/hooks/pre-commit
 ```
+
+## Tools 
+
+For development and maintaince underthesea, We are using the following tools
+
+* Pycharm Community Edition
+* Anaconda 
+* Git (Github, Github Actions)
