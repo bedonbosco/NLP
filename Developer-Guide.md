@@ -38,8 +38,10 @@ For development and maintaince underthesea, we are using the following tools
 
 * Git (Github, Github Actions)
 * Pycharm 2022.2.1 (Community Edition)
-* Mac (Mac OS Monterey 12.4), Ubuntu (20.04)
+* Mac (Mac OS Monterey 12.4), Ubuntu (18.04, 20.04)
 * Anaconda (conda 4.9.2)
-* Python (3.8), Rust
+* Python (3.8)
 * Docker ([Playground](https://labs.play-with-docker.com/))
 * Rust ([poetry](https://github.com/poem-web/poem) 1.1.14, [maturin](https://github.com/PyO3/maturin) 0.9.4)
+
+Thanks for all awesome creators and maintainers.
