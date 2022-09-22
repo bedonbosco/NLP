@@ -18,6 +18,8 @@ echo 'Run pylint'
 pylint ./underthesea/utils/vietnamese_ipa.py --fail-under 9
 ```
 
+We're in the processing of applying `black` and `pylint`. A lot of works must be done for fully migrations.
+
 * Step 2: Change permission 
 
 ```
