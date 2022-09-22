@@ -2,14 +2,22 @@
 
 ### Setup development environment
 
-Setup pre-commit hooks for running flake8 before commit
+Setup pre-commit hooks for running `flake8`, `black` and `pylint` before commit
 
 * Step 1: Edit your `underthesea/.git/hooks/pre-commit` file 
 
 ```
 echo 'Run Flake8'
 flake8 --max-complexity 10 --ignore E501,W504,W605 .
+echo 'Run Black'
+black underthesea/utils/vietnamese_ipa.py
+black underthesea/utils/vietnamese_ipa_rules.py
+black --check underthesea/utils/vietnamese_ipa.py
+black --check underthesea/utils/vietnamese_ipa_rules.py
+echo 'Run pylint'
+pylint ./underthesea/utils/vietnamese_ipa.py --fail-under 9
 ```
+
 * Step 2: Change permission 
 
 ```
