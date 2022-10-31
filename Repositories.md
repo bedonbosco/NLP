@@ -36,7 +36,7 @@
     <td>
       Dropbox
     </td>
-    <td>2017-08-04</td>
+    <td>2017-05-30</td>
     <td>8</td>
     <td>Deprecating</td>
   </tr>
