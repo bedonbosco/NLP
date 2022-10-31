@@ -22,6 +22,14 @@ Pytorch versions
 | 1.12      | 1.12.1          | 2022-06-28   |                   |
 | 1.13      | 1.13.0          | 2022-10-28   |                   |
 
+Tensorflow versions
+
+| tensorflow   | Lastest Version | Release Date | End of support    |
+|--------------|-----------------|--------------|-------------------|
+| 2.10         | 2.10.0          | 2022-09-07   |                   |
+| 2.9          | 2.9.2           | 2022-05-17   |                   |
+| 2.8          | 2.8.3           | 2022-02-02   |                   |
+
 Transformers versions
 
 | transformers | Lastest Version | Release Date | End of support    |
