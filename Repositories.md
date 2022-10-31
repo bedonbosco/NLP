@@ -34,6 +34,14 @@
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/undertheseanlp/resources">Resources Repo</a>
+    </td>
+    <td>2021-05-03</td>
+    <td>4</td>
+    <td>Deprecating</td>
+  </tr>
+  <tr>
+    <td>
       Dropbox
     </td>
     <td>2017-05-30</td>
