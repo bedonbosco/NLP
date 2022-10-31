@@ -32,5 +32,13 @@
     <td>4</td>
     <td>Deprecating</td>
   </tr>
+  <tr>
+    <td>
+      Dropbox
+    </td>
+    <td>2017-08-04</td>
+    <td>8</td>
+    <td>Deprecating</td>
+  </tr>
 </tbody>
 </table>
