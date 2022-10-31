@@ -32,9 +32,9 @@ Transformers versions
 
 Google Colab
 
-| Date           | Python    |
-|----------------|-----------|
-| 2022-10-28     | 3.7       |
+| Date           | Default Python Version   |
+|----------------|--------------------------|
+| 2022-10-28     | 3.7                      |
 
 
 # References
