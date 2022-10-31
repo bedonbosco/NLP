@@ -52,3 +52,4 @@ Google Colab
 * https://en.wikipedia.org/wiki/History_of_Python
 * https://github.com/pytorch/pytorch/releases
 * https://github.com/huggingface/transformers/releases
+* https://github.com/tensorflow/tensorflow/releases
