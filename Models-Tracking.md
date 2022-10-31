@@ -3,6 +3,7 @@
 <table>
 <tr>
 <th>Version</th>
+<th>Normalize</td>
 <th>WS</td>
 <th>POS</td>
 <th>Chunk</td>
@@ -12,7 +13,19 @@
 <th>Sentiment</td>
 </tr>
 <tr>
+<td>v1.3.5</td>
+<td>●</td>
+<td>●</td>
+<td>●</td>
+<td>●</td>
+<td>❆</td>
+<td>●</td>
+<td>●</td>
+<td>●</td>
+</tr>
+<tr>
 <td>v1.3.4</td>
+<td></td>
 <td>●</td>
 <td>●</td>
 <td>●</td>
@@ -23,6 +36,7 @@
 </tr>
 <tr>
 <td>v1.3.3</td>
+<td></td>
 <td>●</td>
 <td>●</td>
 <td>●</td>
@@ -32,6 +46,7 @@
 <td>●</td>
 </tr>
 <td>v1.3.2</td>
+<td></td>
 <td>●</td>
 <td>●</td>
 <td>●</td>
@@ -42,6 +57,7 @@
 </tr>
 <tr>
 <td>v1.3.0</td>
+<td></td>
 <td>●</td>
 <td>●</td>
 <td>●</td>
