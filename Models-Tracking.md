@@ -81,4 +81,4 @@
 Notes:
 
 * ❆: `neural model`
-* ●: `non-neural model`
+* ●: `traditional (non-neural) model`
