@@ -22,6 +22,14 @@ Pytorch versions
 | 1.12      | 1.12.1          | 2022-06-28   |                   |
 | 1.13      | 1.13.0          | 2022-10-28   |                   |
 
+Transformers versions
+
+| transformers | Lastest Version | Release Date | End of support    |
+|--------------|-----------------|--------------|-------------------|
+| 4.23         | 4.23.1          | 2022-10-11   |                   |
+| 4.22         | 4.22.2          | 2022-09-15   |                   |
+| 3.5          | 3.5.1           | 2020-11-10   |                   |
+
 Google Colab
 
 | Date           | Python    |
@@ -33,4 +41,4 @@ Google Colab
 
 * https://en.wikipedia.org/wiki/History_of_Python
 * https://github.com/pytorch/pytorch/releases
-
+* https://github.com/huggingface/transformers/releases
