@@ -67,6 +67,7 @@
 <td>●</td>
 </tr>
 <td>v1.2.3</td>
+<td></td>
 <td>●</td>
 <td>●</td>
 <td>●</td>
