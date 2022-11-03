@@ -12,6 +12,7 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 * [Models Tracking](https://github.com/undertheseanlp/underthesea/wiki/Models-Tracking)
 * [Dependencies](https://github.com/undertheseanlp/underthesea/wiki/Dependencies)
 * [Repositories](https://github.com/undertheseanlp/underthesea/wiki/Repositories)
+* [Stats](https://github.com/undertheseanlp/underthesea/wiki/Stats)
 * [Quy tắc đặt tên file model và dataset](https://github.com/undertheseanlp/underthesea/wiki/Quy-t%E1%BA%AFc-%C4%91%E1%BA%B7t-t%C3%AAn-file-model-v%C3%A0-dataset)
 * [Deep Learning with GPU](deep-learning-with-gpu)
 
