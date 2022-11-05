@@ -9,7 +9,7 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 * [Câu chuyện của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
 * [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
 * [Developer Guide](https://github.com/undertheseanlp/underthesea/wiki/Developer-Guide)
-* [Models Tracking](https://github.com/undertheseanlp/underthesea/wiki/Models-Tracking)
+* [Features](https://github.com/undertheseanlp/underthesea/wiki/Features)
 * [Dependencies](https://github.com/undertheseanlp/underthesea/wiki/Dependencies)
 * [Repositories](https://github.com/undertheseanlp/underthesea/wiki/Repositories)
 * [Stats](https://github.com/undertheseanlp/underthesea/wiki/Stats)
