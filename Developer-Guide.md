@@ -26,7 +26,7 @@ We're in the processing of applying `black` and `pylint`. A lot of works must be
 $ chmod u+x .git/hooks/pre-commit
 ```
 
-## Resources Project
+## Resources Project (Deprecating)
 
 Always build before commit
 
