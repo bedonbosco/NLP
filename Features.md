@@ -91,9 +91,9 @@
 
 Notes:
 
-Note 1: Norm -> Text normalize, Dep -> dependency parsing, Senti -> Sentiment Analysis
+* Norm -> Text normalize, Dep -> dependency parsing, Senti -> Sentiment Analysis
 
-Note 2
+Model Type
 
 * ❆: `neural model`
 * ●: `traditional (non-neural) model`
