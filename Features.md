@@ -3,14 +3,14 @@
 <table>
 <tr>
 <th>Version</th>
-<th>Normalize</td>
+<th>Norm</td>
 <th>WS</td>
 <th>POS</td>
 <th>Chunk</td>
-<th>Dependency</td>
+<th>Dep</td>
 <th>NER</td>
 <th>Classify</td>
-<th>Sentiment</td>
+<th>Senti</td>
 </tr>
 <tr>
 <td>v1.4.0a2</td>
@@ -90,6 +90,10 @@
 </table>
 
 Notes:
+
+Note 1: Norm -> Text normalize, Dep -> dependency parsing, Senti -> Sentiment Analysis
+
+Note 2
 
 * ❆: `neural model`
 * ●: `traditional (non-neural) model`
