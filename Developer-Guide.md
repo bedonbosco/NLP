@@ -57,5 +57,6 @@ For development and maintaince underthesea, we are using the following tools:
 Technologies for [Apps](https://github.com/undertheseanlp/underthesea/tree/main/apps)
 
 * Django 3.2.16
+* Bootstrap 3.3, Angular 1.6.5
 
 Thanks for all awesome creators and maintainers.
