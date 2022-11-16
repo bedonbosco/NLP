@@ -54,4 +54,8 @@ For development and maintaince underthesea, we are using the following tools:
 * Docker ([Playground](https://labs.play-with-docker.com/))
 * Rust ([poetry](https://github.com/poem-web/poem) 1.1.14, [maturin](https://github.com/PyO3/maturin) 0.9.4)
 
+Technologies for [Apps](https://github.com/undertheseanlp/underthesea/tree/main/apps)
+
+* Django 3.2.16
+
 Thanks for all awesome creators and maintainers.
