@@ -13,7 +13,7 @@
 <th>Senti</td>
 </tr>
 <tr>
-<td>v1.4.0a2</td>
+<td>v1.4.0a3</td>
 <td>●</td>
 <td>●</td>
 <td>●</td>
