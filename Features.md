@@ -3,13 +3,13 @@
 <table>
 <tr>
 <th>Version</th>
-<th>Norm</td>
+<th>NORM</td>
 <th>WS</td>
 <th>POS</td>
 <th>Chunk</td>
-<th>Dep</td>
+<th>DEP</td>
 <th>NER</td>
-<th>Classify</td>
+<th>CLS</td>
 <th>Senti</td>
 <th>IPA</td>
 </tr>
@@ -101,6 +101,7 @@
 
 * NORM: `Text normalize`
 * DEP:  `Dependency Parsing`
+* CLS: `Classify`
 * SENTI: `Sentiment Analysis`
 
 Model Type
