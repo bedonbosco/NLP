@@ -97,9 +97,11 @@
 </tr>
 </table>
 
-Notes:
+**Tasks**:
 
-* Norm -> Text normalize, Dep -> dependency parsing, Senti -> Sentiment Analysis
+* NORM: `Text normalize`
+* DEP:  `Dependency Parsing`
+* SENTI: `Sentiment Analysis`
 
 Model Type
 
