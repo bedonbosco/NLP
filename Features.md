@@ -23,6 +23,7 @@
 <td>●❆</td>
 <td>●</td>
 <td>●</td>
+<td>●</td>
 </tr>
 <tr>
 <td>v1.3.5</td>
@@ -34,6 +35,7 @@
 <td>●</td>
 <td>●</td>
 <td>●</td>
+<td></td>
 </tr>
 <tr>
 <td>v1.3.4</td>
@@ -45,6 +47,7 @@
 <td>●</td>
 <td>●</td>
 <td>●</td>
+<td></td>
 </tr>
 <tr>
 <td>v1.3.3</td>
@@ -56,6 +59,7 @@
 <td>●</td>
 <td>●</td>
 <td>●</td>
+<td></td>
 </tr>
 <td>v1.3.2</td>
 <td></td>
@@ -66,6 +70,7 @@
 <td>●</td>
 <td>●</td>
 <td>●</td>
+<td></td>
 </tr>
 <tr>
 <td>v1.3.0</td>
@@ -77,6 +82,7 @@
 <td>●</td>
 <td>●</td>
 <td>●</td>
+<td></td>
 </tr>
 <td>v1.2.3</td>
 <td></td>
@@ -87,6 +93,7 @@
 <td>●</td>
 <td>●</td>
 <td>●</td>
+<td></td>
 </tr>
 </table>
 
