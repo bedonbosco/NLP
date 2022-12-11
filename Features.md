@@ -11,9 +11,10 @@
 <th>NER</td>
 <th>Classify</td>
 <th>Senti</td>
+<th>IPA</td>
 </tr>
 <tr>
-<td>v1.4.0a3</td>
+<td>v1.4.0</td>
 <td>●</td>
 <td>●</td>
 <td>●</td>
