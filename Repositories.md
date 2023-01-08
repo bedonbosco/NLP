@@ -13,7 +13,7 @@
       <a href="https://github.com/undertheseanlp/underthesea/releases/tag/resources">Resources</a>
     </td>
     <td>2020-11-29</td>
-    <td>7</td>
+    <td>8</td>
     <td>Active</td>
   </tr>
   <tr>
