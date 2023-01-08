@@ -45,6 +45,10 @@ Ví dụ:
 - Không nên: VLSP2016-NER, VLSP2016-SA-RESTAURANT
 ```
 
+Các dataset hiện tại
+
+* `CP_Vietnamese_VLC_v2_2022`
+
 # Ghi chú 
 
 Tham khảo 
