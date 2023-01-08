@@ -30,7 +30,7 @@
     </td>
     <td>2021-08-04</td>
     <td>4</td>
-    <td>_Deprecating_</td>
+    <td><i>Deprecating</i></td>
   </tr>
   <tr>
     <td>
@@ -38,7 +38,7 @@
     </td>
     <td>2021-05-03</td>
     <td>4</td>
-    <td>_Deprecating_</td>
+    <td><i>Deprecating</i></td>
   </tr>
   <tr>
     <td>
@@ -46,7 +46,7 @@
     </td>
     <td>2017-05-30</td>
     <td>20</td>
-    <td>_Deprecating_</td>
+    <td><i>Deprecating</i></td>
   </tr>
 </tbody>
 </table>
