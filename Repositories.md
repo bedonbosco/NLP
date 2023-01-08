@@ -14,7 +14,7 @@
     </td>
     <td>2020-11-29</td>
     <td>8</td>
-    <td>Active</td>
+    <td><b>Active</b></td>
   </tr>
   <tr>
     <td>
@@ -22,7 +22,7 @@
     </td>
     <td>2022-08-21</td>
     <td>5000+</td>
-    <td>Active</td>
+    <td><b>Active</b></td>
   </tr>
   <tr>
     <td>
