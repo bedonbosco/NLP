@@ -37,7 +37,7 @@
       <a href="https://github.com/undertheseanlp/resources">Resources Repo</a>
     </td>
     <td>2021-05-03</td>
-    <td>4</td>
+    <td>3</td>
     <td><i>Deprecating</i></td>
   </tr>
   <tr>
