@@ -45,7 +45,7 @@
       Dropbox
     </td>
     <td>2017-05-30</td>
-    <td>20 (4)</td>
+    <td>16 (0)</td>
     <td><i>Deprecating</i></td>
   </tr>
 </tbody>
