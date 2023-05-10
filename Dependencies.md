@@ -58,8 +58,9 @@ Google Colab
 
 | Date           | Default Python Version   |
 |----------------|--------------------------|
-| 2023-05-10     | 3.10                     |
-| 2023-02-26     | 3.8                      |
+| 2023-04-27     | 3.10                     |
+| 2023-03-08     | 3.9                      |
+| 2023-11-30     | 3.8                      |
 | 2022-10-28     | 3.7                      |
 
 
@@ -71,3 +72,4 @@ Google Colab
 * https://github.com/huggingface/transformers/releases
 * https://github.com/tensorflow/tensorflow/releases
 * https://github.com/rust-lang/rust/releases
+* https://medium.com/google-colab
