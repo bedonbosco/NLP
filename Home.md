@@ -1,6 +1,6 @@
 # Underthesea Wiki
 
-Underthesea is a research and development group focusing on natural language processing for the Vietnamese language. Established in March 2017, after a year and a half of formation and development, underthesea has undertaken more than 30 projects and has 7 official members. They successfully organized a seminar at the University of Technology, Ho Chi Minh City in April 2018, and a meetup in October 2018.
+Underthesea is a research and development group focusing on natural language processing for the Vietnamese language. Established in March 2017, after a year and a half of formation and development, underthesea has undertaken more than 30 projects and has 7 official members.
 
 Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 
