@@ -1,26 +1,22 @@
 # Underthesea Wiki
 
-Underthesea là nhóm nghiên cứu và phát triển về xử lý ngôn ngữ tự nhiên tiếng Việt. Được thành lập vào tháng 3 năm 2017, sau một năm rưỡi hình thành và phát triển, underthesea đã có hơn [30 dự án](https://github.com/undertheseanlp) và [7 thành viên chính thức](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-thành-viên). Underthesea đã tổ chức thành công một buổi seminar tại trường đại học Bách Khoa vào tháng 04 năm 2018 và một buổi meetup vào tháng 10 năm 2018. Để biết thêm các thông tin về underthesea, mời bạn đọc [Câu chuyện của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea).
+Underthesea is a research and development group focusing on natural language processing for the Vietnamese language. Established in March 2017, after a year and a half of formation and development, underthesea has undertaken more than 30 projects and has 7 official members. They successfully organized a seminar at the University of Technology, Ho Chi Minh City in April 2018, and a meetup in October 2018.
 
 Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 
-## Các liên kết hữu ích
+## Documents
 
-* [Câu chuyện của underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
-* [Danh sách dự án](https://github.com/undertheseanlp/underthesea/wiki/Danh-sách-dự-án)
+* [Story of Underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
 * [Developer Guide](https://github.com/undertheseanlp/underthesea/wiki/Developer-Guide)
 * [Features](https://github.com/undertheseanlp/underthesea/wiki/Features)
 * [Dependencies](https://github.com/undertheseanlp/underthesea/wiki/Dependencies)
 * [Repositories](https://github.com/undertheseanlp/underthesea/wiki/Repositories)
 * [Stats](https://github.com/undertheseanlp/underthesea/wiki/Stats)
-* [Quy tắc đặt tên file model và dataset](https://github.com/undertheseanlp/underthesea/wiki/Quy-t%E1%BA%AFc-%C4%91%E1%BA%B7t-t%C3%AAn-file-model-v%C3%A0-dataset)
+* [Model and Dataset Naming Convention](https://github.com/undertheseanlp/underthesea/wiki/Quy-t%E1%BA%AFc-%C4%91%E1%BA%B7t-t%C3%AAn-file-model-v%C3%A0-dataset)
 * [Deep Learning with GPU](deep-learning-with-gpu)
 
-## Các câu hỏi thường gặp
+## FAQs
 
 * [Xử lý ngôn ngữ tự nhiên là gì?](https://drive.google.com/file/d/152-XDtZ8mi9wET4jyDV3kg8PLome_zXK/view?usp=sharing)
 * [Học NLP nên bắt đầu từ đâu?](https://github.com/undertheseanlp/underthesea/wiki/Học-NLP-nên-bắt-đầu-từ-đâu%3F)
 * [Các kết quả tốt nhất trong những bài toán xử lý ngôn ngữ tự nhiên tiếng Việt](https://github.com/undertheseanlp/NLP-Vietnamese-progress)
-
-## Works
-* [WIP: Train Vietnamese Dependency Parsing](https://github.com/undertheseanlp/underthesea/wiki/%5BWIP%5D-Train-Vietnamese-Dependency-Parsing)
