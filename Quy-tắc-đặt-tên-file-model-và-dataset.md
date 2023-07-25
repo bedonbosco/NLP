@@ -1,6 +1,6 @@
 # 1. Đặt tên file model 
 
-Đề xuất đặt tên theo `task-id_model-name_timestamp`
+Đề xuất đặt tên theo `(task_id)_(model_name)_timestamp`
 
 Ví dụ:
 
