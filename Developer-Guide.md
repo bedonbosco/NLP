@@ -42,6 +42,18 @@ python build.py
 $ chmod u+x .git/hooks/pre-commit
 ```
 
+### Working with Datasets
+
+Step 1: First, install [git-lfs](https://git-lfs.com/) (before submodule init)
+
+Step 2: Initialize submodules
+
+```
+git submodule update --init --recursive
+```
+
+Step 3: Go to `datasets` folder to access and mangage datasets
+
 ## Tools 
 
 For development and maintaince underthesea, we are using the following tools:
