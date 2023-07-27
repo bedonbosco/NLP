@@ -42,6 +42,11 @@ python build.py
 $ chmod u+x .git/hooks/pre-commit
 ```
 
+### Coding Convention
+
+- **Linting Tool**: We use `flake8` to ensure our code adheres to PEP 8 standards and to catch any potential errors.
+- **Documentation Style**: For docstrings, we follow the `Google Style` conventions to maintain clarity and consistency in our code documentation.
+
 ### Working with Datasets
 
 Step 1: First, install [git-lfs](https://git-lfs.com/) (before submodule init)
