@@ -86,4 +86,4 @@ Model Type
 
 * ⟡: `traditional model`
 * ❆: `neural model`
-* ➤: `prompt-based model`
+* ⚡: `prompt-based model`
