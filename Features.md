@@ -19,8 +19,8 @@
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
-<td>❆</td>
-<td>⟡❆</td>
+<td>⚛️</td>
+<td>⟡⚛️</td>
 <td>⟡⚡</td>
 <td>⟡</td>
 <td>⟡</td>
@@ -31,8 +31,8 @@
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
-<td>❆</td>
-<td>⟡❆</td>
+<td>⚛️</td>
+<td>⟡⚛️</td>
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
@@ -43,7 +43,7 @@
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
-<td>❆</td>
+<td>⚛️</td>
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
@@ -55,7 +55,7 @@
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
-<td>❆</td>
+<td>⚛️</td>
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
@@ -67,7 +67,7 @@
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
-<td>❆</td>
+<td>⚛️</td>
 <td>⟡</td>
 <td>⟡</td>
 <td>⟡</td>
@@ -85,5 +85,5 @@
 Model Type
 
 * ⟡: `traditional model`
-* ❆: `neural model`
+* ⚛️: `neural model`
 * ⚡: `prompt-based model`
