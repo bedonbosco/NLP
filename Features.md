@@ -108,3 +108,4 @@ Model Type
 
 * ❆: `neural model`
 * ●: `traditional (non-neural) model`
+* ➤: `prompt-based model`
