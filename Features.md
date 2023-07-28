@@ -85,5 +85,5 @@
 Model Type
 
 * 📜: `traditional model`
-* ⚛️: `neural model`
+* ⚛️: `deep learning model`
 * ⚡: `prompt-based model`
