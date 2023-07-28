@@ -107,6 +107,6 @@
 
 Model Type
 
-* ⟡: `traditional (non-neural) model`
+* ⟡: `traditional model`
 * ❆: `neural model`
 * ➤: `prompt-based model`
