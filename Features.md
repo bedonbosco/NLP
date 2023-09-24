@@ -10,7 +10,7 @@
 <th>DEP</td>
 <th>NER</td>
 <th>CLS</td>
-<th>Senti</td>
+<th>SA</td>
 <th>IPA</td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@
 * NORM: `Text normalize`
 * DEP:  `Dependency Parsing`
 * CLS: `Classify`
-* SENTI: `Sentiment Analysis`
+* SA: `Sentiment Analysis`
 
 Model Type
 
