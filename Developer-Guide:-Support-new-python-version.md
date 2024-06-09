@@ -7,10 +7,16 @@ graph LR
     B --> C[Build Underthesea]
 ```
 
-## Build Image
+## Step 1: Build Image
 
-## Build Underthesea Core
+First, create a CentOS image with Rust and Python environments. This image will be used to build Underthesea Core in Step 2.
 
-## Build Underthesea
+## Step 2: Build Underthesea Core
 
-[Github Run Ons](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#choosing-github-hosted-runners)
+Build the Underthesea Core using the previously created CentOS image.
+
+## Step 3: Build Underthesea
+
+Finally, build Underthesea.
+
+For more details, refer to the [GitHub Actions Documentation](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#choosing-github-hosted-runners).
