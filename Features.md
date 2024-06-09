@@ -64,6 +64,7 @@
 <td>📜</td>
 <td>📜</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>v1.3.4</td>
