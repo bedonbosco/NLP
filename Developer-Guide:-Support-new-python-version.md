@@ -27,7 +27,7 @@ graph LR
     end
 ```
 
-First, create a CentOS image with Rust and Python environments. This image will be used to build Underthesea Core in Step 2.
+First, update [`build_rust`](https://github.com/undertheseanlp/underthesea/pkgs/container/underthesea%2Fbuild_rust) package  (base on CentOS) with Rust and Python environments. This image will be used to build Underthesea Core in Step 2.
 
 ## Step 2: Build Underthesea Core
 
