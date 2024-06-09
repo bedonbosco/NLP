@@ -25,7 +25,7 @@
 <td>📜⚡</td>
 <td>📜</td>
 <td>📜</td>
-<td></td>
+<td>⚛️</td>
 </tr>
 <tr>
 <td>v6.7.0</td>
