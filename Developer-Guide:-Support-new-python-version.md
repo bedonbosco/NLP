@@ -9,6 +9,9 @@ graph LR
 
 ## Step 1: Build Image
 
+```mermaid
+```
+
 First, create a CentOS image with Rust and Python environments. This image will be used to build Underthesea Core in Step 2.
 
 ## Step 2: Build Underthesea Core
