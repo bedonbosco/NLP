@@ -29,9 +29,13 @@ graph LR
 
 First, update [`build_rust`](https://github.com/undertheseanlp/underthesea/pkgs/container/underthesea%2Fbuild_rust) package  (base on CentOS) with Rust and Python environments. This image will be used to build Underthesea Core in Step 2.
 
+Tag your PR with label `docker-build-image` to trigger build flow.
+
 ## Step 2: Build Underthesea Core
 
 Build the Underthesea Core using the previously created CentOS image.
+
+Tag your PR with label `release-pypi-core` to trigger build flow.
 
 ## Step 3: Build Underthesea
 
