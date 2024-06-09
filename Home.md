@@ -11,7 +11,6 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 * [Features](https://github.com/undertheseanlp/underthesea/wiki/Features)
 * [Dependencies](https://github.com/undertheseanlp/underthesea/wiki/Dependencies)
 * [Stats](https://github.com/undertheseanlp/underthesea/wiki/Stats)
-* [Model and Dataset Naming Convention](https://github.com/undertheseanlp/underthesea/wiki/Quy-t%E1%BA%AFc-%C4%91%E1%BA%B7t-t%C3%AAn-file-model-v%C3%A0-dataset)
 * [Deep Learning with GPU](deep-learning-with-gpu)
 
 ## FAQs
