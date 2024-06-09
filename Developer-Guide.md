@@ -81,3 +81,4 @@ Thanks for all awesome creators and maintainers.
 ## More articles
 
 * [Model and Dataset Naming Convention](https://github.com/undertheseanlp/underthesea/wiki/Quy-t%E1%BA%AFc-%C4%91%E1%BA%B7t-t%C3%AAn-file-model-v%C3%A0-dataset)
+* [CI/CD](https://github.com/undertheseanlp/underthesea/wiki/CI-CD)
