@@ -6,7 +6,7 @@ Lead developer: Vu Anh <[anhv.ict91@gmail.com](mailto:anhv.ict91@gmail.com)>
 
 ## Documents
 
-* [Story of Underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
+* [The story of Underthesea](https://github.com/undertheseanlp/underthesea/wiki/Câu-chuyện-của-underthesea)
 * [Developer Guide](https://github.com/undertheseanlp/underthesea/wiki/Developer-Guide)
 * [Features](https://github.com/undertheseanlp/underthesea/wiki/Features)
 * [Dependencies](https://github.com/undertheseanlp/underthesea/wiki/Dependencies)
