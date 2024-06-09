@@ -1,4 +1,4 @@
-Welcome to the [Underthesea](https://github.com/undertheseanlp/underthesea) developer guides. These documents provide comprehensive instructions and resources to help you contribute to the Underthesea project. Whether you're a new contributor or an experienced developer, you'll find valuable information on how to get started, best practices for development, and guidelines for submitting your contributions.
+Welcome to the [Underthesea](https://github.com/undertheseanlp/underthesea) developer guides 🌊. These documents provide comprehensive instructions and resources 📚 to help you contribute to the Underthesea project 🐠. Whether you're a new contributor or an experienced developer, you'll find valuable information on how to get started 🚀, best practices for development 💻, and guidelines for submitting your contributions 📬.
 
 ## Underthesea Project
 
