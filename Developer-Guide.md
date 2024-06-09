@@ -77,3 +77,7 @@ Technologies for [Apps](https://github.com/undertheseanlp/underthesea/tree/main/
 * Bootstrap 3.3, Angular 1.6.5
 
 Thanks for all awesome creators and maintainers.
+
+## More articles
+
+* [Model and Dataset Naming Convention](https://github.com/undertheseanlp/underthesea/wiki/Quy-t%E1%BA%AFc-%C4%91%E1%BA%B7t-t%C3%AAn-file-model-v%C3%A0-dataset)
