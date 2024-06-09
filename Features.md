@@ -12,6 +12,20 @@
 <th>CLS</td>
 <th>SA</td>
 <th>IPA</td>
+<th>LD</td>
+</tr>
+<tr>
+<td>v7.0.0</td>
+<td>📜</td>
+<td>📜</td>
+<td>📜</td>
+<td>📜</td>
+<td>⚛️</td>
+<td>📜⚛️</td>
+<td>📜⚡</td>
+<td>📜</td>
+<td>📜</td>
+<td></td>
 </tr>
 <tr>
 <td>v6.7.0</td>
@@ -24,6 +38,7 @@
 <td>📜⚡</td>
 <td>📜</td>
 <td>📜</td>
+<td></td>
 </tr>
 <tr>
 <td>v1.4.0</td>
@@ -36,6 +51,7 @@
 <td>📜</td>
 <td>📜</td>
 <td>📜</td>
+<td></td>
 </tr>
 <tr>
 <td>v1.3.5</td>
@@ -60,6 +76,7 @@
 <td>📜</td>
 <td>📜</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>v1.3.3</td>
@@ -72,6 +89,7 @@
 <td>📜</td>
 <td>📜</td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
@@ -81,6 +99,7 @@
 * DEP:  `Dependency Parsing`
 * CLS: `Classify`
 * SA: `Sentiment Analysis`
+* LA: `Lang Detect`
 
 Model Type
 
