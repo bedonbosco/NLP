@@ -106,4 +106,4 @@ Model Type
 
 * 📜: `traditional model`
 * ⚛️: `deep learning model`
-* ⚡: `prompt-based model`
+* ⚡: `LLM model`
