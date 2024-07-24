@@ -15,7 +15,7 @@
 <th>LD</td>
 </tr>
 <tr>
-<td>v7.0.0</td>
+<td>v6.8.0</td>
 <td>📜</td>
 <td>📜</td>
 <td>📜</td>
