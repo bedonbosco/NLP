@@ -104,6 +104,6 @@
 
 Model Type
 
-* 📜: `traditional model`
+* 📜: `machine learning model`
 * ⚛️: `deep learning model`
-* ⚡: `LLM model`
+* ⚡: `generative model`
